@@ -5251,6 +5251,1355 @@ Educational travel-aftercare framing only—not medical, aviation, or legal advi
 3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
 4. 21 CFR 1308.11 — Schedule I (ibogaine).
 `,
+  },
+  {
+    slug: "what-to-expect-iv-ibogaine-session",
+    title: "What to Expect From an IV Ibogaine Session (Medical-Model Map)",
+    description:
+      "What to expect from IV ibogaine treatment: screening, cardiac monitoring, session flow, integration. Oral vs IV honesty; no cure claims. Not FDA-approved.",
+    date: "2026-09-06",
+    readTime: "10 min",
+    content: `
+## Definition box
+
+**Definition:** **What to expect from ibogaine treatment**—when the entity is physician-supervised **IV ibogaine infusion**—means understanding a medical infusion journey: confidential consult, cardiac and medication screening, physician go/no-go, **psychoactive intravenous ibogaine** under continuous monitoring, observation, and structured integration afterward. It does **not** mean a guaranteed cure, a spa drip, or a weekend tourism package. **Evidence gap:** Much published human literature still describes **oral** ibogaine HCl (e.g., Knuijver QTc open-label; Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support)—so session expectations for psychoactive IV must not be sold as carbon copies of oral papers. Support IV (fluids/Mg/antiemetics) ≠ psychoactive IV. Ibogaine can prolong QTc. U.S. Schedule I / not FDA-approved. Provisional Mexico programs discussed on this site ≠ FDA/US clinics. No DIY dosing. No cure claims.
+
+## Quotable answer (57 words)
+
+What to expect from IV ibogaine treatment in a medical model: screening, ECG/labs, physician clearance, continuous cardiac monitoring during psychoactive intravenous ibogaine, observation, and integration—not a guaranteed cure. Most published research remains oral-route; QTc risk is real. Unsupervised use is dangerous. Not FDA-approved. Not medical advice.
+
+
+## How to use this page
+
+This is a **process literacy map** for readers asking **what to expect ibogaine treatment** to look like under a physician-supervised IV psychoactive model. Individual programs vary. This is not a promise you will be accepted, not a minute-by-minute protocol, and not outcome assurance.
+
+Entity: /what-is-ibogaine-infusion · Steps: /how-it-works · Safety: /safety-and-screening.
+
+
+## Phase 0 — Before you travel or pay large deposits
+
+Ethical programs separate **inquiry** from **indication**.
+
+Expect questions about:
+
+- Substance-use history and goals (addiction, depression, PTSD interest—without cure promises)  
+- Cardiac history, syncope, family long QT themes  
+- Full medication/supplement list (QT-prolonging agents, CYP2D6 inhibitors, opioids, benzos)  
+- Psychiatric stability and consent capacity  
+- Logistics: who accompanies you; aftercare plan
+
+If a seller demands full payment before ECG language exists, treat that as a red flag (/blog/cheap-ibogaine-clinic-red-flags · /blog/how-to-choose-an-ibogaine-clinic).
+
+Soft entry: /apply after reading safety.
+
+
+## Phase 1 — Screening and go/no-go
+
+Typical medical-model elements (educational themes, not your personal checklist):
+
+1. **ECG** with QTc attention  
+2. **Labs** often including electrolytes (potassium/magnesium themes), and other tests clinicians judge necessary  
+3. **Medication reconciliation** and interaction review (/blog/ibogaine-drug-interactions-qtc · /blog/ibogaine-cyp2d6-metabolism)  
+4. Review of contraindications themes (/blog/ibogaine-contraindications)  
+5. Written route disclosure: **psychoactive IV** vs oral; support IV labeled as support  
+
+Physician may say **no**. That is a feature of ethical care.
+
+ECG literacy: /blog/ibogaine-ecg-checklist.
+
+
+## Phase 2 — Arrival and pre-infusion day(s)
+
+Programs differ in length (/blog/ibogaine-program-duration). Common expectations:
+
+- Repeat vitals / possible repeat ECG  
+- NPO or intake rules as ordered by physicians (follow clinical orders—not internet lists)  
+- Clarifying emergency transfer plan  
+- Setting expectations: nausea, ataxia, intense introspection, long observation—not “instant bliss cure”  
+- Confirming aftercare contacts
+
+Mexico geography honesty: provisional programs discussed here are **not** FDA-approved U.S. clinic care (/blog/ibogaine-mexico-medical-vs-tourism · /blog/is-ibogaine-legal-us).
+
+
+## Phase 3 — The infusion / acute monitoring window
+
+In a true **IV ibogaine infusion** setting, expect:
+
+- Continuous **cardiac monitoring / telemetry culture**  
+- Physician and nursing presence appropriate to psychoactive risk  
+- IV access used for **psychoactive ibogaine** when that is the planned route  
+- Separate labeling if **support** medications (e.g., fluids, magnesium, antiemetics) are also IV—support ≠ the psychoactive dose  
+- Management readiness for adverse effects (see /blog/ibogaine-side-effects)
+
+### What the experience may feel like (non-exhaustive, non-promise)
+
+People commonly report (across ibogaine contexts, often oral-described in literature):
+
+- Strong nausea or vomiting  
+- Ataxia / needing help to walk  
+- Long, intense psychoactive/oneirogenic phases  
+- Emotional material related to trauma, grief, or substance use  
+- Fatigue and needing quiet, low-stimulation care
+
+Individual experiences vary widely. Intensity ≠ efficacy proof. Duration of subjective effects is not a “cure clock.”
+
+
+## Phase 4 — Immediate post-session observation
+
+Expect continued monitoring while QTc/clinical status is watched per physician judgment. Oral literature (Knuijver et al., *Addiction*, 2021) teaches that QTc signals can be clinically relevant after **oral** dosing—reinforcing why observation culture exists for medical-model care even when route differs.
+
+Do not interpret “I feel done” as medical clearance to leave monitoring early.
+
+
+## Phase 5 — Integration and aftercare (non-optional honesty)
+
+Relapse risk, sleep disruption, and mood volatility can appear days to weeks later. Integration is not a luxury upsell—it is part of refusing cure theater.
+
+Read: /blog/ibogaine-aftercare-integration · Condition hubs without cures: /ibogaine-for-addiction · /ibogaine-for-depression · /ibogaine-for-ptsd.
+
+
+## Oral papers vs your IV day (do not confuse them)
+
+| Source | What it is | What it is not |
+|--------|------------|----------------|
+| Knuijver 2021 | Oral HCl open-label QTc teaching | Your personal IV PK profile |
+| Cherian/MISTIC 2024 | Oral + IV Mg, small open-label veterans | Proof your IV session is FDA-validated |
+| Clinic brochure | Marketing | Peer-reviewed outcome label |
+
+Route twin: /blog/ibogaine-oral-vs-iv · MISTIC twin: /blog/stanford-ibogaine-mistic · Support IV twin: /blog/electrolytes-support-iv-vs-psychoactive-iv.
+
+
+## Cost and package expectations (literacy only)
+
+Market-reported cash-pay bands abroad are not invoices. Ask what is included: screening, monitoring, physician coverage, nights of observation, emergency plan, integration hours (/blog/cost-of-ibogaine-treatment · /blog/ibogaine-treatment-package · /blog/does-insurance-cover-ibogaine).
+
+
+
+## Companions, privacy, and consent capacity
+
+Expect programs to ask who is with you, how you will be observed overnight if needed, and whether you can give informed consent without coercion. Family pressure to “be cured by Friday” is a psychosocial risk factor, not a medical indication.
+
+Bring questions from /blog/ibogaine-informed-consent-questions. Refuse programs that punish questions about telemetry, emergency transfer, or route disclosure.
+
+## What “feeling better” mid-session does not mean
+
+Transient calm, catharsis, or nausea ending are **not** surrogate endpoints for durable remission. Do not interpret early subjective relief as permission to skip observation or abandon aftercare. Anti-hype: /blog/ibogaine-cure-rate-claims.
+
+Comparisons people ask on treatment-day Eve:
+
+- vs ketamine clinic UX (journey shape ≠ legal/evidence match): /blog/ibogaine-vs-ketamine-for-addiction  
+- vs rehab containment: /blog/ibogaine-vs-traditional-rehab  
+- vs other psychedelics: /blog/ibogaine-vs-ayahuasca · /blog/ibogaine-vs-5-meo-dmt
+
+## Soft CTA
+
+Start with whether medical criteria and cardiac screening even fit—before packing. Read /safety-and-screening, then request a **confidential screening consult** via /apply. FAQ: /faq · Consent questions: /blog/ibogaine-informed-consent-questions.
+
+
+## FAQ
+
+### What should I expect on ibogaine treatment day?
+In a medical IV model: monitoring, physician supervision, psychoactive intravenous dosing if cleared, observation—not a guaranteed cure.
+
+### Is the psychoactive dose given by IV on this site’s entity?
+Yes—the entity is psychoactive IV ibogaine infusion. Support IV (e.g., magnesium) is separate and must be labeled as support.
+
+### Is published research mostly oral?
+Yes. Controlled evidence for psychoactive IV remains sparse relative to oral observational literature.
+
+### Will I be cured after one session?
+No. No cure/guarantee claims. Relapse can occur.
+
+### Why is cardiac monitoring required?
+Ibogaine can prolong QTc and has arrhythmia concerns in the clinical conversation.
+
+### Are Mexico programs the same as FDA clinics?
+No. Provisional Mexico availability discussed here ≠ FDA-approved U.S. care. Not legal advice.
+
+### How long is a program?
+Varies; duration ≠ cure timeline. See /blog/ibogaine-program-duration.
+
+### Where should I go next?
+/safety-and-screening then /apply.
+
+
+## Medical disclaimer
+
+Educational process map only—not a medical protocol, clearance algorithm, outcome promise, or legal advice. Do not self-administer ibogaine. Seek licensed clinicians. Cardiac events can be life-threatening.
+
+
+## Sources (selected)
+
+1. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC); open-label.  
+2. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; QTc findings.  
+3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
+4. 21 CFR 1308.11 — Schedule I (ibogaine).
+`,
+  },
+  {
+    slug: "ibogaine-and-benzodiazepines",
+    title: "Ibogaine and Benzodiazepines: Educational Warnings (Physician-Owned)",
+    description:
+      "Ibogaine and benzodiazepines: educational taper/warning themes, seizure risk, physician-owned decisions, QTc screening. No DIY. Not FDA-approved.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Ibogaine and benzodiazepines** is a high-risk clinical intersection—not a DIY combo guide. People search whether they can take ibogaine while on Xanax, Klonopin, Valium, Ativan, or during benzo taper/withdrawal. Physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) still requires cardiac screening and continuous monitoring; benzodiazepine dependence adds **withdrawal/seizure** and sedation-complexity themes that belong to licensed clinicians. **Evidence gap:** Most published ibogaine human literature is **oral** observational/open-label; Cherian/MISTIC = **oral** ibogaine + **IV magnesium**—not a benzodiazepine-interaction RCT and not IV-ibogaine proof. This page provides **educational warnings only**—no taper schedules, no stop dates, no milligram conversions. Ibogaine can prolong QTc. U.S. Schedule I / not FDA-approved. Provisional Mexico programs ≠ FDA/US clinics. No DIY dosing. No cure claims.
+
+## Quotable answer (56 words)
+
+Ibogaine plus benzodiazepines is a physician-owned risk problem, not a forum protocol. Abrupt benzo cessation can cause life-threatening withdrawal; ibogaine adds QTc/cardiac monitoring needs. IV ibogaine infusion means supervised intravenous psychoactive ibogaine; most published research is oral-route. No DIY taper charts here. Not FDA-approved. Not medical advice.
+
+
+## Why this page refuses dosing charts on purpose
+
+YMYL rule: **educational taper/warning themes**, physician-owned decisions, **no DIY schedules**.
+
+If you came for “how many days before ibogaine do I stop Klonopin,” that request is refused. Abrupt benzodiazepine cessation can precipitate anxiety surges, rebound insomnia, perceptual changes, and **seizures**. Those risks are managed in licensed medical settings—not telegram advice.
+
+Safety hub: /safety-and-screening · Interactions twin: /blog/ibogaine-drug-interactions-qtc · Contraindications: /blog/ibogaine-contraindications.
+
+
+## Two separate emergencies people conflate
+
+### 1) Benzodiazepine withdrawal risk
+Physiological dependence can occur with prescribed or non-prescribed use. Withdrawal severity depends on dose, duration, agent half-life, co-ingestants, and individual vulnerability. **Seizure risk** is the headline teaching point for unsupervised stops.
+
+### 2) Ibogaine cardiac risk
+Ibogaine can prolong **QTc** with arrhythmia concern. Knuijver et al. (*Addiction*, 2021): clinically relevant QTc signals after **oral** ibogaine HCl in an open-label opioid-dependent cohort—illustrates why ECG/monitoring culture is non-negotiable.
+
+Stacking an unmanaged benzo plan with an unmonitored ibogaine exposure is how “psychedelic tourism” turns into ICU narratives.
+
+Side effects map: /blog/ibogaine-side-effects.
+
+
+## What ethical screening asks (themes, not your orders)
+
+Expect clinicians to explore:
+
+- Exact benzodiazepine(s), dose, frequency, duration, last use  
+- Whether use is prescribed, diverted, or both  
+- Prior withdrawal seizures or complicated detox  
+- Alcohol and other sedative-hypnotics (cross-tolerance themes)  
+- Opioids/stimulants (polysubstance planning)  
+- Psychiatric indications for the benzo (panic, mania risk, PTSD hyperarousal)  
+- Full QT-risk medication list  
+
+Entity/process: /what-is-ibogaine-infusion · /how-it-works.
+
+A clinic that says “just stop all benzos three days before the flood” without physician ownership is showing a **red flag** (/blog/cheap-ibogaine-clinic-red-flags).
+
+
+## Sedation, aspiration, and monitoring culture
+
+Benzodiazepines and ibogaine-context nausea/ataxia/altered awareness can interact at a practical safety layer: falls, vomiting, aspiration risk, and difficulty assessing mental status. Medical-model IV care assumes observation capacity—not a hotel room “sitter” hobby.
+
+Support IV (fluids/Mg) may appear in some protocols as **support**, including magnesium in MISTIC-style **oral** research culture—but support IV is **not** psychoactive ibogaine and does not erase benzo-withdrawal planning (/blog/stanford-ibogaine-mistic · /blog/electrolytes-support-iv-vs-psychoactive-iv).
+
+
+## Oral evidence gap still applies
+
+Do not let anyone claim:
+
+- “Nature Medicine proved benzos are fine with our IV”  
+- “Oral papers mean IV has no interaction issues”
+
+Cherian/MISTIC: **oral** + **IV Mg**, open-label veterans—not benzodiazepine clearance science for psychoactive IV. Oral vs IV: /blog/ibogaine-oral-vs-iv.
+
+
+## Polysubstance reality (common in real applicants)
+
+Many people combining benzodiazepines with:
+
+- Opioids (including fentanyl; see /blog/ibogaine-for-fentanyl)  
+- Alcohol (/blog/ibogaine-for-alcohol-use-disorder)  
+- Stimulants (/blog/ibogaine-for-cocaine-stimulants)  
+- Gabapentinoids or other sedatives  
+
+Each combination changes withdrawal and cardiac/respiratory risk. This page cannot triage your stack. Licensed clinicians must.
+
+Addiction hub without cures: /ibogaine-for-addiction · Depression/PTSD hubs: /ibogaine-for-depression · /ibogaine-for-ptsd.
+
+
+## What “physician-owned” means in plain language
+
+Physician-owned means:
+
+1. A licensed clinician decides whether any ibogaine discussion proceeds  
+2. Benzodiazepine changes—if any—are prescribed/supervised plans, not forum calendars  
+3. Go/no-go can be **no** even after deposits (deposits ≠ indication)  
+4. Emergency seizure and cardiac plans exist on paper before dosing  
+
+Session expectations: /blog/what-to-expect-iv-ibogaine-session · Consent questions: /blog/ibogaine-informed-consent-questions · Clinic choice: /blog/how-to-choose-an-ibogaine-clinic.
+
+
+## Legal / geography notes (educational)
+
+- Ibogaine: U.S. **Schedule I** / not FDA-approved (/blog/is-ibogaine-legal-us).  
+- Benzodiazepines: controlled medications with their own prescribing laws—do not import “clinic abroad said stop” as a U.S. prescription change without your clinician.  
+- Provisional **Mexico** IV programs discussed on this site ≠ FDA/US clinics (/blog/ibogaine-mexico-medical-vs-tourism).
+
+
+## Aftercare if a supervised session ever proceeds
+
+Even after a monitored session, benzodiazepine dependence—if present—does not magically vanish. Integration must include honest plans for anxiety, insomnia, and relapse cues without shame theater (/blog/ibogaine-aftercare-integration).
+
+Cure-rate refusal: /blog/ibogaine-cure-rate-claims · Cost literacy: /blog/cost-of-ibogaine-treatment.
+
+
+
+## Anxiety rebound vs “ibogaine failed” narratives
+
+After any change in benzodiazepine exposure—or after an intense psychoactive session—rebound anxiety, insomnia, and irritability are common and easy to mislabel as “the treatment did nothing” or “the treatment made me worse forever.” Those interpretations can be dangerous if they trigger impulsive redosing of street sedatives or unsupervised ibogaine.
+
+Clinical teams should pre-plan sleep and anxiety supports that do **not** rely on cure mythology. Readers exploring mood/trauma angles should use non-guarantee hubs: /ibogaine-for-depression · /ibogaine-for-ptsd.
+
+## Session-day expectations when benzos are in the chart
+
+If a physician-supervised IV session is ever cleared, expect tighter observation, clearer NPO/medication timing orders from clinicians (not from blogs), and explicit seizure precautions as clinically judged. See /blog/what-to-expect-iv-ibogaine-session · metabolism/interaction twins /blog/ibogaine-cyp2d6-metabolism · /blog/ibogaine-drug-interactions-qtc.
+
+## Soft CTA
+
+If benzodiazepines are part of your picture, start with medical safety—not forum tapers. Read /safety-and-screening, then request a **confidential screening consult** via /apply. FAQ: /faq.
+
+
+## FAQ
+
+### Can I take ibogaine while on Xanax or Klonopin?
+Only a licensed clinician can assess your case. This page gives no permission and no DIY schedule.
+
+### Should I quit benzos cold turkey before ibogaine?
+Do **not** abruptly stop benzodiazepines based on internet advice. Withdrawal can be life-threatening. Physician-owned planning only.
+
+### Does this article provide a taper protocol?
+No. Educational warnings only—no doses, no stop dates, no conversion tables.
+
+### Does IV ibogaine remove benzo withdrawal risk?
+No. Route does not erase benzodiazepine physiology.
+
+### Is published ibogaine research mostly oral?
+Yes. MISTIC is oral + IV magnesium; controlled psychoactive-IV evidence is sparse.
+
+### Why is cardiac screening still required?
+Ibogaine can prolong QTc; monitoring remains central.
+
+### Are Mexico programs FDA-approved for benzo-complex cases?
+No. Provisional Mexico programs discussed here are not FDA/US clinics. Not legal advice.
+
+### Where should I go next?
+/safety-and-screening then /apply.
+
+
+## Medical disclaimer
+
+Educational warning summary only—not a taper protocol, medical advice, prescribing instruction, or legal advice. Do not self-administer ibogaine. Do not abruptly stop benzodiazepines without licensed medical supervision. Seizures and cardiac events can be life-threatening. Seek emergency care for seizure, severe withdrawal, chest pain, syncope, or suicidal crisis.
+
+
+## Sources (selected)
+
+1. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; QTc findings.  
+2. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC); not benzo-IV interaction proof.  
+3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
+4. 21 CFR 1308.11 — Schedule I (ibogaine).  
+5. Established clinical teaching: benzodiazepine withdrawal can include seizures—management belongs to licensed clinicians (no DIY schedule provided).
+`,
+  },
+  {
+    slug: "ibogaine-drug-interactions-qtc",
+    title: "Ibogaine Drug Interactions & QTc: Educational Screening Literacy",
+    description:
+      "Ibogaine drug interactions and QTc risk: QT-prolonging meds, CYP2D6 inhibitors, electrolytes, oral vs IV honesty. No DIY. Not FDA-approved.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Ibogaine drug interactions** are medication, supplement, and substance combinations that may increase toxicity—especially **QTc prolongation** / arrhythmia risk—or alter ibogaine/noribogaine exposure via pathways such as **CYP2D6**. In physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine), interaction review sits inside consult → ECG/labs → continuous monitoring → integration. **Evidence gap:** Most published human interaction/safety signals come from **oral** contexts (Knuijver QTc open-label; Glue CYP2D6 PK work; Obach metabolism). Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not a complete IV-interaction label. This page is **educational literacy**, not a personal stop/start list and not a complete interaction database. Ibogaine is U.S. Schedule I / not FDA-approved. Provisional Mexico programs ≠ FDA/US clinics. No DIY dosing. No cure claims.
+
+## Quotable answer (55 words)
+
+Ibogaine drug interactions center on QTc-prolonging medications, electrolyte threats, and CYP2D6 inhibitors that can raise exposure. IV ibogaine infusion still requires physician supervision and cardiac monitoring; most published human data reflect oral dosing. Unsupervised polypharmacy with ibogaine is dangerous. Not FDA-approved. Not medical advice.
+
+
+## How to use this page (and how not to)
+
+**Do:** bring a full med/supplement list to a licensed clinician; ask about QT risk and metabolism.  
+**Don’t:** use this article as permission to stop prescriptions, stack “detox herbs,” or dose ibogaine at home.
+
+Safety: /safety-and-screening · CYP2D6 deep dive: /blog/ibogaine-cyp2d6-metabolism · Contraindications: /blog/ibogaine-contraindications · Side effects: /blog/ibogaine-side-effects.
+
+
+## Mechanism buckets clinicians care about
+
+### 1) Additive QTc / arrhythmia risk
+Ibogaine (and related clinical conversation around parent/metabolite effects) is associated with **QTc prolongation**. Combining with other QT-prolonging drugs can reduce repolarization reserve.
+
+Educational theme examples clinicians often review (non-exhaustive, not a ban list you should self-apply):
+
+- Certain antipsychotics  
+- Certain antibiotics (classic teaching includes some macrolides/fluoroquinolones)  
+- Certain antiarrhythmics  
+- Some antiemetics  
+- Methadone in some risk profiles  
+- Other miscellaneous QT-prolonging agents per current clinical references  
+
+Exact decisions are clinician-owned and indication-dependent.
+
+### 2) Electrolyte and physiologic amplifiers
+Low potassium or magnesium, bradycardia, structural heart disease, congenital long QT, female sex as a population QT-risk factor in broader TdP teaching, and recent stimulant strain can amplify risk. Stimulant and cocaine context: /blog/ibogaine-for-cocaine-stimulants.
+
+### 3) CYP2D6-mediated exposure changes
+Ibogaine O-demethylation to noribogaine is catalyzed primarily by **CYP2D6** (Obach et al.). Glue et al. showed CYP2D6 inhibition (paroxetine pretreatment) markedly altered oral ibogaine PK and increased active-moiety exposure in healthy volunteers. Later OUD PK/PD work links CYP2D6 activity score to clearance and relates concentrations to QTc.
+
+CYP2D6 inhibitor examples often discussed in pharmacology teaching (educational themes only): some SSRIs (e.g., paroxetine, fluoxetine), some other inhibitors—**your clinician maps your list**.
+
+### 4) CNS depressant / withdrawal complexity
+Benzodiazepines, alcohol, opioids, and other sedatives create separate withdrawal and monitoring problems (/blog/ibogaine-and-benzodiazepines · /blog/ibogaine-for-fentanyl).
+
+
+## Oral literature anchors (route-labeled)
+
+| Citation | Route / design | Teaching use |
+|----------|----------------|--------------|
+| Knuijver et al., *Addiction* 2021 | Oral HCl, open-label OUD | QTc prolongation clinically relevant in small series |
+| Glue et al., *J Clin Pharmacol* | Oral 20 mg + CYP2D6 inhibition | Exposure rises when CYP2D6 impaired |
+| Obach et al. | In vitro / metabolism | CYP2D6 primary O-demethylation |
+| Cherian et al., *Nat Med* 2024 | Oral + IV Mg | Support Mg ≠ psychoactive IV proof |
+
+Brunt and related cardiovascular reviews continue to emphasize rare-but-relevant QT/arrhythmia complications in the broader ibogaine conversation—still not a license to invent IV RCT interaction tables.
+
+
+## Support IV vs psychoactive IV (interaction confusion)
+
+Marketing sometimes says “we give IV magnesium, so interactions don’t matter.” False.
+
+- **IV magnesium / fluids / antiemetics** = **support**, when used  
+- **Psychoactive IV ibogaine** = the entity on this site  
+- Support measures do not erase medication reconciliation  
+
+MISTIC used **oral** ibogaine + **IV magnesium**—label that every time (/blog/stanford-ibogaine-mistic · /blog/electrolytes-support-iv-vs-psychoactive-iv · /blog/ibogaine-oral-vs-iv).
+
+
+## Practical screening questions to ask a program
+
+1. Who reviews my full medication list for QT and CYP interactions?  
+2. Will I have a pre-infusion ECG and electrolyte labs?  
+3. What is the continuous monitoring plan during psychoactive dosing?  
+4. How do you handle methadone, SSRIs, antipsychotics, or antibiotics if present?  
+5. Do you genotype CYP2D6 or otherwise individualize risk discussion? (Neither is a cure; both are literacy topics.)  
+6. Is psychoactive route written as **IV** or oral?  
+7. Emergency defibrillation/transfer plan?
+
+Vetting: /blog/how-to-choose-an-ibogaine-clinic · Red flags: /blog/cheap-ibogaine-clinic-red-flags · Consent: /blog/ibogaine-informed-consent-questions.
+
+
+## What this page will not do
+
+- Provide a printable “safe meds with ibogaine” whitelist  
+- Tell you to stop antidepressants or heart meds  
+- Give DIY timing charts  
+- Quote fake interaction percentages for IV psychoactive dosing  
+
+
+## Legal / geography
+
+Ibogaine remains U.S. **Schedule I** and **not FDA-approved** (/blog/is-ibogaine-legal-us). Provisional Mexico programs discussed on this site are not FDA/US clinics (/blog/ibogaine-mexico-medical-vs-tourism). Travel does not shrink interaction risk.
+
+
+
+## Polypharmacy patterns common in applicants
+
+Real screening packets often include antidepressants, antipsychotics, sleep aids, antiemetics from prior detox attempts, HIV or hepatitis therapies, hormone therapies, and over-the-counter antihistamines. Each item deserves a clinician’s eye for QT, sedation, and metabolic overlap—not a blog whitelist.
+
+Opioid agonist contexts (methadone/buprenorphine literacy): /blog/ibogaine-vs-methadone · /blog/ibogaine-vs-suboxone. Alcohol-interest readers: /blog/ibogaine-for-alcohol-use-disorder.
+
+## After an interaction-heavy “near miss”
+
+If a program brushed off your medication list, document what was said, seek independent clinical advice, and reconsider participation. Cheap speed is not a cardiac strategy (/blog/cheap-ibogaine-clinic-red-flags). Aftercare still matters if a supervised session proceeds (/blog/ibogaine-aftercare-integration).
+
+## Soft CTA
+
+Bring interactions to the medical front—not the deposit front. Read /safety-and-screening, then request a **confidential screening consult** via /apply. FAQ: /faq · Entity: /what-is-ibogaine-infusion.
+
+
+## FAQ
+
+### What are the most important ibogaine drug interactions?
+Clinically, focus on QT-prolonging drugs, electrolyte threats, CYP2D6 inhibitors affecting exposure, and complex sedative/opioid/benzo situations—reviewed by clinicians.
+
+### Does IV infusion remove interaction risk?
+No. Psychoactive IV still needs monitoring and med review.
+
+### Is most interaction/safety evidence oral?
+Yes. Controlled psychoactive-IV evidence is sparse.
+
+### Did MISTIC prove IV interactions are solved with magnesium?
+No. MISTIC used **oral** ibogaine + **IV magnesium** support.
+
+### Should I stop my SSRI before ibogaine because of CYP2D6?
+Do not stop psychiatric medicines based on blogs. Ask the prescribing clinician and the screening team.
+
+### Can supplements interact?
+Yes—full lists matter (including “natural” products). Clinician review only.
+
+### Is ibogaine FDA-approved so interactions are on a label?
+No. Not FDA-approved; no consumer package-insert playbook for this use.
+
+### Where should I go next?
+/safety-and-screening then /apply.
+
+
+## Medical disclaimer
+
+Educational interaction literacy only—not a complete interaction checker, medical advice, or legal advice. Do not self-administer ibogaine. Do not change prescribed medicines without licensed clinicians. Cardiac events can be life-threatening.
+
+
+## Sources (selected)
+
+1. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; QTc findings.  
+2. Glue P. et al. *Journal of Clinical Pharmacology* — CYP2D6 activity influences ibogaine/noribogaine PK.  
+3. Obach R.S. et al. — CYP2D6 catalyzes ibogaine O-demethylation.  
+4. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC).  
+5. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
+6. 21 CFR 1308.11 — Schedule I (ibogaine).
+`,
+  },
+  {
+    slug: "ibogaine-vs-mdma-therapy",
+    title: "Ibogaine vs MDMA Therapy: Different Medicines, Different Evidence Paths",
+    description:
+      "Ibogaine vs MDMA-assisted therapy: different drugs, evidence paths, cardiac risk, and legality. IV ibogaine infusion ≠ MDMA PTSD protocols. No cure claims.",
+    date: "2026-09-06",
+    readTime: "10 min",
+    content: `
+## Definition box
+
+**Definition:** **Ibogaine vs MDMA therapy** compares two distinct psychoactive treatment conversations that are often collapsed online. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. **MDMA-assisted therapy** typically means supervised oral MDMA paired with structured psychotherapy sessions in research or regulated pathways—not an ibogaine drip. **Evidence gap:** Most published ibogaine clinical literature remains **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Controlled evidence for psychoactive IV ibogaine is sparse. Neither is an FDA-approved “cure.” Ibogaine is U.S. Schedule I; MDMA remains Schedule I federally pending any future labeling changes. **No DIY.** Mexico programs discussed here are provisional only—not FDA/US clinics.
+
+## Quotable answer (58 words)
+
+Ibogaine and MDMA-assisted therapy are not interchangeable. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring for QTc risk; much published ibogaine research is still oral. MDMA-assisted therapy pairs supervised MDMA with structured psychotherapy in research frameworks. Evidence maturity, session design, cardiac risk, and legality diverge. Neither guarantees recovery.
+
+
+## Why people conflate them
+
+Both appear in “psychedelic medicine” headlines. Both attract veterans, trauma survivors, and addiction-adjacent curiosity. Both are federally Schedule I in the United States as of this writing’s baseline legal framing. That is where the useful overlap ends.
+
+Collapsing them into one shopping cart creates three harms:
+
+1. **Wrong risk model** — ibogaine’s dominant clinical safety story is **cardiac (QTc / arrhythmia)**; MDMA’s research safety conversation centers on different physiologic and psychiatric monitoring priorities.  
+2. **Wrong evidence citation** — MDMA PTSD trial narratives get pasted onto ibogaine ads, or MISTIC oral signals get sold as “same as MAPS.”  
+3. **Wrong setting expectations** — a multi-hour ibogaine observation window is not a short MDMA psychotherapy visit.
+
+Entity hub: /what-is-ibogaine-infusion · Journey model: /how-it-works.
+
+
+## Side-by-side comparison
+
+| Axis | MDMA-assisted therapy (research framing) | IV ibogaine infusion (this site’s entity) |
+|------|------------------------------------------|---------------------------------------------|
+| Typical psychoactive route | Oral MDMA in supervised sessions | **Intravenous psychoactive ibogaine** |
+| Dominant pairing | Structured psychotherapy (often multi-session) | Medical infusion + monitoring + integration |
+| U.S. legal baseline | Schedule I; research / regulatory pathway dependent | Schedule I; not FDA-approved for any indication |
+| Evidence landscape | Larger late-stage PTSD trial public discourse (still not a consumer guarantee) | Limited; mostly **oral** observational; sparse IV psychoactive RCTs |
+| Signature risk narrative | BP/HR, rare psychiatric AEs, session containment | **QTc prolongation / torsades risk**; continuous ECG/telemetry |
+| Support IV role | Not the brand story | Fluids / electrolytes / Mg may be **support**, labeled separately from psychoactive IV |
+| Common marketing abuse | “FDA-approved soon = book now” | “Stanford proved our IV cure” (false route laundry) |
+
+Related comparisons: /blog/ibogaine-vs-ketamine-for-addiction · Condition hubs: /ibogaine-for-ptsd · /ibogaine-for-addiction · /ibogaine-for-depression.
+
+
+## Mechanism and experience (high-level, non-DIY)
+
+**MDMA (research framing):** Often described as facilitating fear-extinction / interpersonal processing within a psychotherapy container. Sessions are typically time-bounded and therapist-paired. This page does **not** teach dosing.
+
+**Ibogaine:** Historically discussed for interrupting opioid withdrawal and for intense introspective states lasting many hours. Metabolite conversations often include **noribogaine**. Psychoactive IV delivery changes pharmacokinetics versus oral—another reason oral papers cannot be copy-pasted as IV efficacy proof.
+
+Neither description authorizes home use. Unsupervised ibogaine is dangerous. Unsupervised MDMA is also not medical care.
+
+
+## Cardiac risk: the ibogaine front you cannot soft-pedal
+
+Ibogaine can prolong **QTc** and has been associated with serious cardiac events in the broader adverse-event literature. Knuijver et al. (*Addiction*, 2021) reported clinically relevant QTc prolongation after **oral** ibogaine HCl in an open-label opioid-dependent cohort—including a substantial fraction exceeding QTc >500 ms in that small sample.
+
+**Route label:** oral findings inform risk thinking for **IV psychoactive** protocols; they do not make IV “safer by default.” Continuous monitoring, electrolyte optimization, medication review, and emergency readiness are ethical floors—not spa upgrades.
+
+Cherian et al. (*Nature Medicine*, 2024, MISTIC): **oral** ibogaine with **IV magnesium** in a small open-label special-operations veteran cohort. That is **support IV magnesium + oral psychoactive**—not proof of psychoactive IV ibogaine and not an MDMA-equivalence study.
+
+Read: /safety-and-screening · /blog/ibogaine-side-effects · /blog/ibogaine-mortality-cardiac-risk · /blog/ibogaine-telemetry-acls-monitoring · /blog/stanford-ibogaine-mistic.
+
+
+## Evidence honesty checklist
+
+| Claim you may see | Honest rewrite |
+|-------------------|----------------|
+| “Same as MDMA PTSD therapy” | Different drug, different protocol family, different risk front |
+| “Stanford / Nature Medicine proved IV ibogaine like MAPS” | MISTIC = oral + IV Mg; open-label; not IV psychoactive RCT; not MDMA |
+| “One flood cures PTSD like MDMA trials” | No cure/guarantee language; relapse and residual symptoms can occur |
+| “Luxury retreat = clinical equivalence” | Setting aesthetics ≠ telemetry / ACLS capability |
+
+Cure-rate critique: /blog/ibogaine-cure-rate-claims. Clinic selection: /blog/how-to-choose-an-ibogaine-clinic · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+
+
+## Who might be comparing for the wrong reason
+
+- **PTSD interest:** MDMA research discourse is not a substitute for ibogaine cardiac screening. See /ibogaine-for-ptsd.  
+- **Addiction interest:** Ibogaine conversations often center opioids; MDMA is not a standard OUD detox medicine. See /ibogaine-for-addiction.  
+- **Depression curiosity:** Neither is a guaranteed antidepressant. See /ibogaine-for-depression.  
+- **“Legal psychedelic tourism” shopping:** Legal status differs by jurisdiction; U.S. Schedule I for ibogaine remains the federal baseline. See /blog/is-ibogaine-legal-us.
+
+
+## Aftercare and integration still matter for both conversations
+
+Intense experiences can open windows—and leave people unstable if aftercare is theater. Integration, ongoing therapy or addiction care, sleep, and medical follow-up are not optional marketing add-ons.
+
+Read: /blog/ibogaine-aftercare-integration. Soft next step after reading risk pages: /safety-and-screening then /apply.
+
+
+## Soft CTA
+
+If you arrived via “ibogaine vs MDMA” search, choose medical honesty over brand fusion. Start with cardiac screening questions at /safety-and-screening, then a confidential consult via /apply. FAQ: /faq. Cost context: /blog/cost-of-ibogaine-treatment.
+
+
+## FAQ
+
+### Is IV ibogaine the same as MDMA therapy?
+No. Different molecules, routes, session designs, risk profiles, and evidence bases.
+
+### Did MDMA PTSD trials prove ibogaine works?
+No. Do not borrow MDMA trial narratives as ibogaine efficacy proof.
+
+### Is published ibogaine research mostly oral?
+Yes—much of the known clinical literature is oral observational; controlled psychoactive-IV evidence remains sparse. MISTIC used oral ibogaine + IV magnesium support.
+
+### Which has higher cardiac (QTc) concern in the ibogaine conversation?
+Ibogaine’s signature risk front is QTc prolongation and arrhythmia risk; continuous monitoring is central to ethical programs.
+
+### Is either FDA-approved as a cure?
+No. Do not treat either as an FDA-labeled cure for addiction, PTSD, or depression.
+
+### Can I DIY compare doses at home?
+No. Unsupervised use is dangerous. This page is educational, not a dosing guide.
+
+### Are Mexico programs FDA clinics?
+No. Provisional Mexico availability discussed on this site is not an FDA/US clinic designation.
+
+### Where should families start?
+/blog/family-guide-ibogaine-treatment · /safety-and-screening · /apply.
+
+
+## Medical disclaimer
+
+Educational comparison only—not medical advice, not a recommendation to use either substance, and not a prediction of individual outcomes. Do not self-administer ibogaine or MDMA as treatment. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+
+## Sources (selected)
+
+1. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC); open-label; not MDMA or IV-psychoactive proof.  
+2. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; clinically relevant QTc prolongation signals.  
+3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns in ibogaine literature.  
+4. 21 CFR 1308.11 — Schedule I controlled substances (ibogaine; MDMA separately listed as Schedule I).
+`,
+  },
+  {
+    slug: "family-guide-ibogaine-treatment",
+    title: "Family Guide to Ibogaine Treatment: What to Ask Before Anyone Goes",
+    description:
+      "Family guide to ibogaine treatment: what IV ibogaine infusion is, QTc risk, screening questions, red flags, aftercare—and why there are no cure guarantees.",
+    date: "2026-09-06",
+    readTime: "10 min",
+    content: `
+## Definition box
+
+**Definition:** A **family guide to ibogaine treatment** helps relatives evaluate risk, legality, and clinic honesty—not sell a miracle. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. **Support IV** (fluids, magnesium, antiemetics) is not the same as the psychoactive dose. **Evidence gap:** Most published clinical literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** only)—not controlled proof of psychoactive IV outcomes. Ibogaine is U.S. Schedule I and not FDA-approved. **No cures/guarantees. No DIY.** Mexico programs discussed here are provisional only.
+
+## Quotable answer (56 words)
+
+Families evaluating ibogaine should demand cardiac screening, continuous monitoring, and honest route labeling. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine; much published research remains oral. QTc risk is real. Guaranteed “cure” ads are a red flag. Start with safety questions, not deposit pressure. Aftercare planning matters because relapse can occur.
+
+
+## If you are reading this for someone you love
+
+You are probably scared, hopeful, exhausted—or all three. Marketing sites exploit that mix. This guide is designed to slow the decision down to medical questions.
+
+Primary safety pillar: /safety-and-screening. Soft next step after screening literacy: /apply. What the medicine is: /what-is-ibogaine-infusion · Process: /how-it-works · FAQ: /faq.
+
+
+## Five truths families need early
+
+1. **Ibogaine is not FDA-approved** for addiction, PTSD, or depression.  
+2. **Cardiac risk is front-line**, not fine print—QTc prolongation and arrhythmia risk are central.  
+3. **“Stanford proved it” is often misquoted**—MISTIC was open-label **oral** + **IV Mg**, small N.  
+4. **Support IV ≠ psychoactive IV**—electrolyte drips are not the treatment entity.  
+5. **No ethical program guarantees a cure**—relapse and residual symptoms can occur.
+
+Cure-claim critique: /blog/ibogaine-cure-rate-claims · Stanford label: /blog/stanford-ibogaine-mistic · Legal: /blog/is-ibogaine-legal-us.
+
+
+## Questions to ask any program (print this)
+
+### Medical infrastructure
+- Who is the responsible physician during dosing? Credentials?  
+- Continuous ECG/telemetry how long before/during/after?  
+- ACLS-capable staff and emergency transfer plan?  
+- Baseline ECG, electrolytes, medication review required before acceptance?  
+
+See: /blog/ibogaine-telemetry-acls-monitoring · /blog/ibogaine-mortality-cardiac-risk.
+
+### Route honesty
+- Is the **psychoactive** dose oral, IV, or both? Put it in writing.  
+- Is magnesium IV **support** or being sold as “the ibogaine infusion”?  
+- Do they cite oral papers as if they were IV RCTs?
+
+### Psychiatric / medication safety
+- How do you handle SSRIs, other psychiatric meds, stimulants, QT-prolonging drugs?  
+- Is any taper physician-directed—or are they handing families DIY stop-lists?
+
+Educational caution only: /blog/ibogaine-ssri-psychiatric-meds (not a taper plan).
+
+### Outcomes language
+- Will they refuse “guaranteed detox / lifelong cure” language in writing?  
+- What aftercare is included vs upsold?
+
+Aftercare: /blog/ibogaine-aftercare-integration · Choosing clinics: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+
+### Money and pressure
+- Full cost, refund rules, what happens if screened out for cardiac risk?  
+- Deposit before ECG? Walk away.
+
+Cost context: /blog/cost-of-ibogaine-treatment.
+
+
+## What families can do that actually helps
+
+| Helpful | Harmful |
+|---------|---------|
+| Insist on screening docs before travel | Pressure “just go—this is the last chance miracle” |
+| Attend consult calls (with patient consent) | Hide cardiac history to “get accepted” |
+| Plan post-return therapy / recovery support | Assume one session ends family conflict |
+| Verify psychoactive route in writing | Confuse luxury photos with ICU capability |
+| Support honest “maybe not a candidate” outcomes | DIY med stops or hotel dosing |
+
+Condition pages (no cure language): /ibogaine-for-addiction · /ibogaine-for-ptsd · /ibogaine-for-depression.
+
+
+## Screening prep families can support (not DIY medicine)
+
+Help gather—not interpret—records:
+
+- Medication and supplement list (all of it)  
+- Prior ECGs, cardiology notes if any  
+- Substance-use timeline and recent withdrawals  
+- Psychiatric history, hospitalizations, trauma triggers  
+- Emergency contacts and aftercare plan draft  
+
+Prep article: /blog/preparing-for-ibogaine-screening. Side effects literacy: /blog/ibogaine-side-effects.
+
+**Never** coach someone to stop cardiac or psychiatric medicines based on a blog. Medication changes belong with the prescribing clinician and the screening team.
+
+
+## Emotional reality after treatment
+
+Some people report profound shifts. Some feel flat, grieving, or destabilized. Some return to use. Families who expect a cinematic “new person on day three” set everyone up for shame.
+
+Plan for:
+
+- Sleep and nutrition support  
+- Therapy / peer recovery / MOUD conversations as clinically appropriate  
+- Boundaries that are compassionate and non-enabling  
+- Medical follow-up if cardiac symptoms appear after return  
+
+Integration: /blog/ibogaine-aftercare-integration.
+
+
+
+
+## Timeline: what the weeks around treatment often look like for families
+
+Every program differs; this is orientation, not a promise.
+
+**Before travel**
+- Screening calls, ECG/labs, medication review with clinicians  
+- Written confirmation of **psychoactive route** (IV vs oral) and monitoring plan  
+- Aftercare appointments booked *before* anyone flies  
+- Clear “abort if cardiac screen fails” money and logistics plan  
+
+**Acute treatment window**
+- Expect limited phone access and a long observation period  
+- Your job is usually not coaching the medicine—it is staying reachable for emergencies and respecting clinical boundaries  
+- Do not interpret silence as failure or as proof of a “cure in progress”  
+
+**First two weeks home**
+- Sleep disruption, emotional volatility, or unexpected calm can all appear  
+- Watch for medical red flags (syncope, palpitations, severe weakness)—seek emergency care; do not crowdsource cardiac symptoms  
+- Reconnect therapy / recovery supports even if the person “feels fixed”  
+
+**Month one and beyond**
+- Relapse risk remains for addiction trajectories; residual PTSD/depression symptoms can persist  
+- Measure success by honesty and continued care—not by Instagram transformation arcs  
+
+Pair this with /blog/ibogaine-aftercare-integration and the screening pillar /safety-and-screening.
+
+## Soft CTA
+
+Start with risk literacy, not a sales call. Read /safety-and-screening, then request a confidential screening consult via /apply if your loved one wants to proceed. General FAQ: /faq.
+
+
+## FAQ
+
+### Can families force someone into ibogaine treatment?
+Ethically and practically, informed consent from the patient is foundational. Coercion plus cardiac risk is a dangerous mix.
+
+### Is ibogaine a guaranteed cure for addiction?
+No. No cure/guarantee claims. Relapse can occur. Ongoing care matters.
+
+### What is the #1 medical question families should ask?
+How does the program manage QTc risk (ECG, electrolytes, continuous monitoring, emergency response)?
+
+### Did Stanford prove a family-safe cure?
+No. Cherian/MISTIC was open-label oral ibogaine + IV magnesium in a small veteran cohort—not a cure-rate RCT and not psychoactive IV proof.
+
+### Are luxury retreats safer?
+Not automatically. Spa aesthetics ≠ telemetry/ACLS. See luxury red-flag guidance.
+
+### Should we stop SSRIs before travel based on internet lists?
+No DIY taper plans. Medication changes require licensed clinicians.
+
+### Is ibogaine legal in the U.S.?
+Federally Schedule I; not FDA-approved. See legality page.
+
+### Where do we go next?
+/safety-and-screening → /apply · /blog/how-to-choose-an-ibogaine-clinic.
+
+
+## Medical disclaimer
+
+Educational family guidance only—not medical advice and not a substitute for physician evaluation. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+
+## Sources (selected)
+
+1. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC); open-label.  
+2. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; QTc open-label findings.  
+3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
+4. 21 CFR 1308.11 — Schedule I (ibogaine).
+`,
+  },
+  {
+    slug: "ibogaine-mortality-cardiac-risk",
+    title: "Ibogaine Mortality & Cardiac Risk: Why QTc Screening Is Non-Negotiable",
+    description:
+      "Ibogaine mortality and cardiac risk: QTc prolongation, arrhythmia concerns, screening, monitoring. IV psychoactive ibogaine ≠ oral lit. No DIY; no cure claims.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Ibogaine mortality and cardiac risk** discussions center on **QTc prolongation**, arrhythmia (including torsades de pointes risk), and deaths reported in heterogeneous medical and non-medical settings. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring—not a wellness drip. **Support IV** (fluids, magnesium, antiemetics) is labeled separately from the psychoactive dose. **Evidence gap:** Landmark QTc observations (e.g., Knuijver et al., *Addiction*, 2021) followed **oral** ibogaine HCl; Cherian/MISTIC (*Nature Medicine*, 2024) used **oral** ibogaine + **IV magnesium**. Those papers inform risk—they are not psychoactive-IV RCTs and not proof of safety. Ibogaine is U.S. Schedule I and not FDA-approved. **No cures. No DIY.** Mexico programs discussed here are provisional only.
+
+## Quotable answer (59 words)
+
+Ibogaine can prolong QTc and has been linked to serious cardiac events and deaths in adverse-event literature. IV ibogaine infusion requires physician supervision and continuous monitoring; much published research remains oral. Small open-label series without torsades do not equal zero risk. Unsupervised use is dangerous. Screening, electrolytes, and emergency readiness are ethical requirements—not optional upgrades.
+
+
+## What “mortality risk” means without panic theater
+
+Families searching “ibogaine death” deserve facts without either denial or doom pornography.
+
+- Adverse events and fatalities have been discussed in case series, reviews, and media investigations across clinics and non-medical use.  
+- Mechanisms most often emphasized include **cardiac arrhythmia** related to delayed ventricular repolarization (**long QTc**).  
+- Confounders are common: polydrug use, electrolyte depletion, preexisting heart disease, inadequate monitoring, and unknown product purity outside medical supply chains.  
+- A clinic with “no deaths here” marketing is not a substitute for ECG capability.
+
+This is why /safety-and-screening is the trust home of this site.
+
+
+## QTc in plain language
+
+The QT interval on ECG reflects ventricular recovery time. Corrected for heart rate (**QTc**), excessive prolongation raises risk for **torsades de pointes**, which can degenerate to fatal arrhythmia.
+
+Ibogaine pharmacology has been associated with **hERG potassium channel** effects that delay repolarization. This is a primary reason ethical programs treat cardiac screening as a gate—not a formality.
+
+### Oral open-label signal that still drives monitoring ethics
+
+Knuijver et al. (*Addiction*, 2021): open-label **oral** ibogaine HCl (~10 mg/kg) in a small opioid-dependent cohort. Reported findings included large average QTc prolongation, a substantial fraction exceeding **QTc >500 ms**, and prolonged QTc in a subset beyond 24 hours—plus bradycardia/BP decreases and severe transient ataxia. No torsades in that tiny sample is **not** a green light.
+
+**Route label:** oral exposure ≠ IV pharmacokinetics. IV psychoactive protocols still inherit the obligation of continuous monitoring.
+
+Side effects hub: /blog/ibogaine-side-effects · Telemetry/ACLS: /blog/ibogaine-telemetry-acls-monitoring.
+
+
+## Support IV magnesium is not a mortality eraser
+
+Cherian et al. (*Nature Medicine*, 2024, MISTIC): special-operations veterans; **oral** ibogaine with **IV magnesium**; open-label. Magnesium coadministration is a **cardiac-risk mitigation / support** conversation in that protocol—not proof that psychoactive IV ibogaine is validated, and not a guarantee against arrhythmia.
+
+Do not accept ads that say: “We do the Stanford magnesium drip, so cardiac risk is solved.”
+
+Stanford label page: /blog/stanford-ibogaine-mistic.
+
+
+## Risk amplifiers families and clinicians watch for
+
+Non-exhaustive educational list—physician judgment rules:
+
+- Baseline long QTc / known channelopathy / prior syncope of cardiac concern  
+- Structural heart disease, cardiomyopathy, significant arrhythmia history  
+- Low potassium or magnesium; vomiting/dehydration  
+- Concurrent QT-prolonging medicines  
+- Stimulants, heavy alcohol withdrawal physiology, unstable polysubstance states  
+- Unmonitored settings, delayed emergency transfer, unknown product identity  
+
+Medication interaction caution (not DIY taper): /blog/ibogaine-ssri-psychiatric-meds · Screening prep: /blog/preparing-for-ibogaine-screening.
+
+
+## How ethical programs respond (floors, not marketing)
+
+| Floor | Why |
+|-------|-----|
+| Pre-dose 12-lead ECG + history | Identify obvious high-risk candidates |
+| Electrolyte labs & repletion plan | Repolarization depends on K/Mg milieu |
+| Continuous ECG/telemetry through risk window | Catch deterioration early |
+| ACLS-capable response + transfer plan | Minutes matter in arrhythmia |
+| Written psychoactive route (IV vs oral) | Prevents support-IV bait-and-switch |
+| Refusal when contraindicated | “Not a candidate” is a safety outcome |
+
+Clinic selection: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+
+
+## What mortality talk must never become
+
+- A reason to DIY “safer microdosing” at home (still dangerous; purity unknown)  
+- A sales tactic (“our secret protocol means zero risk”)  
+- Proof of cure rarity theater (“dangerous because it works”)  
+- An excuse to skip aftercare if someone survives the acute window  
+
+Entity: /what-is-ibogaine-infusion · Journey: /how-it-works · Aftercare: /blog/ibogaine-aftercare-integration · No cure claims: /blog/ibogaine-cure-rate-claims.
+
+Condition pages refuse guarantee language: /ibogaine-for-addiction · /ibogaine-for-ptsd · /ibogaine-for-depression.
+
+Legal baseline: /blog/is-ibogaine-legal-us. Cost honesty: /blog/cost-of-ibogaine-treatment.
+
+
+
+
+## How to read media “ibogaine death” stories without becoming numb—or reckless
+
+Investigative and case reports often mix:
+
+- Unregulated venues and unknown product identity  
+- Inadequate continuous monitoring  
+- Polysubstance confounders  
+- Preexisting cardiac vulnerability  
+- Delayed emergency response  
+
+That mixture means **you cannot extract a single universal fatality percentage from headlines** and treat it as an FDA label. It also means you cannot dismiss deaths as “only junkie tourism” while selling unmonitored luxury. Both denial and fatalism are bad medicine.
+
+Practical translation for decision-makers:
+
+1. Demand telemetry/ACLS capability in writing.  
+2. Treat electrolyte optimization as clinical work, not a smoothie bar.  
+3. Accept exclusion criteria.  
+4. Reject “zero risk protocol” advertising.  
+5. Remember oral QTc literature still obligates caution for IV psychoactive models.
+
+Deep monitoring article: /blog/ibogaine-telemetry-acls-monitoring. Screening prep: /blog/preparing-for-ibogaine-screening.
+
+## Soft CTA
+
+If mortality searches brought you here, treat that as appropriate caution. Read /safety-and-screening thoroughly, then—only if still appropriate—request a confidential screening consult via /apply. FAQ: /faq. Family framing: /blog/family-guide-ibogaine-treatment.
+
+
+## FAQ
+
+### Can ibogaine cause death?
+Serious cardiac events and deaths have been reported in the broader literature and real-world reports; cardiac arrhythmia related to QTc prolongation is a primary concern discussed.
+
+### Does a small study with no torsades prove safety?
+No. Absence of events in tiny open-label samples does not equal zero population risk.
+
+### Is IV safer than oral because of monitoring?
+Monitoring can reduce unmanaged risk; route change itself is not automatically safer. IV psychoactive evidence remains sparse.
+
+### Does IV magnesium eliminate mortality risk?
+No. In MISTIC, IV magnesium accompanied **oral** ibogaine as support/coadministration—not a mortality eraser or IV-psychoactive proof.
+
+### Is unsupervised ibogaine ever okay?
+No. Unsupervised use is dangerous.
+
+### Are cure-rate ads compatible with mortality honesty?
+Usually not. Guaranteed outcomes plus buried cardiac risk are a red flag.
+
+### Is ibogaine FDA-approved?
+No. U.S. Schedule I; not FDA-approved for any indication.
+
+### What should I read next?
+/safety-and-screening · /blog/ibogaine-telemetry-acls-monitoring · /apply.
+
+
+## Medical disclaimer
+
+Educational risk information only—not medical advice and not an individualized risk score. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved. Mexico programs discussed here are provisional only.
+
+
+## Sources (selected)
+
+1. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; clinically relevant QTc prolongation in open-label cohort.  
+2. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC); open-label; not mortality-proof or IV-psychoactive RCT.  
+3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
+4. 21 CFR 1308.11 — Schedule I (ibogaine).
+`,
+  },
+  {
+    slug: "ibogaine-ssri-psychiatric-meds",
+    title: "Ibogaine and SSRIs / Psychiatric Medications: Educational Cautions (Not a DIY Taper)",
+    description:
+      "Ibogaine and SSRIs / psychiatric meds: educational interaction and taper cautions only—not a DIY plan. QTc risk, screening, physician-directed decisions.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Ibogaine and SSRIs** (and other psychiatric medications) is a **screening and interaction caution** topic—not a home taper guide. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. Medication lists matter for cardiac risk, serotonergic risk conversations, withdrawal destabilization, and program eligibility. **Evidence gap:** Most published ibogaine clinical literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support)—not controlled psychoactive-IV interaction RCTs. **Support IV ≠ psychoactive IV.** Ibogaine is U.S. Schedule I and not FDA-approved. **No cures. No DIY taper plans on this page.** Mexico programs discussed here are provisional only.
+
+## Quotable answer (57 words)
+
+People asking about ibogaine and SSRIs need physician-directed medication review—not internet stop-lists. IV ibogaine infusion requires cardiac screening because ibogaine can prolong QTc; much published research remains oral. Abrupt DIY antidepressant cessation can be dangerous. Disclose every psychiatric medicine during screening. This article is educational caution only, not a taper schedule.
+
+
+## Hard boundary of this article
+
+**What this page does:**
+- Explain why psychiatric meds appear on screening forms  
+- Flag categories of concern at a high level  
+- Direct readers to supervised medical decision-making  
+- Refuse cure language and DIY dosing  
+
+**What this page does not do:**
+- Tell you how many days to stop any SSRI, SNRI, MAOI, antipsychotic, mood stabilizer, benzo, or stimulant  
+- Provide milligram schedules  
+- Suggest “washout hacks” for tourism deadlines  
+- Claim that stopping meds makes ibogaine “work better” or “cure depression”
+
+Depression / PTSD hubs (no guarantees): /ibogaine-for-depression · /ibogaine-for-ptsd · Addiction: /ibogaine-for-addiction.
+
+
+## Why medication review is cardiac and psychiatric—not paperwork
+
+### 1) QTc and polypharmacy
+Ibogaine’s signature medical risk narrative includes **QTc prolongation** and arrhythmia concern. Some psychiatric and non-psychiatric drugs also affect QT or electrolytes indirectly. Layering risks without a clinician is reckless.
+
+Knuijver et al. (*Addiction*, 2021) documented clinically relevant QTc signals after **oral** ibogaine HCl in a small open-label cohort—reinforcing monitoring ethics for any psychoactive protocol, including IV.
+
+### 2) Destabilization from abrupt stops
+Suddenly stopping antidepressants or other psychotropics can cause discontinuation syndromes, rebound anxiety/depression, insomnia, irritability, and—in vulnerable people—safer-to-assume higher crisis risk. A tourism calendar is not a medical indication for abrupt cessation.
+
+### 3) Serotonergic / interaction uncertainty
+Public internet threads often overstate tidy “serotonin syndrome checklists” for ibogaine while understating evidence limits. Sparse controlled interaction data is a reason for **caution and clinician oversight**, not DIY experimentation.
+
+### 4) Route confusion
+Oral papers (including MISTIC oral + IV Mg) are not interaction manuals for psychoactive IV ibogaine. Label route every time: /blog/stanford-ibogaine-mistic.
+
+Safety pillar: /safety-and-screening · Mortality/cardiac: /blog/ibogaine-mortality-cardiac-risk · Telemetry: /blog/ibogaine-telemetry-acls-monitoring · Side effects: /blog/ibogaine-side-effects.
+
+
+## Categories often reviewed in screening (names only—not instructions)
+
+Educational awareness list. Presence on this list ≠ automatic exclusion or automatic stop:
+
+- SSRIs / SNRIs / other antidepressants  
+- MAOIs (historically high-caution class in many psychoactive contexts—clinician only)  
+- Antipsychotics  
+- Mood stabilizers  
+- Benzodiazepines and Z-drugs  
+- Stimulants  
+- Opioid agonists/antagonists and MOUD agents (separate clinical conversation)  
+- Antihistamines, antiemetics, antibiotics, and other QT-active non-psych meds  
+- Supplements (e.g., high-dose stimulants, unregulated “detox” stacks)
+
+**Rule:** full disclosure beats clever omission. Hiding meds to “get accepted” can kill.
+
+Prep guide: /blog/preparing-for-ibogaine-screening · Family guide: /blog/family-guide-ibogaine-treatment.
+
+
+## Red-flag clinic behavior around psych meds
+
+Walk away if a program:
+
+1. Emails a one-size taper PDF with no physician relationship  
+2. Says “stop everything 14 days before or we cancel—figure it out yourself”  
+3. Treats luxury booking deposits as more important than psych history  
+4. Claims SSRIs “block the cure” with guaranteed outcome language  
+5. Cites MISTIC oral+Mg as proof their IV psych protocol is FDA-like  
+
+Clinic choice: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Cure claims: /blog/ibogaine-cure-rate-claims · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+
+
+## How an ethical conversation usually sounds
+
+| Topic | Ethical posture |
+|-------|-----------------|
+| Who decides taper | Prescriber + screening physicians—not a blog or concierge |
+| Timing | Individualized; may mean delaying travel |
+| Goal | Risk reduction and stability—not forcing eligibility |
+| Documentation | Written med list, doses, last changes, allergies |
+| Outcome | “Not a candidate now” can be the safest answer |
+| Aftercare | Psych follow-up plan if meds change around treatment |
+
+Entity & journey: /what-is-ibogaine-infusion · /how-it-works · Aftercare: /blog/ibogaine-aftercare-integration · Legal: /blog/is-ibogaine-legal-us · Cost: /blog/cost-of-ibogaine-treatment.
+
+Comparisons that also refuse DIY: /blog/ibogaine-vs-ketamine-for-addiction · /blog/ibogaine-vs-naltrexone.
+
+
+
+
+## Practical script for your screening call (still not a taper plan)
+
+You can say:
+
+> “I take [medication names, doses, schedules]. My prescriber is [name]. I will not change medicines based on internet lists. Please tell me what your medical team needs from my psychiatrist/PCP before any eligibility decision. If the safe answer is to delay or decline, I want that answer in writing.”
+
+Bring:
+
+- Pharmacy printout or patient-portal med list  
+- Recent psych notes if available (with consent)  
+- History of discontinuation symptoms or prior crises when meds changed  
+- Any known QT issues on prior ECGs  
+
+If a concierge replies with only a stop-list PDF and a deposit link, that is not psychiatry—that is logistics pressure. Return to /safety-and-screening and /blog/how-to-choose-an-ibogaine-clinic.
+
+## Soft CTA
+
+Bring your complete medication list to a medical screening conversation—not to a forum poll. Start at /safety-and-screening, then /apply for a confidential consult. FAQ: /faq.
+
+
+## FAQ
+
+### Can I take ibogaine while on an SSRI?
+That is an individualized clinician decision—not something this page authorizes. Disclose SSRIs during screening.
+
+### Does this article give a taper schedule?
+No. Explicitly not. No DIY taper plan.
+
+### Why do clinics ask about psychiatric meds?
+Cardiac risk, interaction uncertainty, withdrawal/discontinuation risk, and psychiatric stability during a prolonged intense experience.
+
+### Is abrupt SSRI stop safer so I can travel next week?
+Abrupt cessation can be harmful. Do not rearrange medicines for a tourism deadline without licensed clinicians.
+
+### Do oral ibogaine studies define IV med rules?
+No. Route matters; controlled psychoactive-IV evidence is sparse.
+
+### Will stopping antidepressants guarantee better results?
+No. No cure/guarantee claims. Medication changes are about safety and stability, not guaranteed outcomes.
+
+### Is ibogaine FDA-approved for depression?
+No. Schedule I; not FDA-approved.
+
+### What should I do next?
+/safety-and-screening → /blog/preparing-for-ibogaine-screening → /apply.
+
+
+## Medical disclaimer
+
+Educational interaction caution only—**not a taper plan, not medical advice, and not a dosing guide**. Do not start, stop, or change psychiatric medications based on this article. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+
+## Sources (selected)
+
+1. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; QTc open-label findings supporting cardiac caution.  
+2. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC); open-label; not interaction RCT for psychoactive IV.  
+3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
+4. 21 CFR 1308.11 — Schedule I (ibogaine).
+`,
+  },
+  {
+    slug: "preparing-for-ibogaine-screening",
+    title: "Preparing for Ibogaine Screening: What to Gather Before a Consult",
+    description:
+      "Preparing for ibogaine screening: ECG, electrolytes, medication list, history. IV psychoactive ibogaine QTc focus. No DIY; no cure claims. Soft CTA to apply.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Preparing for ibogaine screening** means assembling medical history, medication lists, cardiac data, and substance-use timelines so a physician can decide whether **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under continuous cardiac monitoring—is even appropriate. Screening exists because ibogaine can prolong the **QTc** interval and has been linked to serious cardiac events. **Support IV** (fluids/magnesium/antiemetics) is not the psychoactive dose. **Evidence gap:** Much published literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** only); controlled psychoactive-IV evidence is sparse. Ibogaine is U.S. Schedule I and not FDA-approved. **No cures. No DIY.** Mexico programs discussed here are provisional only.
+
+## Quotable answer (54 words)
+
+Preparing for ibogaine screening means bringing a full medication list, cardiac history, recent labs if available, and an honest substance-use timeline. IV ibogaine infusion requires physician-supervised monitoring because of QTc risk; much published research remains oral. Screening can conclude you are not a candidate. That refusal is a safety outcome, not a sales failure.
+
+
+## Why preparation beats persuasion
+
+People who “sell themselves” into a program by minimizing heart history or hiding SSRIs are optimizing for acceptance—not survival. Ethical screening can delay or decline care. That is a feature.
+
+Start here: /safety-and-screening · Entity: /what-is-ibogaine-infusion · Process: /how-it-works · Apply when ready: /apply · FAQ: /faq.
+
+
+## Document checklist (bring what you can)
+
+### Identity & logistics
+- Legal name, DOB, emergency contacts  
+- Travel constraints (if cross-border)—without letting logistics override medicine  
+
+### Cardiac packet
+- Prior 12-lead ECGs (PDF photos OK if official copies pending)  
+- Cardiology notes, echo reports, device history if any  
+- Personal/family sudden death, long QT, syncope history  
+
+### Labs (if recently done; otherwise program may order)
+- Electrolytes (potassium, magnesium; calcium as indicated)  
+- Renal/hepatic panels as clinically relevant  
+- Other labs your clinicians already track  
+
+### Medication & supplement list (complete)
+- Prescription psych meds, cardiac meds, antibiotics, antiemetics  
+- OTCs, herbs, “detox” powders, stimulants, cannabis products  
+- Last dose times—without DIY stopping  
+
+Educational caution only: /blog/ibogaine-ssri-psychiatric-meds (not a taper plan).
+
+### Substance-use & withdrawal timeline
+- Primary substances, last use, prior complicated withdrawals  
+- MOUD history (methadone/buprenorphine/naltrexone) if relevant  
+- Alcohol/benzo dependence flags (medical withdrawal risk)  
+
+Condition context: /ibogaine-for-addiction · Comparisons: /blog/ibogaine-vs-naltrexone · /blog/ibogaine-vs-ketamine-for-addiction.
+
+### Psychiatric & trauma history
+- Diagnoses, hospitalizations, current therapists  
+- PTSD/depression goals stated without cure expectations: /ibogaine-for-ptsd · /ibogaine-for-depression  
+
+### Aftercare draft
+- Who meets you on return? Therapy slots? Peer support?  
+- See /blog/ibogaine-aftercare-integration  
+
+
+## Questions you should ask them (while they ask you)
+
+1. Who is the physician of record during infusion?  
+2. Continuous ECG/telemetry duration? ACLS readiness? Transfer plan?  
+3. Is psychoactive dose **IV**, oral, or mixed—**in writing**?  
+4. How is support IV magnesium/fluids labeled vs psychoactive IV?  
+5. What happens if QTc or labs fail—refund/reschedule policy?  
+6. Will they refuse “guaranteed cure” language?
+
+Telemetry: /blog/ibogaine-telemetry-acls-monitoring · Mortality/cardiac: /blog/ibogaine-mortality-cardiac-risk · Side effects: /blog/ibogaine-side-effects · Clinic choice: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism · Cure claims: /blog/ibogaine-cure-rate-claims · Stanford oral+Mg label: /blog/stanford-ibogaine-mistic · Legal: /blog/is-ibogaine-legal-us · Cost: /blog/cost-of-ibogaine-treatment · Family: /blog/family-guide-ibogaine-treatment.
+
+
+## What “pass screening” does not mean
+
+| It means | It does not mean |
+|----------|------------------|
+| Acute contraindications were not obvious on review | Zero cardiac risk |
+| Monitoring plan is acceptable to the team | FDA approval |
+| You understood route and consent | Guaranteed addiction/PTSD/depression cure |
+| Support IV may be used | Support IV is the medicine |
+
+Oral literature reminder: Knuijver oral QTc signals; Cherian/MISTIC oral + IV Mg—inform risk thinking, do not prove psychoactive IV safety or efficacy.
+
+
+## Week-before logistics (still not medical clearance)
+
+- Confirm how ECG files will be shared securely  
+- Arrange a sober support person who knows the emergency plan  
+- Avoid last-minute stimulant “productivity” stacks or mystery supplements  
+- Do not interpret a sales email saying “you’re approved pending deposit” as a cardiology clearance  
+- Re-read side-effect and monitoring pages so consent is informed, not theatrical  
+
+If cross-border care is in view, separate **provisional Mexico availability** from FDA/US clinic status. Medical infrastructure questions still dominate tourism amenities.
+
+
+## Common preparation mistakes
+
+- Stopping psychiatric meds from a forum timeline before talking to prescribers  
+- Booking nonrefundable luxury packages before ECG  
+- Assuming ketamine-clinic vibes equal ibogaine telemetry capability  
+- Hiding fentanyl/benzo use to avoid “judgment”  
+- Treating Mexico provisional availability as FDA equivalence  
+- Confusing Cherian/MISTIC **oral + IV Mg** with psychoactive IV proof  
+
+
+
+
+## How to organize files so screening goes faster
+
+Create one folder (cloud or USB) named \`ibogaine-screening-YYYY-MM\`:
+
+1. \`01-med-list.pdf\` — pharmacy printout  
+2. \`02-ecg/\` — prior tracings  
+3. \`03-cardiology-notes/\`  
+4. \`04-labs/\` — electrolytes and metabolic panels  
+5. \`05-psych-summary.pdf\` — short clinician letter if available  
+6. \`06-substance-timeline.txt\` — honest dates; no minimization  
+7. \`07-questions-for-clinic.txt\` — your telemetry/ACLS/route questions  
+
+Share only through channels the clinic’s privacy practice allows. Do not post ECGs in public Facebook groups for strangers to “read your QTc.”
+
+**Honesty rule:** If you used fentanyl yesterday, say so. If you skipped doses of buprenorphine, say so. Screening teams would rather reschedule than resuscitate.
+
+Pair with family support boundaries: /blog/family-guide-ibogaine-treatment.
+
+
+
+
+## Red flags during the screening process itself
+
+- “You’re approved” before any ECG review  
+- Requests to hide psychiatric medicines from the physician “so you qualify”  
+- Refusal to put psychoactive **route** in writing  
+- Pressure to wire funds the same day as the first sales call  
+- Dismissal of QTc questions as fear-mongering  
+- Treating Cherian/MISTIC **oral + IV magnesium** as proof you can skip telemetry  
+
+If you see these, slow down and reread /blog/ibogaine-luxury-retreat-red-flags and /blog/ibogaine-mortality-cardiac-risk. Screening is allowed to end in “not now.” That outcome can be the most protective one available.
+
+## Soft CTA
+
+Gather records first. Read /safety-and-screening, then request a confidential screening consult via /apply.
+
+
+## FAQ
+
+### What is the most important document to bring?
+A complete medication/supplement list plus any prior ECGs and cardiac history.
+
+### Can screening say no?
+Yes. Decline/delay is a valid safety outcome.
+
+### Do I need labs before the first call?
+Bring what you have; programs may require or repeat labs. Don’t invent DIY panels as a substitute for physician orders.
+
+### Should I taper meds before screening?
+Do not DIY taper. Discuss only with licensed clinicians.
+
+### Is IV ibogaine the same as a magnesium drip?
+No. Psychoactive IV ibogaine ≠ support IV magnesium/fluids.
+
+### Does passing screening guarantee results?
+No. No cure/guarantee claims.
+
+### Is ibogaine legal/FDA-approved in the U.S.?
+Schedule I federally; not FDA-approved.
+
+### What next?
+/safety-and-screening → /apply · /faq.
+
+
+## Medical disclaimer
+
+Educational preparation guide only—not medical advice and not a clearance letter. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+
+## Sources (selected)
+
+1. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; QTc open-label findings.  
+2. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC); open-label.  
+3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
+4. 21 CFR 1308.11 — Schedule I (ibogaine).
+`,
   }
 ];
 
