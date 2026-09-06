@@ -12132,6 +12132,329 @@ Brunt 2026 is cardiovascular complication teaching—not psychoactive IV ibogain
 4. Ona G. et al. *Psychopharmacology*. 2022. doi: **10.1007/s00213-021-05964-y**.  
 5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
 `,
+  },
+  {
+    slug: "davis-2020-ibogaine-5meo-veterans",
+    title: "Davis et al. 2020: Ibogaine + 5-MeO-DMT for Veterans’ Trauma-Related Symptoms (Observational Survey)",
+    description:
+      "Davis et al. Chronic Stress 2020: retrospective survey of oral ibogaine then 5-MeO-DMT in SOF veterans—not psychoactive IV proof; confounders matter.",
+    date: "2026-09-06",
+    readTime: "12 min",
+    content: `
+## Definition box
+
+**Definition:** **Davis A.K., Averill L.A., Sepeda N.D., Barsuglia J.P., Amoroso T. (2020)** in *Chronic Stress* (doi: **10.1177/2470547020939564**) is a **retrospective observational survey** of U.S. **Special Operations Forces (SOF) veterans** who completed a Mexico clinical program (2017–2019) using **sequential** psychoactive dosing: a single **oral** dose of **ibogaine hydrochloride (10 mg/kg)** with continuous cardiac monitoring and IV fluids, then later **inhaled 5-MeO-DMT** (multi-dose session). Of 65 eligible completers, **n = 51** (78%) answered questions comparing the **30 days before** vs **30 days after** treatment. Authors reported large retrospective self-report reductions in PTSD, depression, anxiety, cognitive impairment, and suicidal ideation, plus increased psychological flexibility—and explicitly labeled findings **preliminary** (no randomization, no blinding, survey design). This paper is **oral ibogaine + sequential 5-MeO-DMT** program evaluation—**not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy, and **not** a cure claim. Ibogaine is U.S. Schedule I and not FDA-approved. QTc/cardiac risk remains central to any ibogaine discussion.
+
+## Quotable answer (58 words)
+
+Davis and colleagues’ 2020 Chronic Stress survey of 51 SOF veterans found large retrospective symptom reductions after oral ibogaine then inhaled 5-MeO-DMT in a Mexico program. Design limits—self-report, no randomization—make findings preliminary. It does not prove psychoactive IV ibogaine infusion efficacy. Screen for QTc risk first. Not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+Search and clinic marketing often compress this paper into:
+
+> “Ibogaine cured veterans’ PTSD—Stanford/SOF proved it.”
+
+That compression fails on attribution, route, design, and combination therapy. Davis 2020 is a **named survey of a sequential oral-ibogaine + 5-MeO-DMT program**, not an IV-psychoactive RCT and not a license for consumer cure language. Pair with MISTIC oral+IV-magnesium teaching (/blog/stanford-ibogaine-mistic), PTSD condition page (/ibogaine-for-ptsd), and 5-MeO comparison (/blog/ibogaine-vs-5-meo-dmt). Soft CTA path: /safety-and-screening → /apply.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Davis A.K., Averill L.A., Sepeda N.D., Barsuglia J.P., Amoroso T. Psychedelic treatment for trauma-related psychological and cognitive impairment among US Special Operations Forces veterans. *Chronic Stress*. 2020;4:2470547020939564. doi **10.1177/2470547020939564** |
+| Type | Retrospective observational survey / program evaluation |
+| Setting | Residential clinical program in Mexico (2017–2019) |
+| Population | U.S. SOF veterans (mean age ~40; ~96% male; largely OEF/OIF) |
+| Analytic N | 51 of 65 eligible completers (78% response) |
+| Psychoactive sequence | Day 1: **oral** ibogaine HCl **10 mg/kg** (reported 99% purity) with continuous cardiac monitoring + IV fluids; Day 2: integration; Day 3: **inhaled 5-MeO-DMT** (escalating multi-dose protocol as described by authors) |
+| Outcomes window | Retrospective 30 days pre vs 30 days post (time since treatment varied ~1 month–2 years) |
+| Key domains | PTSD, depression, anxiety, cognitive impairment, suicidal ideation, psychological flexibility; subjective meaningfulness ratings |
+
+
+## Methods (plain language)
+
+Veterans who already completed the program were later surveyed about symptoms in the month before and after treatment. Screening in the clinical program (as described) included physician medical review, psychiatric intake, labs (CBC, metabolic panel, urine drug screen), **12-lead ECG**, and stress testing for selected higher-risk patients; contraindicated medications required pharmacist-designed tapering. The research design itself was **not** a randomized controlled trial: there was no placebo arm, no blinding, and outcomes were **retrospective self-report**. Combined sequential dosing means effects cannot be cleanly attributed to ibogaine alone, 5-MeO-DMT alone, or their interaction.
+
+
+## Key findings (no hype)
+
+Authors reported (all retrospective self-report; large effect sizes as published):
+
+- Significant reductions in **suicidal ideation**, **cognitive impairment**, **PTSD**, **depression**, and **anxiety** symptom scores (before-to-after).  
+- Significant increase in **psychological flexibility**, which correlated with larger symptom reductions.  
+- High rates rating experiences among top-five personally meaningful / spiritually significant / psychologically insightful life experiences.  
+- Authors’ own framing: findings are **preliminary**; randomized, double-blind, placebo-controlled trials are warranted.  
+- The paper as published did **not** provide a full adverse-event incidence package comparable to a prospective safety RCT—do not invent one.
+
+**Honest reading:** large survey effect sizes in a motivated SOF cohort generate research interest; they do **not** equal FDA-grade efficacy, do not prove durability for every reader, and do not prove any specific clinic’s **IV** brand protocol.
+
+A later related prospective open-label program-evaluation paper (Davis et al., *Am J Drug Alcohol Abuse* 2023; doi **10.1080/00952990.2023.2220874**) extends the same sequential model with follow-up timepoints—still **not** psychoactive IV proof and still not a cure claim. Keep citations distinct.
+
+
+## Limits and confounders
+
+| Limit / confounder | Why it matters |
+|--------------------|----------------|
+| Retrospective survey | Memory bias; expectancy; “after” window may be idealized |
+| No randomization / no blinding | Cannot isolate drug effect from setting, staff, or placebo-like expectancy |
+| Combined sequential model | Cannot attribute outcomes to ibogaine vs 5-MeO-DMT vs synergy vs therapy |
+| Self-selection / word-of-mouth referral | Healthier, wealthier, or more treatment-ready veterans may dominate |
+| Incomplete response (51/65) | Non-responders may differ systematically |
+| Variable time-since-treatment | Mixing 1-month and 2-year recall weakens causal clarity |
+| Mostly male SOF sample | Limited generalizability to other genders/civilian trauma |
+| Oral ibogaine route | **Not** evidence for psychoactive **IV** ibogaine infusion |
+| Safety/AE under-measurement risk | Symptom benefit narrative ≠ full cardiac safety dossier |
+| Not a cure trial | No license for “cures PTSD” marketing |
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+Davis 2020’s psychoactive ibogaine was **oral HCl 10 mg/kg**. Continuous cardiac monitoring and **IV fluids** during the oral session are **support/monitoring**—not psychoactive intravenous ibogaine. Do not conflate with:
+
+- Brand **IV ibogaine infusion** = physician-supervised **psychoactive IV** dosing entity on this site (/what-is-ibogaine-infusion, /blog/ibogaine-oral-vs-iv)  
+- MISTIC-style **oral ibogaine + IV magnesium** (/blog/stanford-ibogaine-mistic, /blog/magnesium-ibogaine-cardiac-protocol) — support IV ≠ psychoactive IV  
+
+Oral observational signals do not automatically transfer to IV kinetics, exposure curves, or risk profiles. Cardiac biology (QTc) still applies.
+
+
+## Cardiac / YMYL context
+
+Even when a survey emphasizes mental-health signals, ibogaine’s **QTc prolongation** and arrhythmia risk remain non-negotiable:
+
+- Oral QTc magnitude teaching: /blog/knuijver-2021-ibogaine-qtc-safety  
+- CYP2D6 / PK variability: /blog/knuijver-2024-ibogaine-pk-cyp2d6, /blog/ibogaine-cyp2d6-metabolism  
+- CV complications teaching: /blog/ibogaine-cardiovascular-complications-review  
+- Setting/monitoring map: /blog/ibogaine-setting-factors-safety-review-2023  
+- Pre-infusion ECG checklist: /blog/ibogaine-ecg-pre-infusion-checklist  
+- Contraindications: /blog/ibogaine-contraindications  
+
+A veterans-marketing page that never mentions ECG/telemetry fails YMYL honesty.
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “Davis 2020 proved IV ibogaine for PTSD” | **False** — oral + sequential 5-MeO; survey design |
+| “SOF data = FDA approval / cure” | **False** |
+| “Large d = guaranteed personal outcome” | **False** |
+| “IV fluids during oral session = psychoactive IV” | **False** |
+| Cite as oral sequential observational signal with named confounders? | **Yes** |
+
+U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us). Veterans/Right-to-Try context is separate legal framing—not efficacy proof (/blog/ibogaine-right-to-try-veterans).
+
+
+## Soft CTA
+
+If you are a veteran or family member comparing medically supervised options, read Davis 2020 as **hypothesis-generating oral + 5-MeO program data**, not as a promise. Start with cardiac and psychiatric screening education at /safety-and-screening, then /apply only if exploring physician-supervised **IV ibogaine infusion** questions. Entity: /what-is-ibogaine-infusion.
+
+
+## FAQ
+
+### What is the Davis 2020 paper?
+A retrospective survey in *Chronic Stress* of 51 U.S. SOF veterans after a Mexico program using oral ibogaine then inhaled 5-MeO-DMT (doi 10.1177/2470547020939564).
+
+### Was the ibogaine oral or IV?
+**Oral** ibogaine HCl (~10 mg/kg). IV fluids and cardiac monitoring were supportive—not psychoactive IV ibogaine.
+
+### Does this prove IV ibogaine infusion works?
+No. It is observational survey data on a sequential oral-ibogaine + 5-MeO-DMT model, not an IV psychoactive efficacy RCT.
+
+### Why can’t we credit ibogaine alone?
+The program used **sequential** ibogaine and 5-MeO-DMT plus preparation/integration support—effects are confounded.
+
+### Did authors call results definitive?
+No—they described findings as preliminary and called for controlled trials.
+
+### Does large effect size mean a cure?
+No. Self-report retrospective surveys can inflate apparent benefit; this site does not make cure claims.
+
+### Should cardiac screening still happen?
+Yes. Ibogaine can prolong QTc; ECG and medical screening remain essential (/safety-and-screening).
+
+### Is ibogaine FDA-approved?
+No. Schedule I in the U.S.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Davis 2020 is oral sequential observational survey literature—not psychoactive IV ibogaine efficacy proof and not a cure claim.
+
+
+## Sources (selected)
+
+1. Davis A.K., Averill L.A., Sepeda N.D., Barsuglia J.P., Amoroso T. Psychedelic treatment for trauma-related psychological and cognitive impairment among US Special Operations Forces veterans. *Chronic Stress*. 2020;4:2470547020939564. doi: **10.1177/2470547020939564**.  
+2. Davis A.K., Xin Y., Sepeda N., Averill L.A. Open-label study of consecutive ibogaine and 5-MeO-DMT assisted-therapy for trauma-exposed male Special Operations Forces Veterans: prospective data from a clinical program in Mexico. *Am J Drug Alcohol Abuse*. 2023;49(5):587–596. doi: **10.1080/00952990.2023.2220874**.  
+3. Cherian K.N. et al. *Nature Medicine*. 2024 — MISTIC oral ibogaine + IV magnesium (distinct protocol; not IV-psychoactive proof).  
+4. Knuijver T. et al. *Addiction*. 2021. doi: **10.1111/add.15448**.  
+5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
+  },
+  {
+    slug: "not-losing-momentum-ibogaine-trials-2025",
+    title: "Świeczkowski et al. 2025: “Not Losing Momentum”—Cross-Sectional Insights into Ibogaine Clinical Trials",
+    description:
+      "Świeczkowski et al. J Psychoactive Drugs 2025: cross-section of 9 early ibogaine trials—landscape ≠ personal access; cardiac safety; not IV proof.",
+    date: "2026-09-06",
+    readTime: "11 min",
+    content: `
+## Definition box
+
+**Definition:** **Świeczkowski D., Kwaśny A., Sadko K., Cubała W.J. (2025)** in *Journal of Psychoactive Drugs* (doi: **10.1080/02791072.2025.2491385**; PMID **40251723**) is a **cross-sectional landscape analysis** titled *Not Losing Momentum: Cross-Sectional Insights into Ibogaine Clinical Trials*. Authors searched major registries (ClinicalTrials.gov, EU Clinical Trials / EU CTR, WHO ICTRP), deduplicated records, and analyzed **nine** ibogaine trials. They report **early-phase dominance**, **methodological variability** (fixed- vs ascending-dose designs, heterogeneous inclusion/exclusion and outcomes), emphasis on **pharmacokinetics**, **withdrawal** signals, and **safety monitoring**, and **inconsistent handling of cardiovascular risk**. Preliminary therapeutic interest is noted, but **absence of large late-phase trials** blocks definitive efficacy conclusions. A registry landscape map is **not** personal treatment access, **not** a cure claim, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy. Ibogaine is U.S. Schedule I and not FDA-approved. QTc/cardiac safety themes remain central.
+
+## Quotable answer (57 words)
+
+Świeczkowski and colleagues’ 2025 Journal of Psychoactive Drugs cross-section of nine ibogaine trials finds early-phase work, design variability, and uneven cardiac-safety monitoring. Trial listings are not personal access and do not prove psychoactive IV ibogaine infusion efficacy. Large late-phase evidence is still missing. Schedule I; screen for QTc risk first.
+
+
+## Why this paper-spoke exists
+
+Families Google “ibogaine clinical trials” and often infer:
+
+> “Trials exist → I can enroll tomorrow → the drug is proven.”
+
+This paper is the antidote: a **registry cross-section** that shows momentum **and** methodological immaturity. Pair with Texas/state research bills (/blog/texas-ibogaine-clinical-trials, /blog/ibogaine-state-research-bills-2026), noribogaine vs IV framing (/blog/noribogaine-trials-vs-iv-infusion), and thirty-year research honesty (/blog/thirty-years-ibogaine-research-review). Soft CTA: /safety-and-screening → /apply.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Świeczkowski D., Kwaśny A., Sadko K., Cubała W.J. Not Losing Momentum: Cross-Sectional Insights into Ibogaine Clinical Trials. *J Psychoactive Drugs*. 2025 (published online 18 Apr 2025). doi **10.1080/02791072.2025.2491385**. PMID **40251723** |
+| Type | Cross-sectional analysis of registered clinical trials |
+| Sources | ClinicalTrials.gov; EU Clinical Trials / EU Clinical Trials Register; WHO ICTRP (as reported) |
+| Analytic set | **Nine** trials after screening/deduplication |
+| Focus | Design variability, dosing strategies, inclusion/exclusion, primary/secondary outcomes, safety—especially **cardiovascular** monitoring |
+| Dominant phase | Early-phase (PK, withdrawal, safety) |
+| Author conclusion thrust | Need standardized clinical frameworks; lessons from classical psychedelics/MDMA on blinding & expectancy; late-phase evidence still lacking |
+
+
+## Methods (plain language)
+
+This is not a new dosing RCT. Investigators pulled registered ibogaine trials from major public registries, cleaned duplicates, and described what the active/listed programs were actually designed to measure. Cross-sectional registry reviews are excellent for mapping **where science is**, not for proving **what works in your body**. Registry presence can also lag, duplicate, or overstate “recruiting” status—always verify the live record.
+
+
+## Key findings (no hype)
+
+Themes emphasized by the paper’s synthesis:
+
+- Commercial interest and **safety concerns** both constrain clinical development of ibogaine for substance use disorders.  
+- Analyzed trials show **considerable methodological variability** (fixed-dose vs ascending-dose; diverse eligibility; divergent endpoints).  
+- **Early-phase** work dominates: pharmacokinetics, withdrawal-symptom reduction, and safety monitoring.  
+- **Cardiovascular risk** monitoring approaches differ meaningfully across protocols—an honesty gap families should notice.  
+- Preliminary signals of therapeutic interest exist in the broader literature the authors reference, but **lack of large late-phase trials** prevents definitive efficacy conclusions.  
+- Authors call for a **standardized clinical framework** and note that lessons from classical psychedelics and MDMA research (blinding, expectancy bias) could improve design quality.
+
+**Honest reading:** “Not losing momentum” describes research activity—not guaranteed consumer access, not FDA approval, and not a cure rate.
+
+
+## Limits and confounders
+
+| Limit | Why it matters |
+|-------|----------------|
+| Cross-section of registries | Snapshot; status changes; not outcome meta-analysis of completed RCTs |
+| Only nine trials | Small landscape; do not inflate into “dozens of Phase 3 programs” |
+| Registry ≠ completed evidence | A listed trial can be unfinished, terminated, or underpowered |
+| Heterogeneous endpoints | Hard to pool “does it work?” across withdrawal vs PK vs psychiatric scales |
+| Route/formulation often oral or unspecified in SUD trial tradition | Landscape ≠ psychoactive **IV** brand proof |
+| Access ≠ eligibility | Even open trials have strict cardiac/psychiatric exclusions |
+| Schedule I friction | U.S. personal access remains legally constrained outside approved research pathways |
+
+
+## Trial landscape ≠ personal access
+
+Critical YMYL distinctions:
+
+1. **Seeing a ClinicalTrials.gov row ≠ enrollment tomorrow.** Geography, phase, sponsor, inclusion criteria, and cardiac screens block most readers.  
+2. **Research momentum ≠ product approval.** Ibogaine remains **Schedule I** in the U.S. and **not FDA-approved** for any indication (/blog/is-ibogaine-legal-us).  
+3. **Observational clinic programs abroad ≠ registered late-phase RCTs.** Do not swap labels.  
+4. **State research bills / funding interest** (/blog/texas-ibogaine-clinical-trials) may expand future trials—they do not create a consumer “cure product” today.  
+5. Brand **IV ibogaine infusion** questions still require route honesty and medical screening—trial headlines do not waive ECG.
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+Most historical and many ongoing human ibogaine programs use **oral** (or formulation-unspecified) dosing. A registry landscape that catalogs early SUD trials does **not** automatically validate physician-supervised **psychoactive intravenous** delivery. Support IV (e.g., fluids, magnesium in some oral protocols) is still **not** psychoactive IV (/blog/ibogaine-oral-vs-iv, /blog/stanford-ibogaine-mistic, /blog/magnesium-ibogaine-cardiac-protocol). Entity hub: /what-is-ibogaine-infusion.
+
+
+## Cardiac / YMYL context — what the landscape paper reinforces
+
+The authors flag **inconsistent cardiovascular-safety handling** across trials. That maps directly onto family due diligence:
+
+| Landscape theme | Practical implication |
+|-----------------|------------------------|
+| QTc / CV risk is a development bottleneck | Demand baseline + serial ECG / telemetry culture |
+| Early trials prioritize safety/PK | Do not skip screening because “research exists” |
+| Variable monitoring standards | Ask clinics to show written cardiac protocols |
+| No large late-phase certainty | Reject cure marketing that cites “ongoing trials” |
+
+Deep dives: /blog/knuijver-2021-ibogaine-qtc-safety, /blog/ibogaine-cardiovascular-complications-review, /blog/ibogaine-setting-factors-safety-review-2023, /blog/ibogaine-ecg-pre-infusion-checklist, /blog/ibogaine-telemetry-acls-monitoring, /blog/ibogaine-contraindications.
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “Nine trials = proven treatment” | **False** — early-phase landscape |
+| “Trials mean anyone can access ibogaine legally in the U.S.” | **False** — Schedule I; research pathways are narrow |
+| “Landscape proves psychoactive IV brand efficacy” | **False** |
+| “Momentum = no cardiac risk” | **Dangerously false** |
+| Cite as honest map of early trial variability + CV monitoring gaps? | **Yes** |
+
+No cure claims. Anti-addictive evidence across the field remains incomplete pending rigorous late-phase work (see also Köck et al. thirty-year narrative caution: /blog/thirty-years-ibogaine-research-review).
+
+
+## Soft CTA
+
+If trial headlines made you hopeful, keep the hope **and** the homework. Learn cardiac and psychiatric screening expectations at /safety-and-screening, then /apply only if exploring physician-supervised **IV ibogaine infusion** questions with eyes open. Entity: /what-is-ibogaine-infusion.
+
+
+## FAQ
+
+### What is the “Not Losing Momentum” paper?
+A 2025 *Journal of Psychoactive Drugs* cross-sectional analysis of nine registered ibogaine clinical trials (doi 10.1080/02791072.2025.2491385).
+
+### Does a listed trial mean I can get treatment next week?
+No. Landscape ≠ personal access. Eligibility, location, phase, and legal status usually block casual enrollment.
+
+### Are most trials late-phase efficacy proof?
+No—authors describe early-phase dominance focused on PK, withdrawal, and safety.
+
+### What safety theme stands out?
+Inconsistent attention to **cardiovascular / QTc** risk monitoring across protocols.
+
+### Does this prove IV ibogaine infusion works?
+No. It maps trial design variability; it is not an efficacy RCT for psychoactive IV dosing.
+
+### Is ibogaine FDA-approved because trials exist?
+No. Schedule I in the U.S.; not FDA-approved for any indication.
+
+### Should families still demand ECG/telemetry?
+Yes (/blog/ibogaine-ecg-pre-infusion-checklist, /safety-and-screening).
+
+### Where should screening start?
+/safety-and-screening, then /apply if appropriate.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Świeczkowski et al. 2025 is a clinical-trial landscape cross-section—not personal access, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
+
+
+## Sources (selected)
+
+1. Świeczkowski D., Kwaśny A., Sadko K., Cubała W.J. Not Losing Momentum: Cross-Sectional Insights into Ibogaine Clinical Trials. *J Psychoactive Drugs*. 2025. doi: **10.1080/02791072.2025.2491385**. PMID: **40251723**.  
+2. Knuijver T. et al. *Addiction*. 2021. doi: **10.1111/add.15448**.  
+3. Brunt T.M. *Addiction*. 2026. doi: **10.1111/add.70319**.  
+4. Köck P. et al. Thirty Years of Ibogaine Research. *J Clin Psychopharmacol*. 2025. doi: **10.1097/jcp.0000000000002197**.  
+5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
   }
 ];
 
