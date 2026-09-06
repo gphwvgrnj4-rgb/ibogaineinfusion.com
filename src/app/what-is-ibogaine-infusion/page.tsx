@@ -143,8 +143,11 @@ export default function WhatIsPage() {
               FDA-approved for detoxification, depression, PTSD, or any other indication.
             </li>
             <li>
-              Many programs operate outside the U.S. “Available abroad” ≠ approved medicine or
-              uniform specialty regulation.
+              Physician-supervised IV ibogaine infusion programs{" "}
+              <strong>discussed on this site</strong> are{" "}
+              <strong>provisionally available in Mexico</strong>. That is not FDA-approved U.S.
+              clinic care. “Available abroad” ≠ approved medicine, uniform specialty regulation, or
+              a guarantee of suitability or outcome. Not legal advice.
             </li>
           </ul>
 

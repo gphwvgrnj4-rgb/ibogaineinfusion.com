@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
+import { JurisdictionNote } from "@/components/JurisdictionNote";
 import { JsonLd } from "@/components/JsonLd";
 import { breadcrumbList, faqPage } from "@/lib/schema";
 import { siteConfig } from "@/lib/site";
@@ -64,12 +65,12 @@ const faqs = [
     a: "Under U.S. federal law, ibogaine is a Schedule I controlled substance. This is not legal advice; jurisdiction and travel questions require qualified counsel. /blog/is-ibogaine-legal-us",
   },
   {
-    q: "Is supervised IV ibogaine infusion available in Mexico?",
-    a: "Yes — inquiry and treatment are available provisionally in Mexico under a supervised medical framing. This is not a U.S. FDA-approved clinic. Screening is required first; jurisdiction and legal context are discussed transparently. We are not affiliated with Eleusis or other brands.",
+    q: "Are programs available in Mexico?",
+    a: "Physician-supervised IV ibogaine infusion programs discussed on this site are provisionally available in Mexico. That is not the same as FDA-approved care in the United States. Ibogaine remains Schedule I federally and is not FDA-approved. Foreign availability is not legal advice, not a guarantee you will qualify, and not a prediction of benefit or safety. See /safety-and-screening and /blog/is-ibogaine-legal-us (educational only).",
   },
   {
     q: "What does “provisionally in Mexico” mean?",
-    a: "It means a supervised path may be available there now, while logistics, staffing, and program details can still evolve. Website copy is not a guarantee of admission, timing, or outcomes. A confidential application and medical screening are the correct next steps for current facts.",
+    a: "It means physician-supervised IV ibogaine infusion programs discussed here may be offered in Mexico now, while logistics, staffing, and program details can still evolve. Provisional availability is not U.S. FDA approval, not a guarantee of admission or legality for any traveler, and not a prediction of benefit or safety. A confidential application and medical screening are the correct next steps for current facts.",
   },
   {
     q: "Does ibogaine cure addiction?",
@@ -89,7 +90,7 @@ const faqs = [
   },
   {
     q: "How much does IV ibogaine infusion cost?",
-    a: "Market-reported medical program totals often span roughly $6,000–$25,000 depending on physician oversight, monitoring, observation length, and inclusions. Insurance usually does not cover. Extremely cheap quotes without cardiac infrastructure are a red flag. /blog/cost-of-ibogaine-treatment · /blog/ibogaine-treatment-package · /blog/cheap-ibogaine-clinic-red-flags",
+    a: "Market-reported (not a quote) medical program totals often span roughly $6,000–$25,000 depending on physician oversight, monitoring, observation length, and inclusions — commonly cash-pay for provisional programs abroad (including Mexico). Insurance usually does not cover. Extremely cheap quotes without cardiac infrastructure are a red flag. /blog/cost-of-ibogaine-treatment · /blog/ibogaine-treatment-package · /blog/cheap-ibogaine-clinic-red-flags",
   },
   {
     q: "How do I choose a clinic?",
@@ -133,6 +134,7 @@ export default function FaqPage() {
             Mexico availability, cost, and limits — clarity over hype.
           </p>
           <Disclaimer className="mt-8" />
+          <JurisdictionNote variant="card" context="home" className="mt-6" />
         </Container>
       </section>
 

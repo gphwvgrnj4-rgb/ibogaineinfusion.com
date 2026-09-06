@@ -503,11 +503,11 @@ Educational only—not medical advice. Ibogaine can cause fatal arrhythmias. See
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine infusion cost** means the all-in price of **IV ibogaine infusion** programs—**intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting (consult → screen → monitored infusion → integration). Prices usually cover multi-day lodging, medical staffing, documented IV psychoactive administration, support IV as needed (fluids/electrolytes/antiemetics), and continuous cardiac monitoring—not a simple “drug fee.” **Evidence/context note:** Published clinical literature is still largely **oral**-route; cost pages must not invent “IV clinical trial packages.” Ibogaine is not FDA-approved; U.S. insurance rarely covers it. Market-reported totals commonly span roughly **$6,000–$25,000**.
+**Definition:** **Ibogaine infusion cost** means the all-in price of **IV ibogaine infusion** programs—**intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting (consult → screen → monitored infusion → integration). Prices usually cover multi-day lodging, medical staffing, documented IV psychoactive administration, support IV as needed (fluids/electrolytes/antiemetics), and continuous cardiac monitoring—not a simple “drug fee.” **Evidence/context note:** Published clinical literature is still largely **oral**-route; cost pages must not invent “IV clinical trial packages.” Ibogaine is not FDA-approved; U.S. insurance rarely covers it. **Market-reported / not a quote:** consumer-discussed medical totals commonly span roughly **$6,000–$25,000**, often as **cash-pay** for provisional programs abroad (including Mexico). This is educational context — not an invoice, guarantee, or U.S. billing estimate.
 
 ## Quotable answer (52 words)
 
-IV ibogaine infusion cost typically ranges about $6,000–$25,000 for medical programs that include physician supervision, cardiac screening, continuous monitoring, and multi-day care around intravenous psychoactive ibogaine. Insurance usually does not cover it. Lower prices that skip telemetry or blur oral versus IV dosing are a safety red flag.
+Market-reported (not a quote) IV ibogaine infusion totals often span about $6,000–$25,000 for medical programs that include physician supervision, cardiac screening, continuous monitoring, and multi-day care — commonly cash-pay for provisional Mexico / abroad pathways, not U.S. insurance billing. Insurance usually does not cover it. Lower prices that skip telemetry or blur oral versus IV dosing are a safety red flag.
 
 ## Why prices vary
 
@@ -530,7 +530,7 @@ Luxury rooms without monitoring are not a medical bargain.
 | Mid medical | ~$6k–$15k | Physician oversight, telemetry, labs, clear inclusions |
 | Premium medical | ~$15k–$25k+ | Higher staffing ratios, longer observation, structured aftercare |
 
-Ranges are **market-reported aggregates**, not a single study or guaranteed invoice.
+Ranges are **market-reported aggregates / not a quote** — not a single study, guaranteed invoice, or U.S. payer rate. Provisional Mexico cash-pay context does not imply FDA-approved U.S. clinic pricing.
 
 ## Good-cost checklist (ask in writing)
 

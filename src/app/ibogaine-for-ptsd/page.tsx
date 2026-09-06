@@ -44,6 +44,11 @@ export default function PtsdPage() {
             dose.
           </p>
           <Disclaimer className="mt-8" />
+          <p className="mt-6 text-sm leading-relaxed text-ink/75">
+            Programs discussed on this site for physician-supervised IV ibogaine infusion are{" "}
+            <strong className="text-ink">provisionally available in Mexico</strong> — not an
+            FDA-approved U.S. clinic treatment. Educational only; not legal advice.
+          </p>
         </Container>
       </section>
 

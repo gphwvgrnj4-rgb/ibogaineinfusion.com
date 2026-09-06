@@ -45,26 +45,12 @@ export default function SafetyPage() {
             bureaucracy; it is the ethical center of a supervised path.
           </p>
           <Disclaimer className="mt-8" />
-          <JurisdictionNote variant="card" className="mt-6" />
+          <JurisdictionNote variant="card" context="safety" className="mt-6" />
         </Container>
       </section>
 
       <section className="py-16 sm:py-20">
         <Container className="prose-clinical max-w-3xl">
-          <h2>Provisional Mexico availability</h2>
-          <p>
-            Supervised IV ibogaine infusion inquiry and treatment are available{" "}
-            <strong>provisionally in Mexico</strong>. This is not a U.S. FDA-approved clinic or
-            treatment. Screening comes first. Jurisdiction, local medical oversight, and travel
-            realities are discussed transparently before any treatment conversation. We make no
-            affiliation claims with Eleusis or other brands.
-          </p>
-          <p>
-            Availability being provisional means pathways, staffing, and logistics can evolve —
-            your screening conversation is the place for current, personalized facts rather than
-            website guarantees.
-          </p>
-
           <h2>The risk you cannot market away</h2>
           <p>
             Deaths associated with ibogaine in non-medical and medical-adjacent settings have been

@@ -35,10 +35,12 @@ export function Footer() {
             {siteConfig.oneLiner}
           </p>
           <p className="mt-4 max-w-md text-sm leading-relaxed text-cream/70">
-            Supervised IV ibogaine infusion inquiry and treatment are available{" "}
-            <strong className="font-semibold text-cream">provisionally in Mexico</strong>.
-            Not a U.S. FDA-approved clinic. Screening-first; jurisdiction discussed with transparency.
-            No affiliation with Eleusis or other brands.
+            Physician-supervised IV ibogaine infusion programs discussed here are{" "}
+            <strong className="font-semibold text-cream">provisionally available in Mexico</strong> —
+            not an FDA-approved U.S. clinic treatment. Journey shape may resemble infusion-clinic care
+            (consult → screen → monitored infusion → integration); that is{" "}
+            <em>not</em> ketamine legal, evidence, or risk equivalence. Screening-first; Schedule I /
+            not FDA-approved in the U.S. Educational only — not legal or medical advice.
           </p>
           <p className="mt-4 text-xs leading-relaxed text-cream/55">
             Educational and inquiry content only. No cure claims. Ibogaine involves

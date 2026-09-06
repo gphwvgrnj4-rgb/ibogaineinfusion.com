@@ -123,6 +123,12 @@ export default function HowItWorksPage() {
               <strong>Evidence gap:</strong> Most published clinical series describe oral ibogaine HCl,
               often with IV support — not IV psychoactive RCTs.
             </p>
+            <p>
+              Programs discussed here are <strong>provisionally available in Mexico</strong> — not an
+              FDA-approved U.S. clinic pathway. Journey shape may resemble infusion-clinic care; that
+              is not legal, evidence, or risk equivalence with ketamine. Screening-first; educational
+              only.
+            </p>
           </div>
 
           {steps.map((item) => (

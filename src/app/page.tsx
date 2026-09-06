@@ -21,8 +21,8 @@ const homeFaqs = [
     a: "Intravenous delivery of ibogaine as the psychoactive treatment under physician supervision in a medical infusion setting, with cardiac screening, continuous monitoring, and integration afterward.",
   },
   {
-    q: "Is treatment available in Mexico?",
-    a: "Supervised IV ibogaine infusion inquiry and treatment are available provisionally in Mexico. This is not a U.S. FDA-approved clinic. Screening comes first, with clear jurisdiction transparency before any travel or treatment conversation. We are not affiliated with Eleusis or other brands.",
+    q: "Are programs available in Mexico?",
+    a: "Physician-supervised IV ibogaine infusion programs discussed on this site are provisionally available in Mexico. That is not the same as FDA-approved care in the United States. Ibogaine remains Schedule I federally and is not FDA-approved. Foreign availability is not legal advice, not a guarantee you will qualify, and not a prediction of benefit or safety. See /safety-and-screening and /blog/is-ibogaine-legal-us (educational only).",
   },
   {
     q: "Is published research mostly oral?",
@@ -129,7 +129,7 @@ export default function HomePage() {
         </Container>
       </section>
 
-      <JurisdictionNote />
+      <JurisdictionNote context="home" />
 
       <section className="border-b border-forest/10 bg-white py-20 sm:py-24">
         <Container>
@@ -143,9 +143,10 @@ export default function HomePage() {
             <p>
               <strong>IV ibogaine infusion</strong> (also called intravenous ibogaine) is the psychoactive
               delivery of ibogaine by intravenous infusion under physician supervision. The patient journey
-              parallels ketamine infusion clinics: <strong>consult → cardiac screening → monitored IV infusion →
-              integration</strong>. Continuous ECG/telemetry is non-negotiable because ibogaine can prolong the
-              QTc interval.
+              parallels ketamine infusion clinics in <strong>journey shape only</strong> (
+              <strong>consult → cardiac screening → monitored IV infusion → integration</strong>) —{" "}
+              <em>not</em> legal, evidence, or risk equivalence. Continuous ECG/telemetry is non-negotiable
+              because ibogaine can prolong the QTc interval.
             </p>
             <p>
               <strong>Evidence gap:</strong> Most published clinical literature — including Cherian et al.,{" "}
@@ -201,9 +202,9 @@ export default function HomePage() {
               <p className="mt-5 text-base leading-relaxed text-cream/85">
                 Luxury here means dignity and clinical seriousness — not spectacle. Private space,
                 physician oversight, and continuous monitoring for true psychoactive IV ibogaine
-                infusion. Inquiry and treatment are available{" "}
-                <strong className="text-cream">provisionally in Mexico</strong>; this is not a U.S.
-                FDA-approved clinic.
+                infusion. Programs discussed on this site are{" "}
+                <strong className="text-cream">provisionally available in Mexico</strong> — not an
+                FDA-approved U.S. clinic pathway.
               </p>
               <ul className="mt-6 space-y-2.5 text-sm text-cream/80">
                 <li>• Continuous cardiac monitoring during the high-risk window</li>
@@ -241,7 +242,7 @@ export default function HomePage() {
             <li>Physician oversight and emergency preparedness</li>
             <li>Written clarity on psychoactive route and any concurrent support IV</li>
           </ul>
-          <JurisdictionNote variant="card" className="mt-10" />
+          <JurisdictionNote variant="card" context="home" className="mt-10" />
           <p className="mt-6 text-sm text-ink/75">
             <Link href="/safety-and-screening" className="font-semibold text-forest-mid hover:underline">
               Safety &amp; screening

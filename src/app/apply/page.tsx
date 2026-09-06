@@ -34,7 +34,7 @@ const faqs = [
   },
   {
     q: "Where is treatment available?",
-    a: "Supervised IV ibogaine infusion is available provisionally in Mexico. It is not FDA-approved and is Schedule I under U.S. federal law.",
+    a: "Physician-supervised IV ibogaine infusion programs discussed on this site are provisionally available in Mexico. This is not an FDA-approved U.S. clinic pathway, not automatic admission, and not a promise of legality, travel clearance, or outcome. Ibogaine is Schedule I in the United States. Screening and cardiac monitoring remain mandatory.",
   },
 ];
 
@@ -76,7 +76,7 @@ export default function ApplyPage() {
               <strong className="text-ink">true psychoactive intravenous ibogaine</strong> under
               physician supervision (consult → cardiac screen → monitored IV infusion → integration).
             </p>
-            <JurisdictionNote variant="card" className="mt-6" />
+            <JurisdictionNote variant="card" context="apply" className="mt-6" />
             <Disclaimer className="mt-6" />
 
             <h2 className="mt-8 font-serif text-2xl text-forest">What this application covers</h2>

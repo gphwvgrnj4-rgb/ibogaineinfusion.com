@@ -1048,11 +1048,14 @@ export function ApplicationForm() {
                 required
               />
               <span>
-                I understand supervised IV ibogaine infusion is available{" "}
-                <strong className="text-forest">provisionally in Mexico</strong>, is{" "}
-                <strong className="text-forest">not U.S. FDA-approved</strong>, is not a guaranteed
-                cure or outcome, and that medical screening is required before any treatment
-                conversation.
+                I understand this educational inquiry is{" "}
+                <strong className="text-forest">not a guarantee of treatment eligibility</strong>;
+                that physician-supervised IV ibogaine programs discussed here are available{" "}
+                <strong className="text-forest">provisionally in Mexico</strong> and are{" "}
+                <strong className="text-forest">not</strong> an FDA-approved U.S. clinic pathway;
+                that ibogaine involves <strong className="text-forest">serious cardiac risk</strong>{" "}
+                (including QTc / arrhythmia concerns); and that this is not a promise of legality,
+                travel clearance, cure, or clinical outcome. Medical screening remains mandatory.
                 <RequiredMark />
               </span>
             </label>
