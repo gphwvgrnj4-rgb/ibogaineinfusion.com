@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+:root {
+  --forest: #0F3D2E;
+  --forest-mid: #1A4D3A;
+  --sage: #C5D4C8;
+  --cream: #F4F1EC;
+  --ink: #1C1C1C;
+  --accent: #B08D57;
+  --background: #F4F1EC;
+  --foreground: #1C1C1C;
+}
+
+@theme inline {
+  --color-forest: var(--forest);
+  --color-forest-mid: var(--forest-mid);
+  --color-sage: var(--sage);
+  --color-cream: var(--cream);
+  --color-ink: var(--ink);
+  --color-accent: var(--accent);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-dm-sans);
+  --font-serif: var(--font-fraunces);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+::selection {
+  background: var(--sage);
+  color: var(--forest);
+}
+
+.prose-clinical h2 {
+  color: var(--forest);
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose-clinical h3 {
+  color: var(--forest-mid);
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.prose-clinical p {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+  color: #3a3a3a;
+}
+
+.prose-clinical ul {
+  list-style: disc;
+  padding-left: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.prose-clinical li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+  color: #3a3a3a;
+}
+
+.prose-clinical a {
+  color: var(--forest-mid);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose-clinical strong {
+  color: var(--ink);
+  font-weight: 600;
+}
