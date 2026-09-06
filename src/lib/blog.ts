@@ -10195,6 +10195,346 @@ Brown & Alper 2018 is oral observational OUD literature—not psychoactive IV ib
 5. Köck P. et al. *J Subst Abuse Treat*. 2022. doi: 10.1016/j.jsat.2021.108717.  
 6. 21 CFR 1308.11 — ibogaine Schedule I (United States).
 `,
+  },
+  {
+    slug: "noller-2018-ibogaine-new-zealand",
+    title: "Noller et al. 2018: New Zealand Oral Ibogaine Observational Outcomes — Including One Death During Treatment",
+    description:
+      "Noller et al. 2018 Am J Drug Alcohol Abuse n=14 NZ oral ibogaine: 12-mo ASI/BDI gains; ONE death during treatment—discuss honestly. Not IV-ibogaine proof.",
+    date: "2026-09-06",
+    readTime: "14 min",
+    content: `
+## Definition box
+
+**Definition:** **Noller, Frampton & Yazar-Klosinski (2018)** in *The American Journal of Drug and Alcohol Abuse* (doi: **10.1080/00952990.2017.1310218**) is a twelve-month **observational** study of **n=14** adults (50% female) receiving **legal oral ibogaine** treatment for opioid dependence in New Zealand. Primary outcome was Addiction Severity Index-Lite (ASI-Lite); secondary measures included Beck Depression Inventory-II (BDI-II) and Subjective Opioid Withdrawal Scale (SOWS). Completers with full interview series (**n=8**) showed significant reductions in ASI-Lite drug-use composite and BDI-II scores at 12 months; SOWS fell acutely after treatment in all 14. **One patient enrolled in the study died during treatment**—a fact the paper states and that this page discusses honestly. This is **not** a randomized controlled trial, **not** FDA approval evidence, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Most published clinical ibogaine literature is oral. Cardiac QTc risk remains central. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+## Quotable answer (59 words)
+
+Noller and colleagues’ 2018 New Zealand observational study of 14 people treated with oral ibogaine for opioid dependence reported 12-month ASI and depression improvements in completers—and one death during treatment. It is not an RCT and not evidence for psychoactive IV ibogaine infusion. Cardiac risk and monitoring culture still matter. Ibogaine is not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+Noller 2018 is frequently cited for “durable NZ outcomes” while the enrolled fatality is sometimes omitted in marketing. Honest paper-spokes name both the ASI/BDI signals **and** the death. Searchers comparing Brown & Alper 2018, Mash 2018, and this NZ cohort need route labels and risk literacy—not cure rates.
+
+Related: /blog/brown-alper-2018-ibogaine-oud · /blog/mash-2018-ibogaine-detox-frontiers · /blog/ibogaine-mortality-cardiac-risk · Oral vs IV: /blog/ibogaine-oral-vs-iv · Entity: /what-is-ibogaine-infusion.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Noller G.E., Frampton C.M., Yazar-Klosinski B. *Am J Drug Alcohol Abuse*. 2018;44(1):37–46. doi **10.1080/00952990.2017.1310218** |
+| Design | Prospective observational 12-month follow-up |
+| N | **14** participants (50% female) with opioid dependence |
+| Setting | New Zealand — ibogaine legally available; two treatment providers |
+| Psychoactive route | **Oral** ibogaine (single treatment episode as described) |
+| Primary outcome | Addiction Severity Index-Lite (ASI-Lite) composites over 12 months |
+| Secondary | BDI-II (depression); SOWS (acute opioid withdrawal) |
+| Completers | **n=8** with all interviews; **n=4** partial data; **1 death** during treatment |
+| What it is not | RCT; IV-psychoactive ibogaine proof; FDA package; license to skip screening |
+
+Readers should open the primary paper for exact composites, provider context, coronial discussion, and limitation language.
+
+
+## Methods (plain language)
+
+Adults seeking legal ibogaine treatment for opioid dependence in New Zealand were followed observationally after a single ibogaine treatment episode delivered by either of two providers. Researchers scored addiction severity with ASI-Lite across baseline and scheduled follow-ups through 12 months, tracked depression with BDI-II, and measured acute withdrawal with SOWS before and immediately after treatment.
+
+Plain-language design features:
+
+1. **No randomization / no placebo control.**  
+2. **Small N** — 14 enrolled; only 8 completed the full interview series.  
+3. **Legal NZ context** differs from U.S. Schedule I reality; legality ≠ cardiac safety.  
+4. **Provider heterogeneity** — two treatment providers; monitoring intensity can vary.  
+5. **Self-selected** treatment seekers; results do not generalize to all OUD patients.  
+6. **Mortality captured** — one enrolled participant died during treatment and must remain in any honest synopsis.
+
+
+## Key findings (no hype)
+
+As reported by the authors:
+
+- Among participants completing all interviews (**n=8**), Friedman tests showed a **significant reduction** in ASI-Lite **drug-use** composite from baseline to 12 months (**p = 0.002**).  
+- BDI-II depression scores also fell significantly from baseline to 12-month follow-up (**p < 0.001**) in completers.  
+- SOWS scores for all participants (**n=14**) showed **significant acute reductions** after treatment (**p = 0.015**).  
+- Participants with **partial data (n=4)** also showed reductions in ASI-Lite drug-use scores and family/social problem domains (as reported).  
+- Authors framed outcomes as opioid cessation or sustained reduced use over 12 months in this small cohort—**observational**, not RCT-proven cure rates.  
+- **One patient enrolled in the study died during treatment.** Subsequent New Zealand Health and Disability Commissioner and coronial processes (discussed in the paper’s context) involved duty-of-care and monitoring concerns; the coroner noted the death was very likely related to ibogaine even without clear post-mortem cardiac pathology defining a single mechanism.
+
+**Honest reading:** durable *observed* ASI/BDI trajectories in a tiny NZ completer subset are scientifically interesting and motivate safer, better-monitored research. They are **not** population “success rates,” **not** proof that unsupervised or under-monitored treatment is safe, and **not** evidence for psychoactive IV ibogaine.
+
+
+## The death: discuss honestly
+
+YMYL pages that cite Noller without the fatality mislead patients and families.
+
+| Point | Accurate framing |
+|-------|------------------|
+| Fact | One enrolled participant **died during treatment** |
+| Design implication | Outcome analyses on survivors/completers do not erase treatment-period mortality |
+| Investigations | NZ HDC / coronial context described duty-of-care failures (monitoring/informed consent concerns in public record discussed by authors) |
+| Mechanism certainty | Absence of a single definitive post-mortem cardiac lesion does **not** equal “ibogaine-safe”; coroner still linked death as likely ibogaine-related |
+| Clinical takeaway | Continuous monitoring, ECG/electrolytes, and medical readiness are non-negotiable—not optional spa add-ons |
+| Marketing misuse | “NZ study proves safe long-term detox” is **false** |
+
+See also: /blog/ibogaine-mortality-cardiac-risk, /blog/ibogaine-telemetry-acls-monitoring, /safety-and-screening.
+
+
+## Limits and confounders
+
+| Limit | Why it matters |
+|-------|----------------|
+| Observational / no RCT control | Cannot prove causality vs expectancy, setting, or concurrent supports |
+| Tiny completer N (8/14) | Completers may differ systematically from dropouts |
+| Enrolled death | Efficacy narratives that ignore mortality are incomplete |
+| Self-report / interview outcomes | Underreporting of use possible |
+| Provider / setting variability | Legal NZ ≠ uniform ICU-grade cardiac protocol |
+| Selection effects | Motivated NZ patients ≠ all OUD populations |
+| Route | **Oral** — does not validate psychoactive IV |
+| Cardiac literature still applies | Knuijver 2021 QTc data and fatality reviews remain relevant |
+
+Systematic reviews (Köck 2022; Mosca 2023) already stress limited RCTs and cardiotoxicity/mortality concerns across clinical ibogaine literature.
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+Noller 2018 reflects **oral** ibogaine in a New Zealand treatment context. That is chemically and pharmacokinetically different from this site’s entity: **IV ibogaine infusion** as **psychoactive intravenous** delivery under physician supervision.
+
+Support IVs (fluids, magnesium, antiemetics) used in some modern programs are **not** the same as psychoactive IV ibogaine (/blog/electrolytes-support-iv-vs-psychoactive-iv, /blog/magnesium-ibogaine-cardiac-protocol).
+
+Clinics that cite “the New Zealand 12-month IV study” should be asked in writing: **Was the psychoactive dose oral or intravenous?**
+
+
+## Cardiac / YMYL context
+
+Ibogaine has been associated with QTc prolongation and, in some contexts, fatal arrhythmias. Knuijver et al. (*Addiction* 2021) documented mean QTc prolongation of about **+95 ms** after oral **10 mg/kg**, with **50%** of subjects exceeding **500 ms**, in a monitored university setting—with **no TdP in that small sample**, which does **not** prove safety at scale.
+
+Noller’s enrolled death is a reminder that observational outcome papers and safety papers must be read together. Anyone considering any ibogaine exposure needs ECG/electrolyte diligence and continuous monitoring culture—not ASI-statistic shopping (/safety-and-screening, /blog/ibogaine-ecg-pre-infusion-checklist).
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “NZ proves year-long cure rates for IV ibogaine” | **False** — oral observational; small completer subset |
+| “Safe because ASI improved” | **False** — one enrolled death; scores ≠ cardiac safety |
+| “RCT-proven OUD treatment” | **False** — observational |
+| “FDA-cleared detox” | **False** — U.S. Schedule I; not FDA-approved |
+| Cite as adjacent oral literature with labels? | **Yes** — if design/route/N/**death** labeled |
+
+U.S. access context remains Schedule I / not FDA. Provisional Mexico programs on this site ≠ U.S. FDA clinics (/blog/is-ibogaine-legal-us, /blog/ibogaine-mexico-medical-vs-tourism).
+
+
+## Soft CTA
+
+If Noller’s ASI signals—and the death—prompted serious interest in **physician-supervised IV ibogaine infusion**, begin with cardiac and evidence-gap literacy: /safety-and-screening. Then request a confidential screening consult via /apply—not after “NZ cure” marketing that erases mortality.
+
+
+## FAQ
+
+### What did Noller et al. 2018 study?
+A 12-month observational follow-up of 14 people receiving legal oral ibogaine for opioid dependence in New Zealand, with ASI-Lite, BDI-II, and SOWS measures.
+
+### What were the main outcome signals?
+Completers (n=8) showed significant ASI-Lite drug-use and BDI-II reductions at 12 months; SOWS fell acutely after treatment in all 14.
+
+### Did anyone die?
+Yes. One patient enrolled in the study died during treatment. Honest summaries must include that fact.
+
+### Was this a randomized controlled trial?
+No. Observational design without a randomized control arm.
+
+### Does this prove IV ibogaine infusion works?
+No. Route was oral; design was observational; N was small; a treatment-period death occurred.
+
+### Does New Zealand legality mean ibogaine is safe?
+No. Legal availability is not a cardiac-safety certificate. QTc risk and monitoring requirements remain.
+
+### Is ibogaine FDA-approved for OUD?
+No. Schedule I in the United States; not FDA-approved.
+
+### Where can I read adjacent papers?
+/blog/brown-alper-2018-ibogaine-oud, /blog/mash-2018-ibogaine-detox-frontiers, /blog/knuijver-2021-ibogaine-qtc-safety, /blog/kock-2022-ibogaine-systematic-review.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. This page discusses a published enrolled death in Noller 2018 honestly. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Noller 2018 is oral observational NZ literature—not psychoactive IV ibogaine proof.
+
+
+## Sources (selected)
+
+1. Noller G.E., Frampton C.M., Yazar-Klosinski B. Ibogaine treatment outcomes for opioid dependence from a twelve-month follow-up observational study. *Am J Drug Alcohol Abuse*. 2018. doi: **10.1080/00952990.2017.1310218**.  
+2. Brown T.K., Alper K. *Am J Drug Alcohol Abuse*. 2018. doi: 10.1080/00952990.2017.1320802.  
+3. Mash D.C. et al. *Front Pharmacol*. 2018. doi: 10.3389/fphar.2018.00529.  
+4. Knuijver T. et al. *Addiction*. 2021. doi: 10.1111/add.15448.  
+5. Köck P. et al. *J Subst Abuse Treat*. 2022. doi: 10.1016/j.jsat.2021.108717.  
+6. Mosca A. et al. *Curr Neuropharmacol*. 2023. doi: 10.2174/1570159X21666221017085612.  
+7. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
+  },
+  {
+    slug: "mash-2018-ibogaine-detox-frontiers",
+    title: "Mash et al. 2018: Oral Ibogaine Detoxification Open-Label Series (N=191) — Frontiers in Pharmacology",
+    description:
+      "Mash et al. 2018 Front Pharmacol open-label N=191 oral ibogaine: opioid/cocaine craving & withdrawal signals—not RCT; not IV-ibogaine proof. QTc risk remains.",
+    date: "2026-09-06",
+    readTime: "12 min",
+    content: `
+## Definition box
+
+**Definition:** **Mash, Duque, Page & Allen-Ferdinand (2018)** in *Frontiers in Pharmacology* (doi: **10.3389/fphar.2018.00529**) is an **open-label case series** of **N=191** human volunteers seeking inpatient medical detoxification from **opioids or cocaine** with **oral ibogaine HCl**. Authors reported diminished opioid withdrawal symptoms, reduced heroin and cocaine craving on multi-dimensional questionnaires, mood improvements at discharge, and reviewed one-month follow-up craving data where available, alongside pharmacokinetic blood assays and adverse-event observation in a medically monitored inpatient setting. This is **not** a randomized controlled trial, **not** FDA approval evidence, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). The paper itself supports product-development interest in **single oral dose** ibogaine for opioid withdrawal—not IV psychoactive branding. Cardiac QTc risk remains central across the broader literature. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+## Quotable answer (58 words)
+
+Mash and colleagues’ 2018 Frontiers open-label series of 191 people found oral ibogaine associated with reduced opioid withdrawal and heroin/cocaine craving under inpatient monitoring—not an RCT and not evidence for psychoactive IV ibogaine infusion. Authors framed oral single-dose product development. Cardiac QTc risk still matters. Ibogaine is not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+Mash 2018 is one of the largest modern **oral** clinical case series in the ibogaine addiction literature. Marketing sometimes inflates N=191 into “clinically proven IV detox” or guaranteed abstinence rates. This spoke keeps design, route, and evidence gap labeled.
+
+Addiction hub: /ibogaine-for-addiction · /blog/ibogaine-for-cocaine-stimulants · /blog/ibogaine-for-fentanyl · Oral vs IV: /blog/ibogaine-oral-vs-iv · Entity: /what-is-ibogaine-infusion.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Mash D.C., Duque L., Page B., Allen-Ferdinand K. *Front Pharmacol*. 2018;9:529. doi **10.3389/fphar.2018.00529** |
+| Design | Open-label case series / clinical observations with medical monitoring |
+| N | **191** volunteers seeking detoxification from opioids or cocaine |
+| Setting | Inpatient treatment with medical monitoring (as described by authors) |
+| Psychoactive route | **Oral** ibogaine HCl (authors discuss effective oral dose ranges for blocking opioid withdrawal; commonly summarized around **8–12 mg/kg** in secondary clinical discussions of this series) |
+| Measures | Opioid withdrawal symptoms; multi-dimensional craving questionnaires (heroin & cocaine); standardized health/mood questionnaires; PK blood assays; AE review |
+| Follow-up | Program discharge assessments; **one-month** craving follow-up where available |
+| What it is not | Placebo-controlled RCT; IV-psychoactive ibogaine proof; FDA approval package; population cure-rate certificate |
+
+Open the primary paper (PMC5996271) for exact instruments, PK tables, AE definitions, and limitation language.
+
+
+## Methods (plain language)
+
+Researchers reviewed clinical results from an open-label inpatient series of adults seeking to detoxify from opioids or cocaine. Participants received oral ibogaine under medical monitoring. Whole blood was assayed for pharmacokinetic measures of ibogaine metabolism and clearance. Clinical safety and adverse events were studied in male and female subjects. Craving and mood instruments were administered around detoxification and at discharge; one-month data were reviewed when available to see whether craving reductions persisted outside the inpatient setting.
+
+Plain-language implications:
+
+1. **Open-label** — expectancy and non-blinded ratings can inflate apparent benefit.  
+2. **No randomized control arm** — cannot isolate drug effect from setting, counseling, or time.  
+3. **Large N relative to many ibogaine papers** — still not an efficacy RCT.  
+4. **Mixed opioid/cocaine** population — signals may differ by primary substance.  
+5. **One-month follow-up incomplete for all** — durability claims must stay modest.  
+6. **Authors’ own product-development framing** targets **oral** single-dose development—not psychoactive IV proof.
+
+
+## Key findings (no hype)
+
+As reported by the authors:
+
+- Oral ibogaine in a monitored dose range was associated with **diminished opioid withdrawal symptoms**.  
+- Multi-dimensional craving questionnaires showed **reductions in heroin and cocaine craving** during inpatient detoxification.  
+- Standardized health and mood questionnaires improved from before to after treatment and at program discharge (as reported).  
+- One-month follow-up (where available) was reviewed for persistence of craving effects outside the controlled inpatient environment.  
+- Authors reported **no significant adverse events / no significant toxicity** within the dose range they judged effective for blocking opioid withdrawal in **this series**—a claim that must be read as series-specific observation, **not** a population cardiac-safety certificate (broader literature documents QTc prolongation and fatalities).  
+- Pharmacokinetic work characterized metabolism and clearance relevant to oral dosing.
+
+**Honest reading:** a large open-label oral series is scientifically useful for hypothesis generation and protocol history. It is **not** a substitute for RCTs, **not** a license to advertise cure percentages, and **not** evidence that psychoactive IV ibogaine is validated.
+
+
+## Limits and confounders
+
+| Limit | Why it matters |
+|-------|----------------|
+| Open-label / no RCT | Expectancy, setting effects, regression to the mean |
+| Incomplete long-term follow-up | Discharge/1-month signals ≠ year-long abstinence rates |
+| Self-selected inpatient sample | Motivated detox seekers ≠ all SUD patients |
+| Substance heterogeneity | Opioid vs cocaine trajectories differ |
+| AE framing vs global cardiac literature | “No significant AEs in this dose range” ≠ zero QTc risk worldwide |
+| Product-development bias risk | Authors explicitly support oral product development |
+| Route | **Oral** — does not validate psychoactive IV |
+
+Compare smaller NZ observational work with an enrolled death: /blog/noller-2018-ibogaine-new-zealand. Parallel OUD observational outcomes: /blog/brown-alper-2018-ibogaine-oud. QTc safety open-label: /blog/knuijver-2021-ibogaine-qtc-safety.
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+Mash 2018 administered **oral ibogaine HCl** and explicitly discusses **single oral dose** product development for opioid withdrawal. That is not this site’s entity: **IV ibogaine infusion** as **psychoactive intravenous** delivery under physician supervision.
+
+Support IVs (fluids, magnesium, antiemetics) are **not** psychoactive IV ibogaine (/blog/electrolytes-support-iv-vs-psychoactive-iv). Clinics saying “we run the Mash Frontiers IV protocol” should be asked: **Is ibogaine intravenous, or only support meds?**
+
+
+## Cardiac / YMYL context
+
+Even when a monitored series reports limited acute toxicity in its dose window, the wider evidence base links ibogaine to QTc prolongation and, in some contexts, fatal arrhythmias. Knuijver et al. (*Addiction* 2021) found mean QTc prolongation ≈ **+95 ms** after oral **10 mg/kg**, with **50%** exceeding **500 ms**—no TdP in that n=14 sample, which does not prove rare-event safety.
+
+Systematic reviews (Köck 2022; Mosca 2023) flag cardiotoxicity and mortality alongside withdrawal/craving signals. Screening and continuous monitoring remain mandatory (/safety-and-screening, /blog/ibogaine-ecg-pre-infusion-checklist, /blog/ibogaine-mortality-cardiac-risk).
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “N=191 proves IV ibogaine detox” | **False** — oral open-label series |
+| “Clinically proven cure for opioids and cocaine” | **False** — not an RCT; no cure claims appropriate |
+| “Safe because authors reported no significant AEs in-range” | **Incomplete** — series observation ≠ global cardiac clearance |
+| “FDA-cleared detox product” | **False** — Schedule I; not FDA-approved |
+| Cite as adjacent large oral series with labels? | **Yes** — if design/route/N labeled |
+
+U.S. access remains Schedule I / not FDA (/blog/is-ibogaine-legal-us, /blog/ibogaine-mexico-medical-vs-tourism).
+
+
+## Soft CTA
+
+If Mash 2018’s craving/withdrawal signals prompted interest in **physician-supervised IV ibogaine infusion**, begin with cardiac and evidence-gap literacy: /safety-and-screening. Then request a confidential screening consult via /apply—not after inflated “191-patient proven IV” marketing.
+
+
+## FAQ
+
+### What did Mash et al. 2018 study?
+An open-label inpatient case series of 191 people seeking oral ibogaine detoxification from opioids or cocaine, with craving, withdrawal, mood, PK, and AE observations.
+
+### Was the route oral or IV?
+**Oral** ibogaine HCl. Authors discuss single oral dose product development—not psychoactive IV proof.
+
+### Did craving and withdrawal improve?
+Authors reported reduced opioid withdrawal and diminished heroin/cocaine craving under monitoring, with mood improvements at discharge; one-month data were reviewed where available.
+
+### Was this a randomized controlled trial?
+No. Open-label case series without a randomized placebo control.
+
+### Does N=191 make it definitive efficacy proof?
+No. Large relative N helps observation but does not create RCT-level causal proof.
+
+### Does this prove IV ibogaine infusion works?
+No. Route was oral; design was open-label.
+
+### Are cardiac risks irrelevant because AEs were limited in-series?
+No. Broader QTc/fatality literature still applies (/safety-and-screening).
+
+### Is ibogaine FDA-approved?
+No. Schedule I in the U.S.; not FDA-approved.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Mash 2018 is oral open-label detox literature—not psychoactive IV ibogaine proof.
+
+
+## Sources (selected)
+
+1. Mash D.C., Duque L., Page B., Allen-Ferdinand K. Ibogaine detoxification transitions opioid and cocaine abusers between dependence and abstinence: clinical observations and treatment outcomes. *Front Pharmacol*. 2018. doi: **10.3389/fphar.2018.00529**. PMCID: **PMC5996271**.  
+2. Brown T.K., Alper K. *Am J Drug Alcohol Abuse*. 2018. doi: 10.1080/00952990.2017.1320802.  
+3. Noller G.E. et al. *Am J Drug Alcohol Abuse*. 2018. doi: 10.1080/00952990.2017.1310218.  
+4. Knuijver T. et al. *Addiction*. 2021. doi: 10.1111/add.15448.  
+5. Köck P. et al. *J Subst Abuse Treat*. 2022. doi: 10.1016/j.jsat.2021.108717.  
+6. Mosca A. et al. *Curr Neuropharmacol*. 2023. doi: 10.2174/1570159X21666221017085612.  
+7. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
   }
 ];
 
