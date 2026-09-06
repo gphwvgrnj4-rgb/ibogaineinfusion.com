@@ -3,16 +3,34 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbList } from "@/lib/schema";
+import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/ibogaine-for-depression" },
   title: "Ibogaine for Depression",
   description:
     "IV ibogaine infusion for depression is an area of interest with limited controlled evidence. Medical context, oral-lit gap, risks, and how it differs from ketamine.",
 };
 
 export default function DepressionPage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        name: 'Ibogaine for Depression',
+        url: `${siteConfig.url}/ibogaine-for-depression`,
+        description: metadata.description as string,
+      },
+      breadcrumbList([ { name: "Home", path: "/" }, { name: "Ibogaine for depression", path: "/ibogaine-for-depression" } ]),
+    ],
+  };
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       <section className="border-b border-forest/10 bg-white py-14">
         <Container className="max-w-3xl">
           <p className="text-sm font-semibold uppercase tracking-widest text-accent">Condition overview</p>

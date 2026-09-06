@@ -3,16 +3,34 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbList } from "@/lib/schema";
+import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/ibogaine-for-addiction" },
   title: "Ibogaine for Addiction & Opioid Detox",
   description:
     "What research suggests about ibogaine for opioid detox—IV infusion under medical supervision, cardiac risks, and why most published evidence is still oral/observational.",
 };
 
 export default function AddictionPage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        name: 'Ibogaine for Addiction',
+        url: `${siteConfig.url}/ibogaine-for-addiction`,
+        description: metadata.description as string,
+      },
+      breadcrumbList([ { name: "Home", path: "/" }, { name: "Ibogaine for addiction", path: "/ibogaine-for-addiction" } ]),
+    ],
+  };
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       <section className="border-b border-forest/10 bg-white py-14">
         <Container className="max-w-3xl">
           <p className="text-sm font-semibold uppercase tracking-widest text-accent">Condition overview</p>

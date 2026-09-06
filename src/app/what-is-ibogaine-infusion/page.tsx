@@ -3,16 +3,34 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbList } from "@/lib/schema";
+import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/what-is-ibogaine-infusion" },
   title: "What Is True IV Ibogaine Infusion?",
   description:
     "IV ibogaine infusion is intravenous psychoactive ibogaine under physician supervision—with cardiac monitoring. Definition, oral-evidence gap, legality, and safety.",
 };
 
 export default function WhatIsPage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        name: 'What Is True IV Ibogaine Infusion?',
+        url: `${siteConfig.url}/what-is-ibogaine-infusion`,
+        description: metadata.description as string,
+      },
+      breadcrumbList([ { name: "Home", path: "/" }, { name: "What is infusion", path: "/what-is-ibogaine-infusion" } ]),
+    ],
+  };
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       <section className="border-b border-forest/10 bg-white py-14">
         <Container className="max-w-3xl">
           <h1 className="font-serif text-4xl font-medium text-forest sm:text-5xl">

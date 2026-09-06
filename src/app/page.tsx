@@ -3,49 +3,70 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
-import { siteConfig } from "@/lib/site";
+import { JsonLd } from "@/components/JsonLd";
+import { faqPage, organizationAndWebsite } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: "True IV Ibogaine Infusion | Medical Screening",
-  description: siteConfig.oneLiner,
+  title: "IV Ibogaine Infusion | Physician-Supervised Medical Care",
+  description:
+    "Intravenous ibogaine infusion under physician supervision—with cardiac screening and monitoring. Honest education on evidence gaps, safety, and next steps.",
+  alternates: { canonical: "/" },
 };
 
-const pillars = [
+const homeFaqs = [
   {
-    title: "Screening first",
-    body: "Cardiac and medical review are the starting point — not an afterthought buried under testimonials.",
+    q: "What is IV ibogaine infusion?",
+    a: "Intravenous delivery of ibogaine as the psychoactive treatment under physician supervision in a medical infusion setting, with cardiac screening, continuous monitoring, and integration afterward.",
   },
   {
-    title: "True IV infusion",
-    body: "Psychoactive ibogaine delivered intravenously — parallel to ketamine IV clinics — not oral ibogaine with supportive IV fluids only.",
+    q: "Is published research mostly oral?",
+    a: "Yes. Landmark examples include Knuijver et al. (Addiction, 2021; oral HCl, QTc) and Cherian et al. (Nature Medicine, 2024; oral ibogaine + IV magnesium). Controlled IV-psychoactive evidence is sparse.",
   },
   {
-    title: "Honest limits",
-    body: "No cure claims. Educational inquiry only. Serious risk discussion, including cardiac considerations.",
+    q: "Is ibogaine FDA-approved?",
+    a: "No. It is not FDA-approved for any indication and is Schedule I in the United States.",
+  },
+  {
+    q: "Is cardiac screening required?",
+    a: "Yes. Ibogaine can prolong QTc. Screening and continuous monitoring are ethical and clinical non-negotiables for any medical program.",
+  },
+  {
+    q: "How do I start?",
+    a: "Read safety and how-it-works education, then submit a confidential screening request at /apply.",
   },
 ];
 
 const pathways = [
   {
     href: "/ibogaine-for-addiction",
-    title: "Addiction",
-    body: "How ibogaine is discussed in substance-use contexts — and why supervision and aftercare still matter.",
+    title: "Addiction & opioid detox",
+    body: "Observational literature (mostly oral) explores substance-use contexts. Interest is real; cure claims are not. IV controlled evidence remains sparse.",
   },
   {
     href: "/ibogaine-for-depression",
-    title: "Depression",
-    body: "A careful overview of mood-related interest, evidence limits, and medical caution.",
+    title: "Depression & mood",
+    body: "People compare ibogaine with ketamine clinics. Evidence for depression is limited; legality and cardiac risk diverge sharply.",
   },
   {
     href: "/ibogaine-for-ptsd",
-    title: "PTSD",
-    body: "Trauma-informed inquiry themes without promising resolution or minimizing complexity.",
+    title: "PTSD & veteran-adjacent",
+    body: "Public attention rose around magnesium–ibogaine protocols. MISTIC used oral ibogaine with IV magnesium — cite carefully.",
   },
 ];
 
 export default function HomePage() {
+  const base = organizationAndWebsite();
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      ...(base["@graph"] as Record<string, unknown>[]),
+      faqPage(homeFaqs),
+    ],
+  };
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       <section className="relative overflow-hidden bg-forest text-cream">
         <div className="pointer-events-none absolute inset-0 opacity-30" aria-hidden="true">
           <div className="absolute -right-20 -top-20 h-72 w-72 rounded-full bg-accent/30 blur-3xl" />
@@ -56,17 +77,19 @@ export default function HomePage() {
             Clinical-luxury · Screening-first
           </p>
           <h1 className="mt-4 max-w-3xl font-serif text-4xl font-medium leading-tight tracking-tight sm:text-5xl lg:text-6xl">
-            True IV ibogaine infusion — supervised, screening-first
+            IV ibogaine infusion: physician-supervised, monitored, screening-first
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-cream/85">
-            {siteConfig.oneLiner}
+            Physician-supervised <strong className="text-cream">intravenous psychoactive ibogaine</strong> in
+            a medical infusion setting — consult, cardiac screening, continuous monitoring, and structured
+            integration afterward.
           </p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Link
               href="/apply"
               className="inline-flex min-h-12 items-center justify-center rounded-md bg-accent px-6 py-3 text-sm font-semibold text-ink transition hover:bg-[#c9a46a]"
             >
-              Check if you qualify
+              Request confidential screening consult
             </Link>
             <Link
               href="/what-is-ibogaine-infusion"
@@ -81,35 +104,53 @@ export default function HomePage() {
         </Container>
       </section>
 
-      <section className="py-16">
-        <Container>
-          <div className="max-w-2xl">
-            <h2 className="font-serif text-3xl font-medium text-forest sm:text-4xl">
-              Not a retreat brochure
-            </h2>
-            <p className="mt-4 text-ink/75 leading-relaxed">
-              Many ibogaine pages sell atmosphere — or blur oral ceremonies with an IV pole in the
-              background. This site is about <strong className="text-forest">true psychoactive IV
-              ibogaine infusion</strong>: the medicine itself given intravenously under medical
-              screening and monitoring. If you need beach photography and guaranteed transformation
-              copy, this is not that site.
-            </p>
-          </div>
-          <div className="mt-10 grid gap-6 md:grid-cols-3">
-            {pillars.map((item) => (
-              <article
-                key={item.title}
-                className="rounded-xl border border-forest/10 bg-white p-6 shadow-sm"
-              >
-                <h3 className="font-serif text-xl text-forest">{item.title}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-ink/75">{item.body}</p>
-              </article>
-            ))}
-          </div>
+      <section className="border-b border-forest/10 bg-white py-14">
+        <Container className="prose-clinical max-w-3xl">
+          <h2>Definition</h2>
+          <p>
+            <strong>IV ibogaine infusion</strong> (also called intravenous ibogaine) is the psychoactive
+            delivery of ibogaine by intravenous infusion under physician supervision. The patient journey
+            parallels ketamine infusion clinics: <strong>consult → cardiac screening → monitored IV infusion →
+            integration</strong>. Continuous ECG/telemetry is non-negotiable because ibogaine can prolong the
+            QTc interval.
+          </p>
+          <p>
+            <strong>Evidence gap:</strong> Most published clinical literature — including Cherian et al.,{" "}
+            <em>Nature Medicine</em> 2024 — describes <strong>oral</strong> ibogaine HCl, often with{" "}
+            <strong>IV magnesium</strong> support, not IV ibogaine as the psychoactive dose. Controlled
+            evidence for psychoactive IV ibogaine remains sparse. Ibogaine is U.S. Schedule I and not
+            FDA-approved.
+          </p>
+          <p>
+            On this site, “infusion” is not a spa label for oral dosing with a saline lock.{" "}
+            <strong>Support IV ≠ psychoactive IV.</strong>{" "}
+            <Link href="/what-is-ibogaine-infusion">Read the definition hub</Link>.
+          </p>
         </Container>
       </section>
 
-      <section className="bg-sage/25 py-16">
+      <section className="bg-sage/25 py-14">
+        <Container className="max-w-3xl">
+          <h2 className="font-serif text-3xl font-medium text-forest">Cardiac safety (non-negotiable)</h2>
+          <ul className="mt-4 space-y-2 text-sm leading-relaxed text-ink/80">
+            <li>Pre-treatment ECG and medication/electrolyte review</li>
+            <li>Continuous cardiac monitoring during the high-risk window</li>
+            <li>Physician oversight and emergency preparedness</li>
+            <li>Written clarity on psychoactive route and any concurrent support IV</li>
+          </ul>
+          <p className="mt-4 text-sm text-ink/75">
+            <Link href="/safety-and-screening" className="font-semibold text-forest-mid hover:underline">
+              Safety &amp; screening
+            </Link>{" "}
+            ·{" "}
+            <Link href="/blog/ibogaine-ecg-checklist" className="font-semibold text-forest-mid hover:underline">
+              ECG checklist
+            </Link>
+          </p>
+        </Container>
+      </section>
+
+      <section className="py-16">
         <Container>
           <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
             <div>
@@ -137,65 +178,50 @@ export default function HomePage() {
         </Container>
       </section>
 
-      <section className="py-16">
-        <Container className="grid gap-10 lg:grid-cols-2 lg:items-center">
-          <div>
-            <h2 className="font-serif text-3xl font-medium text-forest sm:text-4xl">
-              Why true IV infusion?
-            </h2>
-            <p className="mt-4 leading-relaxed text-ink/75">
-              Ketamine infusion clinics deliver medicine intravenously. This site&apos;s
-              differentiator is the same idea applied to ibogaine: true psychoactive IV ibogaine
-              infusion — not oral dosing plus an IV bag for hydration. Screening, controlled IV
-              administration, observation, and follow-up define the inquiry model. The drugs differ;
-              the infusion-clinic posture is intentional.
-            </p>
-            <ul className="mt-6 space-y-3 text-sm text-ink/80">
-              <li className="flex gap-3">
-                <span className="mt-1 h-2 w-2 shrink-0 rounded-full bg-accent" />
-                Pre-qualification and cardiac-focused screening discussion
-              </li>
-              <li className="flex gap-3">
-                <span className="mt-1 h-2 w-2 shrink-0 rounded-full bg-accent" />
-                Intravenous psychoactive ibogaine — not oral-only protocols dressed up with fluids
-              </li>
-              <li className="flex gap-3">
-                <span className="mt-1 h-2 w-2 shrink-0 rounded-full bg-accent" />
-                Confidential CTAs: check eligibility, then talk — not impulse checkout
-              </li>
-            </ul>
-          </div>
-          <div className="rounded-2xl border border-forest/10 bg-white p-8 shadow-sm">
-            <h3 className="font-serif text-2xl text-forest">Start with safety</h3>
-            <p className="mt-3 text-sm leading-relaxed text-ink/75">
-              Read how screening is framed, then submit a confidential inquiry if you want a human
-              review of next-step questions.
-            </p>
-            <div className="mt-6 flex flex-col gap-3">
-              <Link
-                href="/safety-and-screening"
-                className="inline-flex min-h-11 items-center justify-center rounded-md border border-forest/20 px-4 text-sm font-semibold text-forest hover:bg-sage/30"
-              >
-                Safety &amp; screening
-              </Link>
-              <Link
-                href="/faq"
-                className="inline-flex min-h-11 items-center justify-center rounded-md border border-forest/20 px-4 text-sm font-semibold text-forest hover:bg-sage/30"
-              >
-                FAQ
-              </Link>
-              <Link
-                href="/apply"
-                className="inline-flex min-h-11 items-center justify-center rounded-md bg-forest px-4 text-sm font-semibold text-cream hover:bg-forest-mid"
-              >
-                Confidential inquiry
-              </Link>
+      <section className="border-t border-forest/10 bg-white py-14">
+        <Container className="prose-clinical max-w-3xl">
+          <h2>How the medical journey works</h2>
+          <ol>
+            <li>Consult — history, goals, medications, contraindications</li>
+            <li>Cardiac &amp; medical screening — ECG, labs as indicated, go/no-go</li>
+            <li>Monitored IV infusion — psychoactive intravenous ibogaine + telemetry</li>
+            <li>Integration / aftercare — psychosocial planning after the acute window</li>
+          </ol>
+          <p>
+            Step-by-step: <Link href="/how-it-works">how it works</Link>. Cost diligence:{" "}
+            <Link href="/blog/cost-of-ibogaine-treatment">cost overview</Link> ·{" "}
+            <Link href="/blog/how-to-choose-an-ibogaine-clinic">clinic vetting</Link>.
+          </p>
+
+          <h2>Compare carefully</h2>
+          <ul>
+            <li>
+              <Link href="/blog/ibogaine-vs-ketamine-for-addiction">Ketamine infusion</Link> — shared IV
+              journey shape; different legality, evidence, cardiac profile
+            </li>
+            <li>
+              <Link href="/blog/ibogaine-vs-ayahuasca">Ayahuasca</Link> — different chemistry and setting
+            </li>
+            <li>
+              <Link href="/blog/ibogaine-vs-traditional-rehab">Traditional rehab</Link> — different model;
+              not interchangeable
+            </li>
+            <li>
+              <Link href="/blog/ibogaine-oral-vs-iv">Oral vs IV</Link> — route honesty for readers and LLMs
+            </li>
+          </ul>
+
+          <h2>Homepage FAQ</h2>
+          {homeFaqs.map((item) => (
+            <div key={item.q} className="mb-4">
+              <h3>{item.q}</h3>
+              <p>{item.a}</p>
             </div>
-          </div>
+          ))}
         </Container>
       </section>
 
-      <CTASection />
+      <CTASection title="Start with safety, then request screening" />
     </>
   );
 }

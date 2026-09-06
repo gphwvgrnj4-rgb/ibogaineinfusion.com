@@ -3,16 +3,34 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbList } from "@/lib/schema";
+import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/ibogaine-for-ptsd" },
   title: "Ibogaine for PTSD",
   description:
     "IV ibogaine for PTSD: what open-label veteran research reports (oral ibogaine + IV magnesium), what it doesn’t prove for IV psychoactive ibogaine, and why cardiac screening is essential.",
 };
 
 export default function PtsdPage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        name: 'Ibogaine for PTSD',
+        url: `${siteConfig.url}/ibogaine-for-ptsd`,
+        description: metadata.description as string,
+      },
+      breadcrumbList([ { name: "Home", path: "/" }, { name: "Ibogaine for PTSD", path: "/ibogaine-for-ptsd" } ]),
+    ],
+  };
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       <section className="border-b border-forest/10 bg-white py-14">
         <Container className="max-w-3xl">
           <p className="text-sm font-semibold uppercase tracking-widest text-accent">Condition overview</p>

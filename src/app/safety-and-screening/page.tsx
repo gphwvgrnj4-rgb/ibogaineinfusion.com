@@ -3,16 +3,34 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbList } from "@/lib/schema";
+import { siteConfig } from "@/lib/site";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/safety-and-screening" },
   title: "Safety and Screening — Cardiac Risk & QTc",
   description:
     "Ibogaine can prolong QTc and raise arrhythmia risk. Cardiac screening, ECG, electrolytes, continuous monitoring for IV ibogaine infusion, and oral-lit context.",
 };
 
 export default function SafetyPage() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        name: 'Safety and Screening',
+        url: `${siteConfig.url}/safety-and-screening`,
+        description: metadata.description as string,
+      },
+      breadcrumbList([ { name: "Home", path: "/" }, { name: "Safety and screening", path: "/safety-and-screening" } ]),
+    ],
+  };
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       <section className="border-b border-forest/10 bg-white py-14">
         <Container className="max-w-3xl">
           <h1 className="font-serif text-4xl font-medium text-forest sm:text-5xl">

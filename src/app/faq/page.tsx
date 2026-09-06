@@ -101,7 +101,7 @@ export default function FaqPage() {
         "@type": "MedicalWebPage",
         name: "IV Ibogaine Infusion FAQ",
         url: `${siteConfig.url}/faq`,
-        description: metadata.description as string,
+        description: "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, cost, conditions, and how to apply for screening.",
       },
       faqPage(faqs),
       breadcrumbList([
