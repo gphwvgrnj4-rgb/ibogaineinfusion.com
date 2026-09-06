@@ -9,6 +9,8 @@
   --accent: #B08D57;
   --background: #F4F1EC;
   --foreground: #1C1C1C;
+  --shadow-soft: 0 10px 40px rgba(15, 61, 46, 0.07);
+  --shadow-lift: 0 18px 50px rgba(15, 61, 46, 0.1);
 }
 
 @theme inline {
@@ -32,6 +34,7 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-sans), system-ui, sans-serif;
+  letter-spacing: 0.01em;
 }
 
 ::selection {
@@ -39,47 +42,95 @@ body {
   color: var(--forest);
 }
 
+a,
+button {
+  transition: color 180ms ease, background-color 180ms ease, border-color 180ms ease,
+    box-shadow 220ms ease, opacity 180ms ease, transform 220ms ease;
+}
+
+.card-elevated {
+  border: 1px solid rgba(15, 61, 46, 0.08);
+  border-radius: 1rem;
+  background: #fff;
+  box-shadow: var(--shadow-soft);
+}
+
+.card-elevated:hover {
+  border-color: rgba(176, 141, 87, 0.45);
+  box-shadow: var(--shadow-lift);
+}
+
+.section-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
 .prose-clinical h2 {
   color: var(--forest);
-  font-weight: 600;
-  font-size: 1.5rem;
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
+  font-family: var(--font-serif), Georgia, serif;
+  font-weight: 500;
+  font-size: 1.75rem;
+  letter-spacing: -0.02em;
+  margin-top: 2.75rem;
+  margin-bottom: 1rem;
 }
 
 .prose-clinical h3 {
   color: var(--forest-mid);
-  font-weight: 600;
-  font-size: 1.2rem;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
+  font-family: var(--font-serif), Georgia, serif;
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.6rem;
 }
 
 .prose-clinical p {
-  margin-bottom: 1rem;
-  line-height: 1.7;
+  margin-bottom: 1.15rem;
+  line-height: 1.8;
   color: #3a3a3a;
+}
+
+.prose-clinical ul,
+.prose-clinical ol {
+  padding-left: 1.25rem;
+  margin-bottom: 1.15rem;
 }
 
 .prose-clinical ul {
   list-style: disc;
-  padding-left: 1.25rem;
-  margin-bottom: 1rem;
+}
+
+.prose-clinical ol {
+  list-style: decimal;
 }
 
 .prose-clinical li {
-  margin-bottom: 0.5rem;
-  line-height: 1.6;
+  margin-bottom: 0.55rem;
+  line-height: 1.7;
   color: #3a3a3a;
 }
 
 .prose-clinical a {
   color: var(--forest-mid);
   text-decoration: underline;
-  text-underline-offset: 2px;
+  text-underline-offset: 3px;
 }
 
 .prose-clinical strong {
   color: var(--ink);
   font-weight: 600;
+}
+
+.hero-overlay {
+  background:
+    linear-gradient(105deg, rgba(15, 61, 46, 0.88) 0%, rgba(15, 61, 46, 0.72) 42%, rgba(15, 61, 46, 0.35) 70%, rgba(15, 61, 46, 0.18) 100%),
+    linear-gradient(0deg, rgba(15, 61, 46, 0.55) 0%, transparent 45%);
+}
+
+.suite-overlay {
+  background:
+    linear-gradient(90deg, rgba(15, 61, 46, 0.82) 0%, rgba(15, 61, 46, 0.55) 48%, rgba(15, 61, 46, 0.18) 100%);
 }

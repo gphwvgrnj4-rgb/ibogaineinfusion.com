@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
+import { JurisdictionNote } from "@/components/JurisdictionNote";
 import { JsonLd } from "@/components/JsonLd";
 import { breadcrumbList } from "@/lib/schema";
 import { siteConfig } from "@/lib/site";
@@ -11,7 +12,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "/safety-and-screening" },
   title: "Safety and Screening — Cardiac Risk & QTc",
   description:
-    "Ibogaine can prolong QTc and raise arrhythmia risk. Cardiac screening, ECG, electrolytes, continuous monitoring for IV ibogaine infusion, and oral-lit context.",
+    "Ibogaine can prolong QTc and raise arrhythmia risk. Cardiac screening, ECG, electrolytes, continuous monitoring for IV ibogaine infusion. Provisional Mexico availability; not a U.S. FDA-approved clinic.",
 };
 
 export default function SafetyPage() {
@@ -31,7 +32,7 @@ export default function SafetyPage() {
   return (
     <>
       <JsonLd data={jsonLd} />
-      <section className="border-b border-forest/10 bg-white py-14">
+      <section className="border-b border-forest/10 bg-white py-16 sm:py-20">
         <Container className="max-w-3xl">
           <h1 className="font-serif text-4xl font-medium text-forest sm:text-5xl">
             Safety and screening
@@ -44,17 +45,32 @@ export default function SafetyPage() {
             bureaucracy; it is the ethical center of a supervised path.
           </p>
           <Disclaimer className="mt-8" />
+          <JurisdictionNote variant="card" className="mt-6" />
         </Container>
       </section>
 
-      <section className="py-14">
+      <section className="py-16 sm:py-20">
         <Container className="prose-clinical max-w-3xl">
+          <h2>Provisional Mexico availability</h2>
+          <p>
+            Supervised IV ibogaine infusion inquiry and treatment are available{" "}
+            <strong>provisionally in Mexico</strong>. This is not a U.S. FDA-approved clinic or
+            treatment. Screening comes first. Jurisdiction, local medical oversight, and travel
+            realities are discussed transparently before any treatment conversation. We make no
+            affiliation claims with Eleusis or other brands.
+          </p>
+          <p>
+            Availability being provisional means pathways, staffing, and logistics can evolve —
+            your screening conversation is the place for current, personalized facts rather than
+            website guarantees.
+          </p>
+
           <h2>The risk you cannot market away</h2>
           <p>
             Deaths associated with ibogaine in non-medical and medical-adjacent settings have been
             reported, with cardiac mechanisms — particularly arrhythmias preceded by QT prolongation —
-            frequently discussed. This page is the trust home for every condition and commercial
-            conversation on this site.
+            frequently discussed. This page is the trust home for safety questions across condition pages
+            and inquiry conversations on this site.
           </p>
           <p>
             <strong>Evidence gap:</strong> Much of the best-known QTc literature (e.g., Knuijver et

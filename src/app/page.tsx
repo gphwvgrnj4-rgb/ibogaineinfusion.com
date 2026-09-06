@@ -1,15 +1,17 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
 import { JsonLd } from "@/components/JsonLd";
+import { JurisdictionNote } from "@/components/JurisdictionNote";
 import { faqPage, organizationAndWebsite } from "@/lib/schema";
 
 export const metadata: Metadata = {
   title: "IV Ibogaine Infusion | Physician-Supervised Medical Care",
   description:
-    "Intravenous ibogaine infusion under physician supervision—with cardiac screening and monitoring. Honest education on evidence gaps, safety, and next steps.",
+    "Intravenous ibogaine infusion under physician supervision—with cardiac screening and monitoring. Provisional Mexico availability. Honest education on evidence gaps, safety, and next steps.",
   alternates: { canonical: "/" },
 };
 
@@ -17,6 +19,10 @@ const homeFaqs = [
   {
     q: "What is IV ibogaine infusion?",
     a: "Intravenous delivery of ibogaine as the psychoactive treatment under physician supervision in a medical infusion setting, with cardiac screening, continuous monitoring, and integration afterward.",
+  },
+  {
+    q: "Is treatment available in Mexico?",
+    a: "Supervised IV ibogaine infusion inquiry and treatment are available provisionally in Mexico. This is not a U.S. FDA-approved clinic. Screening comes first, with clear jurisdiction transparency before any travel or treatment conversation. We are not affiliated with Eleusis or other brands.",
   },
   {
     q: "Is published research mostly oral?",
@@ -32,7 +38,7 @@ const homeFaqs = [
   },
   {
     q: "How do I start?",
-    a: "Read safety and how-it-works education, then submit a confidential screening request at /apply.",
+    a: "Read safety and how-it-works education, then submit a confidential application at /apply.",
   },
 ];
 
@@ -54,6 +60,21 @@ const pathways = [
   },
 ];
 
+const pillars = [
+  {
+    title: "Screening-first",
+    body: "Cardiac history, ECG, medications, and go/no-go before any infusion conversation.",
+  },
+  {
+    title: "True IV psychoactive",
+    body: "Ibogaine itself by intravenous infusion — not oral dosing labeled as “infusion.”",
+  },
+  {
+    title: "Monitored sanctuary",
+    body: "Physician oversight, continuous telemetry, and a calm clinical setting designed for dignity.",
+  },
+];
+
 export default function HomePage() {
   const base = organizationAndWebsite();
   const jsonLd = {
@@ -67,78 +88,161 @@ export default function HomePage() {
   return (
     <>
       <JsonLd data={jsonLd} />
-      <section className="relative overflow-hidden bg-forest text-cream">
-        <div className="pointer-events-none absolute inset-0 opacity-30" aria-hidden="true">
-          <div className="absolute -right-20 -top-20 h-72 w-72 rounded-full bg-accent/30 blur-3xl" />
-          <div className="absolute bottom-0 left-10 h-64 w-64 rounded-full bg-sage/20 blur-3xl" />
-        </div>
-        <Container className="relative py-16 sm:py-24">
-          <p className="text-sm font-semibold uppercase tracking-[0.2em] text-accent">
-            Clinical-luxury · Screening-first
-          </p>
-          <h1 className="mt-4 max-w-3xl font-serif text-4xl font-medium leading-tight tracking-tight sm:text-5xl lg:text-6xl">
-            IV ibogaine infusion: physician-supervised, monitored, screening-first
+
+      <section className="relative min-h-[88vh] overflow-hidden bg-forest text-cream">
+        <Image
+          src="/brand/hero-atmosphere.png"
+          alt="Atmospheric botanical art in forest green, cream, and gold — clinical sanctuary mood"
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover object-center"
+        />
+        <div className="hero-overlay absolute inset-0" aria-hidden="true" />
+        <Container className="relative flex min-h-[88vh] flex-col justify-center py-20 sm:py-28">
+          <p className="section-label text-accent">Clinical sanctuary · Screening-first</p>
+          <h1 className="mt-5 max-w-3xl font-serif text-4xl font-medium leading-[1.08] tracking-tight sm:text-5xl lg:text-6xl xl:text-[4rem]">
+            IV ibogaine infusion — physician-supervised, monitored, honest
           </h1>
-          <p className="mt-6 max-w-2xl text-lg leading-relaxed text-cream/85">
-            Physician-supervised <strong className="text-cream">intravenous psychoactive ibogaine</strong> in
-            a medical infusion setting — consult, cardiac screening, continuous monitoring, and structured
-            integration afterward.
+          <p className="mt-7 max-w-2xl text-lg leading-relaxed text-cream/88 sm:text-xl">
+            True <strong className="font-semibold text-cream">psychoactive intravenous ibogaine</strong>{" "}
+            in a medical infusion setting: consult, cardiac screening, continuous monitoring, and
+            structured integration afterward.
           </p>
-          <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+          <div className="mt-10 flex flex-col gap-3 sm:flex-row sm:items-center">
             <Link
               href="/apply"
-              className="inline-flex min-h-12 items-center justify-center rounded-md bg-accent px-6 py-3 text-sm font-semibold text-ink transition hover:bg-[#c9a46a]"
+              className="inline-flex min-h-12 items-center justify-center rounded-full bg-accent px-7 py-3 text-sm font-semibold text-ink shadow-[0_12px_32px_rgba(176,141,87,0.35)] hover:bg-[#c9a46a]"
             >
-              Request confidential screening consult
+              Start confidential application
             </Link>
             <Link
               href="/what-is-ibogaine-infusion"
-              className="inline-flex min-h-12 items-center justify-center rounded-md border border-cream/35 px-6 py-3 text-sm font-medium text-cream transition hover:bg-cream/10"
+              className="inline-flex min-h-12 items-center justify-center rounded-full border border-cream/40 bg-cream/5 px-7 py-3 text-sm font-medium text-cream backdrop-blur-sm hover:bg-cream/12"
             >
               What true IV infusion means
             </Link>
           </div>
-          <div className="mt-10 max-w-3xl">
-            <Disclaimer className="border-cream/20 bg-cream/10 text-cream/90 [&_strong]:text-accent" />
+          <div className="mt-12 max-w-3xl">
+            <Disclaimer className="border-cream/20 bg-cream/10 text-cream/90 backdrop-blur-sm [&_strong]:text-accent" />
           </div>
         </Container>
       </section>
 
-      <section className="border-b border-forest/10 bg-white py-14">
-        <Container className="prose-clinical max-w-3xl">
-          <h2>Definition</h2>
-          <p>
-            <strong>IV ibogaine infusion</strong> (also called intravenous ibogaine) is the psychoactive
-            delivery of ibogaine by intravenous infusion under physician supervision. The patient journey
-            parallels ketamine infusion clinics: <strong>consult → cardiac screening → monitored IV infusion →
-            integration</strong>. Continuous ECG/telemetry is non-negotiable because ibogaine can prolong the
-            QTc interval.
-          </p>
-          <p>
-            <strong>Evidence gap:</strong> Most published clinical literature — including Cherian et al.,{" "}
-            <em>Nature Medicine</em> 2024 — describes <strong>oral</strong> ibogaine HCl, often with{" "}
-            <strong>IV magnesium</strong> support, not IV ibogaine as the psychoactive dose. Controlled
-            evidence for psychoactive IV ibogaine remains sparse. Ibogaine is U.S. Schedule I and not
-            FDA-approved.
-          </p>
-          <p>
-            On this site, “infusion” is not a spa label for oral dosing with a saline lock.{" "}
-            <strong>Support IV ≠ psychoactive IV.</strong>{" "}
-            <Link href="/what-is-ibogaine-infusion">Read the definition hub</Link>.
-          </p>
+      <JurisdictionNote />
+
+      <section className="border-b border-forest/10 bg-white py-20 sm:py-24">
+        <Container>
+          <div className="mx-auto max-w-3xl text-center">
+            <p className="section-label">Definition</p>
+            <h2 className="mt-4 font-serif text-3xl font-medium tracking-tight text-forest sm:text-4xl">
+              Clarity over clinic marketing language
+            </h2>
+          </div>
+          <div className="prose-clinical mx-auto mt-10 max-w-3xl">
+            <p>
+              <strong>IV ibogaine infusion</strong> (also called intravenous ibogaine) is the psychoactive
+              delivery of ibogaine by intravenous infusion under physician supervision. The patient journey
+              parallels ketamine infusion clinics: <strong>consult → cardiac screening → monitored IV infusion →
+              integration</strong>. Continuous ECG/telemetry is non-negotiable because ibogaine can prolong the
+              QTc interval.
+            </p>
+            <p>
+              <strong>Evidence gap:</strong> Most published clinical literature — including Cherian et al.,{" "}
+              <em>Nature Medicine</em> 2024 — describes <strong>oral</strong> ibogaine HCl, often with{" "}
+              <strong>IV magnesium</strong> support, not IV ibogaine as the psychoactive dose. Controlled
+              evidence for psychoactive IV ibogaine remains sparse. Ibogaine is U.S. Schedule I and not
+              FDA-approved.
+            </p>
+            <p>
+              On this site, “infusion” is not a spa label for oral dosing with a saline lock.{" "}
+              <strong>Support IV ≠ psychoactive IV.</strong>{" "}
+              <Link href="/what-is-ibogaine-infusion">Read the definition hub</Link>.
+            </p>
+          </div>
+          <div className="mt-14 grid gap-5 md:grid-cols-3">
+            {pillars.map((item) => (
+              <div key={item.title} className="card-elevated p-7">
+                <h3 className="font-serif text-xl text-forest">{item.title}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-ink/75">{item.body}</p>
+              </div>
+            ))}
+          </div>
         </Container>
       </section>
 
-      <section className="bg-sage/25 py-14">
+      <section className="relative overflow-hidden bg-forest py-0 text-cream">
+        <div className="grid lg:grid-cols-2">
+          <div className="relative min-h-[420px] lg:min-h-[560px]">
+            <Image
+              src="/brand/suite-atmosphere.png"
+              alt="Quiet clinical suite with forest-green walls, cream linens, and soft natural light"
+              fill
+              sizes="(max-width: 1024px) 100vw, 50vw"
+              className="object-cover object-center"
+            />
+            <div className="suite-overlay absolute inset-0 lg:hidden" aria-hidden="true" />
+          </div>
+          <div className="relative flex items-center px-6 py-16 sm:px-10 sm:py-20 lg:px-14">
+            <div className="pointer-events-none absolute inset-0 opacity-20" aria-hidden="true">
+              <Image
+                src="/brand/brand-motif.png"
+                alt=""
+                fill
+                sizes="50vw"
+                className="object-cover object-right"
+              />
+            </div>
+            <div className="relative max-w-xl">
+              <p className="section-label">The setting</p>
+              <h2 className="mt-4 font-serif text-3xl font-medium tracking-tight sm:text-4xl">
+                A calm suite for serious medicine
+              </h2>
+              <p className="mt-5 text-base leading-relaxed text-cream/85">
+                Luxury here means dignity and clinical seriousness — not spectacle. Private space,
+                physician oversight, and continuous monitoring for true psychoactive IV ibogaine
+                infusion. Inquiry and treatment are available{" "}
+                <strong className="text-cream">provisionally in Mexico</strong>; this is not a U.S.
+                FDA-approved clinic.
+              </p>
+              <ul className="mt-6 space-y-2.5 text-sm text-cream/80">
+                <li>• Continuous cardiac monitoring during the high-risk window</li>
+                <li>• Written clarity on psychoactive route vs support IV</li>
+                <li>• Integration planning after the acute window</li>
+              </ul>
+              <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+                <Link
+                  href="/how-it-works"
+                  className="inline-flex min-h-11 items-center justify-center rounded-full border border-cream/35 px-6 py-2.5 text-sm font-medium text-cream hover:bg-cream/10"
+                >
+                  How the journey works
+                </Link>
+                <Link
+                  href="/safety-and-screening"
+                  className="inline-flex min-h-11 items-center justify-center rounded-full bg-accent px-6 py-2.5 text-sm font-semibold text-ink hover:bg-[#c9a46a]"
+                >
+                  Safety &amp; screening
+                </Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-sage/25 py-20 sm:py-24">
         <Container className="max-w-3xl">
-          <h2 className="font-serif text-3xl font-medium text-forest">Cardiac safety (non-negotiable)</h2>
-          <ul className="mt-4 space-y-2 text-sm leading-relaxed text-ink/80">
+          <p className="section-label">Non-negotiable</p>
+          <h2 className="mt-4 font-serif text-3xl font-medium tracking-tight text-forest sm:text-4xl">
+            Cardiac safety
+          </h2>
+          <ul className="mt-6 space-y-3 text-base leading-relaxed text-ink/80">
             <li>Pre-treatment ECG and medication/electrolyte review</li>
             <li>Continuous cardiac monitoring during the high-risk window</li>
             <li>Physician oversight and emergency preparedness</li>
             <li>Written clarity on psychoactive route and any concurrent support IV</li>
           </ul>
-          <p className="mt-4 text-sm text-ink/75">
+          <JurisdictionNote variant="card" className="mt-10" />
+          <p className="mt-6 text-sm text-ink/75">
             <Link href="/safety-and-screening" className="font-semibold text-forest-mid hover:underline">
               Safety &amp; screening
             </Link>{" "}
@@ -150,35 +254,38 @@ export default function HomePage() {
         </Container>
       </section>
 
-      <section className="py-16">
+      <section className="py-20 sm:py-24">
         <Container>
-          <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+          <div className="flex flex-col gap-5 sm:flex-row sm:items-end sm:justify-between">
             <div>
-              <h2 className="font-serif text-3xl font-medium text-forest">Explore by concern</h2>
-              <p className="mt-2 max-w-xl text-ink/75">
+              <p className="section-label">Explore</p>
+              <h2 className="mt-3 font-serif text-3xl font-medium tracking-tight text-forest sm:text-4xl">
+                By concern
+              </h2>
+              <p className="mt-3 max-w-xl text-ink/75">
                 Condition pages explain common questions in plain language — without inventing outcomes.
               </p>
             </div>
-            <Link href="/how-it-works" className="text-sm font-semibold text-forest-mid underline-offset-4 hover:underline">
+            <Link
+              href="/how-it-works"
+              className="text-sm font-semibold text-forest-mid underline-offset-4 hover:underline"
+            >
               See how the process works →
             </Link>
           </div>
-          <div className="mt-8 grid gap-5 md:grid-cols-3">
+          <div className="mt-10 grid gap-6 md:grid-cols-3">
             {pathways.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                className="rounded-xl border border-forest/10 bg-cream p-6 transition hover:border-accent/50 hover:shadow-md"
-              >
+              <Link key={item.href} href={item.href} className="card-elevated block bg-cream p-7">
                 <h3 className="font-serif text-xl text-forest">{item.title}</h3>
                 <p className="mt-3 text-sm leading-relaxed text-ink/75">{item.body}</p>
+                <span className="mt-5 inline-block text-sm font-semibold text-accent">Learn more →</span>
               </Link>
             ))}
           </div>
         </Container>
       </section>
 
-      <section className="border-t border-forest/10 bg-white py-14">
+      <section className="border-t border-forest/10 bg-white py-20 sm:py-24">
         <Container className="prose-clinical max-w-3xl">
           <h2>How the medical journey works</h2>
           <ol>
@@ -213,7 +320,7 @@ export default function HomePage() {
 
           <h2>Homepage FAQ</h2>
           {homeFaqs.map((item) => (
-            <div key={item.q} className="mb-4">
+            <div key={item.q} className="mb-5">
               <h3>{item.q}</h3>
               <p>{item.a}</p>
             </div>
@@ -221,7 +328,7 @@ export default function HomePage() {
         </Container>
       </section>
 
-      <CTASection title="Start with safety, then request screening" />
+      <CTASection title="Start with safety, then apply confidentially" />
     </>
   );
 }

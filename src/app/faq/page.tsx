@@ -10,7 +10,7 @@ import { siteConfig } from "@/lib/site";
 export const metadata: Metadata = {
   title: "IV Ibogaine Infusion FAQ: Safety, Legality, Cost, Evidence",
   description:
-    "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, cost, conditions, and how to apply for screening.",
+    "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, provisional Mexico availability, cost, conditions, and how to apply.",
   alternates: { canonical: "/faq" },
 };
 
@@ -64,6 +64,14 @@ const faqs = [
     a: "Under U.S. federal law, ibogaine is a Schedule I controlled substance. This is not legal advice; jurisdiction and travel questions require qualified counsel. /blog/is-ibogaine-legal-us",
   },
   {
+    q: "Is supervised IV ibogaine infusion available in Mexico?",
+    a: "Yes — inquiry and treatment are available provisionally in Mexico under a supervised medical framing. This is not a U.S. FDA-approved clinic. Screening is required first; jurisdiction and legal context are discussed transparently. We are not affiliated with Eleusis or other brands.",
+  },
+  {
+    q: "What does “provisionally in Mexico” mean?",
+    a: "It means a supervised path may be available there now, while logistics, staffing, and program details can still evolve. Website copy is not a guarantee of admission, timing, or outcomes. A confidential application and medical screening are the correct next steps for current facts.",
+  },
+  {
     q: "Does ibogaine cure addiction?",
     a: "No. This site makes no cure claims. Observational and open-label literature (mostly oral) has explored withdrawal and substance-use contexts; evidence is limited, heterogeneous, and not a marketing proof for IV psychoactive protocols. Aftercare still matters. /ibogaine-for-addiction",
   },
@@ -89,7 +97,7 @@ const faqs = [
   },
   {
     q: "How do I apply or request screening?",
-    a: "Submit a confidential screening request. Expect questions about cardiac history, medications, and substance-use status. Screening discussion ≠ clearance or guaranteed admission. /apply · Process: /how-it-works ---",
+    a: "Start a confidential application. Expect questions about cardiac history, medications, and substance-use status. Screening discussion ≠ clearance or guaranteed admission. /apply · Process: /how-it-works",
   }
 ];
 
@@ -101,7 +109,7 @@ export default function FaqPage() {
         "@type": "MedicalWebPage",
         name: "IV Ibogaine Infusion FAQ",
         url: `${siteConfig.url}/faq`,
-        description: "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, cost, conditions, and how to apply for screening.",
+        description: "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, provisional Mexico availability, cost, conditions, and how to apply.",
       },
       faqPage(faqs),
       breadcrumbList([
@@ -114,26 +122,26 @@ export default function FaqPage() {
   return (
     <>
       <JsonLd data={jsonLd} />
-      <section className="border-b border-forest/10 bg-white py-14">
+      <section className="border-b border-forest/10 bg-white py-16 sm:py-20">
         <Container className="max-w-3xl">
           <h1 className="font-serif text-4xl font-medium text-forest sm:text-5xl">
             IV ibogaine infusion FAQ
           </h1>
           <p className="mt-4 text-lg leading-relaxed text-ink/75">
             Direct answers on <strong className="text-ink">intravenous psychoactive ibogaine</strong> under
-            physician supervision: definition, oral-evidence gap, cardiac screening, legality, cost, and
-            limits — clarity over hype.
+            physician supervision: definition, oral-evidence gap, cardiac screening, legality, provisional
+            Mexico availability, cost, and limits — clarity over hype.
           </p>
           <Disclaimer className="mt-8" />
         </Container>
       </section>
 
-      <section className="py-14">
-        <Container className="max-w-3xl space-y-4">
+      <section className="py-16 sm:py-20">
+        <Container className="max-w-3xl space-y-5">
           {faqs.map((item) => (
             <details
               key={item.q}
-              className="group rounded-xl border border-forest/10 bg-white p-5 shadow-sm open:shadow-md"
+              className="group card-elevated rounded-2xl bg-white p-6 open:shadow-[0_18px_50px_rgba(15,61,46,0.1)]"
             >
               <summary className="cursor-pointer list-none font-serif text-lg text-forest marker:content-none [&::-webkit-details-marker]:hidden">
                 <span className="flex items-start justify-between gap-4">

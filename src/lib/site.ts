@@ -3,9 +3,9 @@ export const siteConfig = {
   domain: "ibogaineinfusion.com",
   url: "https://ibogaineinfusion.com",
   oneLiner:
-    "Medical screening and true psychoactive IV ibogaine infusion — the alkaloid delivered intravenously, like a ketamine infusion clinic — for people who need a serious, supervised path.",
+    "Screening-first inquiry into true psychoactive IV ibogaine infusion — physician-supervised, monitored, provisionally available in Mexico.",
   description:
-    "Educational inquiry into medically screened, true IV ibogaine infusion (intravenous psychoactive ibogaine — not oral dosing with supportive IV fluids). Not a treatment guarantee or medical advice.",
+    "Educational inquiry into medically screened, true IV ibogaine infusion (intravenous psychoactive ibogaine — not oral dosing with supportive IV fluids). Provisional Mexico availability; not a U.S. FDA-approved clinic. Not a treatment guarantee or medical advice.",
   email: "inquiry@ibogaineinfusion.com",
   phoneDisplay: "Confidential inquiry form",
   nav: [

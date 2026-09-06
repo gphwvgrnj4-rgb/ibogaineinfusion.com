@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import { siteConfig } from "@/lib/site";
@@ -9,37 +10,49 @@ export function Header() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-40 border-b border-forest/10 bg-cream/95 backdrop-blur">
-      <Container className="flex h-16 items-center justify-between gap-4">
+    <header className="sticky top-0 z-40 border-b border-forest/10 bg-cream/90 shadow-[0_1px_0_rgba(15,61,46,0.04)] backdrop-blur-md">
+      <Container className="flex h-[4.25rem] items-center justify-between gap-4">
         <Link
           href="/"
-          className="font-serif text-lg font-semibold tracking-tight text-forest sm:text-xl"
+          className="group flex items-center gap-2.5 font-serif text-lg font-semibold tracking-tight text-forest sm:text-xl"
           onClick={() => setOpen(false)}
         >
-          Ibogaine <span className="text-accent">Infusion</span>
+          <span className="relative h-8 w-8 overflow-hidden rounded-full border border-forest/10 shadow-sm">
+            <Image
+              src="/brand/brand-motif.png"
+              alt=""
+              fill
+              sizes="32px"
+              className="object-cover"
+              priority
+            />
+          </span>
+          <span>
+            Ibogaine <span className="text-accent">Infusion</span>
+          </span>
         </Link>
 
-        <nav className="hidden items-center gap-6 lg:flex" aria-label="Primary">
+        <nav className="hidden items-center gap-7 lg:flex" aria-label="Primary">
           {siteConfig.nav.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="text-sm font-medium text-ink/80 transition hover:text-forest"
+              className="text-sm font-medium text-ink/75 hover:text-forest"
             >
               {item.label}
             </Link>
           ))}
           <Link
             href="/apply"
-            className="inline-flex min-h-10 items-center rounded-md bg-forest px-4 py-2 text-sm font-semibold text-cream transition hover:bg-forest-mid"
+            className="inline-flex min-h-10 items-center rounded-full bg-forest px-5 py-2 text-sm font-semibold text-cream shadow-[0_8px_20px_rgba(15,61,46,0.18)] hover:bg-forest-mid"
           >
-            Confidential inquiry
+            Start confidential application
           </Link>
         </nav>
 
         <button
           type="button"
-          className="inline-flex min-h-10 min-w-10 items-center justify-center rounded-md border border-forest/20 text-forest lg:hidden"
+          className="inline-flex min-h-10 min-w-10 items-center justify-center rounded-full border border-forest/15 text-forest hover:bg-sage/40 lg:hidden"
           aria-expanded={open}
           aria-controls="mobile-nav"
           onClick={() => setOpen((v) => !v)}
@@ -62,7 +75,7 @@ export function Header() {
               <Link
                 key={item.href}
                 href={item.href}
-                className="rounded-md px-3 py-3 text-base font-medium text-ink hover:bg-sage/40"
+                className="rounded-lg px-3 py-3 text-base font-medium text-ink hover:bg-sage/40"
                 onClick={() => setOpen(false)}
               >
                 {item.label}
@@ -70,10 +83,10 @@ export function Header() {
             ))}
             <Link
               href="/apply"
-              className="mt-2 rounded-md bg-forest px-3 py-3 text-center text-base font-semibold text-cream"
+              className="mt-2 rounded-full bg-forest px-3 py-3 text-center text-base font-semibold text-cream"
               onClick={() => setOpen(false)}
             >
-              Confidential inquiry
+              Start confidential application
             </Link>
           </Container>
         </div>
