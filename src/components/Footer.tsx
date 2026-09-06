@@ -18,15 +18,13 @@ export function Footer() {
       <Container className="relative grid gap-12 py-16 md:grid-cols-4">
         <div className="md:col-span-2">
           <div className="flex items-center gap-3">
-            <span className="relative h-9 w-9 overflow-hidden rounded-full border border-cream/20">
-              <Image
-                src="/brand/brand-motif.png"
-                alt=""
-                fill
-                sizes="36px"
-                className="object-cover"
-              />
-            </span>
+            <Image
+              src="/brand/logo-infinity-iboga.png"
+              alt="Ibogaine Infusion logo: infinity symbol with iboga leaves and fruit"
+              width={72}
+              height={48}
+              className="h-8 w-auto rounded-md bg-cream/95 p-0.5"
+            />
             <p className="font-serif text-xl font-semibold tracking-tight">
               Ibogaine <span className="text-accent">Infusion</span>
             </p>

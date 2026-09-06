@@ -17,16 +17,14 @@ export function Header() {
           className="group flex items-center gap-2.5 font-serif text-lg font-semibold tracking-tight text-forest sm:text-xl"
           onClick={() => setOpen(false)}
         >
-          <span className="relative h-8 w-8 overflow-hidden rounded-full border border-forest/10 shadow-sm">
-            <Image
-              src="/brand/brand-motif.png"
-              alt=""
-              fill
-              sizes="32px"
-              className="object-cover"
-              priority
-            />
-          </span>
+          <Image
+            src="/brand/logo-infinity-iboga.png"
+            alt="Ibogaine Infusion logo: infinity symbol with iboga leaves and fruit"
+            width={96}
+            height={64}
+            className="h-9 w-auto sm:h-10"
+            priority
+          />
           <span>
             Ibogaine <span className="text-accent">Infusion</span>
           </span>
