@@ -92,7 +92,7 @@ export default function HomePage() {
       <section className="relative min-h-[88vh] overflow-hidden bg-forest text-cream">
         <Image
           src="/brand/hero-atmosphere.png"
-          alt="Atmospheric botanical art in forest green, cream, and gold — clinical sanctuary mood"
+          alt="Physician-supervised medical infusion room with cardiac monitor, IV pole, and white coat"
           fill
           priority
           sizes="100vw"
@@ -100,7 +100,7 @@ export default function HomePage() {
         />
         <div className="hero-overlay absolute inset-0" aria-hidden="true" />
         <Container className="relative flex min-h-[88vh] flex-col justify-center py-20 sm:py-28">
-          <p className="section-label text-accent">Clinical sanctuary · Screening-first</p>
+          <p className="section-label text-accent">Medical infusion clinic · Screening-first</p>
           <h1 className="mt-5 max-w-3xl font-serif text-4xl font-medium leading-[1.08] tracking-tight sm:text-5xl lg:text-6xl xl:text-[4rem]">
             IV ibogaine infusion — physician-supervised, monitored, honest
           </h1>
@@ -177,7 +177,7 @@ export default function HomePage() {
           <div className="relative min-h-[420px] lg:min-h-[560px]">
             <Image
               src="/brand/suite-atmosphere.png"
-              alt="Quiet clinical suite with forest-green walls, cream linens, and soft natural light"
+              alt="Ketamine-clinic style infusion bay with ECG monitor, IV drip, and blood pressure cuff"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"
               className="object-cover object-center"
@@ -197,12 +197,12 @@ export default function HomePage() {
             <div className="relative max-w-xl">
               <p className="section-label">The setting</p>
               <h2 className="mt-4 font-serif text-3xl font-medium tracking-tight sm:text-4xl">
-                A calm suite for serious medicine
+                A monitored medical infusion setting
               </h2>
               <p className="mt-5 text-base leading-relaxed text-cream/85">
-                Luxury here means dignity and clinical seriousness — not spectacle. Private space,
-                physician oversight, and continuous monitoring for true psychoactive IV ibogaine
-                infusion. Programs discussed on this site are{" "}
+                White-coat medical care — not a hotel spa. Physician oversight, continuous cardiac
+                monitoring, and a true psychoactive IV ibogaine infusion pathway in a clinical
+                setting. Programs discussed on this site are{" "}
                 <strong className="text-cream">provisionally available in Mexico</strong> — not an
                 FDA-approved U.S. clinic pathway.
               </p>
