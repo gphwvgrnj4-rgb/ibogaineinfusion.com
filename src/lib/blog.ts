@@ -11831,6 +11831,307 @@ Ona 2022 is human AE literature synthesis—not psychoactive IV ibogaine efficac
 4. Brunt T.M. *Addiction*. 2026. doi: **10.1111/add.70319**.  
 5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
 `,
+  },
+  {
+    slug: "ibogaine-setting-factors-safety-review-2023",
+    title: "Rocha et al. 2023: Setting Factors Associated with Improved Ibogaine Safety",
+    description:
+      "Rocha et al. Eur Arch Psychiatry Clin Neurosci 2023: setting factors for safer ibogaine—medical monitoring essential; not IV efficacy proof.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Rocha et al. (2023)** in *European Archives of Psychiatry and Clinical Neuroscience* (doi: **10.1007/s00406-023-01590-1**; PMID **36947216**) is a **PRISMA systematic review** titled *Identifying setting factors associated with improved ibogaine safety: a systematic review of clinical studies*. Searching through **17 November 2022**, authors synthesized **12 sources** on clinical ibogaine use with attention to **administration settings**, adverse effects, and participant screening. They conclude that **controlled settings** supported by **trained professionals** and equipment enabling rigorous **medical, psychiatric, and cardiac monitoring** are essential to promote safety. This setting-factors map is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy. Evidence of anti-addictive benefit remains preliminary. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+## Quotable answer (54 words)
+
+Rocha and colleagues’ 2023 systematic review of twelve clinical sources found that controlled medical settings with trained staff and rigorous cardiac, psychiatric, and medical monitoring are essential for safer ibogaine use. It does not prove psychoactive IV ibogaine infusion efficacy. Screening first. Not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+“Set and setting” language is often spiritualized into soft lighting and playlists. Rocha operationalizes setting as **staff, equipment, screening, and monitoring**—the difference between a medical infusion culture and a tourism bedroom. Pair with AE review /blog/ona-2022-ibogaine-adverse-events-review and telemetry spoke /blog/ibogaine-telemetry-acls-monitoring.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Rocha J.M., Reis J.A.S., Bouso J.C., Hallak J.E.C., dos Santos R.G. *Eur Arch Psychiatry Clin Neurosci*. 2023;273(7):1527–1542. doi 10.1007/s00406-023-01590-1 |
+| Type | PRISMA systematic review of clinical studies (setting focus) |
+| Search cutoff | Clinical studies published until 17 Nov 2022 |
+| Databases | PubMed, SciELO, ClinicalTrials.gov, CORE.ac.uk (as reported) |
+| Included | Final synthesis of **12** sources |
+| Emphases | Setting characteristics, screening, adverse effects, general study features |
+
+
+## Methods (plain language)
+
+Reviewers gathered clinical literature on ibogaine safety with explicit interest in *where* and *how* dosing occurred—not only whether someone later claimed abstinence. They summarized screening practices and setting features associated with safer contexts. A systematic review of settings cannot invent missing RCTs, but it can make “medical supervision” less vague.
+
+
+## Key findings (no hype)
+
+Author conclusions/themes:
+
+- Ibogaine is often used **without medical supervision** in uncontrolled settings, with reports of severe adverse events.  
+- Anti-addictive evidence remains **preliminary**.  
+- **Controlled settings** with trained professionals and monitoring equipment are **essential** for safety.  
+- Rigorous **medical, psychiatric, and cardiac** monitoring capabilities matter.  
+- Screening themes across safer protocols typically include labs (liver/kidney, CBC, electrolytes) and **ECG**, with extended supervision windows discussed in related clinical commentary (often ≥72 hours in safety-minded protocols).  
+- Quiet/comfortable environments appear in setting discussions but do **not** replace cardiac gear.
+
+**Honest reading:** ambiance is optional; defibrillator-capable monitoring culture is not.
+
+
+## Limits and confounders
+
+| Limit | Why it matters |
+|-------|----------------|
+| Only 12 sources | Narrow evidence base for setting claims |
+| Heterogeneous clinics | Hard to isolate which single factor “causes” safety |
+| Observational confounding | Safer clinics may also screen harder (healthy-user bias) |
+| Preliminary efficacy evidence | Setting quality ≠ proven cure |
+| Mostly oral/unspecified routes | Not IV psychoactive RCTs |
+| Review cannot create ACLS capacity | Clinics still must actually staff it |
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+Rocha’s clinical sources largely reflect oral or formulation-unspecified human dosing contexts. Brand **IV ibogaine infusion**—psychoactive intravenous delivery under physician supervision—still needs its own route honesty: sparse controlled IV evidence relative to oral observational series; support IV magnesium is not psychoactive IV (/blog/ibogaine-oral-vs-iv, /blog/stanford-ibogaine-mistic). Setting standards (ECG, electrolytes, trained responders) apply regardless of route.
+
+
+## Cardiac / YMYL context
+
+Setting-factor conclusions are the operational twin of QTc biology:
+
+- Knuijver oral QTc magnitudes (/blog/knuijver-2021-ibogaine-qtc-safety)  
+- CYP2D6 exposure variability (/blog/knuijver-2024-ibogaine-pk-cyp2d6, /blog/ibogaine-cyp2d6-metabolism)  
+- Ona AE taxonomy (/blog/ona-2022-ibogaine-adverse-events-review)  
+- Brunt VT/QTc teaching (/blog/ibogaine-cardiovascular-complications-review)  
+- Pre-infusion ECG checklist (/blog/ibogaine-ecg-pre-infusion-checklist)  
+- Contraindications (/blog/ibogaine-contraindications, /blog/ibogaine-pre-existing-heart-conditions)
+
+A spa brochure that never mentions telemetry fails this review’s spirit.
+
+
+## Clinic-evaluation table derived from setting themes
+
+| Ask | Green-flag answer | Red-flag answer |
+|-----|-------------------|-----------------|
+| Who monitors overnight? | Named clinicians with cardiac skills | “Facilitators” only |
+| Continuous ECG? | Yes, written protocol | “We check pulse sometimes” |
+| Electrolytes / Mg plan? | Documented | Hand-waved |
+| Emergency transfer? | Named hospital pathway | “Rarely needed” shrug |
+| Psychiatric capacity? | On-call plan | “Integration circle” only |
+| Product identity? | Documented HCl lot/testing | Mystery root bark |
+
+More red flags: /blog/cheap-ibogaine-clinic-red-flags, /blog/how-to-choose-an-ibogaine-clinic.
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “Good setting = proven efficacy” | **False** — safety setting ≠ cure RCT |
+| “Comfortable room replaces ECG” | **False** |
+| “Review proves IV brand superior” | **False** |
+| Cite as medical-setting requirement map? | **Yes** |
+
+U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us).
+
+
+## Soft CTA
+
+If you are comparing programs for physician-supervised **IV ibogaine infusion**, treat Rocha’s monitoring criteria as non-negotiable homework. Start at /safety-and-screening, then /apply. Entity: /what-is-ibogaine-infusion.
+
+
+## FAQ
+
+### What is the Rocha 2023 review?
+A systematic review of clinical studies identifying setting factors linked to safer ibogaine use (12 sources).
+
+### What setting factor did authors emphasize most?
+Controlled medical settings with trained professionals and equipment for rigorous medical, psychiatric, and cardiac monitoring.
+
+### Does a calm room equal a safe clinic?
+No. Ambiance does not replace ECG, electrolytes, and emergency capacity.
+
+### Does this prove IV ibogaine infusion works?
+No. It is a safety-setting synthesis, not an efficacy RCT for psychoactive IV dosing.
+
+### Is anti-addictive evidence called definitive?
+No—authors describe supporting evidence as still preliminary.
+
+### Should families ask about overnight cardiac staffing?
+Yes (/blog/ibogaine-telemetry-acls-monitoring).
+
+### Where should screening start?
+/safety-and-screening.
+
+### Is ibogaine FDA-approved?
+No. Schedule I in the U.S.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Rocha 2023 is setting-safety literature—not psychoactive IV ibogaine efficacy proof.
+
+
+## Sources (selected)
+
+1. Rocha J.M., Reis J.A.S., Bouso J.C., Hallak J.E.C., dos Santos R.G. Identifying setting factors associated with improved ibogaine safety: a systematic review of clinical studies. *Eur Arch Psychiatry Clin Neurosci*. 2023;273(7):1527–1542. doi: **10.1007/s00406-023-01590-1**. PMID: **36947216**.  
+2. Ona G. et al. *Psychopharmacology*. 2022. doi: **10.1007/s00213-021-05964-y**.  
+3. Knuijver T. et al. *Addiction*. 2021. doi: **10.1111/add.15448**.  
+4. Brunt T.M. *Addiction*. 2026. doi: **10.1111/add.70319**.  
+5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
+  },
+  {
+    slug: "ibogaine-cardiovascular-complications-review",
+    title: "Brunt 2026: Rare but Relevant—Ibogaine Cardiovascular Complications (QTc & Ventricular Arrhythmias)",
+    description:
+      "Brunt Addiction review: rare but relevant ibogaine QTc prolongation & ventricular arrhythmias/TdP; CYP2D6; medical supervision—not IV proof.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Brunt (2026)** in *Addiction* (doi: **10.1111/add.70319**; PMID **41560340**) is a “**Rare but relevant**” review/teaching article on **ibogaine cardiovascular complications**—specifically **prolonged QT/QTc** and **ventricular arrhythmias** including **Torsades de Pointes (TdP)**. It explains hERG (and related) channel mechanisms, notes that events can occur at **therapeutic doses** and even without known pre-existing cardiac disease, highlights **CYP2D6** interindividual variability as a risk amplifier, and argues future ibogaine-assisted treatment should occur **only under controlled medical supervision** with genotyping considerations and rigorous cardiovascular monitoring. This is cardiac YMYL teaching—**not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+## Quotable answer (58 words)
+
+Brunt’s 2026 Addiction review explains that ibogaine can prolong QTc and trigger ventricular arrhythmias, including torsades, even at therapeutic doses. CYP2D6 variability may raise risk in some people. Medical supervision and cardiac monitoring are mandatory. The article does not prove psychoactive IV ibogaine infusion efficacy. Ibogaine is not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+Primary safety studies (Knuijver) give numbers; AE reviews (Ona) catalog cases; this *Addiction* piece teaches clinicians and families the **mechanism → arrhythmia → monitoring** story in one place. Soft CTA path: /safety-and-screening → /apply. Mortality: /blog/ibogaine-mortality-cardiac-risk.
+
+
+## What was studied / synthesized
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Brunt T.M. Rare but relevant: Ibogaine and cardiovascular complications—prolonged QT interval and ventricular arrhythmias. *Addiction*. 2026;121(6):1616–1621. doi 10.1111/add.70319 |
+| Type | Review / clinical teaching article |
+| Core topics | QTc prolongation, ventricular tachyarrhythmias, TdP, hERG blockade, CYP2D6 variability, monitoring, analogues |
+| Key clinical warning | Events reported at therapeutic doses; not limited to known heart disease |
+| Author stance | Controlled medical supervision; CV monitoring; interest in safer analogues / personalized dosing research |
+
+
+## Methods (plain language)
+
+This is not a new n=14 PK trial. It synthesizes mechanistic and clinical literature to explain why ibogaine’s anti-addictive interest collides with a rare-but-serious cardiac toxicity. Teaching reviews are valuable when they keep mechanism, case reality, and monitoring recommendations in the same narrative.
+
+
+## Key findings (no hype)
+
+Themes emphasized:
+
+- Ibogaine/noribogaine can prolong QT/QTc (conventional thresholds often discussed around ≥450 ms men / ≥460 ms women, rate-corrected), impairing cardiac repolarization.  
+- Delayed repolarization can enable **ventricular tachyarrhythmias** and **TdP**, which can be fatal.  
+- Mechanistic focus includes **hERG potassium-channel blockade** by ibogaine/noribogaine; additional L-type calcium channel modeling contributions are discussed in the literature.  
+- Case reports show events at **therapeutic doses** and in people **without** known pre-existing cardiac conditions.  
+- Large **CYP2D6** metabolism variability may contribute to higher CV risk in some individuals (ties to Knuijver 2024 PK).  
+- Safety efforts discussed: dosing strategies, cardiovascular monitoring, and **preclinical** analogues aiming to retain anti-addictive signals without cardiotoxicity.  
+- Recommendation: future treatment exclusively under controlled medical supervision with CYP2D6 genotyping considerations and rigorous CV monitoring; trials should evaluate safer analogues and personalized strategies.
+
+**Honest reading:** “Rare” modifies frequency language—not seriousness. TdP is never a marketing footnote.
+
+
+## Limits and confounders
+
+| Limit | Why it matters |
+|-------|----------------|
+| Review/teaching format | Not a new incidence RCT |
+| Case-derived severity | Numerators known better than denominators |
+| Analogue discussion is partly preclinical | Animal/in-vitro analogue hope ≠ approved human drug |
+| Genotyping is not a complete shield | Still need ECG/telemetry |
+| Route heterogeneity in source cases | Oral ≠ IV proof either way |
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+Most human QTc datasets (including Knuijver oral 10 mg/kg) are **oral**. Intravenous psychoactive delivery changes kinetics but does not cancel hERG biology. Support IV magnesium in oral MISTIC-type protocols is **support**, not evidence that QTc risk vanished (/blog/magnesium-ibogaine-cardiac-protocol, /blog/ibogaine-oral-vs-iv, /blog/stanford-ibogaine-mistic). Brand **IV ibogaine infusion** still means physician-supervised psychoactive IV with continuous monitoring culture.
+
+
+## Cardiac / YMYL context — practical translation
+
+| Teaching point | Family/clinic implication |
+|----------------|---------------------------|
+| QTc prolongation | Baseline + serial ECG |
+| TdP risk | Continuous telemetry; ACLS-ready staff |
+| Therapeutic-dose events | “Low ceremony dose” is not automatic safety |
+| No known heart disease ≠ no risk | Screen anyway |
+| CYP2D6 variability | Med reconciliation + genotype discussion |
+| Delayed risk window | Overnight observation matters |
+
+Deep dives: /blog/knuijver-2021-ibogaine-qtc-safety, /blog/knuijver-2024-ibogaine-pk-cyp2d6, /blog/ibogaine-telemetry-acls-monitoring, /blog/ibogaine-drug-interactions-qtc, /blog/ibogaine-setting-factors-safety-review-2023.
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “Rare = ignore” | **Dangerously false** |
+| “Analogues already approved so brand is safe” | **False** |
+| “Review proves efficacy” | **False** — cardiac teaching paper |
+| Cite as QTc/VT mechanism + monitoring mandate? | **Yes** |
+
+U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us).
+
+
+## Soft CTA
+
+If ventricular arrhythmia language is new to you, do not skip it. Cardiac education first: /safety-and-screening. Only then /apply for physician-supervised **IV ibogaine infusion** questions. Entity: /what-is-ibogaine-infusion.
+
+
+## FAQ
+
+### What is the Brunt Addiction article?
+A 2026 “Rare but relevant” review on ibogaine-related QTc prolongation and ventricular arrhythmias/TdP.
+
+### Can cardiac events happen at therapeutic doses?
+Yes—review emphasizes reports at therapeutic doses, including in people without known prior cardiac disease.
+
+### What mechanism is emphasized?
+hERG potassium-channel blockade delaying cardiac repolarization (with related channel literature).
+
+### Does CYP2D6 matter?
+Interindividual CYP2D6 variability may contribute to higher cardiovascular risk in some people.
+
+### Does this prove IV ibogaine infusion is effective?
+No. It is cardiac risk teaching, not an efficacy RCT.
+
+### Is medical supervision optional?
+Author argues future treatment should be exclusively under controlled medical supervision with rigorous CV monitoring.
+
+### Where should families start?
+/safety-and-screening.
+
+### Is ibogaine FDA-approved?
+No. Schedule I in the U.S.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Brunt 2026 is cardiovascular complication teaching—not psychoactive IV ibogaine efficacy proof.
+
+
+## Sources (selected)
+
+1. Brunt T.M. Rare but relevant: Ibogaine and cardiovascular complications—prolonged QT interval and ventricular arrhythmias. *Addiction*. 2026;121(6):1616–1621. doi: **10.1111/add.70319**. PMID: **41560340**.  
+2. Knuijver T. et al. *Addiction*. 2021. doi: **10.1111/add.15448**.  
+3. Knuijver T. et al. *J Psychopharmacol*. 2024. doi: **10.1177/02698811241237873**.  
+4. Ona G. et al. *Psychopharmacology*. 2022. doi: **10.1007/s00213-021-05964-y**.  
+5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
   }
 ];
 
