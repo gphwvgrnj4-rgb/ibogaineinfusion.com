@@ -32,6 +32,11 @@ export function Footer() {
           <p className="mt-4 max-w-md text-sm leading-relaxed text-cream/80">
             {siteConfig.oneLiner}
           </p>
+          <p className="mt-4 text-sm text-cream/85">
+            <a href={`mailto:${siteConfig.email}`} className="hover:text-cream underline-offset-2 hover:underline">
+              {siteConfig.email}
+            </a>
+          </p>
           <p className="mt-4 max-w-md text-sm leading-relaxed text-cream/70">
             Physician-supervised IV ibogaine infusion programs discussed here are{" "}
             <strong className="font-semibold text-cream">provisionally available in Mexico</strong> —

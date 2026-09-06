@@ -6,7 +6,7 @@ export const siteConfig = {
     "Screening-first inquiry into true psychoactive IV ibogaine infusion — physician-supervised, monitored, provisionally available in Mexico.",
   description:
     "Educational inquiry into medically screened, true IV ibogaine infusion (intravenous psychoactive ibogaine — not oral dosing with supportive IV fluids). Provisional Mexico availability; not a U.S. FDA-approved clinic. Not a treatment guarantee or medical advice.",
-  email: "inquiry@ibogaineinfusion.com",
+  email: "hello@ibogaineinfusion.com",
   phoneDisplay: "Confidential inquiry form",
   nav: [
     { href: "/what-is-ibogaine-infusion", label: "What Is Infusion" },
