@@ -9731,6 +9731,470 @@ Educational consent literacy only—not medical advice, legal advice, or a perso
 4. Glue P. et al. *J Clin Pharmacol* — CYP2D6 influences oral ibogaine PK (interaction literacy).  
 5. 21 CFR 1308.11 — Schedule I (ibogaine).
 `,
+  },
+  {
+    slug: "ibogaine-telemetry-acls-monitoring",
+    title: "Ibogaine Telemetry & ACLS Monitoring: What Ethical Programs Cannot Skip",
+    description:
+      "Ibogaine telemetry and ACLS monitoring: why continuous ECG, emergency readiness, and QTc screening are floors for IV psychoactive ibogaine—not spa upgrades.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Ibogaine telemetry and ACLS monitoring** means continuous cardiac observation and emergency response capability during physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine**—because ibogaine can prolong the **QTc** interval and raise arrhythmia risk. Telemetry is not a luxury add-on; ACLS-ready staffing and transfer planning are ethical floors. **Support IV** (fluids, magnesium, antiemetics, emergency drugs) may run in parallel and must be labeled separately from the psychoactive dose. **Evidence gap:** Landmark QTc observations (Knuijver et al., *Addiction*, 2021) followed **oral** ibogaine HCl; Cherian/MISTIC (*Nature Medicine*, 2024) used **oral** ibogaine + **IV magnesium**. Those papers inform monitoring ethics—they are not psychoactive-IV RCTs proving a “safe protocol brand.” Ibogaine is U.S. Schedule I and not FDA-approved. **No cures. No DIY.** Mexico programs discussed here are provisional only.
+
+## Quotable answer (56 words)
+
+IV ibogaine infusion requires continuous cardiac telemetry and ACLS-ready emergency planning because ibogaine can prolong QTc and precipitate life-threatening arrhythmias. Much published research remains oral, yet monitoring obligations still apply to psychoactive IV models. Spa staffing is not a substitute. Unsupervised use is dangerous. Screening can—and should—exclude high-risk candidates.
+
+
+## Why this page exists
+
+Searchers asking “is ibogaine safe” often get wellness copy. The operational answer is narrower: **Can this team see a widening QTc or unstable rhythm in real time and treat it?**
+
+Pillar: /safety-and-screening · Mortality context: /blog/ibogaine-mortality-cardiac-risk · Side effects: /blog/ibogaine-side-effects · Entity: /what-is-ibogaine-infusion · Journey: /how-it-works.
+
+
+## Telemetry in plain language
+
+**Telemetry / continuous ECG monitoring** means ongoing heart-rhythm display (and alarming) during the pharmacologic risk window—not a single pre-dose strip photo for the chart.
+
+### What families should hear in a consent conversation
+- When monitoring starts relative to dosing  
+- How long it continues after infusion/peak risk  
+- Who watches the screen (qualified clinician, not only a night host)  
+- What QTc threshold triggers hold, treat, or transfer decisions  
+- How electrolytes are rechecked if vomiting persists  
+
+A brochure saying “medical supervision” without telemetry duration is incomplete.
+
+
+## ACLS readiness: the minutes that matter
+
+**ACLS** (Advanced Cardiovascular Life Support) capability implies trained personnel, defibrillation equipment, airway support, emergency medications, and a practiced plan—not a laminated poster.
+
+Ask in writing:
+
+1. Who is ACLS-certified and present during the risk window?  
+2. Exact defibrillator/monitor equipment on site?  
+3. Minutes to the receiving emergency hospital?  
+4. Transfer agreements / ambulance plan?  
+5. What happens at 2 a.m. if the attending is off-site?
+
+Luxury villas without crash-ready response are a known red-flag pattern: /blog/ibogaine-luxury-retreat-red-flags · Clinic choice: /blog/how-to-choose-an-ibogaine-clinic · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+
+
+## Why oral QTc papers still force IV monitoring ethics
+
+Knuijver et al. (*Addiction*, 2021): open-label **oral** ibogaine HCl in a small opioid-dependent cohort showed clinically relevant QTc prolongation, including a substantial fraction above **500 ms**, with some prolongation persisting beyond 24 hours—plus bradycardia/BP decreases. No torsades in n≈14 does **not** license unmonitored care.
+
+**Route label:** IV psychoactive pharmacokinetics differ; absence of large IV RCTs is a reason for **more** humility and monitoring—not less.
+
+Cherian et al. (*Nature Medicine*, 2024, MISTIC): **oral** ibogaine + **IV magnesium** support in a small open-label veteran cohort. Magnesium coadministration is a risk-mitigation conversation in that protocol—not a telemetry waiver and not psychoactive-IV proof. /blog/stanford-ibogaine-mistic
+
+
+## Support IV vs psychoactive IV during the monitored window
+
+| Element | Role |
+|---------|------|
+| Psychoactive IV ibogaine | The treatment entity on this site—requires full cardiac governance |
+| Support IV fluids / Mg / K / antiemetics | Adjuncts for stability—must not be sold as “the infusion” |
+| Emergency IV meds | Resuscitation pathway—useless without trained hands and monitors |
+
+Confusing a magnesium drip with IV ibogaine infusion is a consent failure. Screening prep: /blog/preparing-for-ibogaine-screening · Psych med cautions: /blog/ibogaine-ssri-psychiatric-meds.
+
+
+## Minimum diligence table (educational floors)
+
+| Floor | Failure mode if missing |
+|-------|-------------------------|
+| Baseline 12-lead ECG + history | Blind dosing into long-QT risk |
+| Electrolyte plan | Vomiting + low K/Mg compounds repolarization risk |
+| Continuous telemetry | Missed arrhythmia until syncope/arrest |
+| ACLS kit + trained staff | Decorative “medical” branding |
+| Transfer plan | Precious minutes lost arguing logistics |
+| Written psychoactive route | Support-IV bait-and-switch |
+| Authority to abort | Sales pressure overrides physiology |
+
+Legal/cost honesty still belongs in diligence: /blog/is-ibogaine-legal-us · /blog/cost-of-ibogaine-treatment · Cure-claim refusal: /blog/ibogaine-cure-rate-claims.
+
+Condition pages (no guarantees): /ibogaine-for-addiction · /ibogaine-for-ptsd · /ibogaine-for-depression. Family script: /blog/family-guide-ibogaine-treatment. Aftercare after the acute window: /blog/ibogaine-aftercare-integration. Comparisons: /blog/ibogaine-vs-ketamine-for-addiction · /blog/ibogaine-vs-naltrexone · /blog/ibogaine-vs-mdma-therapy.
+
+
+## What monitoring does *not* guarantee
+
+- Zero risk of arrhythmia  
+- FDA approval  
+- A cure for addiction, PTSD, or depression  
+- That oral open-label signals equal IV efficacy  
+
+Monitoring reduces unmanaged risk. It does not invent certainty.
+
+
+
+
+
+## Overnight coverage is part of monitoring—not a footnote
+
+Many cardiac events are not convenient daytime problems. Ask who is physically present overnight, how alarms escalate, and whether the “doctor on call” is minutes or hours away. A WhatsApp concierge is not telemetry. If vomiting depletes potassium at 3 a.m., the team needs labs, repletion capability, and rhythm surveillance—not aromatherapy. Document answers before deposit. Cross-check with /blog/preparing-for-ibogaine-screening and /blog/family-guide-ibogaine-treatment.
+
+Also confirm who interprets live QTc changes: a physician competent in arrhythmia risk, not solely a hospitality manager reading a consumer watch app. Continuous monitoring without clinical interpretation is theater.
+
+## Soft CTA
+
+If a program cannot describe telemetry duration and ACLS/transfer plans clearly, pause. Read /safety-and-screening, then request a confidential screening consult via /apply. FAQ: /faq.
+
+
+## FAQ
+
+### Is continuous ECG optional for ibogaine?
+Ethically, treat continuous monitoring during the risk window as a floor—not an upgrade—given QTc concerns.
+
+### What is ACLS and why ask?
+Advanced Cardiovascular Life Support capability means trained response to cardiac emergencies; minutes matter.
+
+### Does IV magnesium replace telemetry?
+No. In MISTIC, IV magnesium accompanied oral ibogaine as support—not a monitoring substitute or psychoactive-IV proof.
+
+### Are oral studies enough to skip monitoring for IV?
+No. Sparse IV controlled evidence argues for caution and monitoring, not shortcuts.
+
+### Can luxury staffing replace ACLS equipment?
+No. Amenities ≠ defibrillation and transfer capability.
+
+### Does monitoring guarantee a cure?
+No. No cure/guarantee claims.
+
+### Is unsupervised home “monitoring” with a smartwatch enough?
+No. Unsupervised ibogaine use is dangerous.
+
+### What should I do next?
+/safety-and-screening → /blog/ibogaine-mortality-cardiac-risk → /apply.
+
+
+## Medical disclaimer
+
+Educational monitoring guidance only—not a hospital protocol, not medical advice, and not a certification of any clinic. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved. Mexico programs discussed here are provisional only.
+
+
+## Sources (selected)
+
+1. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; clinically relevant QTc prolongation in open-label cohort.  
+2. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC); open-label; not telemetry waiver or IV-psychoactive RCT.  
+3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
+4. 21 CFR 1308.11 — Schedule I (ibogaine).
+`,
+  },
+  {
+    slug: "mistic-12-month-follow-up",
+    title: "MISTIC 12-Month Follow-Up: What the 2026 Translational Psychiatry Paper Actually Shows",
+    description:
+      "Translational Psychiatry 2026 MISTIC 12-month follow-up (n=25/30): durable oral ibogaine + IV Mg signals—not IV-ibogaine proof. Confounders; RCTs needed.",
+    date: "2026-09-06",
+    readTime: "12 min",
+    content: `
+## Definition box
+
+**Definition:** The **MISTIC 12-month follow-up** is the prospective long-term extension of Stanford-affiliated **magnesium–ibogaine therapy (MISTIC)** published in *Translational Psychiatry* (2026; doi: **10.1038/s41398-026-04327-5**). It reports durability of symptom and disability signals through 12 months after the original open-label protocol in special-operations veterans with traumatic brain injury (TBI) history: **25 of 30** treated participants completed 12-month assessments. Psychoactive ibogaine in the parent protocol was **oral**; **IV magnesium** was **support**, not psychoactive ibogaine. This follow-up is **not** a randomized controlled trial and **not** proof that physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) works. Authors note important confounders—including other psychedelics and interventions during follow-up. Cardiac QTc risk remains central. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+## Quotable answer (58 words)
+
+The 2026 Translational Psychiatry MISTIC 12-month follow-up found durable symptom and disability improvements in 25 of 30 veterans after oral ibogaine plus IV magnesium support—not a controlled trial of psychoactive IV ibogaine infusion. Confounders such as other psychedelics during follow-up limit causal claims. RCTs are still needed. Ibogaine can prolong QTc and is not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+Searchers often ask: “Did Stanford prove ibogaine lasts a year?” Headlines about durable MISTIC outcomes are easy to compress into **cure** or **IV-proof** marketing. This page keeps the paper named, the route labeled, and the evidence gap honest.
+
+Related reading: /blog/stanford-ibogaine-mistic · /blog/ibogaine-for-tbi-veterans · Entity hub: /what-is-ibogaine-infusion · Oral vs IV: /blog/ibogaine-oral-vs-iv.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Prospective long-term follow-up of MISTIC; *Translational Psychiatry* 2026; doi 10.1038/s41398-026-04327-5 |
+| Parent study | Cherian et al., *Nature Medicine* 2024 — open-label oral ibogaine + IV magnesium in ~30 special-operations veterans with TBI history |
+| Design | Prospective observational follow-up at ~3, 6, 9, and 12 months |
+| Completers | **25 / 30** completed 12-month assessments |
+| Population | Male U.S. Special Operations Veterans with TBI-related functional/psychiatric burden (per parent protocol framing) |
+| Psychoactive route | **Oral** ibogaine (parent protocol) |
+| IV component | **IV magnesium** support — not psychoactive IV ibogaine |
+| Outcomes framed | Functional disability (self-report) + clinician-administered PTSD, depression, anxiety measures |
+| What it is not | IV-psychoactive ibogaine RCT; FDA approval package; addiction-cure evidence; license to skip screening |
+
+Readers should open the primary paper for exact instruments, effect sizes, adverse-event reporting, and limitation language rather than relying on secondary blogs.
+
+
+## Methods (plain language)
+
+Researchers followed the same naturalistic MISTIC cohort after the initial open-label treatment window reported in *Nature Medicine* 2024. Participants completed baseline and post-treatment assessments, then returned for scheduled long-term check-ins through one year. Analytic approaches described in the paper include linear mixed-effects models for symptom trajectories and survival-style estimates of sustained remission among those who remitted soon after treatment.
+
+Important design features for non-specialist readers:
+
+1. **No randomization / no placebo control** in the parent treatment assignment.  
+2. **Open-label** expectations can inflate apparent benefit.  
+3. **Small N** — 30 treated; 25 with 12-month data.  
+4. **Special population** — highly selected special-operations veterans; results do not automatically generalize.  
+5. **Naturalistic year** — real life (other care, other substances, life events) continues after discharge.
+
+
+## Key findings (no hype)
+
+Reported signals in the follow-up abstract/paper narrative include:
+
+- Sustained reductions in disability, PTSD, depression, and anxiety symptom measures through 12 months in this cohort, with large effect-size estimates at 12 months relative to baseline (paper reports Cohen’s *d* ≥ 2.18 at 12 months for key domains).  
+- Among participants who remitted immediately post-treatment, estimated probabilities of remaining in remission at 12 months on the order of ~**84% PTSD**, ~**66% depression**, ~**61% anxiety** (survival analyses as reported).  
+- Authors themselves highlight that **most participants reported other psychedelic use or other interventions during follow-up**, which must temper causal attribution to a single ibogaine exposure.
+
+**Honest reading:** durable *observed trajectories* in an open-label veteran cohort are scientifically interesting and motivate RCTs. They are **not** proof of a cure, **not** population-average “success rates” for clinics to advertise, and **not** evidence for psychoactive IV ibogaine.
+
+
+## Limits and confounders
+
+| Confounder / limit | Why it matters |
+|--------------------|----------------|
+| Open-label parent design | Expectancy, placebo, and non-blinded ratings |
+| Concurrent psychedelics / interventions (~majority in follow-up) | Symptom change may reflect multi-exposure journeys, not ibogaine alone |
+| Attrition (5/30 without full 12-mo data) | Completers may differ from non-completers |
+| Selection effects | Motivated, screened veterans ≠ all TBI or PTSD patients |
+| Complementary modalities in MISTIC narrative | Program structure, travel, and adjunct care can drive change |
+| Route mismatch for this brand | Oral + IV Mg ≠ psychoactive IV ibogaine infusion |
+| Cardiac literature still applies | QTc risk is not “solved” by a hopeful year of scores |
+
+Systematic reviews (Köck 2022; Mosca 2023) already stress limited RCTs and cardiotoxicity concerns across ibogaine clinical literature.
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+MISTIC remains the clearest public teaching case:
+
+- **Oral ibogaine** = psychoactive dose in the studied protocol  
+- **IV magnesium** = cardiac-support framing, **not** the psychoactive alkaloid by vein  
+- **IV ibogaine infusion** (this site’s entity) = physician-supervised **psychoactive intravenous** ibogaine
+
+Clinics that say “we run the Stanford 12-month IV protocol” should be asked in writing: **Is ibogaine intravenous, or only magnesium/fluids?** See /blog/how-to-choose-an-ibogaine-clinic and /blog/magnesium-ibogaine-cardiac-protocol.
+
+
+## Cardiac / YMYL context
+
+Even with magnesium co-administration narratives, ECG screening, electrolyte management, telemetry culture, and emergency readiness remain non-negotiable teaching points. Oral-route QTc data from Knuijver et al. (*Addiction*, 2021) show mean QTc prolongation on the order of ~95 ms and half of subjects exceeding 500 ms after 10 mg/kg oral ibogaine HCl in a small monitored sample—still serious risk teaching for any route discussion (/blog/knuijver-2021-ibogaine-qtc-safety, /blog/ibogaine-mortality-cardiac-risk, /safety-and-screening).
+
+**IV magnesium support ≠ eliminated arrhythmia risk.**
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim someone might make | Accurate status |
+|--------------------------|-----------------|
+| “12-month MISTIC proves IV ibogaine works” | **False** — oral + IV Mg; observational |
+| “84% PTSD remission forever for everyone” | **False** — conditional survival estimate in remitted subset of a small open-label cohort; confounders |
+| “FDA-approved for veterans TBI” | **False** — Schedule I; not FDA-approved |
+| “Skip cardiac screening because magnesium” | **Dangerous and false** |
+| Adjacent literature with route labels OK? | **Yes** — if labeled oral+IV Mg, open-label, small N, RCTs needed |
+
+
+## Soft CTA
+
+If the 12-month MISTIC headlines prompted questions about **physician-supervised IV ibogaine infusion**, start with route literacy and cardiac diligence: /safety-and-screening. Request a confidential screening consult via /apply only after evidence-gap education—not after cure headlines. Parent study spoke: /blog/stanford-ibogaine-mistic. Veterans/TBI context: /blog/ibogaine-for-tbi-veterans.
+
+
+## FAQ
+
+### What is the MISTIC 12-month follow-up paper?
+A 2026 *Translational Psychiatry* prospective follow-up of the open-label magnesium–ibogaine (MISTIC) veteran/TBI cohort, with 25 of 30 completing 12-month assessments. Oral ibogaine + IV magnesium support—not psychoactive IV ibogaine.
+
+### Did symptoms stay better at one year?
+The paper reports durable observed improvements in disability and psychiatric measures in this naturalistic cohort. Confounders (including other psychedelics/interventions) limit causal certainty. RCTs are still needed.
+
+### Was ibogaine given by IV in MISTIC?
+No. Ibogaine was **oral**; magnesium was **IV** support.
+
+### Does 25/30 prove IV ibogaine infusion works?
+No. Different route, open-label design, small N, special population.
+
+### Why do authors mention other psychedelics?
+Because most participants reported other psychedelic use or other interventions during follow-up—so year-long trajectories cannot be attributed to ibogaine alone.
+
+### Is this FDA approval for veterans?
+No. Ibogaine remains Schedule I in the U.S. and is not FDA-approved.
+
+### Should cardiac screening still happen?
+Yes. QTc risk teaching still applies (/safety-and-screening).
+
+### Where is the original Nature Medicine MISTIC spoke?
+/blog/stanford-ibogaine-mistic.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Cherian/MISTIC 12-month follow-up is open-label oral ibogaine + IV magnesium durability data—not psychoactive IV ibogaine proof.
+
+
+## Sources (selected)
+
+1. Cherian K.N. et al. (follow-up authorship as published). Is ibogaine treatment durable? 12-month follow-up of magnesium–ibogaine therapy (MISTIC) in special operations veterans with traumatic brain injuries. *Translational Psychiatry*. 2026. doi: **10.1038/s41398-026-04327-5**. (Prospective follow-up; n=25/30; **oral** ibogaine + **IV Mg**; confounders noted; **not** IV-psychoactive proof.)  
+2. Cherian K.N. et al. Magnesium–ibogaine therapy in veterans with traumatic brain injuries. *Nature Medicine*. 2024. doi: 10.1038/s41591-023-02705-w. PMID: 38182784. (Parent open-label oral + IV Mg; n≈30.)  
+3. Knuijver T. et al. Safety of ibogaine administration in detoxification of opioid-dependent individuals. *Addiction*. 2021. doi: 10.1111/add.15448. (**Oral** QTc signals.)  
+4. Köck P. et al. A systematic literature review of clinical trials and therapeutic applications of ibogaine. *Journal of Substance Abuse Treatment*. 2022. doi: 10.1016/j.jsat.2021.108717.  
+5. Mosca A. et al. Ibogaine/noribogaine in the treatment of substance use disorders: a systematic review. *Current Neuropharmacology*. 2023. doi: 10.2174/1570159X21666221017085612.  
+6. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
+  },
+  {
+    slug: "brown-alper-2018-ibogaine-oud",
+    title: "Brown & Alper 2018: Oral Ibogaine Observational Outcomes in Opioid Use Disorder",
+    description:
+      "Brown & Alper 2018 observational n=30 OUD: oral ibogaine HCl ~1540 mg, SOWS drop, 50% no opioids prior 30 days at 1 month—not RCT; cardiac risk; not IV proof.",
+    date: "2026-09-06",
+    readTime: "11 min",
+    content: `
+## Definition box
+
+**Definition:** **Brown & Alper (2018)** in *The American Journal of Drug and Alcohol Abuse* (doi: **10.1080/00952990.2017.1320802**; PMID **28541119**) is a prospective **observational** study of **n=30** adults with DSM-IV opioid dependence treated with **oral ibogaine HCl** (mean total dose about **1,540 ± 920 mg**) in clinic settings. Authors reported acute reductions on the Subjective Opioid Withdrawal Scale (SOWS) and that **50%** of subjects reported no opioid use in the prior 30 days at **1-month** follow-up, with Addiction Severity Index Composite improvements at later time points. This is **not** a randomized controlled trial, **not** FDA approval evidence, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Cardiac risk—including QTc prolongation—remains central. Most published clinical ibogaine literature is oral. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+## Quotable answer (57 words)
+
+Brown and Alper’s 2018 observational study of 30 people with opioid dependence found oral ibogaine HCl associated with reduced withdrawal scores and 50% reporting no opioid use in the prior 30 days at one month—not an RCT and not evidence for psychoactive IV ibogaine infusion. Cardiac QTc risk still matters. Ibogaine is not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+Brown & Alper 2018 is one of the most-cited modern **oral** observational OUD outcome papers. Marketing sometimes turns “50% at one month” into a guaranteed clinic cure rate or into false IV-protocol proof. This spoke keeps numbers in their study design.
+
+Addiction hub: /ibogaine-for-addiction · Oral vs IV: /blog/ibogaine-oral-vs-iv · Entity: /what-is-ibogaine-infusion.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Brown T.K. & Alper K. *Am J Drug Alcohol Abuse*. 2018;44(1):24–36. doi 10.1080/00952990.2017.1320802 |
+| Design | Observational (prospective detoxification and follow-up outcomes) |
+| N | 30 (25 male, 5 female) with DSM-IV Opioid Dependence |
+| Substance patterns | Oxycodone and/or heroin common; substantial prior treatment episodes (mean ~3.1) |
+| Dose | Mean total **oral** ibogaine HCl **1,540 ± 920 mg** |
+| Setting | Non-randomized clinic / naturalistic treatment context (as described by authors) |
+| Primary-style measures | SOWS for acute withdrawal; Addiction Severity Index Composite (ASIC) for follow-up domains |
+| Follow-up windows | 1, 3, 6, 9, and 12 months |
+
+
+## Methods (plain language)
+
+Adults seeking ibogaine detoxification for opioid dependence were enrolled observationally. They received oral ibogaine HCl at clinic-determined dosing (mean total near 1.54 g). Withdrawal symptoms were scored with SOWS around the treatment window. Drug-use and psychosocial severity composites were tracked for up to a year. There was **no placebo arm** and **no random assignment** to alternative evidence-based OUD care as a control.
+
+Plain-language implications:
+
+- Self-selected treatment-seeking samples differ from general clinic populations.  
+- Self-report of abstinence can overstate success without biochemical verification in every case.  
+- Attrition and missing long-term data can bias optimistic narratives.  
+- Interindividual dose and response variability was large (note the ±920 mg SD).
+
+
+## Key findings (no hype)
+
+As reported by the authors:
+
+- SOWS fell from roughly **31.0 ± 11.6** pretreatment to **14.0 ± 9.8** at about **76.5 ± 30 hours** posttreatment (statistically significant paired comparison in the paper).  
+- At **1 month**, **15/30 (50%)** reported **no opioid use in the previous 30 days**.  
+- ASIC Drug Use and certain psychosocial composites improved versus baseline at posttreatment time points; drug-use improvement was maximal at 1 month and partially sustained thereafter (authors note later levels did not reach equivalence to the 1-month peak).
+
+**Honest reading:** these are meaningful observational signals for a difficult population that had often failed prior treatments. They are **hypothesis-generating**, not definitive efficacy proof, and not transferable as a branded IV success rate.
+
+
+## Limits and confounders
+
+| Limit | Why it matters |
+|-------|----------------|
+| Observational / no RCT control | Cannot prove causality vs expectancy, setting, or concurrent supports |
+| Self-report outcomes | Underreporting of use is possible |
+| Heterogeneous dosing | Mean ± large SD complicates “the dose” marketing |
+| Follow-up attrition / variability | Peak 1-month signal may not equal durable abstinence for all |
+| Setting heterogeneity | Medical monitoring intensity varies across real-world clinics |
+| Cardiac safety not “solved” by outcome scores | QTc / fatality literature still applies |
+| Route | **Oral** — does not validate psychoactive IV |
+
+Compare parallel NZ observational work with an enrolled death discussed honestly: /blog/noller-2018-ibogaine-new-zealand. Larger open-label series: /blog/mash-2018-ibogaine-detox-frontiers.
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+Brown & Alper administered **oral ibogaine HCl**. That is chemically and pharmacokinetically different from this site’s entity: **IV ibogaine infusion** as psychoactive intravenous delivery under physician supervision. Oral observational outcomes may inform research interest; they **do not** prove brand IV protocols.
+
+Support IVs (fluids, magnesium, antiemetics) used in some modern programs are **not** the same as psychoactive IV ibogaine (/blog/electrolytes-support-iv-vs-psychoactive-iv).
+
+
+## Cardiac / YMYL context
+
+Ibogaine has been associated with QTc prolongation and, in some contexts, fatal arrhythmias. Knuijver et al. (*Addiction* 2021) documented clinically relevant QTc prolongation after oral 10 mg/kg in a monitored university setting. Systematic reviews (Köck 2022; Mosca 2023) flag cardiotoxicity and mortality concerns alongside withdrawal/craving signals.
+
+Anyone considering any ibogaine exposure needs ECG/electrolyte diligence and continuous monitoring culture—not outcome-statistic shopping (/safety-and-screening, /blog/ibogaine-ecg-pre-infusion-checklist, /blog/ibogaine-mortality-cardiac-risk).
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “50% cure rate for IV ibogaine” | **False** — oral observational; 1-month self-report subset metric |
+| “RCT-proven OUD treatment” | **False** — observational |
+| “FDA-cleared detox” | **False** — Schedule I; not FDA-approved |
+| “Safe because SOWS improved” | **False** — efficacy-ish scores ≠ cardiac safety proof |
+| Cite as adjacent oral literature with labels? | **Yes** — if design/route/N labeled |
+
+U.S. access context remains Schedule I / not FDA. Provisional Mexico programs on this site ≠ U.S. FDA clinics (/blog/is-ibogaine-legal-us, /blog/ibogaine-mexico-medical-vs-tourism).
+
+
+## Soft CTA
+
+If Brown & Alper numbers prompted interest in **physician-supervised IV ibogaine infusion**, begin with cardiac and evidence-gap literacy: /safety-and-screening. Then request a confidential screening consult via /apply—not after “50% cured” marketing.
+
+
+## FAQ
+
+### What did Brown & Alper 2018 study?
+Observational outcomes after oral ibogaine HCl in 30 people with opioid dependence, including SOWS and ASI composites.
+
+### What dose was used?
+Mean total oral ibogaine HCl about 1,540 mg (±920 mg)—high variability.
+
+### What does the 50% figure mean?
+At 1 month, 15 of 30 reported no opioid use in the prior 30 days—not a lifetime cure rate and not an IV RCT endpoint.
+
+### Was this a randomized controlled trial?
+No. Observational design without a randomized control arm.
+
+### Does this prove IV ibogaine infusion works?
+No. Route was oral; design was observational.
+
+### Are cardiac risks irrelevant because withdrawal scores fell?
+No. Cardiac QTc risk must be evaluated separately (/safety-and-screening).
+
+### Is ibogaine FDA-approved for OUD?
+No. Schedule I in the U.S.; not FDA-approved.
+
+### Where can I read adjacent oral OUD papers?
+/blog/noller-2018-ibogaine-new-zealand, /blog/mash-2018-ibogaine-detox-frontiers, /blog/kock-2022-ibogaine-systematic-review.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Brown & Alper 2018 is oral observational OUD literature—not psychoactive IV ibogaine proof.
+
+
+## Sources (selected)
+
+1. Brown T.K., Alper K. Treatment of opioid use disorder with ibogaine: detoxification and drug use outcomes. *Am J Drug Alcohol Abuse*. 2018. doi: **10.1080/00952990.2017.1320802**. PMID: **28541119**.  
+2. Noller G.E. et al. Ibogaine treatment outcomes for opioid dependence from a twelve-month follow-up observational study. *Am J Drug Alcohol Abuse*. 2018. doi: 10.1080/00952990.2017.1310218.  
+3. Mash D.C. et al. Ibogaine detoxification transitions opioid and cocaine abusers between dependence and abstinence. *Front Pharmacol*. 2018. doi: 10.3389/fphar.2018.00529.  
+4. Knuijver T. et al. *Addiction*. 2021. doi: 10.1111/add.15448.  
+5. Köck P. et al. *J Subst Abuse Treat*. 2022. doi: 10.1016/j.jsat.2021.108717.  
+6. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
   }
 ];
 
