@@ -11192,6 +11192,645 @@ Mosca 2023 is a systematic review of mixed-route literature with limited RCTs—
 5. Cherian K.N. et al. *Nature Medicine*. 2024. doi: 10.1038/s41591-023-02705-w. (Oral + IV Mg; not IV-psychoactive proof.)  
 6. 21 CFR 1308.11 — ibogaine Schedule I (United States).
 `,
+  },
+  {
+    slug: "knuijver-2024-ibogaine-pk-cyp2d6",
+    title: "Knuijver et al. 2024: Oral Ibogaine PK/PD and CYP2D6—What *Journal of Psychopharmacology* Reported",
+    description:
+      "Knuijver 2024 J Psychopharmacol: oral ibogaine 10 mg/kg n=14; CYP2D6 clearance drives exposure; QTc tied to ibogaine conc—not IV proof.",
+    date: "2026-09-06",
+    readTime: "11 min",
+    content: `
+## Definition box
+
+**Definition:** **Knuijver et al. (2024)** in the *Journal of Psychopharmacology* (doi: **10.1177/02698811241237873**; PMID **38519421**) is an open-label **pharmacokinetics/pharmacodynamics (PK/PD)** analysis of a single **oral ibogaine HCl 10 mg/kg** dose in **n=14** opioid use disorder (OUD) patients—the same Dutch university cohort described in the 2021 *Addiction* safety paper. Authors show **highly variable** ibogaine clearance strongly linked to **CYP2D6 activity score**, model QTc prolongation with a sigmoid Emax relationship to **ibogaine** (not noribogaine) plasma concentrations, and conclude that future work should explore **lower doses** and/or **CYP2D6-individualized** dosing. This is oral PK/PD teaching—**not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Ibogaine is U.S. Schedule I and not FDA-approved.
+
+## Quotable answer (58 words)
+
+Knuijver and colleagues’ 2024 Journal of Psychopharmacology study of oral ibogaine 10 mg/kg in 14 OUD patients found clearance strongly tied to CYP2D6 genotype and QTc effects driven mainly by ibogaine concentration, not noribogaine. It does not prove psychoactive IV ibogaine infusion. Cardiac screening and monitoring remain essential. Not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+Knuijver 2021 quantified **how large** QTc shifts were after oral 10 mg/kg. Knuijver 2024 answers **why exposure varies** and **which analyte** best tracks cardiac and cerebellar effects. Clinics that cite “noribogaine does the work” while downplaying parent-drug QTc risk need this correction. Prior spoke: /blog/knuijver-2021-ibogaine-qtc-safety. Metabolism explainer: /blog/ibogaine-cyp2d6-metabolism. Screening: /safety-and-screening.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Knuijver T., ter Heine R., Schellekens A.F.A., et al. *J Psychopharmacol*. 2024;38(5):481–488. doi 10.1177/02698811241237873 |
+| Design | Open-label PK/PD with nonlinear mixed-effects modeling |
+| Population | n=14 OUD subjects (linked to Knuijver 2021 safety cohort) |
+| Dose / route | Single **oral** ibogaine hydrochloride **10 mg/kg** |
+| Analytes | Plasma ibogaine, noribogaine, noribogaine glucuronide over 24 h |
+| Genetics | CYP2D6 genotyping → activity score (AS) |
+| PD endpoints | QTc prolongation, cerebellar ataxia, opioid withdrawal severity |
+
+
+## Methods (plain language)
+
+After oral dosing, serial blood draws captured parent drug and metabolites for a day. Researchers fitted population PK models and tested how CYP2D6 activity score changed clearance. They then related concentrations to QTc, ataxia, and withdrawal scores. The design is **exposure–response description** in a small monitored sample—not a pivotal efficacy RCT and not an IV-route PK study.
+
+
+## Key findings (no hype)
+
+As reported by the authors:
+
+- Ibogaine PK was **highly variable** and significantly correlated with **CYP2D6 genotype** (p < 0.001).  
+- Basic clearance at CYP2D6 activity score 0 was about **0.82 L/h**, increasing by roughly **30.7 L/h per AS point**—a more than **ten-fold** clearance span across AS 0–3.  
+- Ibogaine concentration–QTc relationship fit a **sigmoid Emax** model.  
+- Spearman correlations were significant for **ibogaine** with QTc and cerebellar effects; **noribogaine** correlations with those PD endpoints were **not** significant in the reported analyses.  
+- Neither parent nor metabolite concentration correlated with opioid withdrawal severity in this sample.  
+- Peak concentrations were described as more than **ten-fold** above the estimated EC50 for QTc effects; authors discuss exploring **lower doses** and/or CYP2D6-based individualization to improve cardiac safety margins.
+
+**Honest reading:** genetics and parent-drug concentration matter for QTc/ataxia risk teaching. This is not a consumer “genotype your own flood dose” calculator.
+
+
+## Limits and confounders
+
+| Limit | Why it matters |
+|-------|----------------|
+| n=14 | Precision limited; rare events invisible |
+| Open-label OUD detox context | Not healthy-volunteer Phase 1; not efficacy RCT |
+| Single 10 mg/kg oral regimen | Not all clinic regimens; **not IV** |
+| 24-hour sampling window | Longer metabolite kinetics need care |
+| Model assumptions | External validation still needed |
+| No TdP observed historically in cohort | Underpowered for rare arrhythmia proof |
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+Knuijver 2024 characterizes **oral** absorption, first-pass metabolism, and CYP2D6-driven clearance. Intravenous psychoactive delivery would change bioavailability and peak timing; it does **not** erase QTc biology, hERG risk, or the need for physician supervision, ECG screening, electrolytes, and continuous monitoring. Support IV magnesium (as in MISTIC-type oral protocols) remains **support**, not psychoactive IV proof (/blog/ibogaine-oral-vs-iv, /blog/magnesium-ibogaine-cardiac-protocol, /blog/stanford-ibogaine-mistic).
+
+
+## Cardiac / YMYL context
+
+Pair this PK/PD paper with:
+
+- Knuijver 2021 magnitudes (/blog/knuijver-2021-ibogaine-qtc-safety)  
+- Mortality / TdP teaching (/blog/ibogaine-mortality-cardiac-risk)  
+- Brunt *Addiction* CV review (/blog/ibogaine-cardiovascular-complications-review)  
+- Drug–CYP2D6 inhibitor interactions (/blog/ibogaine-drug-interactions-qtc, /blog/ibogaine-cyp2d6-metabolism)  
+- Telemetry / ACLS expectations (/blog/ibogaine-telemetry-acls-monitoring)
+
+Poor metabolizers and people on strong CYP2D6 inhibitors are higher-risk exposure scenarios discussed across this literature—not invitations to DIY.
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “CYP2D6 genotyping replaces ECG” | **False** |
+| “Noribogaine alone drives QTc so ignore parent levels” | **Contradicted** by this analysis’s emphasis |
+| “10 mg/kg is consumer-safe if you know your genotype” | **False** — research context; illegal/unapproved in U.S. |
+| “Oral PK proves IV brand efficacy” | **False** |
+| Cite as oral exposure–QTc teaching? | **Yes** |
+
+U.S. Schedule I / not FDA. Provisional Mexico ≠ FDA clinic (/blog/is-ibogaine-legal-us).
+
+
+## How families should use CYP2D6 teaching without false reassurance
+
+1. Ask whether a program discusses **metabolism variability** and **drug interactions** in informed consent.  
+2. Do **not** treat a commercial genotype kit as a green light for unmonitored dosing.  
+3. Demand continuous cardiac monitoring plans in writing.  
+4. Treat “we lower the dose for poor metabolizers” claims as hypotheses requiring medical oversight—not marketing slogans.  
+5. Start education at /safety-and-screening before any /apply step.
+
+## Relationship to other paper-spokes
+
+| Paper | Relation |
+|-------|----------|
+| Knuijver 2021 *Addiction* | Same cohort’s safety magnitudes; 2024 adds PK/PD mechanism |
+| Glue 2016 noribogaine | Controlled metabolite QTc concentration–response (different molecule) |
+| Belgers 2016 animal MA | Preclinical efficacy/toxicity signals—not human PK |
+| Köck / Mosca / Ona reviews | Field maps that elevate cardiac harm themes this PK explains |
+
+
+## Soft CTA
+
+If CYP2D6 and QTc concentration–response language raised serious questions about **physician-supervised IV ibogaine infusion**, do not DIY and do not chase unmonitored retreats. Begin at /safety-and-screening, then /apply only after cardiac education. Prior safety spoke: /blog/knuijver-2021-ibogaine-qtc-safety.
+
+
+## FAQ
+
+### What is Knuijver 2024?
+An open-label oral ibogaine 10 mg/kg PK/PD study (n=14) linking CYP2D6 activity score to clearance and modeling QTc against ibogaine concentrations.
+
+### Does CYP2D6 really change clearance that much?
+Authors report more than a ten-fold clearance difference across CYP2D6 activity scores from 0 to 3.
+
+### Is QTc driven by ibogaine or noribogaine in this analysis?
+Authors conclude cardiac and cerebellar effects are most likely more driven by **ibogaine** than noribogaine in this dataset.
+
+### Was dosing intravenous?
+No. Oral ibogaine HCl.
+
+### Does this prove IV ibogaine infusion is safe?
+No. Oral PK/PD teaching is not an IV safety or efficacy RCT.
+
+### Should poor metabolizers avoid all programs?
+Discuss genetics, interactions, and monitoring with physicians; do not self-dose. Screening: /safety-and-screening.
+
+### Did withdrawal severity track plasma levels?
+Not in the reported correlations for this sample.
+
+### Is ibogaine FDA-approved?
+No. Schedule I in the U.S.; not FDA-approved.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Knuijver 2024 is oral PK/PD literature—not psychoactive IV ibogaine proof.
+
+
+## Sources (selected)
+
+1. Knuijver T., ter Heine R., Schellekens A.F.A., Heydari P., Lucas L., Westra S., Belgers M., van Oosteren T., Verkes R.J., Kramers C. The pharmacokinetics and pharmacodynamics of ibogaine in opioid use disorder patients. *J Psychopharmacol*. 2024;38(5):481–488. doi: **10.1177/02698811241237873**. PMID: **38519421**.  
+2. Knuijver T. et al. Safety of ibogaine administration… *Addiction*. 2021. doi: **10.1111/add.15448**.  
+3. Glue P. et al. Ascending single-dose noribogaine… *Clin Pharmacol Drug Dev*. 2016. doi: **10.1002/cpdd.254**.  
+4. Brunt T.M. Rare but relevant: Ibogaine and cardiovascular complications… *Addiction*. 2026. doi: **10.1111/add.70319**.  
+5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
+  },
+  {
+    slug: "thirty-years-ibogaine-research-review",
+    title: "Kervadec et al. 2026: Thirty Years of Ibogaine Research—Narrative Review Takeaways",
+    description:
+      "Kervadec et al. J Clin Psychopharmacol 2026: 30-year narrative review—insufficient evidence for clinical use; no DB RCT for OUD; cardiotoxicity risk.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Kervadec et al. (2026)** in the *Journal of Clinical Psychopharmacology* (doi: **10.1097/jcp.0000000000002197**) is a **narrative review** of human clinical literature on ibogaine/noribogaine from **1990 through February 2025**. Authors include **24 studies** and **38 case reports/series**, conclude that **current evidence is insufficient to support clinical use**, note that **no double-blind RCT** has demonstrated efficacy for opioid use disorder (OUD), highlight **high risk of bias** in many positive observational reports, and emphasize **cardiotoxicity from QT prolongation** as a considerable risk given unproven efficacy. This synthesis is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Most underlying clinical literature remains oral/observational. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+## Quotable answer (56 words)
+
+Kervadec and colleagues’ 2026 Journal of Clinical Psychopharmacology narrative review of thirty years of human ibogaine research found insufficient evidence for clinical use, no double-blind RCT proving OUD efficacy, and serious QT-related cardiotoxicity risk. It does not validate psychoactive IV ibogaine infusion. Cardiac screening remains essential. Not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+“Thirty years of research” is a phrase marketers weaponize. Kervadec’s actual conclusion is closer to **investigational high-risk compound with inadequate controlled evidence**. This spoke keeps that sentence intact. Companions: /blog/kock-2022-ibogaine-systematic-review, /blog/mosca-2023-ibogaine-sud-review, /blog/ibogaine-cure-rate-claims.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Kervadec E., Bezo A., Serreau R., Strika-Bruneau L., Fauvel B., Amirouche A., Benyamina A., Romeo B. *J Clin Psychopharmacol*. 2026;46(4):440–450. doi 10.1097/jcp.0000000000002197 |
+| Type | Narrative review of human clinical use |
+| Window | Publications ~1990–February 2025 |
+| Included | 24 studies + 38 case reports/series |
+| Focus | Outcomes and safety across indications |
+| Key conclusion | Evidence insufficient to support clinical use |
+
+
+## Methods (plain language)
+
+Authors searched and synthesized RCTs, open-label, retrospective, and observational reports on ibogaine’s clinical use, summarizing efficacy claims and safety signals. A narrative review can organize three decades of heterogeneous literature without converting weak designs into a regulatory-grade efficacy dossier.
+
+
+## Key findings (no hype)
+
+Author-facing themes:
+
+- Most **positive efficacy** data come from uncontrolled, open-label, or retrospective studies—often in nonclinical settings—with **high risk of bias**.  
+- **No double-blind RCT** to date has demonstrated that ibogaine or noribogaine effectively treats **OUD**.  
+- Only **one small RCT** reported significant effects for **cocaine use disorder** (as framed by the review).  
+- Observational signals for OUD, PTSD, or polysubstance dependence remain **exploratory**.  
+- Serious adverse events are reported, especially **cardiotoxicity due to QT prolongation**, representing considerable risk given currently unproven efficacy.  
+- Authors position ibogaine as a compound of research interest that still needs better efficacy demonstration and safety optimization before psychiatric-care integration claims.
+
+**Honest reading:** longevity of interest ≠ adequacy of evidence.
+
+
+## Limits and confounders
+
+| Limit | Why it matters |
+|-------|----------------|
+| Narrative (not always PRISMA-pooled) | Different from a formal systematic MA |
+| Heterogeneous doses/settings | Hard to compare apples to apples |
+| Publication bias | Miracles publish; quiet failures less often |
+| Case reports inflate extremes | Both “cures” and “catastrophes” |
+| Route often oral/unspecified | Cannot invent IV RCTs |
+| Review ≠ new trial | Cannot create missing DB RCT for OUD |
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+Kervadec maps a literature base that does not establish controlled psychoactive-IV efficacy. Brand **IV ibogaine infusion** must still be described as physician-supervised intravenous psychoactive delivery with sparse controlled IV evidence relative to oral observational series. MISTIC-type protocols remain **oral ibogaine + IV magnesium support** (/blog/stanford-ibogaine-mistic, /blog/ibogaine-oral-vs-iv).
+
+
+## Cardiac / YMYL context
+
+The review’s QT/cardiotoxicity emphasis aligns with:
+
+- Knuijver 2021/2024 oral QTc + PK/PD (/blog/knuijver-2021-ibogaine-qtc-safety, /blog/knuijver-2024-ibogaine-pk-cyp2d6)  
+- Ona AE review (/blog/ona-2022-ibogaine-adverse-events-review)  
+- Brunt CV complications teaching (/blog/ibogaine-cardiovascular-complications-review)  
+- Mortality spoke (/blog/ibogaine-mortality-cardiac-risk)
+
+Unproven efficacy + documented cardiac risk is exactly why soft CTAs go **screening first**.
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “30 years proves it works” | **False** — authors say evidence insufficient for clinical use |
+| “No OUD DB RCT = ignore cardiac risk” | **False** — risk still real |
+| “Narrative review = FDA approval” | **False** |
+| Cite as cautious field synthesis? | **Yes** |
+
+U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us).
+
+
+## How to read “exploratory PTSD/OUD signals” without cure ads
+
+Observational symptom drops can be meaningful hypotheses and still fail under blinding, expectancy control, and long-term hard outcomes. Families should ask clinics:
+
+1. Which **controlled** evidence are you citing—and for which **route**?  
+2. How do you handle **QTc**, electrolytes, telemetry, and rescue?  
+3. What aftercare exists when the “ceremony high” fades? (/blog/ibogaine-aftercare-integration)  
+4. Are success anecdotes labeled as anecdotes?
+
+## Relationship to other paper-spokes
+
+| Paper | Relation |
+|-------|----------|
+| Köck 2022 / Mosca 2023 | Earlier systematic maps; Kervadec extends window to early 2025 |
+| Glue / Knuijver | Controlled-ish safety/PK pieces inside the 30-year arc |
+| Davis 2020 veterans survey | Exploratory sequential oral program—not DB RCT |
+| 2025 trial-landscape paper | Shows early-phase trials still dominate (/blog/not-losing-momentum-ibogaine-trials-2025) |
+
+
+## Soft CTA
+
+If “insufficient evidence for clinical use” conflicts with aggressive clinic ads, treat that conflict as a safety signal. Learn cardiac screening at /safety-and-screening, then /apply only after informed questions. Entity: /what-is-ibogaine-infusion.
+
+
+## FAQ
+
+### What is the Kervadec 2026 paper?
+A narrative review of ~30 years of human ibogaine/noribogaine clinical literature concluding evidence is insufficient for clinical use.
+
+### Did they find a double-blind RCT proving OUD efficacy?
+No. Authors state no such DB RCT has demonstrated OUD efficacy.
+
+### How many studies were included?
+Twenty-four studies plus 38 case reports/series (as reported).
+
+### Does this prove IV ibogaine infusion works?
+No. It synthesizes mostly non-IV, non-pivotal evidence and warns about cardiotoxicity.
+
+### Why mention QT prolongation?
+Serious cardiac AEs, especially QT-related cardiotoxicity, are central given unproven efficacy.
+
+### Is observational PTSD benefit “proof”?
+No—review frames such signals as exploratory.
+
+### Is ibogaine FDA-approved?
+No. Schedule I in the U.S.
+
+### Where should families start?
+/safety-and-screening, then /apply if appropriate.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Kervadec 2026 is a cautious narrative synthesis—not psychoactive IV ibogaine proof and not a cure claim.
+
+
+## Sources (selected)
+
+1. Kervadec E., Bezo A., Serreau R., et al. Thirty Years of Ibogaine Research. *J Clin Psychopharmacol*. 2026;46(4):440–450. doi: **10.1097/jcp.0000000000002197**.  
+2. Köck P. et al. *J Subst Abuse Treat*. 2022. doi: **10.1016/j.jsat.2021.108717**.  
+3. Mosca A. et al. *Curr Neuropharmacol*. 2023. doi: **10.2174/1570159X21666221017085612**.  
+4. Knuijver T. et al. *Addiction*. 2021. doi: **10.1111/add.15448**.  
+5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
+  },
+  {
+    slug: "belgers-2016-ibogaine-animal-meta-analysis",
+    title: "Belgers et al. 2016: Ibogaine in Animal Models—Systematic Review & Meta-Analysis (**PRECLINICAL**)",
+    description:
+      "Belgers 2016 Transl Psychiatry: PRECLINICAL animal meta-analysis—reduced self-administration signals + motor/cerebellar toxicity; NOT human efficacy proof.",
+    date: "2026-09-06",
+    readTime: "10 min",
+    content: `
+## Definition box
+
+**Definition:** **Belgers et al. (2016)** in *Translational Psychiatry* (doi: **10.1038/tp.2016.71**; article e826) is a **PRECLINICAL / ANIMAL** systematic review and meta-analysis of ibogaine in laboratory models of substance use disorders. Meta-analysis of **27 animal studies** found reduced **drug self-administration** (especially in the first 24 hours) but **no effect** on drug-induced conditioned place preference; animal dosing also produced **motor impairment** early after administration and **cerebral/cerebellar cell loss** detectable weeks later. Cardiac-rhythm animal data were limited. **This paper is NOT human efficacy proof** and is **NOT** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Animal signals can motivate human trials; they cannot replace them. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+## Quotable answer (57 words)
+
+Belgers and colleagues’ 2016 Translational Psychiatry meta-analysis of 27 animal studies found ibogaine reduced drug self-administration but caused motor impairment and longer-term cerebellar cell loss in animals. It is preclinical evidence only—not human cure proof and not validation of psychoactive IV ibogaine infusion. Human cardiac screening remains essential. Not FDA-approved.
+
+
+## Labeling rule (read this first)
+
+Throughout this page:
+
+- **PRECLINICAL / ANIMAL** = laboratory species, not patients.  
+- Reduced self-administration in rodents ≠ guaranteed human abstinence.  
+- Animal cerebellar toxicity is a **toxicity signal**, not entertainment.  
+- Do **not** cite Belgers as “clinical proof” on clinic websites.
+
+Related human cardiac teaching: /blog/knuijver-2021-ibogaine-qtc-safety. Reviews: /blog/kock-2022-ibogaine-systematic-review.
+
+
+## Why this paper-spoke exists
+
+Animal meta-analyses are frequently laundered into human marketing. Belgers is high-impact **preclinical** work from a group that later contributed to human oral safety/PK papers. This spoke keeps the species label glued to every claim.
+
+
+## What was studied (**PRECLINICAL**)
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Belgers M., Leenaars M., Homberg J.R., Ritskes-Hoitinga M., Schellekens A.F., Hooijmans C.R. *Transl Psychiatry*. 2016;6:e826. doi 10.1038/tp.2016.71 |
+| Type | Systematic review + meta-analysis of **animal** SUD models |
+| Included | MA of **27** studies (as reported) |
+| Questions | (1) addictive-behavior effects; (2) toxicity on motor function, cerebellum, heart rhythm; (3) neuropharmacological mechanisms |
+| Species | Laboratory animals (not humans) |
+| Human status | Authors note human clinical trials were lacking at the time and warrant careful monitoring if pursued |
+
+
+## Methods (plain language)
+
+Reviewers systematically gathered animal experiments testing whether ibogaine changes addiction-like behaviors, then meta-analyzed self-administration and related endpoints. They separately summarized toxicity findings (motor impairment, brain cell loss, sparse cardiac data) and mechanism literature. Meta-analysis improves precision across animal experiments; it still cannot transmute rats into randomized human patients.
+
+
+## Key findings (no hype) — **ANIMAL only**
+
+As reported:
+
+- Ibogaine **reduced drug self-administration**, with the strongest effects often in the **first 24 hours** after administration (effects discussed as persisting beyond 72 hours in synthesis).  
+- **No effect** on drug-induced **conditioned place preference** in the MA.  
+- **Motor impairment** occurred in the first 24 hours after supplementation in animals.  
+- **Cerebral/cerebellar cell loss** was reported even **weeks** after administration in animal data.  
+- Data on cardiac rhythm effects and detailed neuropharmacological mechanisms were **limited**.  
+- Authors conclude animal efficacy signals **warrant further human studies**—with **close monitoring** because of possible toxic effects.
+
+**Honest reading:** promising **preclinical** anti-addictive signals coexist with **preclinical** toxicity signals. That is a research agenda, not a consumer guarantee.
+
+
+## Limits and confounders (**PRECLINICAL**)
+
+| Limit | Why it matters |
+|-------|----------------|
+| Animals ≠ humans | Dose, metabolism, and toxicity translate imperfectly |
+| Heterogeneous protocols | Species, dose, route, drug model differ |
+| Self-administration ≠ recovery | Behavioral lab endpoint ≠ clinical remission |
+| CPP null result | Reminds that not every addiction-like assay moves |
+| Sparse animal cardiac data | Human QTc literature still required |
+| 2016 cutoff | Later human papers exist as separate spokes |
+
+
+## Route honesty: oral ≠ psychoactive IV (and animal ≠ clinic)
+
+Belgers aggregates **animal** experiments with mixed administration routes typical of lab pharmacology. It cannot prove human **oral** flood-dose regimens—and it certainly cannot prove brand **IV ibogaine infusion**. Support IV magnesium in human oral protocols remains support (/blog/ibogaine-oral-vs-iv, /blog/stanford-ibogaine-mistic).
+
+
+## Cardiac / YMYL context
+
+Even though Belgers’ cardiac animal data were limited, human literature later quantified large oral QTc shifts (Knuijver 2021/2024) and AE/fatality themes (Ona; Köck; Mosca; Brunt). Animal cerebellar toxicity is an additional reason not to romanticize ataxia as a “journey feature” without medical risk framing (/blog/ibogaine-mortality-cardiac-risk, /blog/ibogaine-side-effects).
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “Animal MA proves human cure” | **False** — **PRECLINICAL only** |
+| “Rats stopped cocaine so skip ECG” | **Dangerously false** |
+| “Cerebellar cell loss is irrelevant to humans” | **Unsupported leap** — reason for caution, not dismissal |
+| Cite as preclinical mechanism/efficacy map? | **Yes** — with species label |
+
+U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us).
+
+
+## How clinicians and families should use animal meta-analyses
+
+1. Treat Belgers as **why scientists kept studying** ibogaine—not as a patient brochure.  
+2. Demand human cardiac protocols when any clinic cites “studies show.”  
+3. Ask whether the cited study was **human, controlled, route-labeled**.  
+4. Remember authors themselves called for monitoring because of toxicity.  
+5. Start at /safety-and-screening before /apply.
+
+## Relationship to other paper-spokes
+
+| Paper | Relation |
+|-------|----------|
+| Knuijver 2021/2024 | Later **human oral** safety/PK from overlapping research network |
+| Köck / Mosca / Kervadec | Human clinical evidence maps |
+| Cameron tabernanthalog / analogs | Separate preclinical analog strategy (inventory) |
+
+
+## Soft CTA
+
+If animal self-administration graphs were used to sell an unmonitored retreat, that is a red flag. For questions about physician-supervised **IV ibogaine infusion**, begin with cardiac education at /safety-and-screening, then /apply. Cheap-clinic patterns: /blog/cheap-ibogaine-clinic-red-flags.
+
+
+## FAQ
+
+### Is Belgers 2016 a human study?
+No. It is a **PRECLINICAL / ANIMAL** systematic review and meta-analysis.
+
+### What did the animal meta-analysis find on self-administration?
+Reduced drug self-administration, especially early after dosing (as reported).
+
+### Did it show effects on conditioned place preference?
+No significant effect on drug-induced CPP in the MA.
+
+### What toxicity signals appeared in animals?
+Motor impairment early after dosing and cerebral/cerebellar cell loss weeks later (as reported).
+
+### Does this prove IV ibogaine infusion works in people?
+No. Animal data are not human efficacy or IV-route proof.
+
+### Why include an animal paper on a medical site?
+To stop preclinical-to-marketing laundering and keep toxicity labels visible.
+
+### Should families still care about human QTc?
+Yes—human cardiac literature is mandatory (/safety-and-screening).
+
+### Is ibogaine FDA-approved?
+No. Schedule I in the U.S.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+**Belgers 2016 is PRECLINICAL/ANIMAL literature—not human efficacy proof and not psychoactive IV ibogaine proof.**
+
+
+## Sources (selected)
+
+1. Belgers M., Leenaars M., Homberg J.R., Ritskes-Hoitinga M., Schellekens A.F., Hooijmans C.R. Ibogaine and addiction in the animal model, a systematic review and meta-analysis. *Transl Psychiatry*. 2016;6:e826. doi: **10.1038/tp.2016.71**.  
+2. Knuijver T. et al. *Addiction*. 2021. doi: **10.1111/add.15448**. (Human oral QTc—separate from animal MA.)  
+3. Köck P. et al. *J Subst Abuse Treat*. 2022. doi: **10.1016/j.jsat.2021.108717**.  
+4. Kervadec E. et al. *J Clin Psychopharmacol*. 2026. doi: **10.1097/jcp.0000000000002197**.  
+5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
+  },
+  {
+    slug: "ona-2022-ibogaine-adverse-events-review",
+    title: "Ona et al. 2022: Adverse Events of Ibogaine in Humans (2015–2020 Systematic Review)",
+    description:
+      "Ona et al. Psychopharmacology 2022: AE systematic review 2015–2020—18 studies; acute QTc/GI/neuro AEs; need Phase I & screening—not IV proof.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Ona et al. (2022)** in *Psychopharmacology* (doi: **10.1007/s00213-021-05964-y**; PMID **34406452**; e-pub 2021) is a **PRISMA systematic review** updating human **adverse events and fatalities** associated with ibogaine/noribogaine for **2015–2020**. Authors included **18 studies**, found highly heterogeneous products and dosages, and classified AEs into **acute (<24 h)** effects—mainly **cardiac** (most commonly **QTc prolongation**), gastrointestinal, neurological, and clinical alterations—and **longer-lasting (>24 h)** effects including persistent cardiac, psychiatric, and neurological signs. They call for Phase I trials with standardized products, vulnerable-population profiling, and better screening/clinical procedures. This AE map is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Causation is often hard to prove from case reports. Ibogaine is U.S. Schedule I and not FDA-approved.
+
+## Quotable answer (55 words)
+
+Ona and colleagues’ 2022 Psychopharmacology systematic review of eighteen 2015–2020 studies mapped acute ibogaine adverse events—especially QTc prolongation—plus longer-lasting cardiac, psychiatric, and neurological problems. Heterogeneous products limit certainty. It does not prove psychoactive IV ibogaine infusion. Screening and medical monitoring remain essential. Not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+Efficacy blogs cherry-pick withdrawal anecdotes; AE reviews are the counterweight. Ona is a citation magnet for QTc and fatality discussions and should sit next to setting-factor and CV teaching pages. Related: /blog/ibogaine-mortality-cardiac-risk, /blog/ibogaine-setting-factors-safety-review-2023, /safety-and-screening.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Ona G., Rocha J.M., Bouso J.C., Hallak J.E.C., Borràs T., Colomina M.T., dos Santos R.G. *Psychopharmacology (Berl)*. 2022;239(6):1977–1987. doi 10.1007/s00213-021-05964-y |
+| Type | PRISMA systematic review (AE/fatality update) |
+| Window | Literature ~2015–2020 (search described by authors) |
+| Included | 18 studies in final selection |
+| Scope | Ibogaine and noribogaine human adverse events |
+| Key limitation noted | Case reports / non-controlled settings → causation often unclear |
+
+
+## Methods (plain language)
+
+Reviewers systematically searched for human reports of ibogaine/noribogaine adverse events in the update window, screened for eligibility, and tabulated acute versus longer-lasting harms. Special attention in related ICEERS summaries includes concomitant drug use as a complicating factor. Systematic AE reviews catalog signals; they do not invent a single universal incidence rate when products and doses differ wildly.
+
+
+## Key findings (no hype)
+
+Author-facing themes:
+
+- Product type and known dosages were **highly heterogeneous**.  
+- **Acute (<24 h)** AEs: mainly **cardiac** (QTc prolongation most common), plus GI, neurological, and other clinical alterations.  
+- **Longer-lasting (>24 h)** AEs: persistent cardiac alterations, psychiatric signs, neurological signs.  
+- Fatalities and serious AEs appear in the literature; many reports are uncontrolled, so **causation is not always clear**.  
+- Authors conclude there is a **high need for Phase I trials** describing safety of different dosages with **standardized products**, plus clinical profiling of vulnerable populations and better screening/procedures.
+
+**Honest reading:** “causation hard to prove” is not the same as “safe until proven otherwise.”
+
+
+## Limits and confounders
+
+| Limit | Why it matters |
+|-------|----------------|
+| Case-report dominance | Selection and reporting bias |
+| Unknown/variable products | Root bark ≠ pharma HCl ≠ mystery capsules |
+| Polypharmacy / concurrent drugs | Confounds attribution |
+| Incomplete dosing data | Hard to build exposure–response from sparse cases |
+| Search window ends ~2020 | Later papers need separate spokes |
+| Review ≠ new ECG study | Still must read Knuijver primary data |
+
+
+## Route honesty: oral ≠ psychoactive IV
+
+Ona aggregates harms from mostly oral/clinic/unspecified human exposures. It does not create a psychoactive-IV safety dossier. Brand **IV ibogaine infusion** still requires physician supervision, ECG, electrolytes, and continuous monitoring culture. Support IV ≠ psychoactive IV (/blog/ibogaine-oral-vs-iv).
+
+
+## Cardiac / YMYL context
+
+Ona’s “most common acute cardiac AE = QTc prolongation” aligns with:
+
+- Knuijver 2021 magnitudes (/blog/knuijver-2021-ibogaine-qtc-safety)  
+- Knuijver 2024 concentration–response (/blog/knuijver-2024-ibogaine-pk-cyp2d6)  
+- Brunt *Addiction* VT/QTc teaching (/blog/ibogaine-cardiovascular-complications-review)  
+- Setting-factor requirements (/blog/ibogaine-setting-factors-safety-review-2023)
+
+Families comparing clinics should treat missing telemetry as a walk-away criterion (/blog/ibogaine-telemetry-acls-monitoring, /blog/cheap-ibogaine-clinic-red-flags).
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “AE review means it never helps anyone” | Overclaim—review is harm-focused, not efficacy RCT |
+| “Case reports = ignore cardiac risk” | **False** |
+| “Standardized product alone erases QTc” | **False** — still need monitoring |
+| Cite as harm inventory with screening implications? | **Yes** |
+
+U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us).
+
+
+## Practical checklist derived from AE-review themes
+
+1. Pre-dose ECG + electrolytes + med reconciliation (CYP2D6 inhibitors).  
+2. Known identity/purity of ibogaine product.  
+3. Continuous cardiac monitoring plan ≥ risk window.  
+4. Psychiatric observation capacity for delayed neuro/psych AEs.  
+5. Written emergency transfer pathway.  
+6. No cure guarantees in consent forms (/blog/ibogaine-informed-consent-questions).
+
+
+## Soft CTA
+
+If Ona’s AE taxonomy made clinic marketing look thin, that is appropriate. For physician-supervised **IV ibogaine infusion** questions, start at /safety-and-screening, then /apply. Mortality synthesis: /blog/ibogaine-mortality-cardiac-risk.
+
+
+## FAQ
+
+### What is Ona 2022?
+A PRISMA systematic review of human ibogaine/noribogaine adverse events and fatalities covering roughly 2015–2020 (18 studies).
+
+### What was the most common acute cardiac AE theme?
+QTc prolongation (as emphasized by the authors).
+
+### Are all AEs proven causal?
+No—authors note causation is often unclear in case reports/non-controlled settings.
+
+### Does this prove IV ibogaine infusion is unsafe or safe?
+It maps harms in mostly non-IV literature; it is not an IV RCT. Cardiac caution still applies.
+
+### Why call for Phase I trials?
+To describe safety of different dosages with standardized products under controlled conditions.
+
+### Should families still screen?
+Yes—non-negotiable (/safety-and-screening).
+
+### Is product heterogeneity a real problem?
+Yes—authors highlight highly heterogeneous products and dosages.
+
+### Is ibogaine FDA-approved?
+No. Schedule I in the U.S.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Ona 2022 is human AE literature synthesis—not psychoactive IV ibogaine efficacy proof.
+
+
+## Sources (selected)
+
+1. Ona G., Rocha J.M., Bouso J.C., Hallak J.E.C., Borràs T., Colomina M.T., dos Santos R.G. The adverse events of ibogaine in humans: an updated systematic review of the literature (2015–2020). *Psychopharmacology (Berl)*. 2022;239(6):1977–1987. doi: **10.1007/s00213-021-05964-y**. PMID: **34406452**.  
+2. Knuijver T. et al. *Addiction*. 2021. doi: **10.1111/add.15448**.  
+3. Rocha J.M. et al. Setting factors… *Eur Arch Psychiatry Clin Neurosci*. 2023. doi: **10.1007/s00406-023-01590-1**.  
+4. Brunt T.M. *Addiction*. 2026. doi: **10.1111/add.70319**.  
+5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
   }
 ];
 
