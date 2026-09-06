@@ -9405,6 +9405,332 @@ Educational cardiology-literacy page only—not a personal clearance, not ECG in
 3. Mosca A. et al. *Current Neuropharmacology* — systematic review; limited RCTs; cardiotoxicity concerns.  
 4. 21 CFR 1308.11 — ibogaine Schedule I (United States).
 `,
+  },
+  {
+    slug: "ibogaine-vs-psilocybin-therapy",
+    title: "Ibogaine vs Psilocybin Therapy: Key Differences",
+    description:
+      "Ibogaine vs psilocybin therapy: legality, QTc risk, session design, evidence maturity. IV ibogaine infusion ≠ psilocybin. Oral-evidence gap; no cures; Mexico provisional.",
+    date: "2026-09-06",
+    readTime: "10 min",
+    content: `
+## Definition box
+
+**Definition:** **Ibogaine vs psilocybin therapy** compares two distinct psychoactive treatment conversations that online culture often collapses into one “psychedelic healing” shelf. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring because ibogaine can prolong **QTc**. **Psilocybin therapy** usually means structured sessions with psilocybin (or related protocols) under emerging clinical-research or jurisdiction-specific frameworks—often oral dosing with psychological support—not an ibogaine cardiac-telemetry product. They differ in pharmacology, session length, dominant risk narratives, evidence maturity by indication, and legal pathways. **Evidence gap:** Much published ibogaine clinical literature remains **oral** observational; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof. Ibogaine is U.S. **Schedule I** and **not FDA-approved**. Programs discussed here are **provisionally available in Mexico**, not FDA-approved U.S. clinics. **No cure claims. No DIY.**
+
+## Quotable answer (58 words)
+
+Ibogaine and psilocybin therapy are not interchangeable psychedelic options. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with QTc-focused cardiac monitoring; most published ibogaine research is still oral-route. Psilocybin protocols typically emphasize psychological support around a different alkaloid risk profile. Neither is an FDA-approved universal cure. Legal status, session design, and evidence by indication diverge.
+
+
+## Why people compare them
+
+Searchers often want a single answer: “Which psychedelic fixes addiction/depression/PTSD?” That shopping question erases axes that matter clinically—especially **ibogaine’s cardiac QTc story** versus psilocybin’s more commonly discussed psychological/acute-adverse-event profile in trial settings.
+
+Related comparisons: /blog/ibogaine-vs-ketamine-for-addiction · /blog/ibogaine-vs-ayahuasca · Entity hub: /what-is-ibogaine-infusion.
+
+
+## Side-by-side table (educational)
+
+| Axis | Psilocybin therapy (typical research/clinic framing) | IV ibogaine infusion (this entity) |
+|------|------------------------------------------------------|-------------------------------------|
+| Primary alkaloid story | Psilocybin → psilocin (tryptamine) | Ibogaine (± noribogaine metabolite discussion) |
+| Common psychoactive route in protocols | Oral (most discussed clinical research) | **Intravenous psychoactive ibogaine** (brand entity); many external programs still oral HCl |
+| Dominant medical risk narrative | Psychological distress, rare challenging experiences, BP/HR changes in context; protocol-dependent | **QTc prolongation / arrhythmia**; prolonged intensive window |
+| Session design | Often preparation + dosing day + integration; duration protocol-dependent | Multi-hour to multi-day observation typical for flood-scale medical programs |
+| U.S. federal status (high level) | Schedule I classically; research and some jurisdiction pathways evolving—verify current law | **Schedule I**; **not FDA-approved** |
+| Evidence maturity | Growing controlled research in depression/other indications (still not a consumer free-for-all) | Limited; oral observational common; sparse psychoactive-IV RCTs |
+| Support IV confusion | Less central | Fluids/Mg = **support IV**, not the psychoactive dose |
+| Typical goals people shop for | Depression, end-of-life distress, addiction research interest | Addiction interrupt interest; PTSD/TBI curiosity; mood curiosity |
+
+This table is literacy—not a recommendation to seek either outside lawful medical channels.
+
+
+## Shared psychedelic-therapy hygiene (what is fair to borrow)
+
+Appropriate shared principles:
+
+1. Screening before dosing  
+2. Informed consent that names real risks  
+3. Trained supervision—not solo DIY  
+4. Integration / aftercare planning  
+5. Refusal of cure guarantees  
+
+Not appropriate to copy blindly:
+
+- Assuming psilocybin depression trial infrastructure transfers to ibogaine IV efficacy  
+- Staffing an ibogaine risk window like a shorter psilocybin dosing day without telemetry culture  
+- Treating “both are Schedule I” as identical access or identical cardiac risk  
+
+Aftercare: /blog/ibogaine-aftercare-integration.
+
+
+## The cardiac differentiator (remember this)
+
+**Ibogaine’s QTc / torsades narrative is a primary differentiator** versus psilocybin therapy shopping. Knuijver et al. (*Addiction*, 2021) reported clinically relevant QTc prolongation after **oral** ibogaine HCl in an open-label cohort. Continuous ECG/telemetry, electrolytes, and exclusion discipline are ethical core for **IV ibogaine infusion**.
+
+Psilocybin protocols monitor vital signs and mental state carefully in serious research—but they are not organized around the same multi-hour ibogaine repolarization risk story.
+
+Safety: /safety-and-screening · Heart conditions: /blog/ibogaine-pre-existing-heart-conditions · Side effects: /blog/ibogaine-side-effects.
+
+**IV magnesium support ≠ erased arrhythmia risk.** MISTIC used oral + IV Mg—not IV-ibogaine proof (/blog/stanford-ibogaine-mistic).
+
+
+## Evidence-by-indication honesty (route-labeled)
+
+### Depression
+Psilocybin has a comparatively more visible controlled-research footprint for certain depression populations than ibogaine. Ibogaine mood evidence remains limited; do not cite Cherian 2024 as IV depression proof. See /ibogaine-for-depression · /blog/ibogaine-treatment-resistant-depression.
+
+### Addiction / opioids
+Ibogaine’s historical observational interest is often stronger in withdrawal-interrupt folklore and case series than psilocybin’s public brand—but still largely **oral** observational with RCT gaps. Psilocybin addiction research exists in specific trial contexts and must not be mashed into ibogaine success rates. See /ibogaine-for-addiction · /blog/ibogaine-withdrawal-vs-detox · /blog/ibogaine-cure-rate-claims.
+
+### PTSD / veterans / TBI
+Veteran open-label ibogaine interest is **oral + IV Mg** landscape (MISTIC)—not IV psychoactive approval. Psilocybin PTSD research is a separate literature. See /ibogaine-for-ptsd · /blog/ibogaine-for-tbi-veterans.
+
+Mosca et al. (*Current Neuropharmacology*): limited RCTs and cardiotoxicity concerns for ibogaine overall.
+
+
+## Legal and access (not legal advice)
+
+- **Ibogaine:** U.S. Schedule I; not FDA-approved; provisional **Mexico** programs discussed on this site ≠ U.S. FDA storefront (/blog/is-ibogaine-legal-us · /blog/ibogaine-clinic-near-me · /blog/ibogaine-mexico-medical-vs-tourism).  
+- **Psilocybin:** Also classically Schedule I federally, with research programs and evolving jurisdiction-specific initiatives that must be verified locally—this page does not map your city’s rules.
+
+“Decriminalized mushrooms nearby” ≠ “ibogaine clinic near me.” Different compounds, different risks.
+
+
+## Mechanism and experience (high level, no DIY doses)
+
+Psilocybin is commonly discussed via serotonergic (5-HT2A) psychedelic phenomenology with a dosing-day arc and integration. Ibogaine is a broader alkaloid story with a prolonged oneirogenic/intensive window at flood-scale exposures and a distinct cardiac monitoring requirement. “More intense” is not clinical superiority.
+
+Noribogaine literacy: /blog/noribogaine-explained.
+
+
+## Decision questions (not prescriptions)
+
+1. Is my primary goal depression research-path care, OUD interrupt interest, or trauma-related symptoms?  
+2. Have I completed guideline-concordant options with clinicians?  
+3. Can I complete ECG/electrolyte screening if ibogaine is the interest?  
+4. Am I collapsing two Schedule I headlines into one shopping cart?  
+5. Am I treating testimonials as evidence? (/blog/ibogaine-success-stories-how-to-read)
+
+Clinic vetting if still exploring ibogaine: /blog/how-to-choose-an-ibogaine-clinic.
+
+
+## Soft CTA
+
+If comparison shopping brought you here, keep the compounds separate. For physician-supervised **IV ibogaine infusion**, start with cardiac and evidence-gap education at /safety-and-screening, then request a **confidential screening consult** via /apply. Not automatic admission; not a psilocybin swap; not a cure promise.
+
+
+## FAQ
+
+### Is ibogaine just stronger psilocybin?
+No. Different pharmacology, cardiac risk emphasis, session design, and evidence maps.
+
+### Do both use IV for the psychoactive drug?
+Psilocybin clinical research is typically oral. This brand defines IV ibogaine infusion as intravenous psychoactive ibogaine—verify any clinic’s route in writing.
+
+### Which is better for depression?
+Psilocybin has a more visible controlled-research footprint in some depression settings. Ibogaine depression evidence is limited. Neither is sold here as a guaranteed cure.
+
+### Which has higher QTc concern in this comparison?
+Ibogaine’s QTc narrative is a primary differentiator.
+
+### Did Stanford prove IV ibogaine like psilocybin trials?
+No. MISTIC/Cherian 2024 was open-label oral ibogaine + IV magnesium.
+
+### Is DIY mushroom + iboga stacking safe?
+No. This site refuses unsupervised protocols.
+
+### Are ibogaine programs available in the U.S. like some psilocybin initiatives?
+Ibogaine remains Schedule I / not FDA-approved; programs discussed here are provisionally available in Mexico. Psilocybin access rules are jurisdiction-specific—verify separately. Not legal advice.
+
+### Where next?
+/safety-and-screening → /apply.
+
+
+## Medical disclaimer
+
+Educational comparison only—not medical or legal advice, not a dosing guide, and not a recommendation to obtain either substance outside lawful supervised channels. Neither ibogaine nor psilocybin is presented as a universal cure. Ibogaine carries serious cardiac risks and is not FDA-approved. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
+
+
+## Sources (selected)
+
+1. Knuijver T. et al. *Addiction*. 2021 — **oral** ibogaine HCl; QTc observational findings.  
+2. Cherian K.N. et al. *Nature Medicine*. 2024 — open-label **oral** ibogaine + **IV magnesium**; not IV-psychoactive proof.  
+3. Mosca A. et al. *Current Neuropharmacology* — systematic review; limited RCTs; cardiotoxicity concerns.  
+4. 21 CFR 1308.11 — ibogaine Schedule I (United States).  
+5. Psilocybin clinical-research literature is indication- and protocol-specific; readers should consult primary trial publications and current jurisdictional rules—this page does not cite invented head-to-head IV ibogaine vs psilocybin RCTs.
+`,
+  },
+  {
+    slug: "ibogaine-informed-consent-questions",
+    title: "Ibogaine Questions to Ask a Clinic Before You Consent",
+    description:
+      "Ibogaine questions to ask a clinic before consent: route, QTc monitoring, oral vs IV honesty, MISTIC myths, Mexico provisional. No cure claims.",
+    date: "2026-09-06",
+    readTime: "9 min",
+    content: `
+## Definition box
+
+**Definition:** **Ibogaine questions to ask a clinic** are informed-consent prompts for anyone considering physician-supervised **IV ibogaine infusion**—**psychoactive intravenous ibogaine** with consult → cardiac screening → continuous monitoring → integration. Good questions force honesty about route (oral vs IV), **QTc** risk, emergency plans, evidence limits, and geography. **Evidence gap:** Most published clinical literature is **oral**; Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not IV-ibogaine proof. This checklist is educational—not a clearance algorithm and not a promise you will qualify. Ibogaine is U.S. Schedule I / not FDA-approved. Provisional Mexico programs discussed on this site ≠ FDA/US clinics. No DIY dosing. No cure claims.
+
+## Quotable answer (52 words)
+
+Before consenting to ibogaine treatment, ask whether the psychoactive dose is oral or intravenous, how QTc is monitored, what emergency transfer looks like, and whether MISTIC is correctly labeled oral plus IV magnesium. IV ibogaine infusion still carries cardiac risk. No cure guarantees. Not FDA-approved. Not medical advice.
+
+
+## How to use this consent toolkit
+
+Print or save these questions. Ask for **written** answers. If staff mock you for asking, that is data.
+
+Pair with: /blog/how-to-choose-an-ibogaine-clinic · /blog/cheap-ibogaine-clinic-red-flags · /safety-and-screening · /blog/what-to-expect-iv-ibogaine-session.
+
+
+## Block A — Identity, route, and product
+
+1. Is the psychoactive dose **oral ibogaine HCl**, another oral product, or **psychoactive IV ibogaine**?  
+2. If IV fluids/magnesium/antiemetics are used, are they labeled as **support only**?  
+3. What is the exact substance identity and purity testing documentation?  
+4. Who compounds or sources the drug product, and who is the responsible physician?  
+
+Entity teaching: /what-is-ibogaine-infusion · /blog/ibogaine-oral-vs-iv · /blog/electrolytes-support-iv-vs-psychoactive-iv.
+
+
+## Block B — Cardiac and monitoring (non-negotiable)
+
+5. What pre-infusion ECG and lab panel do you require?  
+6. What QTc threshold triggers delay or cancellation?  
+7. Is continuous cardiac monitoring used throughout the acute window?  
+8. Who reads the monitor in real time (credentials)?  
+9. Where is the nearest emergency defibrillation/transfer plan—on paper?  
+
+Anchors: Knuijver et al. (*Addiction*, 2021) oral QTc teaching; this does not make risk optional for IV discussions. /blog/ibogaine-ecg-checklist · /blog/ibogaine-side-effects · /blog/ibogaine-contraindications · /blog/ibogaine-drug-interactions-qtc.
+
+
+## Block C — Medications, CYP2D6, and polysubstance
+
+10. Who reconciles my full medication/supplement list for QT and CYP interactions?  
+11. How do you handle benzodiazepines, methadone, SSRIs, or antibiotics if present?  
+12. Do you discuss CYP2D6 inhibitors/genotyping as risk literacy—without selling it as a cure?  
+
+Deep dives: /blog/ibogaine-cyp2d6-metabolism · /blog/ibogaine-and-benzodiazepines · /blog/ibogaine-vs-methadone · /blog/ibogaine-vs-suboxone.
+
+**Reminder:** No DIY benzo tapers from clinic marketing emails.
+
+
+## Block D — Evidence honesty (catch the hype)
+
+13. Do you claim an FDA approval or labeled cure rate? (Correct answer: no.)  
+14. When you cite Stanford/Nature Medicine/MISTIC, do you state **oral ibogaine + IV magnesium**, open-label, small N?  
+15. Do you invent psychoactive-IV RCT success percentages?  
+
+Anti-hype: /blog/ibogaine-cure-rate-claims · /blog/stanford-ibogaine-mistic. Mosca et al.: limited RCTs; cardiotoxicity concerns.
+
+
+## Block E — Outcomes, aftercare, and relapse realism
+
+16. What aftercare is included versus upsold?  
+17. How do you talk about relapse without shame or fake lifetime guarantees?  
+18. Who do I call at 2 a.m. week two if cravings or insomnia spike?  
+
+/blog/ibogaine-aftercare-integration · /blog/ibogaine-program-duration · condition hubs without cures: /ibogaine-for-addiction · /ibogaine-for-depression · /ibogaine-for-ptsd.
+
+
+## Block F — Money, pressure, and geography
+
+19. What exactly is included in the price (monitoring nights, physician coverage, labs, transfer)?  
+20. Are deposits refundable if cardiac screening fails?  
+21. Do you pressure same-day payment before ECG review?  
+22. Are you clear that provisional **Mexico** programs discussed in this ecosystem are **not** FDA-approved U.S. clinic care?  
+
+/blog/cost-of-ibogaine-treatment · /blog/does-insurance-cover-ibogaine · /blog/ibogaine-mexico-medical-vs-tourism · /blog/is-ibogaine-legal-us.
+
+
+## Block G — Consent capacity and coercion
+
+23. Can I say no after arriving without humiliation or hidden fees designed as punishment?  
+24. Is a companion allowed, and are privacy practices explained?  
+25. Are risks of death/arrhythmia stated in plain language in the consent form?
+
+Process: /how-it-works · Apply only after safety read: /apply.
+
+
+## Scoring heuristic (not a medical score)
+
+| Pattern | Meaning |
+|---------|---------|
+| Clear route + telemetry + emergency plan + no cure claims | Continues conversation |
+| Oral-as-IV laundry / MISTIC misuse / “80% cured” | Walk |
+| Deposit before ECG language | Walk |
+| “Stop all benzos in 48 hours” without physician ownership | Walk |
+| Mocking cardiac questions | Walk |
+
+
+## Sample email you can send (copy/paste)
+
+> I am evaluating physician-supervised care only. Please answer in writing: (1) Is the psychoactive dose oral or IV ibogaine? (2) What ECG/lab criteria and continuous monitoring do you use? (3) What is your emergency transfer plan? (4) When you cite MISTIC/Nature Medicine, do you label it oral ibogaine + IV magnesium? (5) Do you make cure/guarantee claims? (6) Are deposits refundable if screening fails? I understand ibogaine is not FDA-approved and that programs abroad are not U.S. FDA clinics.
+
+If the reply is vague marketing, you already have your answer.
+
+
+## Special questions for combo packages (5-MeO, ayahuasca, ketamine add-ons)
+
+26. Are separate consents and separate risk discussions provided for each substance?  
+27. Who is medically responsible if adverse events occur after a stack?  
+28. Is any “toad/5-MeO add-on” optional—and can I decline without losing medical monitoring for ibogaine?
+
+Comparisons: /blog/ibogaine-vs-5-meo-dmt · /blog/ibogaine-vs-ayahuasca · /blog/ibogaine-vs-ketamine-for-addiction.
+
+Stimulant or alcohol-interest applicants should also disclose polysubstance context early: /blog/ibogaine-for-cocaine-stimulants · /blog/ibogaine-for-alcohol-use-disorder · fentanyl literacy /blog/ibogaine-for-fentanyl.
+
+Microdosing sellers are not “clinics”—see /blog/ibogaine-microdosing-myths.
+
+
+## Soft CTA
+
+Use questions first, hype never. Read /safety-and-screening, then request a **confidential screening consult** via /apply. FAQ: /faq.
+
+
+## FAQ
+
+### What is the single most important question?
+Whether the psychoactive dose is oral or intravenous—and whether continuous cardiac monitoring is real.
+
+### Should a clinic promise I will be cured?
+No. Treat cure guarantees as a red flag.
+
+### Is MISTIC proof of IV ibogaine?
+No. Oral ibogaine + IV magnesium, open-label.
+
+### Do these questions replace medical screening?
+No. They prepare you to participate in screening with clinicians.
+
+### Is ibogaine FDA-approved?
+No. Schedule I federally; not FDA-approved.
+
+### Are Mexico programs the same as U.S. FDA clinics?
+No. Provisional Mexico availability discussed here ≠ FDA/US clinics. Not legal advice.
+
+### What if staff refuse written answers?
+That refusal is itself an answer—slow down or leave.
+
+### Where should I go next?
+/safety-and-screening then /apply.
+
+
+## Medical disclaimer
+
+Educational consent literacy only—not medical advice, legal advice, or a personal clearance checklist. Do not self-administer ibogaine. Cardiac events can be life-threatening. Seek licensed clinicians.
+
+
+## Sources (selected)
+
+1. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC); open-label.  
+2. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; QTc findings.  
+3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
+4. Glue P. et al. *J Clin Pharmacol* — CYP2D6 influences oral ibogaine PK (interaction literacy).  
+5. 21 CFR 1308.11 — Schedule I (ibogaine).
+`,
   }
 ];
 
