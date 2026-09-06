@@ -10535,6 +10535,164 @@ Mash 2018 is oral open-label detox literature—not psychoactive IV ibogaine pro
 6. Mosca A. et al. *Curr Neuropharmacol*. 2023. doi: 10.2174/1570159X21666221017085612.  
 7. 21 CFR 1308.11 — ibogaine Schedule I (United States).
 `,
+  },
+  {
+    slug: "glue-2016-noribogaine-phase1",
+    title: "Glue et al. 2016: Oral Noribogaine Phase 1 DBPC in Opioid-Dependent Patients — QTc Dose-Related",
+    description:
+      "Glue et al. 2016 Clin Pharmacol Drug Dev: DBPC oral noribogaine in opioid-dependent patients; QTcI rose ~16–42 ms by dose. Noribogaine ≠ IV ibogaine brand.",
+    date: "2026-09-06",
+    readTime: "11 min",
+    content: `
+## Definition box
+
+**Definition:** **Glue et al. (2016)** in *Clinical Pharmacology in Drug Development* (doi: **10.1002/cpdd.254**) is a randomized, **double-blind, placebo-controlled**, single ascending-dose Phase 1 safety study of **oral noribogaine**—ibogaine’s primary active metabolite—in **n=27** opioid-dependent patients established on methadone opioid substitution therapy (OST), switched to morphine the prior week, and seeking to discontinue OST. Noribogaine doses were **60, 120, or 180 mg** (n=6/dose) or matching placebo (n=3/dose level). Authors reported dose-linear PK, mean t½ about **24–30 hours**, concentration-dependent **QTcI** increase (**0.17 ms/ng/mL**), with largest observed mean QTcI effects of about **16, 28, and 42 ms** at 60/120/180 mg, and a non-significant trend toward lower opioid-withdrawal ratings (most notable at 120 mg). This is **noribogaine**, **not** psychoactive **IV ibogaine infusion**, and **not** FDA approval of either. Cardiac risk remains central. Ibogaine (and related development compounds) sit in a U.S. controlled-substance / non-approval landscape; ibogaine itself is Schedule I and not FDA-approved.
+
+## Quotable answer (57 words)
+
+Glue and colleagues’ 2016 double-blind Phase 1 study of oral noribogaine in 27 opioid-dependent patients found dose-related QTc prolongation (about 16–42 ms mean by dose) and only a non-significant withdrawal-score trend—not proof of psychoactive IV ibogaine infusion. Noribogaine is a metabolite, not the brand IV entity. Cardiac monitoring still matters. Not FDA-approved.
+
+
+## Why this paper-spoke exists
+
+Clinics and blogs sometimes blur **noribogaine trials** with **ibogaine flood doses** or with **IV ibogaine infusion** branding. Glue 2016 is valuable *because* it is one of the few **DBPC** human datasets—and *because* it foregrounds **QTc**. This spoke keeps the molecule, route, and brand entity distinct.
+
+Related: /blog/noribogaine-explained · /blog/noribogaine-trials-vs-iv-infusion · /blog/ibogaine-drug-interactions-qtc · Entity: /what-is-ibogaine-infusion.
+
+
+## What was studied
+
+| Feature | Accurate description |
+|---------|----------------------|
+| Citation | Glue P. et al. Ascending single-dose, double-blind, placebo-controlled safety study of noribogaine in opioid-dependent patients. *Clin Pharmacol Drug Dev*. 2016;5(6):460–468. doi **10.1002/cpdd.254** |
+| Design | Randomized DBPC single ascending-dose Phase 1 safety/PK |
+| N | **27** opioid-dependent patients on methadone OST → morphine switch |
+| Molecule | **Noribogaine** (ibogaine metabolite)—**not** ibogaine HCl flood |
+| Route | **Oral** |
+| Doses | **60 / 120 / 180 mg** (n=6 each) vs placebo (n=3/level) |
+| Key safety signal | Concentration-dependent **QTcI** prolongation |
+| Efficacy signal | Non-statistically significant trend toward lower withdrawal ratings |
+| What it is not | Ibogaine flood RCT; IV psychoactive ibogaine proof; FDA approval |
+
+
+## Methods (plain language)
+
+Patients on methadone who wished to stop OST were switched to morphine for a week, then randomized to a single oral noribogaine dose or placebo in ascending cohorts. Investigators measured safety, tolerability, pharmacokinetics, QTcI, and opioid-withdrawal ratings. Common treatment-emergent adverse events included noneuphoric changes in light perception about one hour postdose, headache, and nausea.
+
+Why this design matters:
+
+1. **Placebo control and blinding** — stronger causal inference for safety/PK than open-label flood clinics.  
+2. **Ascending single dose** — first-in-patient metabolite dosing, not multi-day “retreat” protocols.  
+3. **OST-to-morphine switch** — authors note design may confound time-to-OST-resumption analyses.  
+4. **Cardiac endpoint attention** — QTc was a central safety observation, not an afterthought.  
+5. **Molecule mismatch for brand** — studying noribogaine ≠ validating IV ibogaine.
+
+
+## Key findings (no hype)
+
+As reported by the authors:
+
+- Noribogaine was generally **well tolerated** at the studied single doses in this supervised setting.  
+- PK showed **dose-linear** AUC and Cmax increases; elimination was slow (**mean t½ ~24–30 h**).  
+- QTcI rose in a **concentration-dependent** manner (**0.17 ms/ng/mL**).  
+- Largest observed **mean** QTcI effects ≈ **16 ms (60 mg)**, **28 ms (120 mg)**, **42 ms (180 mg)**.  
+- Opioid-withdrawal total scores showed a **non-statistically significant** downward trend, most noticeable at **120 mg**.  
+- Authors planned future exposure-controlled multiple-dose studies to address safety and design issues.
+
+**Honest reading:** Glue 2016 is a landmark **cardiac-honesty** paper for the metabolite. It does **not** prove that noribogaine “cures” OUD, does **not** clear ibogaine flood dosing, and does **not** validate psychoactive IV ibogaine infusion.
+
+
+## Limits and confounders
+
+| Limit | Why it matters |
+|-------|----------------|
+| Phase 1 single-dose | Not an efficacy Phase 3 program |
+| Small N per arm | Safety rare events underpowered |
+| Morphine-switch design | May confound withdrawal/OST-resumption timing |
+| Non-significant withdrawal trend | Not proof of clinical detox superiority |
+| Molecule | **Noribogaine ≠ ibogaine** flood dose |
+| Route | **Oral** metabolite — not psychoactive IV ibogaine |
+| QTc signal | Even “well tolerated” language coexists with dose-related QTc rise |
+
+
+## Route & molecule honesty: noribogaine ≠ IV ibogaine brand
+
+| Term | What it is |
+|------|------------|
+| **Noribogaine** | Major active metabolite of ibogaine; studied here as oral single doses |
+| **Oral ibogaine HCl** | Parent alkaloid flood/observational literature (Brown/Alper, Noller, Mash, Knuijver, MISTIC) |
+| **IV magnesium / support IV** | Cardiac/supportive fluids—**not** psychoactive alkaloid by vein |
+| **IV ibogaine infusion** (this site) | Physician-supervised **psychoactive intravenous ibogaine** |
+
+Marketing that says “noribogaine Phase 1 proved our IV ibogaine protocol” is false on molecule, route, and indication scope. See /blog/noribogaine-trials-vs-iv-infusion.
+
+
+## Cardiac / YMYL context
+
+Glue 2016 shows **dose-related QTc prolongation even for noribogaine** at relatively modest milligram doses versus typical oral ibogaine flood milligram-per-kilogram regimens. Knuijver 2021 later documented much larger mean QTc shifts after oral ibogaine **10 mg/kg**. Together they reinforce: cardiac screening, electrolyte management, and continuous monitoring are structural requirements—not marketing optional extras (/safety-and-screening, /blog/knuijver-2021-ibogaine-qtc-safety).
+
+Ibogaine remains U.S. Schedule I and not FDA-approved. Noribogaine development programs (when real) are separate regulatory pathways and still not a brand license to skip screening.
+
+
+## What this does NOT prove for IV ibogaine infusion brand
+
+| Claim | Status |
+|-------|--------|
+| “DBPC proved IV ibogaine works” | **False** — oral noribogaine Phase 1 |
+| “Noribogaine = ibogaine flood = IV brand” | **False** — molecule/route mismatch |
+| “No cardiac issue because well tolerated” | **False** — dose-related QTcI rise documented |
+| “FDA-approved detox metabolite” | **False** — not an approval of ibogaine or brand IV |
+| Cite as adjacent metabolite safety literature? | **Yes** — with molecule/route/QTc labels |
+
+
+## Soft CTA
+
+If Glue 2016’s QTc data (or noribogaine headlines) prompted interest in **physician-supervised IV ibogaine infusion**, start with cardiac literacy: /safety-and-screening. Then request a confidential screening consult via /apply—not after “Phase 1 proved our drip” marketing.
+
+
+## FAQ
+
+### What did Glue et al. 2016 study?
+A DBPC single ascending-dose Phase 1 safety/PK trial of oral noribogaine (60–180 mg) in 27 opioid-dependent patients leaving methadone OST.
+
+### Is noribogaine the same as ibogaine?
+No. Noribogaine is ibogaine’s major active metabolite. Studying one does not automatically prove the other.
+
+### What happened to QTc?
+Concentration-dependent QTcI increase; largest mean effects about 16, 28, and 42 ms at 60, 120, and 180 mg.
+
+### Did withdrawal scores prove efficacy?
+No. Authors reported a non-statistically significant trend only.
+
+### Does this prove IV ibogaine infusion works?
+No. Molecule was noribogaine; route was oral; design was Phase 1 safety—not IV efficacy.
+
+### Why does this paper matter for patients?
+It is one of the clearer controlled human cardiac-signal datasets in the iboga alkaloid family—useful for risk literacy.
+
+### Is ibogaine FDA-approved?
+No. Schedule I in the U.S.; not FDA-approved.
+
+### Where else should I read?
+/blog/noribogaine-explained, /blog/knuijver-2021-ibogaine-qtc-safety, /blog/mosca-2023-ibogaine-sud-review.
+
+
+## Medical disclaimer
+
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine and noribogaine can affect cardiac repolarization (QTc). Serious cardiac events including torsades de pointes and death have been associated with ibogaine in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+
+Glue 2016 is oral noribogaine Phase 1 literature—not psychoactive IV ibogaine proof.
+
+
+## Sources (selected)
+
+1. Glue P. et al. Ascending single-dose, double-blind, placebo-controlled safety study of noribogaine in opioid-dependent patients. *Clin Pharmacol Drug Dev*. 2016. doi: **10.1002/cpdd.254**. PMID: **27870477**.  
+2. Glue P. et al. Ascending-dose study of noribogaine in healthy volunteers. *J Clin Pharmacol*. 2015. doi: 10.1002/jcph.404.  
+3. Knuijver T. et al. *Addiction*. 2021. doi: 10.1111/add.15448.  
+4. Köck P. et al. *J Subst Abuse Treat*. 2022. doi: 10.1016/j.jsat.2021.108717.  
+5. Mosca A. et al. *Curr Neuropharmacol*. 2023. doi: 10.2174/1570159X21666221017085612.  
+6. 21 CFR 1308.11 — ibogaine Schedule I (United States).
+`,
   }
 ];
 
