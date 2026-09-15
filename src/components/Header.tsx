@@ -19,7 +19,7 @@ export function Header() {
         >
           <Image
             src="/brand/logo-infinity-iboga.png"
-            alt="Ibogaine Infusion logo: infinity symbol with iboga leaves and fruit"
+            alt="Ibogaine Infusion logo: differentiated infinity symbol"
             width={96}
             height={64}
             className="h-9 w-auto sm:h-10"

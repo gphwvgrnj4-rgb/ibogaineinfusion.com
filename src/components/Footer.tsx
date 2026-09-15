@@ -20,7 +20,7 @@ export function Footer() {
           <div className="flex items-center gap-3">
             <Image
               src="/brand/logo-infinity-iboga.png"
-              alt="Ibogaine Infusion logo: infinity symbol with iboga leaves and fruit"
+              alt="Ibogaine Infusion logo: differentiated infinity symbol"
               width={72}
               height={48}
               className="h-8 w-auto rounded-md bg-cream/95 p-0.5"
