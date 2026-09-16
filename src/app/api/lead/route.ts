@@ -126,14 +126,26 @@ export async function POST(request: Request) {
     },
   };
 
-  const webhook = process.env.FORM_WEBHOOK_URL;
+  // Prefer env; fall back to FormSubmit ajax so /apply leaves demo mode without paid Formspark.
+  // Activate once via email link sent to Benny.friedmann@pm.me if FormSubmit asks.
+  const webhook =
+    process.env.FORM_WEBHOOK_URL ||
+    "https://formsubmit.co/ajax/Benny.friedmann@pm.me";
 
   if (webhook) {
     try {
       const res = await fetch(webhook, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          ...payload,
+          _subject: `Ibogaine Infusion ${payload.type}: ${payload.name}`,
+          _template: "table",
+          _replyto: payload.email,
+        }),
       });
       if (!res.ok) {
         return NextResponse.json(
