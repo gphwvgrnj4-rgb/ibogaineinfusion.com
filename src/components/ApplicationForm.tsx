@@ -52,11 +52,11 @@ const EATING_ROWS = [
 ] as const;
 
 const inputClass =
-  "mt-1.5 w-full rounded-md border border-forest/20 bg-cream px-3 py-2.5 text-ink outline-none ring-accent focus:ring-2";
+  "mt-1.5 w-full rounded-xl border border-[var(--line)] bg-cream px-3.5 py-3 text-ink outline-none transition focus:border-accent/50 focus:ring-2 focus:ring-accent/30";
 const labelClass = "block text-sm font-medium text-ink";
-const helpClass = "mt-1 text-xs text-ink/55";
+const helpClass = "mt-1.5 text-xs text-muted";
 const sectionCard =
-  "space-y-5 rounded-xl border border-forest/10 bg-white p-5 sm:p-6 shadow-sm";
+  "space-y-5 rounded-[1.5rem] border border-[var(--line)] bg-paper p-5 sm:p-7 shadow-[var(--shadow-soft)]";
 
 function emptyFlags(): CurrentPast {
   return { current: false, past: false };
@@ -124,9 +124,9 @@ function CurrentPastTable({
   onChange: (next: Record<string, CurrentPast>) => void;
 }) {
   return (
-    <div className="overflow-x-auto rounded-lg border border-forest/10">
+    <div className="overflow-x-auto rounded-xl border border-[var(--line)]">
       <table className="min-w-full text-left text-sm">
-        <thead className="bg-sage/40 text-forest">
+        <thead className="bg-stone/60 text-forest">
           <tr>
             <th className="px-3 py-2 font-medium">Item</th>
             <th className="px-3 py-2 font-medium text-center">Current</th>
@@ -135,7 +135,7 @@ function CurrentPastTable({
         </thead>
         <tbody>
           {rows.map((row) => (
-            <tr key={row} className="border-t border-forest/10">
+            <tr key={row} className="border-t border-[var(--line)]">
               <td className="px-3 py-2 text-ink/80">{row}</td>
               {(["current", "past"] as const).map((key) => (
                 <td key={key} className="px-3 py-2 text-center">
@@ -498,14 +498,14 @@ export function ApplicationForm() {
 
   return (
     <form onSubmit={onSubmit} className="relative space-y-5" noValidate>
-      <div className="rounded-xl border border-forest/10 bg-white p-5 shadow-sm sm:p-6">
+      <div className="rounded-[1.5rem] border border-[var(--line)] bg-paper p-5 shadow-[var(--shadow-soft)] sm:p-7">
         <div className="flex items-center justify-between gap-3">
           <p className="text-xs font-semibold uppercase tracking-widest text-accent">
             Step {step + 1} of {STEPS.length}
           </p>
           <p className="text-xs text-ink/55">{STEPS[step].label}</p>
         </div>
-        <div className="mt-3 h-2 overflow-hidden rounded-full bg-sage/50" aria-hidden="true">
+        <div className="mt-3 h-1.5 overflow-hidden rounded-full bg-stone" aria-hidden="true">
           <div
             className="h-full rounded-full bg-forest transition-all duration-300"
             style={{ width: `${progress}%` }}
@@ -1090,7 +1090,7 @@ export function ApplicationForm() {
           type="button"
           onClick={goBack}
           disabled={step === 0 || status === "loading"}
-          className="inline-flex min-h-12 items-center justify-center rounded-md border border-forest/20 px-5 py-3 text-sm font-medium text-forest transition hover:bg-sage/30 disabled:cursor-not-allowed disabled:opacity-40"
+          className="btn-outline disabled:cursor-not-allowed disabled:opacity-40"
         >
           Back
         </button>
@@ -1098,7 +1098,7 @@ export function ApplicationForm() {
           <button
             type="button"
             onClick={goNext}
-            className="inline-flex min-h-12 items-center justify-center rounded-md bg-forest px-6 py-3 text-sm font-semibold text-cream transition hover:bg-forest-mid"
+            className="btn-primary"
           >
             Continue
           </button>
@@ -1106,7 +1106,7 @@ export function ApplicationForm() {
           <button
             type="submit"
             disabled={status === "loading"}
-            className="inline-flex min-h-12 items-center justify-center rounded-md bg-forest px-6 py-3 text-sm font-semibold text-cream transition hover:bg-forest-mid disabled:cursor-not-allowed disabled:opacity-70"
+            className="btn-primary disabled:cursor-not-allowed disabled:opacity-70"
           >
             {status === "loading" ? "Submitting…" : "Submit confidential application"}
           </button>
