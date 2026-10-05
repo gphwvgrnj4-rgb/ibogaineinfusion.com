@@ -6,15 +6,14 @@ import { Container } from "./Container";
 export function Footer() {
   return (
     <footer className="relative mt-auto overflow-hidden bg-forest-deep text-cream">
-      <div className="pointer-events-none absolute inset-0 opacity-[0.16]" aria-hidden="true">
-        <Image
-          src="/brand/brand-motif.png"
-          alt=""
-          fill
-          sizes="100vw"
-          className="object-cover object-center cinematic-img"
-        />
-      </div>
+      <div
+        className="pointer-events-none absolute inset-0"
+        aria-hidden="true"
+        style={{
+          background:
+            "radial-gradient(ellipse at 15% 0%, rgba(184,149,106,0.18), transparent 50%), radial-gradient(ellipse at 85% 100%, rgba(201,212,204,0.08), transparent 45%)",
+        }}
+      />
 
       <Container className="relative py-24 sm:py-28">
         <div className="mx-auto max-w-3xl text-center">

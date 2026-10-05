@@ -189,19 +189,18 @@ export default function HomePage() {
       <section className="bg-paper py-8 sm:py-12">
         <Container className="grid gap-6 lg:grid-cols-2">
           <Reveal>
-            <div className="overflow-hidden rounded-[2rem] bg-forest-deep text-cream">
-              <div className="relative min-h-[280px]">
-                <Image
-                  src="/brand/suite-atmosphere.png"
-                  alt="Monitored medical infusion bay with telemetry and IV equipment"
-                  fill
-                  sizes="(max-width:1024px) 100vw, 50vw"
-                  className="object-cover cinematic-img opacity-80"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-forest-deep via-forest-deep/40 to-transparent" />
-              </div>
-              <div className="p-8 sm:p-10">
-                <p className="section-label text-accent">Clarity</p>
+            <div className="relative overflow-hidden rounded-[2rem] bg-forest-deep text-cream">
+              <div
+                className="pointer-events-none absolute inset-0 opacity-40"
+                aria-hidden="true"
+                style={{
+                  background:
+                    "radial-gradient(ellipse at 20% 0%, rgba(184,149,106,0.28), transparent 55%), radial-gradient(ellipse at 90% 100%, rgba(201,212,204,0.12), transparent 50%)",
+                }}
+              />
+              <div className="relative flex min-h-[280px] flex-col justify-end p-8 sm:p-10">
+                <div className="divider-gold" />
+                <p className="section-label mt-8 text-accent">Clarity</p>
                 <h3 className="mt-4 font-serif text-3xl tracking-tight sm:text-4xl">
                   Science meets honesty
                 </h3>
@@ -251,21 +250,30 @@ export default function HomePage() {
         </Container>
       </section>
 
-      {/* 4. Crafted for calm — large imagery band */}
+      {/* 4. Crafted for calm — abstract field (no photography) */}
       <section className="relative mt-6 min-h-[70vh] overflow-hidden bg-forest-deep text-cream sm:mt-10 sm:min-h-[80vh]">
         <Image
-          src="/brand/suite-atmosphere.png"
-          alt="Quiet clinical infusion setting prepared for monitored care"
+          src="/brand/hero-cinematic.webp"
+          alt=""
           fill
           sizes="100vw"
-          className="object-cover cinematic-img"
+          className="object-cover object-center opacity-55"
+          aria-hidden="true"
         />
-        <div className="absolute inset-0 bg-forest-deep/55" aria-hidden="true" />
+        <div
+          className="absolute inset-0"
+          aria-hidden="true"
+          style={{
+            background:
+              "linear-gradient(105deg, rgba(7,28,22,0.92) 0%, rgba(7,28,22,0.55) 48%, rgba(7,28,22,0.75) 100%)",
+          }}
+        />
         <Container className="relative flex min-h-[70vh] items-end py-20 sm:min-h-[80vh] sm:py-24">
           <Reveal className="max-w-xl">
-            <p className="section-label text-accent">The setting</p>
+            <div className="divider-gold" />
+            <p className="section-label mt-8 text-accent">The setting</p>
             <h2 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl lg:text-[3.5rem]">
-              Crafted for calm
+              Crafted for <em className="italic font-normal">calm</em>
             </h2>
             <p className="mt-6 text-base leading-relaxed text-cream/70 sm:text-lg">
               White-coat medical care — not a hotel spa. A monitored medical infusion setting where
