@@ -1,4 +1,6 @@
 import { NextResponse } from "next/server";
+import https from "https";
+import { URL } from "url";
 
 type LeadPayload = Record<string, unknown>;
 
@@ -8,6 +10,46 @@ function asString(value: unknown): string {
 
 function asBool(value: unknown): boolean {
   return value === true || value === "true" || value === "on";
+}
+
+/** Node fetch may strip Origin/Referer (forbidden headers); https.request keeps them. */
+function postJson(
+  webhookUrl: string,
+  payload: unknown,
+  extraHeaders: Record<string, string>,
+): Promise<{ status: number; bodyText: string }> {
+  const body = JSON.stringify(payload);
+  const parsed = new URL(webhookUrl);
+  return new Promise((resolve, reject) => {
+    const req = https.request(
+      {
+        protocol: parsed.protocol,
+        hostname: parsed.hostname,
+        port: parsed.port || 443,
+        path: `${parsed.pathname}${parsed.search}`,
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+          "Content-Length": Buffer.byteLength(body),
+          ...extraHeaders,
+        },
+      },
+      (res) => {
+        const chunks: Buffer[] = [];
+        res.on("data", (c) => chunks.push(Buffer.isBuffer(c) ? c : Buffer.from(c)));
+        res.on("end", () => {
+          resolve({
+            status: res.statusCode || 0,
+            bodyText: Buffer.concat(chunks).toString("utf8"),
+          });
+        });
+      },
+    );
+    req.on("error", reject);
+    req.write(body);
+    req.end();
+  });
 }
 
 export async function POST(request: Request) {
@@ -68,8 +110,7 @@ export async function POST(request: Request) {
       return NextResponse.json(
         {
           ok: false,
-          error:
-            "Consent to contact and medical accuracy attestation are required.",
+          error: "Consent to contact and medical accuracy attestation are required.",
         },
         { status: 400 },
       );
@@ -131,42 +172,45 @@ export async function POST(request: Request) {
 
   if (webhook) {
     try {
-      const res = await fetch(webhook, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Accept: "application/json",
-          Origin: "https://www.ibogaineinfusion.com",
-          Referer: "https://www.ibogaineinfusion.com/apply",
-        },
-        body: JSON.stringify({
+      const isFormSubmit = webhook.includes("formsubmit.co");
+      const { status, bodyText } = await postJson(
+        webhook,
+        {
           ...payload,
           _subject: `Ibogaine Infusion ${payload.type}: ${payload.name}`,
           _template: "table",
           _replyto: payload.email,
-        }),
-      });
-      let webhookBody: unknown = null;
+        },
+        isFormSubmit
+          ? {
+              Origin: "https://www.ibogaineinfusion.com",
+              Referer: "https://www.ibogaineinfusion.com/apply",
+            }
+          : {},
+      );
+
+      let webhookBody: Record<string, unknown> | null = null;
       try {
-        webhookBody = await res.json();
+        webhookBody = JSON.parse(bodyText) as Record<string, unknown>;
       } catch {
         webhookBody = null;
       }
-      const successField =
-        webhookBody && typeof webhookBody === "object"
-          ? (webhookBody as Record<string, unknown>).success
-          : undefined;
+      const successField = webhookBody?.success;
       const successOk = successField === true || successField === "true";
       // FormSubmit ajax returns JSON {success:"true"}; other webhooks may omit success.
-      const isFormSubmit = webhook.includes("formsubmit.co");
-      if (!res.ok || (isFormSubmit && !successOk)) {
+      if (status < 200 || status >= 300 || (isFormSubmit && !successOk)) {
+        console.error(
+          "[lead:webhook-fail]",
+          JSON.stringify({ status, successField, message: webhookBody?.message ?? null }),
+        );
         return NextResponse.json(
           { ok: false, error: "Webhook rejected the submission." },
           { status: 502 },
         );
       }
       return NextResponse.json({ ok: true, demo: false });
-    } catch {
+    } catch (err) {
+      console.error("[lead:webhook-error]", err instanceof Error ? err.message : "unknown");
       return NextResponse.json(
         { ok: false, error: "Unable to reach form webhook." },
         { status: 502 },
