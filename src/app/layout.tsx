@@ -3,6 +3,8 @@ import { DM_Sans, Fraunces } from "next/font/google";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { StickyMobileCTA } from "@/components/StickyMobileCTA";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { siteConfig } from "@/lib/site";
 import "./globals.css";
 
@@ -52,6 +54,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="flex-1">{children}</main>
         <Footer />
         <StickyMobileCTA />
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
