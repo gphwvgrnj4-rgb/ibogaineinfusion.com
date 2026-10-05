@@ -2,16 +2,39 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { useState } from "react";
+import { usePathname } from "next/navigation";
+import { useEffect, useState } from "react";
 import { siteConfig } from "@/lib/site";
 import { Container } from "./Container";
 
 export function Header() {
   const [open, setOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
+  const pathname = usePathname();
+  const isHome = pathname === "/";
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 24);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
+  useEffect(() => {
+    setOpen(false);
+  }, [pathname]);
+
+  const solid = !isHome || scrolled || open;
 
   return (
-    <header className="sticky top-0 z-40 border-b border-white/5 bg-forest-deep/85 text-cream backdrop-blur-xl">
-      <Container className="flex h-[4.5rem] items-center justify-between gap-4">
+    <header
+      className={`${isHome ? "fixed" : "sticky"} inset-x-0 top-0 z-50 text-cream transition-[background-color,backdrop-filter,border-color] duration-300 ${
+        solid
+          ? "border-b border-white/5 bg-forest-deep/90 backdrop-blur-xl"
+          : "border-b border-transparent bg-transparent"
+      }`}
+    >
+      <Container className="flex h-[4.75rem] items-center justify-between gap-4">
         <Link
           href="/"
           className="group flex items-center gap-3 tracking-tight"
@@ -30,24 +53,27 @@ export function Header() {
           </span>
         </Link>
 
-        <nav className="hidden items-center gap-8 lg:flex" aria-label="Primary">
+        <nav className="hidden items-center gap-9 lg:flex" aria-label="Primary">
           {siteConfig.nav.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="text-[0.7rem] font-medium uppercase tracking-[0.18em] text-cream/70 hover:text-cream"
+              className="text-[0.68rem] font-medium uppercase tracking-[0.2em] text-cream/65 hover:text-cream"
             >
               {item.label}
             </Link>
           ))}
-          <Link href="/apply" className="btn-gold !min-h-10 !px-5 !text-[0.7rem]">
-            Apply
+          <Link
+            href="/apply"
+            className="inline-flex min-h-10 items-center rounded-full bg-ink px-5 text-[0.68rem] font-medium uppercase tracking-[0.18em] text-cream hover:bg-forest"
+          >
+            Apply Now
           </Link>
         </nav>
 
         <button
           type="button"
-          className="inline-flex min-h-10 min-w-10 items-center justify-center rounded-full border border-cream/20 text-cream hover:bg-cream/10 lg:hidden"
+          className="inline-flex min-h-10 min-w-10 items-center justify-center rounded-full border border-cream/25 text-cream hover:bg-cream/10 lg:hidden"
           aria-expanded={open}
           aria-controls="mobile-nav"
           onClick={() => setOpen((v) => !v)}
@@ -78,10 +104,10 @@ export function Header() {
             ))}
             <Link
               href="/apply"
-              className="btn-gold mt-3 text-center"
+              className="mt-3 inline-flex min-h-12 items-center justify-center rounded-full bg-ink px-5 text-[0.7rem] font-medium uppercase tracking-[0.18em] text-cream"
               onClick={() => setOpen(false)}
             >
-              Start confidential application
+              Apply Now
             </Link>
           </Container>
         </div>

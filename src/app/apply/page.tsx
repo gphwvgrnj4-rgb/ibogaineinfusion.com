@@ -5,6 +5,7 @@ import { Container } from "@/components/Container";
 import { Disclaimer } from "@/components/Disclaimer";
 import { JsonLd } from "@/components/JsonLd";
 import { JurisdictionNote } from "@/components/JurisdictionNote";
+import { PageHero } from "@/components/PageHero";
 import { breadcrumbList, faqPage } from "@/lib/schema";
 import { siteConfig } from "@/lib/site";
 
@@ -60,31 +61,15 @@ export default function ApplyPage() {
   return (
     <>
       <JsonLd data={jsonLd} />
-      <section className="relative overflow-hidden border-b border-[var(--line)] bg-forest-deep py-20 text-cream sm:py-24">
-        <div className="pointer-events-none absolute inset-0 opacity-20" aria-hidden="true">
-          <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_rgba(184,149,106,0.25),_transparent_55%)]" />
-        </div>
-        <Container className="relative max-w-3xl">
-          <p className="section-label text-accent">Confidential application</p>
-          <h1 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl lg:text-6xl">
-            Thorough screening application for IV ibogaine infusion
-          </h1>
-          <p className="mt-6 max-w-2xl text-lg leading-relaxed text-cream/70">
-            This is a deeper intake — not a short inquiry. Fill out as much as you are comfortable
-            with. The path is confidential intake → medical/psych readiness review → discovery call.
-          </p>
-        </Container>
-      </section>
+      <PageHero label="Apply & align" title="Request a private consultation">
+        A confidential multi-step application — not a short inquiry. Intake → readiness review →
+        discovery call. We discuss true psychoactive intravenous ibogaine under physician supervision.
+      </PageHero>
 
       <section className="bg-cream py-16 sm:py-20">
         <Container className="grid gap-12 lg:grid-cols-[minmax(0,0.85fr)_minmax(0,1.15fr)] lg:items-start lg:gap-16">
           <div>
-            <p className="leading-relaxed text-muted">
-              We discuss{" "}
-              <strong className="font-medium text-ink">true psychoactive intravenous ibogaine</strong> under
-              physician supervision (consult → cardiac screen → monitored IV infusion → integration).
-            </p>
-            <JurisdictionNote variant="card" context="apply" className="mt-8" />
+            <JurisdictionNote variant="card" context="apply" />
             <Disclaimer tone="light" className="mt-6" />
 
             <h2 className="mt-12 font-serif text-3xl text-forest">What this application covers</h2>
@@ -105,7 +90,7 @@ export default function ApplyPage() {
               ))}
             </ol>
 
-            <h2 className="mt-12 font-serif text-3xl text-forest">Trust bullets</h2>
+            <h2 className="mt-12 font-serif text-3xl text-forest">Trust</h2>
             <ul className="mt-6 space-y-4 text-sm text-muted">
               <li>
                 <strong className="text-ink">Cardiac-first.</strong> Expect ECG/electrolyte discussion.{" "}
@@ -130,11 +115,11 @@ export default function ApplyPage() {
             <p className="mt-8 text-sm text-muted">
               Prefer to read first?{" "}
               <Link href="/what-is-ibogaine-infusion" className="text-forest-mid underline underline-offset-3">
-                Definition
+                Approach
               </Link>{" "}
               ·{" "}
               <Link href="/how-it-works" className="text-forest-mid underline underline-offset-3">
-                How it works
+                Journey
               </Link>{" "}
               ·{" "}
               <Link href="/faq" className="text-forest-mid underline underline-offset-3">

@@ -9,11 +9,10 @@ export const siteConfig = {
   email: "hello@ibogaineinfusion.com",
   phoneDisplay: "Confidential inquiry form",
   nav: [
-    { href: "/what-is-ibogaine-infusion", label: "What Is Infusion" },
-    { href: "/how-it-works", label: "How It Works" },
+    { href: "/what-is-ibogaine-infusion", label: "Approach" },
+    { href: "/how-it-works", label: "Journey" },
     { href: "/safety-and-screening", label: "Safety" },
-    { href: "/faq", label: "FAQ" },
-    { href: "/blog", label: "Blog" },
+    { href: "/blog", label: "Journal" },
   ],
   conditionLinks: [
     { href: "/ibogaine-for-addiction", label: "Addiction" },

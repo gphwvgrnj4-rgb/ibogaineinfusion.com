@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { Container } from "@/components/Container";
-import { CTASection } from "@/components/CTASection";
-import { Disclaimer } from "@/components/Disclaimer";
 import { JsonLd } from "@/components/JsonLd";
 import { JurisdictionNote } from "@/components/JurisdictionNote";
+import { Reveal } from "@/components/Reveal";
+import { blogPosts } from "@/lib/blog";
 import { faqPage, organizationAndWebsite } from "@/lib/schema";
 
 export const metadata: Metadata = {
@@ -42,62 +42,54 @@ const homeFaqs = [
   },
 ];
 
-const pathways = [
-  {
-    href: "/ibogaine-for-addiction",
-    title: "Addiction & opioid detox",
-    body: "Observational literature (mostly oral) explores substance-use contexts. Interest is real; cure claims are not. IV controlled evidence remains sparse.",
-  },
-  {
-    href: "/ibogaine-for-depression",
-    title: "Depression & mood",
-    body: "People compare ibogaine with ketamine clinics. Evidence for depression is limited; legality and cardiac risk diverge sharply.",
-  },
-  {
-    href: "/ibogaine-for-ptsd",
-    title: "PTSD & veteran-adjacent",
-    body: "Public attention rose around magnesium–ibogaine protocols. MISTIC used oral ibogaine with IV magnesium — cite carefully.",
-  },
-];
-
 const pillars = [
   {
     num: "01",
-    title: "Screening-first",
-    body: "Cardiac history, ECG, medications, and go/no-go before any infusion conversation.",
+    title: "Screening-first medicine",
+    body: "Cardiac history, ECG, medications, and a clear go/no-go before any infusion conversation begins.",
   },
   {
     num: "02",
     title: "True IV psychoactive",
-    body: "Ibogaine itself by intravenous infusion — not oral dosing labeled as “infusion.”",
+    body: "Ibogaine itself by intravenous infusion — not oral dosing labeled as an “infusion.”",
   },
   {
     num: "03",
     title: "Monitored sanctuary",
     body: "Physician oversight, continuous telemetry, and a calm clinical setting designed for dignity.",
   },
+  {
+    num: "04",
+    title: "Integration afterward",
+    body: "Structured psychosocial planning after the acute window — deliberate, not ornamental.",
+  },
 ];
 
-const journey = [
+const funnel = [
   {
-    step: "01",
-    title: "Consult",
-    body: "History, goals, medications, and contraindications — a private clinical conversation.",
+    title: "Discover",
+    body: "Read the definition of true IV infusion, the evidence gap, and what cardiac diligence requires — before any application.",
+    href: "/what-is-ibogaine-infusion",
   },
   {
-    step: "02",
-    title: "Cardiac & medical screening",
-    body: "ECG, labs as indicated, and a clear go/no-go before any infusion is considered.",
+    title: "Apply & align",
+    body: "Submit a confidential multi-step application. We review readiness signals and schedule a discovery conversation.",
+    href: "/apply",
   },
   {
-    step: "03",
-    title: "Monitored IV infusion",
-    body: "Psychoactive intravenous ibogaine with continuous telemetry and physician oversight.",
+    title: "Screen",
+    body: "ECG, labs as indicated, medication review, and physician go/no-go. Treatment location is shared only after screening.",
+    href: "/safety-and-screening",
   },
   {
-    step: "04",
+    title: "Monitored infusion",
+    body: "Psychoactive intravenous ibogaine under continuous telemetry and physician supervision in a medical setting.",
+    href: "/how-it-works",
+  },
+  {
     title: "Integration",
-    body: "Psychosocial planning after the acute window — structured, not ornamental.",
+    body: "Aftercare planning that translates the acute window into grounded next steps — without outcome promises.",
+    href: "/how-it-works",
   },
 ];
 
@@ -110,354 +102,348 @@ export default function HomePage() {
       faqPage(homeFaqs),
     ],
   };
+  const journal = [...blogPosts].sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 3);
 
   return (
     <>
       <JsonLd data={jsonLd} />
 
-      {/* Hero */}
-      <section className="relative min-h-[92vh] overflow-hidden bg-forest-deep text-cream">
+      {/* 1. Hero — Eleusis-style full viewport */}
+      <section className="relative flex min-h-[100svh] items-end overflow-hidden bg-forest-deep text-cream sm:items-center">
         <Image
-          src="/brand/hero-atmosphere.png"
-          alt="Physician-supervised medical infusion room with cardiac monitor, IV pole, and white coat"
+          src="/brand/hero-cinematic.webp"
+          alt="Cinematic still-life of a quiet private infusion suite at dusk — soft side light, IV line, deep forest and gold tones"
           fill
           priority
           sizes="100vw"
-          className="object-cover object-center cinematic-img"
+          className="hidden object-cover object-center sm:block"
+        />
+        <Image
+          src="/brand/hero-cinematic-mobile.webp"
+          alt="Cinematic still-life of a quiet private infusion suite at dusk — soft side light, IV line, deep forest and gold tones"
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover object-[center_30%] sm:hidden"
         />
         <div className="hero-overlay absolute inset-0" aria-hidden="true" />
-        <Container className="relative flex min-h-[92vh] flex-col justify-end pb-16 pt-28 sm:justify-center sm:pb-24 sm:pt-32">
-          <p className="section-label text-accent">Physician-supervised · Screening-first</p>
-          <h1 className="mt-6 max-w-4xl font-serif text-[2.75rem] leading-[1.02] tracking-[-0.035em] sm:text-6xl lg:text-7xl xl:text-[4.75rem]">
-            IV ibogaine infusion — discreet, monitored, exacting
-          </h1>
-          <p className="mt-8 max-w-2xl text-lg leading-relaxed text-cream/75 sm:text-xl">
-            True <strong className="font-medium text-cream">psychoactive intravenous ibogaine</strong>{" "}
-            in a medical infusion setting: consult, cardiac screening, continuous monitoring, and
-            structured integration afterward.
-          </p>
-          <div className="mt-12 flex flex-col gap-3 sm:flex-row sm:items-center">
-            <Link href="/apply" className="btn-gold">
-              Start confidential application
-            </Link>
-            <Link href="/what-is-ibogaine-infusion" className="btn-ghost">
-              What true IV infusion means
-            </Link>
-          </div>
-          <div className="mt-14 max-w-2xl">
-            <Disclaimer tone="dark" />
+        <Container className="relative w-full pb-20 pt-32 sm:pb-28 sm:pt-36">
+          <div className="mx-auto max-w-4xl text-center sm:mx-0 sm:max-w-3xl sm:text-left">
+            <div className="mx-auto divider-gold sm:mx-0" />
+            <h1 className="mt-10 font-serif text-[3.1rem] leading-[0.98] tracking-[-0.04em] sm:text-6xl md:text-7xl lg:text-[5.25rem]">
+              Quiet. Monitored.
+              <br />
+              Exact.
+            </h1>
+            <p className="mx-auto mt-8 max-w-xl text-base leading-relaxed text-cream/70 sm:mx-0 sm:text-lg">
+              Physician-supervised IV ibogaine infusion — screening first, continuous cardiac
+              monitoring, structured integration afterward.
+            </p>
+            <div className="mt-12 flex flex-col items-center gap-3 sm:flex-row sm:items-center">
+              <Link
+                href="/apply"
+                className="inline-flex min-h-12 items-center rounded-full bg-cream px-8 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-ink hover:bg-white"
+              >
+                Request a private consultation
+              </Link>
+              <Link href="/how-it-works" className="btn-ghost">
+                Explore the journey
+              </Link>
+            </div>
           </div>
         </Container>
       </section>
 
+      {/* Jurisdiction — below fold, not in hero */}
       <JurisdictionNote context="home" />
 
-      {/* Definition / editorial */}
-      <section className="bg-cream py-24 sm:py-32">
+      {/* 2. Ecosystem pillars */}
+      <section className="bg-cream py-28 sm:py-36">
         <Container>
-          <div className="mx-auto max-w-3xl text-center">
+          <Reveal className="mx-auto max-w-2xl text-center">
             <div className="mx-auto divider-gold" />
-            <p className="section-label mt-6">Definition</p>
-            <h2 className="mt-5 font-serif text-4xl tracking-tight text-forest sm:text-5xl lg:text-[3.25rem]">
-              Clarity over clinic marketing language
+            <p className="section-label mt-8">The ecosystem</p>
+            <h2 className="mt-5 font-serif text-4xl tracking-tight text-forest sm:text-5xl lg:text-[3.4rem]">
+              A complete path — not a spa label
             </h2>
+            <p className="mt-6 text-lg leading-relaxed text-muted">
+              Four disciplines held together: medical screening, route honesty, monitored infusion,
+              and integration. Curiosity is welcome; cure claims are not.
+            </p>
+          </Reveal>
+          <div className="mt-20 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+            {pillars.map((item, i) => (
+              <Reveal key={item.title} delayMs={i * 80}>
+                <div className="flex h-full flex-col rounded-[1.75rem] border border-[var(--line)] bg-paper p-8">
+                  <p className="font-serif text-3xl text-accent/75">{item.num}</p>
+                  <h3 className="mt-6 font-serif text-2xl text-forest">{item.title}</h3>
+                  <p className="mt-4 text-sm leading-relaxed text-muted">{item.body}</p>
+                </div>
+              </Reveal>
+            ))}
           </div>
-          <div className="prose-clinical mx-auto mt-12 max-w-2xl text-center [&_p]:text-[1.1rem]">
-            <p>
-              <strong>IV ibogaine infusion</strong> (also called intravenous ibogaine) is the psychoactive
-              delivery of ibogaine by intravenous infusion under physician supervision. The patient journey
-              parallels ketamine infusion clinics in <strong>journey shape only</strong> (
-              <strong>consult → cardiac screening → monitored IV infusion → integration</strong>) —{" "}
-              <em>not</em> legal, evidence, or risk equivalence. Continuous ECG/telemetry is non-negotiable
-              because ibogaine can prolong the QTc interval.
-            </p>
-            <p>
-              <strong>Evidence gap:</strong> Most published clinical literature — including Cherian et al.,{" "}
-              <em>Nature Medicine</em> 2024 — describes <strong>oral</strong> ibogaine HCl, often with{" "}
-              <strong>IV magnesium</strong> support, not IV ibogaine as the psychoactive dose. Controlled
-              evidence for psychoactive IV ibogaine remains sparse. Ibogaine is U.S. Schedule I and not
-              approved.
-            </p>
-            <p>
-              On this site, “infusion” is not a spa label for oral dosing with a saline lock.{" "}
-              <strong>Support IV ≠ psychoactive IV.</strong>{" "}
-              <Link href="/what-is-ibogaine-infusion">Read the definition hub</Link>.
-            </p>
-          </div>
+        </Container>
+      </section>
 
-          <div className="mt-20 grid gap-6 md:grid-cols-3">
-            {pillars.map((item) => (
-              <div
-                key={item.title}
-                className="rounded-[1.75rem] border border-[var(--line)] bg-paper p-8 sm:p-9"
-              >
-                <p className="font-serif text-3xl text-accent/80">{item.num}</p>
-                <h3 className="mt-5 font-serif text-2xl text-forest">{item.title}</h3>
-                <p className="mt-4 text-[0.95rem] leading-relaxed text-muted">{item.body}</p>
+      {/* 3. Feature mosaic — science / setting */}
+      <section className="bg-paper py-8 sm:py-12">
+        <Container className="grid gap-6 lg:grid-cols-2">
+          <Reveal>
+            <div className="overflow-hidden rounded-[2rem] bg-forest-deep text-cream">
+              <div className="relative min-h-[280px]">
+                <Image
+                  src="/brand/suite-atmosphere.png"
+                  alt="Monitored medical infusion bay with telemetry and IV equipment"
+                  fill
+                  sizes="(max-width:1024px) 100vw, 50vw"
+                  className="object-cover cinematic-img opacity-80"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-forest-deep via-forest-deep/40 to-transparent" />
               </div>
-            ))}
-          </div>
-        </Container>
-      </section>
-
-      {/* Setting — cinematic split */}
-      <section className="relative overflow-hidden bg-forest-deep text-cream">
-        <div className="grid lg:grid-cols-2">
-          <div className="relative min-h-[480px] lg:min-h-[640px]">
-            <Image
-              src="/brand/suite-atmosphere.png"
-              alt="Ketamine-clinic style infusion bay with ECG monitor, IV drip, and blood pressure cuff"
-              fill
-              sizes="(max-width: 1024px) 100vw, 50vw"
-              className="object-cover object-center cinematic-img"
-            />
-            <div className="suite-overlay absolute inset-0 lg:hidden" aria-hidden="true" />
-          </div>
-          <div className="relative flex items-center px-6 py-20 sm:px-12 sm:py-24 lg:px-16">
-            <div className="pointer-events-none absolute inset-0 opacity-[0.12]" aria-hidden="true">
-              <Image
-                src="/brand/brand-motif.png"
-                alt=""
-                fill
-                sizes="50vw"
-                className="object-cover object-right cinematic-img"
-              />
-            </div>
-            <div className="relative max-w-lg">
-              <p className="section-label">The setting</p>
-              <h2 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl">
-                A monitored medical infusion setting
-              </h2>
-              <p className="mt-6 text-base leading-relaxed text-cream/70 sm:text-lg">
-                White-coat medical care — not a hotel spa. Physician oversight, continuous cardiac
-                monitoring, and a true psychoactive IV ibogaine infusion pathway in a clinical
-                setting. Treatment location is{" "}
-                <strong className="font-medium text-cream">shared after screening</strong> — not an
-                approved U.S. clinic pathway.
-              </p>
-              <ul className="mt-8 space-y-4 border-t border-cream/15 pt-8 text-sm text-cream/70">
-                <li className="flex gap-3 border-b border-cream/10 pb-4">
-                  <span className="text-accent">—</span>
-                  Continuous cardiac monitoring during the high-risk window
-                </li>
-                <li className="flex gap-3 border-b border-cream/10 pb-4">
-                  <span className="text-accent">—</span>
-                  Written clarity on psychoactive route vs support IV
-                </li>
-                <li className="flex gap-3">
-                  <span className="text-accent">—</span>
-                  Integration planning after the acute window
-                </li>
-              </ul>
-              <div className="mt-10 flex flex-col gap-3 sm:flex-row">
-                <Link href="/how-it-works" className="btn-ghost !min-h-11">
-                  How the journey works
-                </Link>
-                <Link href="/safety-and-screening" className="btn-gold !min-h-11">
-                  Safety &amp; screening
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Journey */}
-      <section className="bg-paper py-24 sm:py-32">
-        <Container>
-          <div className="max-w-2xl">
-            <p className="section-label">The path</p>
-            <h2 className="mt-4 font-serif text-4xl tracking-tight text-forest sm:text-5xl">
-              How the medical journey works
-            </h2>
-            <p className="mt-5 text-lg leading-relaxed text-muted">
-              Four deliberate stages. No sales pitch between them — screening decides whether
-              infusion conversation begins.
-            </p>
-          </div>
-          <ol className="mt-16 grid gap-0 sm:grid-cols-2 lg:grid-cols-4">
-            {journey.map((item, i) => (
-              <li
-                key={item.step}
-                className={`border-t border-[var(--line)] pt-8 pr-6 ${
-                  i < journey.length - 1 ? "lg:border-r lg:pr-8" : ""
-                } ${i % 2 === 0 ? "sm:border-r sm:pr-8" : "sm:pl-8 lg:pl-0"} lg:pl-0 ${
-                  i > 0 ? "lg:pl-8" : ""
-                }`}
-              >
-                <p className="font-serif text-4xl text-accent/70">{item.step}</p>
-                <h3 className="mt-5 font-serif text-2xl text-forest">{item.title}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-muted">{item.body}</p>
-              </li>
-            ))}
-          </ol>
-          <p className="mt-12 text-sm text-muted">
-            Step-by-step:{" "}
-            <Link href="/how-it-works" className="font-medium text-forest-mid underline-offset-4 hover:underline">
-              how it works
-            </Link>
-            . Cost diligence:{" "}
-            <Link href="/blog/cost-of-ibogaine-treatment" className="font-medium text-forest-mid underline-offset-4 hover:underline">
-              cost overview
-            </Link>{" "}
-            ·{" "}
-            <Link href="/blog/how-to-choose-an-ibogaine-clinic" className="font-medium text-forest-mid underline-offset-4 hover:underline">
-              clinic vetting
-            </Link>
-            .
-          </p>
-        </Container>
-      </section>
-
-      {/* Cardiac safety */}
-      <section className="bg-forest py-24 text-cream sm:py-28">
-        <Container className="max-w-3xl">
-          <p className="section-label text-accent">Non-negotiable</p>
-          <h2 className="mt-4 font-serif text-4xl tracking-tight sm:text-5xl">
-            Cardiac safety
-          </h2>
-          <ul className="mt-10 space-y-0 text-base leading-relaxed text-cream/75">
-            {[
-              "Pre-treatment ECG and medication/electrolyte review",
-              "Continuous cardiac monitoring during the high-risk window",
-              "Physician oversight and emergency preparedness",
-              "Written clarity on psychoactive route and any concurrent support IV",
-            ].map((line) => (
-              <li
-                key={line}
-                className="flex gap-4 border-b border-cream/10 py-5 first:border-t"
-              >
-                <span className="mt-1 text-accent" aria-hidden="true">
-                  ◆
-                </span>
-                <span>{line}</span>
-              </li>
-            ))}
-          </ul>
-          <div className="mt-10 rounded-2xl border border-cream/10 bg-cream/5 p-6 backdrop-blur-sm">
-            <JurisdictionNote variant="inline" context="home" className="!text-cream/70 [&_strong]:!text-cream" />
-            <p className="mt-4 text-sm text-cream/60">
-              <Link href="/safety-and-screening" className="font-medium text-accent hover:underline">
-                Safety &amp; screening
-              </Link>{" "}
-              ·{" "}
-              <Link href="/blog/ibogaine-ecg-checklist" className="font-medium text-accent hover:underline">
-                ECG checklist
-              </Link>
-            </p>
-          </div>
-        </Container>
-      </section>
-
-      {/* By concern */}
-      <section className="bg-cream py-24 sm:py-32">
-        <Container>
-          <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
-            <div className="max-w-xl">
-              <p className="section-label">Explore</p>
-              <h2 className="mt-4 font-serif text-4xl tracking-tight text-forest sm:text-5xl">
-                By concern
-              </h2>
-              <p className="mt-4 text-lg text-muted">
-                Condition pages explain common questions in plain language — without inventing outcomes.
-              </p>
-            </div>
-            <Link
-              href="/how-it-works"
-              className="text-[0.7rem] font-medium uppercase tracking-[0.16em] text-forest underline-offset-4 hover:underline"
-            >
-              See how the process works →
-            </Link>
-          </div>
-          <div className="mt-14 grid gap-5 md:grid-cols-3">
-            {pathways.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                className="group flex flex-col rounded-[1.75rem] border border-[var(--line)] bg-paper p-8 transition hover:border-accent/40 hover:shadow-[var(--shadow-soft)]"
-              >
-                <h3 className="font-serif text-2xl text-forest group-hover:text-forest-mid">
-                  {item.title}
+              <div className="p-8 sm:p-10">
+                <p className="section-label text-accent">Clarity</p>
+                <h3 className="mt-4 font-serif text-3xl tracking-tight sm:text-4xl">
+                  Science meets honesty
                 </h3>
-                <p className="mt-4 flex-1 text-sm leading-relaxed text-muted">{item.body}</p>
-                <span className="mt-8 text-[0.7rem] font-medium uppercase tracking-[0.16em] text-accent">
-                  Learn more →
-                </span>
+                <p className="mt-5 text-sm leading-relaxed text-cream/65 sm:text-base">
+                  Most published literature describes <strong className="text-cream/90">oral</strong>{" "}
+                  ibogaine — often with IV magnesium support. Controlled evidence for psychoactive IV
+                  ibogaine remains sparse. We say so plainly.{" "}
+                  <Link href="/what-is-ibogaine-infusion" className="text-accent underline-offset-4 hover:underline">
+                    Read the definition
+                  </Link>
+                  .
+                </p>
+              </div>
+            </div>
+          </Reveal>
+          <Reveal delayMs={100}>
+            <div className="flex h-full flex-col justify-between rounded-[2rem] border border-[var(--line)] bg-cream p-8 sm:p-10">
+              <div>
+                <p className="section-label">Non-negotiable</p>
+                <h3 className="mt-4 font-serif text-3xl tracking-tight text-forest sm:text-4xl">
+                  Cardiac diligence
+                </h3>
+                <ul className="mt-8 space-y-0 text-sm text-muted sm:text-base">
+                  {[
+                    "Pre-treatment ECG and medication / electrolyte review",
+                    "Continuous cardiac monitoring during the high-risk window",
+                    "Physician oversight and emergency preparedness",
+                    "Written clarity on psychoactive route vs support IV",
+                  ].map((line) => (
+                    <li key={line} className="flex gap-4 border-b border-[var(--line)] py-4 first:border-t">
+                      <span className="text-accent" aria-hidden="true">
+                        —
+                      </span>
+                      <span>{line}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <Link
+                href="/safety-and-screening"
+                className="mt-10 inline-flex text-[0.7rem] font-medium uppercase tracking-[0.16em] text-forest underline-offset-4 hover:underline"
+              >
+                Review safety →
               </Link>
-            ))}
-          </div>
+            </div>
+          </Reveal>
         </Container>
       </section>
 
-      {/* Compare + FAQ */}
-      <section className="border-t border-[var(--line)] bg-paper py-24 sm:py-32">
-        <Container className="grid gap-20 lg:grid-cols-2">
-          <div>
-            <p className="section-label">Context</p>
-            <h2 className="mt-4 font-serif text-4xl tracking-tight text-forest">
-              Compare carefully
+      {/* 4. Crafted for calm — large imagery band */}
+      <section className="relative mt-6 min-h-[70vh] overflow-hidden bg-forest-deep text-cream sm:mt-10 sm:min-h-[80vh]">
+        <Image
+          src="/brand/suite-atmosphere.png"
+          alt="Quiet clinical infusion setting prepared for monitored care"
+          fill
+          sizes="100vw"
+          className="object-cover cinematic-img"
+        />
+        <div className="absolute inset-0 bg-forest-deep/55" aria-hidden="true" />
+        <Container className="relative flex min-h-[70vh] items-end py-20 sm:min-h-[80vh] sm:py-24">
+          <Reveal className="max-w-xl">
+            <p className="section-label text-accent">The setting</p>
+            <h2 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl lg:text-[3.5rem]">
+              Crafted for calm
             </h2>
-            <ul className="mt-10 space-y-0">
-              {[
-                {
-                  href: "/blog/ibogaine-vs-ketamine-for-addiction",
-                  label: "Ketamine infusion",
-                  note: "Shared IV journey shape; different legality, evidence, cardiac profile",
-                },
-                {
-                  href: "/blog/ibogaine-vs-ayahuasca",
-                  label: "Ayahuasca",
-                  note: "Different chemistry and setting",
-                },
-                {
-                  href: "/blog/ibogaine-vs-traditional-rehab",
-                  label: "Traditional rehab",
-                  note: "Different model; not interchangeable",
-                },
-                {
-                  href: "/blog/ibogaine-oral-vs-iv",
-                  label: "Oral vs IV",
-                  note: "Route honesty for readers and LLMs",
-                },
-              ].map((item) => (
-                <li key={item.href} className="border-b border-[var(--line)] py-5 first:border-t">
-                  <Link href={item.href} className="group block">
-                    <span className="font-serif text-xl text-forest group-hover:text-forest-mid">
-                      {item.label}
-                    </span>
-                    <span className="mt-1 block text-sm text-muted">{item.note}</span>
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
+            <p className="mt-6 text-base leading-relaxed text-cream/70 sm:text-lg">
+              White-coat medical care — not a hotel spa. A monitored medical infusion setting where
+              continuous telemetry is non-negotiable. Treatment location is shared after screening.
+            </p>
+            <Link href="/how-it-works" className="btn-ghost mt-10 !inline-flex">
+              How the journey works
+            </Link>
+          </Reveal>
+        </Container>
+      </section>
 
-          <div>
-            <p className="section-label">Questions</p>
-            <h2 className="mt-4 font-serif text-4xl tracking-tight text-forest">
-              Have questions?
+      {/* 5. Trust */}
+      <section className="bg-cream py-28 sm:py-36">
+        <Container className="grid items-center gap-16 lg:grid-cols-2">
+          <Reveal>
+            <p className="section-label">Diligence</p>
+            <h2 className="mt-5 font-serif text-4xl tracking-tight text-forest sm:text-5xl lg:text-[3.4rem]">
+              Professionals you can question
             </h2>
-            <div className="mt-10">
+            <p className="mt-6 text-lg leading-relaxed text-muted">
+              Screening decides whether an infusion conversation begins — not a sales call. Journey
+              shape may resemble infusion-clinic care; that is not legal, evidence, or risk equivalence
+              with ketamine.
+            </p>
+            <Link
+              href="/faq"
+              className="mt-10 inline-flex min-h-12 items-center rounded-full bg-ink px-7 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-cream hover:bg-forest"
+            >
+              Visit FAQ
+            </Link>
+          </Reveal>
+          <Reveal delayMs={100}>
+            <div className="rounded-[2rem] border border-[var(--line)] bg-paper p-8 sm:p-10">
+              <p className="font-serif text-2xl text-forest sm:text-3xl">True transformation starts with refusal of shortcuts.</p>
+              <p className="mt-6 text-sm leading-relaxed text-muted sm:text-base">
+                No invented outcomes for addiction, depression, or PTSD. No marketing “infusion” for
+                oral flood dosing. Support IV ≠ psychoactive IV.
+              </p>
+              <div className="mt-8 divider-gold" />
+              <p className="mt-8 text-[0.7rem] uppercase tracking-[0.16em] text-accent">
+                Educational only · Not medical advice
+              </p>
+            </div>
+          </Reveal>
+        </Container>
+      </section>
+
+      {/* 6. FAQ */}
+      <section className="border-t border-[var(--line)] bg-paper py-28 sm:py-36">
+        <Container className="grid gap-16 lg:grid-cols-[0.9fr_1.1fr]">
+          <Reveal>
+            <p className="section-label">Questions</p>
+            <h2 className="mt-5 font-serif text-4xl tracking-tight text-forest sm:text-5xl">
+              Have
+              <br />
+              questions?
+            </h2>
+            <p className="mt-6 max-w-sm text-muted">
+              Straight answers on route, screening, and evidence — without marketing fog.
+            </p>
+            <Link
+              href="/faq"
+              className="btn-outline mt-10 !inline-flex"
+            >
+              Visit full FAQ
+            </Link>
+          </Reveal>
+          <Reveal delayMs={80}>
+            <div>
               {homeFaqs.map((item) => (
-                <details key={item.q} className="faq-item group py-5">
-                  <summary className="flex items-start justify-between gap-4 font-serif text-xl text-forest">
+                <details key={item.q} className="faq-item group py-6">
+                  <summary className="flex items-start justify-between gap-6 font-serif text-xl text-forest sm:text-2xl">
                     <span>{item.q}</span>
-                    <span
-                      className="mt-1 shrink-0 text-accent transition group-open:rotate-45"
-                      aria-hidden="true"
-                    >
+                    <span className="mt-1 shrink-0 text-accent transition group-open:rotate-45" aria-hidden="true">
                       +
                     </span>
                   </summary>
-                  <p className="mt-4 max-w-prose text-sm leading-relaxed text-muted">{item.a}</p>
+                  <p className="mt-4 max-w-prose text-sm leading-relaxed text-muted sm:text-base">
+                    {item.a}
+                  </p>
                 </details>
               ))}
             </div>
+          </Reveal>
+        </Container>
+      </section>
+
+      {/* 7. Journal */}
+      <section className="bg-cream py-28 sm:py-36">
+        <Container>
+          <Reveal className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <p className="section-label">Journal</p>
+              <h2 className="mt-4 font-serif text-4xl tracking-tight text-forest sm:text-5xl">
+                Insights
+              </h2>
+            </div>
+            <Link
+              href="/blog"
+              className="text-[0.7rem] font-medium uppercase tracking-[0.16em] text-forest underline-offset-4 hover:underline"
+            >
+              View all →
+            </Link>
+          </Reveal>
+          <div className="mt-14 grid gap-5 md:grid-cols-3">
+            {journal.map((post, i) => (
+              <Reveal key={post.slug} delayMs={i * 70}>
+                <article className="flex h-full flex-col rounded-[1.5rem] border border-[var(--line)] bg-paper p-7">
+                  <p className="text-[0.65rem] uppercase tracking-[0.18em] text-accent">
+                    {post.date} · {post.readTime}
+                  </p>
+                  <h3 className="mt-4 font-serif text-2xl leading-snug text-forest">
+                    <Link href={`/blog/${post.slug}`} className="hover:text-forest-mid">
+                      {post.title}
+                    </Link>
+                  </h3>
+                  <p className="mt-4 flex-1 text-sm leading-relaxed text-muted">{post.description}</p>
+                  <Link
+                    href={`/blog/${post.slug}`}
+                    className="mt-8 text-[0.7rem] font-medium uppercase tracking-[0.16em] text-accent"
+                  >
+                    Read →
+                  </Link>
+                </article>
+              </Reveal>
+            ))}
           </div>
         </Container>
       </section>
 
-      <CTASection title="Start with safety, then apply confidentially" />
+      {/* 8. Transformation funnel */}
+      <section className="bg-forest-deep py-28 text-cream sm:py-36">
+        <Container>
+          <Reveal className="max-w-2xl">
+            <div className="divider-gold" />
+            <p className="section-label mt-8 text-accent">The path</p>
+            <h2 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl lg:text-[3.4rem]">
+              From inquiry to integration
+            </h2>
+            <p className="mt-6 text-lg leading-relaxed text-cream/60">
+              Each step is curated for safety and clarity — not urgency.
+            </p>
+          </Reveal>
+          <ol className="mt-16 space-y-0">
+            {funnel.map((step, i) => (
+              <Reveal key={step.title} delayMs={i * 60}>
+                <li className="grid gap-4 border-t border-cream/10 py-10 last:border-b md:grid-cols-[7rem_1fr_auto] md:items-start md:gap-10">
+                  <p className="font-serif text-3xl text-accent/70">0{i + 1}</p>
+                  <div>
+                    <h3 className="font-serif text-2xl sm:text-3xl">{step.title}</h3>
+                    <p className="mt-3 max-w-2xl text-sm leading-relaxed text-cream/60 sm:text-base">
+                      {step.body}
+                    </p>
+                  </div>
+                  <Link
+                    href={step.href}
+                    className="text-[0.68rem] font-medium uppercase tracking-[0.16em] text-accent hover:text-cream md:pt-2"
+                  >
+                    Learn →
+                  </Link>
+                </li>
+              </Reveal>
+            ))}
+          </ol>
+        </Container>
+      </section>
+
+      {/* Educational notice relocated from hero */}
+      <section className="border-y border-[var(--line)] bg-stone/40 py-10">
+        <Container className="max-w-3xl text-center text-sm leading-relaxed text-muted">
+          <strong className="font-medium text-forest">Educational notice:</strong> Information on this
+          site is for inquiry and education only. It is not medical advice, a diagnosis, or a promise
+          of cure or benefit. Ibogaine involves serious medical risks, including cardiac risk. Medical
+          screening is essential. Always consult qualified clinicians. Not an approved U.S. clinic
+          pathway.
+        </Container>
+      </section>
     </>
   );
 }

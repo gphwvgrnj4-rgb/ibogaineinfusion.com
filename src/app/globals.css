@@ -75,8 +75,8 @@ button {
 .display {
   font-family: var(--font-serif), Georgia, serif;
   font-weight: 400;
-  letter-spacing: -0.03em;
-  line-height: 1.05;
+  letter-spacing: -0.035em;
+  line-height: 1.02;
 }
 
 .card-elevated {
@@ -98,17 +98,17 @@ button {
   align-items: center;
   justify-content: center;
   border-radius: 9999px;
-  background: var(--forest);
+  background: var(--ink);
   padding: 0.75rem 1.75rem;
-  font-size: 0.8125rem;
-  font-weight: 560;
-  letter-spacing: 0.04em;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--cream);
 }
 
 .btn-primary:hover {
-  background: var(--forest-mid);
+  background: var(--forest);
 }
 
 .btn-gold {
@@ -119,12 +119,11 @@ button {
   border-radius: 9999px;
   background: var(--accent);
   padding: 0.75rem 1.75rem;
-  font-size: 0.8125rem;
-  font-weight: 560;
-  letter-spacing: 0.04em;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--ink);
-  box-shadow: 0 14px 36px rgba(184, 149, 106, 0.28);
 }
 
 .btn-gold:hover {
@@ -137,12 +136,12 @@ button {
   align-items: center;
   justify-content: center;
   border-radius: 9999px;
-  border: 1px solid rgba(246, 243, 238, 0.35);
+  border: 1px solid rgba(246, 243, 238, 0.3);
   background: transparent;
   padding: 0.75rem 1.75rem;
-  font-size: 0.8125rem;
+  font-size: 0.72rem;
   font-weight: 500;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--cream);
 }
@@ -160,9 +159,9 @@ button {
   border: 1px solid var(--line);
   background: transparent;
   padding: 0.75rem 1.75rem;
-  font-size: 0.8125rem;
+  font-size: 0.72rem;
   font-weight: 500;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--ink);
 }
@@ -172,19 +171,20 @@ button {
   color: var(--forest);
 }
 
-.hairline {
+.divider-gold {
+  width: 2.75rem;
   height: 1px;
-  background: var(--line);
+  background: var(--accent);
 }
 
 .prose-clinical h2 {
   color: var(--forest);
   font-family: var(--font-serif), Georgia, serif;
   font-weight: 400;
-  font-size: clamp(1.75rem, 2.4vw, 2.25rem);
+  font-size: clamp(1.75rem, 2.4vw, 2.35rem);
   letter-spacing: -0.03em;
-  margin-top: 3rem;
-  margin-bottom: 1.1rem;
+  margin-top: 3.25rem;
+  margin-bottom: 1.15rem;
   line-height: 1.15;
 }
 
@@ -238,17 +238,17 @@ button {
 
 .hero-overlay {
   background:
-    linear-gradient(180deg, rgba(7, 28, 22, 0.55) 0%, rgba(7, 28, 22, 0.35) 40%, rgba(7, 28, 22, 0.72) 100%),
-    linear-gradient(90deg, rgba(7, 28, 22, 0.55) 0%, transparent 55%);
+    linear-gradient(180deg, rgba(7, 28, 22, 0.35) 0%, rgba(7, 28, 22, 0.2) 42%, rgba(7, 28, 22, 0.78) 100%),
+    linear-gradient(90deg, rgba(7, 28, 22, 0.45) 0%, transparent 58%);
 }
 
 .suite-overlay {
   background:
-    linear-gradient(90deg, rgba(7, 28, 22, 0.88) 0%, rgba(7, 28, 22, 0.45) 55%, rgba(7, 28, 22, 0.15) 100%);
+    linear-gradient(90deg, rgba(7, 28, 22, 0.9) 0%, rgba(7, 28, 22, 0.45) 55%, rgba(7, 28, 22, 0.12) 100%);
 }
 
 .cinematic-img {
-  filter: saturate(0.86) contrast(1.05) brightness(0.92);
+  filter: saturate(0.88) contrast(1.06) brightness(0.9);
 }
 
 .faq-item {
@@ -264,8 +264,29 @@ button {
   display: none;
 }
 
-.divider-gold {
-  width: 2.5rem;
-  height: 1px;
-  background: var(--accent);
+.reveal {
+  opacity: 0;
+  transform: translateY(22px);
+  transition: opacity 900ms cubic-bezier(0.22, 1, 0.36, 1),
+    transform 900ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.reveal-in {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  a,
+  button {
+    transition: none;
+  }
 }
