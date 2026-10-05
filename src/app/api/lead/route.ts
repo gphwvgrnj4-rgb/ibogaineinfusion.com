@@ -203,13 +203,22 @@ export async function POST(request: Request) {
           typeof webhookBody?.message === "string" ? webhookBody.message : null;
         console.error(
           "[lead:webhook-fail]",
-          JSON.stringify({ status, successField, message: webhookMessage }),
+          JSON.stringify({
+            status,
+            isFormSubmit,
+            successField,
+            message: webhookMessage,
+            bodyPreview: bodyText.slice(0, 300),
+          }),
         );
         return NextResponse.json(
           {
             ok: false,
             error: webhookMessage || "Webhook rejected the submission.",
             formsubmitSuccess: successField ?? null,
+            webhookStatus: status,
+            webhookBodyPreview: bodyText.slice(0, 300),
+            usedFormSubmit: isFormSubmit,
           },
           { status: 502 },
         );
