@@ -1,6 +1,4 @@
 import { NextResponse } from "next/server";
-import https from "https";
-import { URL } from "url";
 
 type LeadPayload = Record<string, unknown>;
 
@@ -12,46 +10,11 @@ function asBool(value: unknown): boolean {
   return value === true || value === "true" || value === "on";
 }
 
-/** Node fetch may strip Origin/Referer (forbidden headers); https.request keeps them. */
-function postJson(
-  webhookUrl: string,
-  payload: unknown,
-  extraHeaders: Record<string, string>,
-): Promise<{ status: number; bodyText: string }> {
-  const body = JSON.stringify(payload);
-  const parsed = new URL(webhookUrl);
-  return new Promise((resolve, reject) => {
-    const req = https.request(
-      {
-        protocol: parsed.protocol,
-        hostname: parsed.hostname,
-        port: parsed.port || 443,
-        path: `${parsed.pathname}${parsed.search}`,
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Accept: "application/json",
-          "Content-Length": Buffer.byteLength(body),
-          ...extraHeaders,
-        },
-      },
-      (res) => {
-        const chunks: Buffer[] = [];
-        res.on("data", (c) => chunks.push(Buffer.isBuffer(c) ? c : Buffer.from(c)));
-        res.on("end", () => {
-          resolve({
-            status: res.statusCode || 0,
-            bodyText: Buffer.concat(chunks).toString("utf8"),
-          });
-        });
-      },
-    );
-    req.on("error", reject);
-    req.write(body);
-    req.end();
-  });
-}
-
+/**
+ * Optional / secondary lead endpoint (validation + log).
+ * /apply delivers via browser FormSubmit to hello@ibogaineinfusion.com —
+ * server-side FormSubmit from Vercel is blocked by Cloudflare.
+ */
 export async function POST(request: Request) {
   let body: LeadPayload;
   try {
@@ -63,7 +26,6 @@ export async function POST(request: Request) {
   // Honeypot / basic spam
   const honeypot = asString(body.website) || asString(body.honeypot) || asString(body._hp);
   if (honeypot) {
-    // Silent success for bots
     return NextResponse.json({ ok: true, demo: true });
   }
 
@@ -91,7 +53,6 @@ export async function POST(request: Request) {
     asBool(body.consentToContact);
   const medicalAccuracy = asBool(consent.medicalAccuracy) || asBool(body.medicalAccuracy);
 
-  // Support legacy thin inquiry (name/email/phone/consent) and rich application
   const isRich = body.type === "application" || Boolean(body.interest || body.generalHealth);
 
   if (!name || !email || !phone) {
@@ -122,129 +83,17 @@ export async function POST(request: Request) {
     );
   }
 
-  const { website: _w, honeypot: _h, _hp: _hpField, ...applicationRest } = body;
-
-  const payload = {
-    type: isRich ? "application" : "inquiry",
-    name,
-    firstName: firstName || name.split(" ")[0] || "",
-    lastName: lastName || name.split(" ").slice(1).join(" ") || "",
-    email,
-    phone,
-    preferredContact: asString(body.preferredContact) || asString(contact.preferredContact) || "",
-    timezone: asString(body.timezone) || asString(contact.timezone) || "",
-    // Structured sections for email/webhook notification
-    contact: body.contact ?? {
-      firstName,
-      lastName,
+  console.info(
+    "[lead:secondary]",
+    JSON.stringify({
+      type: isRich ? "application" : "inquiry",
+      name,
       email,
       phone,
-      preferredContact: asString(body.preferredContact),
-      timezone: asString(body.timezone),
-    },
-    interest: body.interest ?? null,
-    generalHealth: body.generalHealth ?? null,
-    substanceHistory: body.substanceHistory ?? null,
-    eatingSleep: body.eatingSleep ?? null,
-    personalFamily: body.personalFamily ?? null,
-    intentions: body.intentions ?? null,
-    consent: {
-      consentToContact,
-      medicalAccuracy: isRich ? medicalAccuracy : true,
-    },
-    // Legacy thin message field
-    message: asString(body.message),
-    // Full application object for forwarders that want everything
-    application: isRich ? applicationRest : null,
-    source: "ibogaineinfusion.com",
-    submittedAt: new Date().toISOString(),
-    notificationPreference: {
-      emailFields: ["name", "email", "phone", "preferredContact", "timezone", "interest", "consent"],
-      includeFullApplication: true,
-    },
-  };
-
-  // Prefer env; fall back to FormSubmit ajax so /apply leaves demo mode without paid Formspark.
-  // Activate once via email link sent to hello@ibogaineinfusion.com (ImprovMX → Benny) if FormSubmit asks.
-  const webhook =
-    process.env.FORM_WEBHOOK_URL ||
-    "https://formsubmit.co/ajax/hello@ibogaineinfusion.com";
-
-  if (webhook) {
-    try {
-      const isFormSubmit = webhook.includes("formsubmit.co");
-      const { status, bodyText } = await postJson(
-        webhook,
-        {
-          ...payload,
-          _subject: `Ibogaine Infusion ${payload.type}: ${payload.name}`,
-          _template: "table",
-          _replyto: payload.email,
-        },
-        isFormSubmit
-          ? {
-              Origin: "https://www.ibogaineinfusion.com",
-              Referer: "https://www.ibogaineinfusion.com/apply",
-            }
-          : {},
-      );
-
-      let webhookBody: Record<string, unknown> | null = null;
-      try {
-        webhookBody = JSON.parse(bodyText) as Record<string, unknown>;
-      } catch {
-        webhookBody = null;
-      }
-      const successField = webhookBody?.success;
-      const successOk = successField === true || successField === "true";
-      // FormSubmit ajax returns JSON {success:"true"}; other webhooks may omit success.
-      if (status < 200 || status >= 300 || (isFormSubmit && !successOk)) {
-        const webhookMessage =
-          typeof webhookBody?.message === "string" ? webhookBody.message : null;
-        console.error(
-          "[lead:webhook-fail]",
-          JSON.stringify({
-            status,
-            isFormSubmit,
-            successField,
-            message: webhookMessage,
-            bodyPreview: bodyText.slice(0, 300),
-          }),
-        );
-        return NextResponse.json(
-          {
-            ok: false,
-            error: webhookMessage || "Webhook rejected the submission.",
-            formsubmitSuccess: successField ?? null,
-            webhookStatus: status,
-            webhookBodyPreview: bodyText.slice(0, 300),
-            usedFormSubmit: isFormSubmit,
-          },
-          { status: 502 },
-        );
-      }
-      return NextResponse.json({ ok: true, demo: false });
-    } catch (err) {
-      console.error("[lead:webhook-error]", err instanceof Error ? err.message : "unknown");
-      return NextResponse.json(
-        { ok: false, error: "Unable to reach form webhook." },
-        { status: 502 },
-      );
-    }
-  }
-
-  // Demo mode: accept without external delivery (avoid logging PHI in full)
-  console.info(
-    "[lead:demo]",
-    JSON.stringify({
-      type: payload.type,
-      name: payload.name,
-      email: payload.email,
-      phone: payload.phone,
-      preferredContact: payload.preferredContact,
-      submittedAt: payload.submittedAt,
-      hasApplication: Boolean(payload.application),
+      submittedAt: new Date().toISOString(),
+      note: "Primary delivery is browser FormSubmit from /apply",
     }),
   );
-  return NextResponse.json({ ok: true, demo: true });
+
+  return NextResponse.json({ ok: true, demo: false });
 }

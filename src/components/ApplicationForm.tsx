@@ -414,29 +414,55 @@ export function ApplicationForm() {
     setStatus("loading");
     setMessage("");
 
+    // Honeypot: pretend success, do not send
+    if (form.website.trim()) {
+      setStatus("success");
+      setMessage("Application received. Our team will review confidentially.");
+      return;
+    }
+
     const payload = buildPayload(form);
+    const { website: _honeypot, ...application } = payload;
 
     try {
-      const res = await fetch("/api/lead", {
+      // Browser delivery — FormSubmit is Cloudflare-blocked from Vercel server-side fetches.
+      const res = await fetch("https://formsubmit.co/ajax/hello@ibogaineinfusion.com", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          ...application,
+          _subject: `Ibogaine Infusion ${application.type}: ${application.name}`,
+          _template: "table",
+          _replyto: application.email,
+        }),
       });
-      const json = (await res.json()) as { ok?: boolean; error?: string; demo?: boolean };
 
-      if (!res.ok || !json.ok) {
-        throw new Error(json.error || "Unable to submit right now.");
+      let json: { success?: boolean | string; message?: string } = {};
+      try {
+        json = (await res.json()) as { success?: boolean | string; message?: string };
+      } catch {
+        json = {};
+      }
+
+      const successOk = json.success === true || json.success === "true";
+      if (!res.ok || !successOk) {
+        throw new Error(
+          typeof json.message === "string" && json.message
+            ? json.message
+            : "Unable to submit right now.",
+        );
       }
 
       setStatus("success");
-      setMessage(
-        json.demo
-          ? "Application received (demo mode). Connect FORM_WEBHOOK_URL in production for delivery."
-          : "Application received. Our team will review confidentially.",
-      );
-    } catch (err) {
+      setMessage("Application received. Our team will review confidentially.");
+    } catch {
       setStatus("error");
-      setMessage(err instanceof Error ? err.message : "Something went wrong.");
+      setMessage(
+        "We could not deliver your application automatically. Please email us and we will follow up confidentially:",
+      );
     }
   }
 
@@ -1049,7 +1075,13 @@ export function ApplicationForm() {
 
       {message && status === "error" && (
         <p role="status" className="text-sm text-red-700">
-          {message}
+          {message}{" "}
+          <a
+            href="mailto:hello@ibogaineinfusion.com"
+            className="font-semibold underline underline-offset-2"
+          >
+            hello@ibogaineinfusion.com
+          </a>
         </p>
       )}
 
