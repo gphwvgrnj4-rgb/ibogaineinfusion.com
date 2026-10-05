@@ -45,9 +45,9 @@ export default function PtsdPage() {
           </p>
           <Disclaimer className="mt-8" />
           <p className="mt-6 text-sm leading-relaxed text-ink/75">
-            Programs discussed on this site for physician-supervised IV ibogaine infusion are{" "}
-            <strong className="text-ink">provisionally available in Mexico</strong> — not an
-            FDA-approved U.S. clinic treatment. Educational only; not legal advice.
+            Programs discussed on this site for physician-supervised IV ibogaine infusion share the{" "}
+            <strong className="text-ink">treatment location after screening</strong> — not an
+            approved U.S. clinic treatment. Educational only; not legal advice.
           </p>
         </Container>
       </section>
@@ -61,7 +61,7 @@ export default function PtsdPage() {
             <Link href="/what-is-ibogaine-infusion">IV ibogaine infusion</Link> standards
             (intravenous psychoactive ibogaine under physician supervision) — is associated with
             changes in post-traumatic stress symptoms. Randomized controlled trials are still needed;
-            controlled evidence for psychoactive IV ibogaine is sparse. Ibogaine is not FDA-approved
+            controlled evidence for psychoactive IV ibogaine is sparse. Ibogaine is not approved for any indication
             for PTSD.
           </p>
 

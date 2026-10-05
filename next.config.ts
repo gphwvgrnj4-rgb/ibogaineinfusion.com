@@ -53,6 +53,26 @@ const nextConfig: NextConfig = {
         destination: "/blog/ibogaine-vs-ayahuasca",
         permanent: true,
       },
+      {
+        source: "/blog/ibogaine-mexico-medical-vs-tourism",
+        destination: "/blog/medical-ibogaine-programs-vs-tourism",
+        permanent: true,
+      },
+      {
+        source: "/blog/ibogaine-mexico-medical-vs-tourism/",
+        destination: "/blog/medical-ibogaine-programs-vs-tourism",
+        permanent: true,
+      },
+      {
+        source: "/blog/ibogaine-fda-ind-explained",
+        destination: "/blog/ibogaine-ind-explained",
+        permanent: true,
+      },
+      {
+        source: "/blog/ibogaine-fda-ind-explained/",
+        destination: "/blog/ibogaine-ind-explained",
+        permanent: true,
+      },
     ];
   },
 };

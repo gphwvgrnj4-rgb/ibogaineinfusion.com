@@ -5,7 +5,7 @@ import { Container } from "@/components/Container";
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description:
-    "Privacy policy for Ibogaine Infusion: application form data (contact and health/substance answers), screening purpose, retention, Mexico partners, and international transfer.",
+    "Privacy policy for Ibogaine Infusion: application form data (contact and health/substance answers), screening purpose, retention, clinical partners, and international transfer.",
 };
 
 export default function PrivacyPage() {
@@ -53,8 +53,7 @@ export default function PrivacyPage() {
           </li>
           <li>
             <strong>Intentions and consent flags</strong> — goals/intentions, consent to contact,
-            accuracy attestation, and acknowledgment of provisional Mexico availability / non–FDA
-            approval / cardiac-risk framing
+            accuracy attestation, and acknowledgment of screening requirements and cardiac-risk framing
           </li>
         </ul>
         <p>
@@ -76,23 +75,21 @@ export default function PrivacyPage() {
           promise treatment outcomes.
         </p>
 
-        <h2>4. Sharing with clinical partners (including Mexico)</h2>
+        <h2>4. Sharing with clinical partners</h2>
         <p>
-          Physician-supervised IV ibogaine infusion programs discussed on this Site are{" "}
-          <strong>provisionally available in Mexico</strong>. If you inquire about care, we may share
-          relevant application information with <strong>clinical partners or medical programs in
-          Mexico</strong> (and their support vendors under contract) for screening and coordination —
-          only as needed for that purpose. We do not sell your personal information.
+          Physician-supervised IV ibogaine infusion programs discussed on this Site share the{" "}
+          <strong>treatment location after screening</strong>. If you inquire about care, we may share
+          relevant application information with <strong>clinical partners or medical programs</strong>{" "}
+          (and their support vendors under contract) for screening and coordination — only as needed
+          for that purpose. We do not sell your personal information.
         </p>
 
         <h2>5. International transfers</h2>
         <p>
-          If you are located outside Mexico (including in the United States or elsewhere),
-          submitting an application may involve <strong>international transfer</strong> of contact
-          and health-related data to partners, processors, or systems in Mexico and/or other
-          countries. Those jurisdictions may have different data-protection laws than your home
-          country. By submitting the form, you acknowledge this transfer may occur for screening and
-          inquiry follow-up.
+          Submitting an application may involve <strong>international transfer</strong> of contact
+          and health-related data to partners, processors, or systems in various countries. Those
+          jurisdictions may have different data-protection laws than your home country. By submitting
+          the form, you acknowledge this transfer may occur for screening and inquiry follow-up.
         </p>
 
         <h2>6. Retention</h2>

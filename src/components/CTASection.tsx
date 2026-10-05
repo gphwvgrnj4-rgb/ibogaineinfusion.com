@@ -3,7 +3,7 @@ import { Container } from "./Container";
 
 export function CTASection({
   title = "Start with a confidential application",
-  body = "Screening comes before any treatment conversation — not after a sales pitch. Supervised IV ibogaine infusion inquiry is available provisionally in Mexico; not a U.S. FDA-approved clinic.",
+  body = "Screening comes before any treatment conversation — not after a sales pitch. Treatment location is shared after screening. Not an approved U.S. clinic.",
 }: {
   title?: string;
   body?: string;

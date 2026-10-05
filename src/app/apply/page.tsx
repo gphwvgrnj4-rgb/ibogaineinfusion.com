@@ -11,7 +11,7 @@ import { siteConfig } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Confidential Application | IV Ibogaine Infusion Screening",
   description:
-    "Start a confidential multi-step application for physician-supervised IV ibogaine infusion screening. Medical intake, readiness review, and discovery — provisionally available in Mexico.",
+    "Start a confidential multi-step application for physician-supervised IV ibogaine infusion screening. Medical intake, readiness review, and discovery — treatment location shared after screening.",
   alternates: { canonical: "/apply" },
 };
 
@@ -34,7 +34,7 @@ const faqs = [
   },
   {
     q: "Where is treatment available?",
-    a: "Physician-supervised IV ibogaine infusion programs discussed on this site are provisionally available in Mexico. This is not an FDA-approved U.S. clinic pathway, not automatic admission, and not a promise of legality, travel clearance, or outcome. Ibogaine is Schedule I in the United States. Screening and cardiac monitoring remain mandatory.",
+    a: "Physician-supervised IV ibogaine infusion programs discussed on this site share the treatment location after screening. This is not an approved U.S. clinic pathway, not automatic admission, and not a promise of legality, travel clearance, or outcome. Ibogaine is Schedule I in the United States. Screening and cardiac monitoring remain mandatory.",
   },
 ];
 
@@ -47,7 +47,7 @@ export default function ApplyPage() {
         name: "Confidential Application | IV Ibogaine Infusion Screening",
         url: `${siteConfig.url}/apply`,
         description:
-          "Start a confidential multi-step application for physician-supervised IV ibogaine infusion screening. Medical intake, readiness review, and discovery — provisionally available in Mexico.",
+          "Start a confidential multi-step application for physician-supervised IV ibogaine infusion screening. Medical intake, readiness review, and discovery — treatment location shared after screening.",
       },
       faqPage(faqs),
       breadcrumbList([
@@ -102,7 +102,7 @@ export default function ApplyPage() {
                 optional trauma detail
               </li>
               <li>
-                <strong className="text-ink">7. Intentions &amp; consent</strong> — goals and Mexico
+                <strong className="text-ink">7. Intentions &amp; consent</strong> — goals and consent
                 provisional acknowledgment
               </li>
             </ol>
@@ -125,7 +125,7 @@ export default function ApplyPage() {
                 • <strong>No cure claims</strong> for addiction, depression, or PTSD.
               </li>
               <li>
-                • <strong>Provisional Mexico.</strong> Not a U.S. FDA-approved clinic; screening required.
+                • <strong>Treatment location shared after screening.</strong> Not an approved U.S. clinic; screening required.
               </li>
             </ul>
 

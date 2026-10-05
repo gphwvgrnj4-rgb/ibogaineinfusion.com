@@ -11,7 +11,7 @@ import { siteConfig } from "@/lib/site";
 export const metadata: Metadata = {
   title: "IV Ibogaine Infusion FAQ: Safety, Legality, Cost, Evidence",
   description:
-    "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, provisional Mexico availability, cost, conditions, and how to apply.",
+    "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, treatment location (shared after screening), cost, conditions, and how to apply.",
   alternates: { canonical: "/faq" },
 };
 
@@ -57,20 +57,20 @@ const faqs = [
     a: "People with significant cardiac disease, baseline prolonged QTc, high-risk medication interactions, unstable psychiatric crises, or other contraindications identified in screening. Final determination belongs to a qualified physician—not a website quiz. /safety-and-screening · /blog/ibogaine-ecg-checklist",
   },
   {
-    q: "Is ibogaine FDA-approved?",
-    a: "No. Ibogaine is not FDA-approved for addiction, depression, PTSD, or any other indication.",
+    q: "Is ibogaine approved for medical use?",
+    a: "No. Ibogaine is not approved for addiction, depression, PTSD, or any other indication.",
   },
   {
     q: "Is ibogaine legal in the United States?",
     a: "Under U.S. federal law, ibogaine is a Schedule I controlled substance. This is not legal advice; jurisdiction and travel questions require qualified counsel. /blog/is-ibogaine-legal-us",
   },
   {
-    q: "Are programs available in Mexico?",
-    a: "Physician-supervised IV ibogaine infusion programs discussed on this site are provisionally available in Mexico. That is not the same as FDA-approved care in the United States. Ibogaine remains Schedule I federally and is not FDA-approved. Foreign availability is not legal advice, not a guarantee you will qualify, and not a prediction of benefit or safety. See /safety-and-screening and /blog/is-ibogaine-legal-us (educational only).",
+    q: "Where is treatment offered?",
+    a: "Physician-supervised IV ibogaine infusion programs discussed on this site share the treatment location after screening. That is not the same as approved care in the United States. Ibogaine remains Schedule I federally and is not approved for any indication. Foreign availability is not legal advice, not a guarantee you will qualify, and not a prediction of benefit or safety. See /safety-and-screening and /blog/is-ibogaine-legal-us (educational only).",
   },
   {
-    q: "What does “provisionally in Mexico” mean?",
-    a: "It means physician-supervised IV ibogaine infusion programs discussed here may be offered in Mexico now, while logistics, staffing, and program details can still evolve. Provisional availability is not U.S. FDA approval, not a guarantee of admission or legality for any traveler, and not a prediction of benefit or safety. A confidential application and medical screening are the correct next steps for current facts.",
+    q: "What does “treatment location shared after screening” mean?",
+    a: "It means physician-supervised IV ibogaine infusion programs discussed here may be offered now, while logistics, staffing, and program details can still evolve. The specific treatment location is shared after screening. That is not U.S. regulatory approval, not a guarantee of admission or legality for any traveler, and not a prediction of benefit or safety. A confidential application and medical screening are the correct next steps for current facts.",
   },
   {
     q: "Does ibogaine cure addiction?",
@@ -90,7 +90,7 @@ const faqs = [
   },
   {
     q: "How much does IV ibogaine infusion cost?",
-    a: "Market-reported (not a quote) medical program totals often span roughly $6,000–$25,000 depending on physician oversight, monitoring, observation length, and inclusions — commonly cash-pay for provisional programs abroad (including Mexico). Insurance usually does not cover. Extremely cheap quotes without cardiac infrastructure are a red flag. /blog/cost-of-ibogaine-treatment · /blog/ibogaine-treatment-package · /blog/cheap-ibogaine-clinic-red-flags",
+    a: "Market-reported (not a quote) medical program totals often span roughly $6,000–$25,000 depending on physician oversight, monitoring, observation length, and inclusions — commonly cash-pay for provisional programs abroad. Insurance usually does not cover. Extremely cheap quotes without cardiac infrastructure are a red flag. /blog/cost-of-ibogaine-treatment · /blog/ibogaine-treatment-package · /blog/cheap-ibogaine-clinic-red-flags",
   },
   {
     q: "How do I choose a clinic?",
@@ -110,7 +110,7 @@ export default function FaqPage() {
         "@type": "MedicalWebPage",
         name: "IV Ibogaine Infusion FAQ",
         url: `${siteConfig.url}/faq`,
-        description: "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, provisional Mexico availability, cost, conditions, and how to apply.",
+        description: "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, treatment location (shared after screening), cost, conditions, and how to apply.",
       },
       faqPage(faqs),
       breadcrumbList([
@@ -131,7 +131,7 @@ export default function FaqPage() {
           <p className="mt-4 text-lg leading-relaxed text-ink/75">
             Direct answers on <strong className="text-ink">intravenous psychoactive ibogaine</strong> under
             physician supervision: definition, oral-evidence gap, cardiac screening, legality, provisional
-            Mexico availability, cost, and limits — clarity over hype.
+            availability, cost, and limits — clarity over hype.
           </p>
           <Disclaimer className="mt-8" />
           <JurisdictionNote variant="card" context="home" className="mt-6" />

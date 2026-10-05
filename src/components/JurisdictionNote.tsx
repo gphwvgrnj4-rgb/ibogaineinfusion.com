@@ -3,11 +3,11 @@ import Link from "next/link";
 const blurbs = {
   home: (
     <>
-      Physician-supervised IV ibogaine infusion programs discussed on this site are{" "}
-      <strong className="font-semibold text-forest">provisionally available in Mexico</strong>{" "}
-      (not an FDA-approved U.S. clinic treatment). Ibogaine remains{" "}
+      Physician-supervised IV ibogaine infusion programs discussed on this site share the{" "}
+      <strong className="font-semibold text-forest">treatment location after screening</strong>{" "}
+      (not an approved U.S. clinic treatment). Ibogaine remains{" "}
       <strong className="font-semibold text-forest">Schedule I</strong> in the United States and is{" "}
-      <strong className="font-semibold text-forest">not FDA-approved</strong> for any indication.
+      <strong className="font-semibold text-forest">not approved for any indication</strong>.
       Availability abroad is not a guarantee of suitability, legality for any individual, or clinical
       outcome. Cardiac screening and continuous monitoring remain essential. This is educational
       information, not legal or medical advice.
@@ -15,9 +15,9 @@ const blurbs = {
   ),
   safety: (
     <>
-      Programs discussed here for physician-supervised IV ibogaine infusion are{" "}
-      <strong className="font-semibold text-forest">provisionally offered in Mexico</strong>, not as
-      an FDA-approved U.S. treatment. Traveling for care does{" "}
+      Programs discussed here for physician-supervised IV ibogaine infusion share the{" "}
+      <strong className="font-semibold text-forest">treatment location after screening</strong>, and
+      are not an approved U.S. treatment. Traveling for care does{" "}
       <strong className="font-semibold text-forest">not</strong> reduce QTc / arrhythmia risk and does{" "}
       <strong className="font-semibold text-forest">not</strong> replace pre-infusion ECG,
       electrolytes, medication review, continuous telemetry, or emergency preparedness. Ibogaine is{" "}
@@ -30,10 +30,10 @@ const blurbs = {
     <>
       Submitting this form requests a{" "}
       <strong className="font-semibold text-forest">confidential screening conversation</strong>{" "}
-      about physician-supervised IV ibogaine infusion programs that are{" "}
-      <strong className="font-semibold text-forest">provisionally available in Mexico</strong>. This
-      is <strong className="font-semibold text-forest">not</strong> an FDA-approved U.S. clinic
-      pathway, <strong className="font-semibold text-forest">not</strong> automatic admission, and{" "}
+      about physician-supervised IV ibogaine infusion programs. Treatment location is{" "}
+      <strong className="font-semibold text-forest">shared after screening</strong>. This is{" "}
+      <strong className="font-semibold text-forest">not</strong> an approved U.S. clinic pathway,{" "}
+      <strong className="font-semibold text-forest">not</strong> automatic admission, and{" "}
       <strong className="font-semibold text-forest">not</strong> a promise of legality, travel
       clearance, or outcome. Ibogaine is <strong className="font-semibold text-forest">Schedule I</strong>{" "}
       in the United States. Screening and cardiac monitoring remain mandatory before any treatment
@@ -42,11 +42,11 @@ const blurbs = {
   ),
   generic: (
     <>
-      Physician-supervised IV ibogaine infusion programs discussed on this site are{" "}
-      <strong className="font-semibold text-forest">provisionally available in Mexico</strong> — not
-      an FDA-approved U.S. clinic treatment. Ibogaine is Schedule I in the U.S. and not FDA-approved.
-      Availability abroad is not a guarantee of suitability, legality, or outcome. Educational only;
-      not legal or medical advice.
+      Physician-supervised IV ibogaine infusion programs discussed on this site share the{" "}
+      <strong className="font-semibold text-forest">treatment location after screening</strong> — not
+      an approved U.S. clinic treatment. Ibogaine is Schedule I in the U.S. and not approved for any
+      indication. Availability abroad is not a guarantee of suitability, legality, or outcome.
+      Educational only; not legal or medical advice.
     </>
   ),
 } as const;

@@ -48,8 +48,6 @@ export async function POST(request: Request) {
     asBool(consent.consentToContact) ||
     asBool(body.consentToContact);
   const medicalAccuracy = asBool(consent.medicalAccuracy) || asBool(body.medicalAccuracy);
-  const mexicoAcknowledgment =
-    asBool(consent.mexicoAcknowledgment) || asBool(body.mexicoAcknowledgment);
 
   // Support legacy thin inquiry (name/email/phone/consent) and rich application
   const isRich = body.type === "application" || Boolean(body.interest || body.generalHealth);
@@ -66,12 +64,12 @@ export async function POST(request: Request) {
   }
 
   if (isRich) {
-    if (!consentToContact || !medicalAccuracy || !mexicoAcknowledgment) {
+    if (!consentToContact || !medicalAccuracy) {
       return NextResponse.json(
         {
           ok: false,
           error:
-            "Consent to contact, medical accuracy attestation, and Mexico provisional acknowledgment are required.",
+            "Consent to contact and medical accuracy attestation are required.",
         },
         { status: 400 },
       );
@@ -112,7 +110,6 @@ export async function POST(request: Request) {
     consent: {
       consentToContact,
       medicalAccuracy: isRich ? medicalAccuracy : true,
-      mexicoAcknowledgment: isRich ? mexicoAcknowledgment : false,
     },
     // Legacy thin message field
     message: asString(body.message),
@@ -139,6 +136,8 @@ export async function POST(request: Request) {
         headers: {
           "Content-Type": "application/json",
           Accept: "application/json",
+          Origin: "https://www.ibogaineinfusion.com",
+          Referer: "https://www.ibogaineinfusion.com/apply",
         },
         body: JSON.stringify({
           ...payload,
@@ -147,7 +146,20 @@ export async function POST(request: Request) {
           _replyto: payload.email,
         }),
       });
-      if (!res.ok) {
+      let webhookBody: unknown = null;
+      try {
+        webhookBody = await res.json();
+      } catch {
+        webhookBody = null;
+      }
+      const successField =
+        webhookBody && typeof webhookBody === "object"
+          ? (webhookBody as Record<string, unknown>).success
+          : undefined;
+      const successOk = successField === true || successField === "true";
+      // FormSubmit ajax returns JSON {success:"true"}; other webhooks may omit success.
+      const isFormSubmit = webhook.includes("formsubmit.co");
+      if (!res.ok || (isFormSubmit && !successOk)) {
         return NextResponse.json(
           { ok: false, error: "Webhook rejected the submission." },
           { status: 502 },

@@ -17,11 +17,11 @@ export const blogPosts: BlogPost[] = [
     readTime: "15 min",
     content: `## Definition box
 
-**Definition:** **IV ibogaine infusion** (also called **intravenous ibogaine**) is the **psychoactive delivery of ibogaine by intravenous infusion** under physician supervision in a medical infusion setting. The patient journey parallels ketamine infusion clinics: **consult → cardiac screening → monitored infusion → integration**. Continuous ECG/telemetry and emergency preparedness are non-negotiable because ibogaine can prolong the QTc interval. **Evidence gap:** Most published clinical literature—including Stanford-affiliated MISTIC / Cherian et al., *Nature Medicine* 2024—describes **oral** ibogaine HCl, often with **IV magnesium sulfate** or other IV support for cardiac risk mitigation, **not** IV ibogaine as the psychoactive dose. Controlled evidence for psychoactive IV ibogaine remains **sparse** compared with oral observational series. Ibogaine is a U.S. Schedule I substance and is not FDA-approved for any indication.
+**Definition:** **IV ibogaine infusion** (also called **intravenous ibogaine**) is the **psychoactive delivery of ibogaine by intravenous infusion** under physician supervision in a medical infusion setting. The patient journey parallels ketamine infusion clinics: **consult → cardiac screening → monitored infusion → integration**. Continuous ECG/telemetry and emergency preparedness are non-negotiable because ibogaine can prolong the QTc interval. **Evidence gap:** Most published clinical literature—including Stanford-affiliated MISTIC / Cherian et al., *Nature Medicine* 2024—describes **oral** ibogaine HCl, often with **IV magnesium sulfate** or other IV support for cardiac risk mitigation, **not** IV ibogaine as the psychoactive dose. Controlled evidence for psychoactive IV ibogaine remains **sparse** compared with oral observational series. Ibogaine is a U.S. Schedule I substance and is not approved for any indication.
 
 ## Quotable answer (58 words)
 
-IV ibogaine infusion is intravenous delivery of ibogaine as a psychoactive treatment under physician supervision in a medical infusion setting with continuous cardiac monitoring, because ibogaine can prolong the QTc interval. Much published clinical research still reflects oral ibogaine HCl (often with IV magnesium support), so controlled evidence for IV psychoactive ibogaine is thinner. It is not FDA-approved.
+IV ibogaine infusion is intravenous delivery of ibogaine as a psychoactive treatment under physician supervision in a medical infusion setting with continuous cardiac monitoring, because ibogaine can prolong the QTc interval. Much published clinical research still reflects oral ibogaine HCl (often with IV magnesium support), so controlled evidence for IV psychoactive ibogaine is thinner. It is not approved for any indication.
 
 ## Why this definition matters
 
@@ -76,7 +76,7 @@ In many clinics and in landmark papers, an IV line is used for:
 
 ## What a medical infusion setting should include
 
-Borrowing patient-friendly infusion-medicine structure (without implying FDA approval):
+Borrowing patient-friendly infusion-medicine structure (without implying regulatory approval):
 
 1. **Pre-qualification** — substance-use history, psychiatric status, QT-prolonging medications, cardiac risk factors  
 2. **Diagnostics** — ECG/EKG, electrolytes, liver/kidney as indicated  
@@ -90,8 +90,8 @@ Luxury positioning only earns trust when items 2–5 are non-negotiable. A nicer
 
 ## Legal and regulatory snapshot (not legal advice)
 
-- **United States:** Ibogaine is **Schedule I** under federal controlled substances law (21 CFR 1308.11). It is **not FDA-approved** for detoxification, depression, PTSD, or any other indication.  
-- **Many programs operate outside the U.S.** (commonly discussed regarding Mexico and other jurisdictions). “Available abroad” ≠ “approved medicine” or “uniform specialty regulation.”  
+- **United States:** Ibogaine is **Schedule I** under federal controlled substances law (21 CFR 1308.11). It is **not approved for any indication** for detoxification, depression, PTSD, or any other indication.  
+- **Many programs operate outside the U.S.** (commonly discussed regarding various jurisdictions). “Available abroad” ≠ “approved medicine” or “uniform specialty regulation.”  
 - Travel for treatment raises separate legal, medical, and logistical issues; this article does not provide legal advice.
 
 For cost and program tiers, see /blog/cost-of-ibogaine-treatment.
@@ -119,7 +119,7 @@ Those findings are **oral-route evidence**. They still inform why **any** medica
 | Psychoactive route | Intravenous ibogaine | Often IV (or clinic protocols) | Oral brew |
 | Evidence maturity | Sparse controlled IV data; oral observational more common | Broader clinic/research infrastructure for some indications | Variable; ceremonial + emerging clinical |
 | Dominant medical risk narrative | QTc / arrhythmia | Dissociation, BP/HR, rare psychiatric AEs | MAOI interactions, variable oversight |
-| U.S. legal status | Schedule I; not FDA-approved | Approved anesthetic; clinic depression protocols exist | Complex; not a substitute medical product |
+| U.S. legal status | Schedule I; not approved for any indication | Approved anesthetic; clinic depression protocols exist | Complex; not a substitute medical product |
 
 Deep dives: /blog/ibogaine-vs-ketamine-for-addiction, /blog/ibogaine-vs-ayahuasca.
 
@@ -149,8 +149,8 @@ Yes. Landmark examples include Knuijver et al. (*Addiction*, 2021; oral HCl, QTc
 ### What is the difference between support IV and psychoactive IV?
 Support IV = fluids, electrolytes (e.g., magnesium), antiemetics, emergency meds. Psychoactive IV = ibogaine itself infused intravenously. Do not conflate them.
 
-### Is ibogaine FDA-approved?
-No. It is not FDA-approved for any indication and is Schedule I in the United States.
+### Is ibogaine approved for medical use?
+No. It is not approved for any indication and is Schedule I in the United States.
 
 ### Is ibogaine safe?
 Ibogaine carries meaningful cardiac risk (QTc prolongation / arrhythmia potential). Medical screening and continuous monitoring are essential. Unsupervised use is dangerous. See /safety-and-screening.
@@ -166,7 +166,7 @@ People with significant cardiac disease, baseline prolonged QTc, certain medicat
 
 ## Medical disclaimer
 
-This article is educational and does not constitute medical advice, diagnosis, treatment, or legal advice. Ibogaine is not FDA-approved and carries serious risks, including cardiac arrhythmia. Discuss any treatment decisions with licensed clinicians. Do not attempt self-administration.
+This article is educational and does not constitute medical advice, diagnosis, treatment, or legal advice. Ibogaine is not approved for any indication and carries serious risks, including cardiac arrhythmia. Discuss any treatment decisions with licensed clinicians. Do not attempt self-administration.
 
 ## Sources (selected)
 
@@ -188,7 +188,7 @@ This article is educational and does not constitute medical advice, diagnosis, t
 
 ## Quotable answer (55 words)
 
-IV ibogaine infusion and ketamine infusion can share a supervised IV clinic journey, but they are not the same therapy. Ibogaine is U.S. Schedule I, not FDA-approved, with notable QTc risk; much published ibogaine research is still oral. Ketamine has approved anesthetic uses and broader depression-clinic infrastructure. Evidence, legality, duration, and cardiac risk diverge.
+IV ibogaine infusion and ketamine infusion can share a supervised IV clinic journey, but they are not the same therapy. Ibogaine is U.S. Schedule I, not approved for any indication, with notable QTc risk; much published ibogaine research is still oral. Ketamine has approved anesthetic uses and broader depression-clinic infrastructure. Evidence, legality, duration, and cardiac risk diverge.
 
 ## Why people compare them
 
@@ -201,7 +201,7 @@ Entity hub: /what-is-ibogaine-infusion.
 | Axis | Ketamine infusion pathways | IV ibogaine infusion (this entity) |
 |------|----------------------------|-------------------------------------|
 | Typical psychoactive route | IV / IM / oral / nasal (protocol-dependent); esketamine supervised nasal | **Intravenous ibogaine** |
-| U.S. legal / regulatory | Approved anesthetic; esketamine has labeled depression pathway | Schedule I; not FDA-approved |
+| U.S. legal / regulatory | Approved anesthetic; esketamine has labeled depression pathway | Schedule I; not approved for any indication |
 | Evidence maturity | Broader clinical infrastructure for some mood indications | Limited; oral observational more common than IV RCTs |
 | Session length | Often shorter outpatient visits in a series | Prolonged observation windows typical |
 | Dominant risk narrative | Dissociation, BP/HR changes, rare psych AEs | **QTc prolongation / arrhythmia** |
@@ -221,7 +221,7 @@ Entity hub: /what-is-ibogaine-infusion.
 **Not appropriate to copy blindly:**
 
 - Staffing ratios sized for short ketamine drips into a multi-hour ibogaine risk window  
-- Marketing tone that implies FDA-like legitimacy for ibogaine  
+- Marketing tone that implies regulator-like legitimacy for ibogaine  
 - Assuming oral ibogaine papers validate IV ibogaine outcomes  
 
 ## Mechanism and experience (high level)
@@ -302,7 +302,7 @@ Ketamine/esketamine pathways are more developed clinically. Ibogaine depression 
 ### Which has higher cardiac QTc concern in this comparison?
 Ibogaine’s QTc narrative is a primary differentiator.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No.
 
 ### Can I switch from a ketamine clinic to ibogaine easily?
@@ -338,7 +338,7 @@ Educational comparison only—not medical advice. Neither this page nor ketamine
 
 ## Quotable answer (58 words)
 
-IV ibogaine infusion requires rigorous cardiac screening because ibogaine can prolong QTc and increase torsades risk. Open-label research documented clinically relevant QTc prolongation after oral ibogaine HCl; controlled evidence for psychoactive IV ibogaine remains sparse. Continuous monitoring, electrolyte optimization, and medication review are essential. Ibogaine is not FDA-approved; unsupervised use is dangerous.
+IV ibogaine infusion requires rigorous cardiac screening because ibogaine can prolong QTc and increase torsades risk. Open-label research documented clinically relevant QTc prolongation after oral ibogaine HCl; controlled evidence for psychoactive IV ibogaine remains sparse. Continuous monitoring, electrolyte optimization, and medication review are essential. Ibogaine is not approved for any indication; unsupervised use is dangerous.
 
 ## The risk you cannot market away
 
@@ -474,7 +474,7 @@ Open-label oral ibogaine with IV magnesium in veterans—not an IV-psychoactive 
 ### Who should not take ibogaine?
 People with significant cardiac contraindications or other exclusions identified in screening—final call by a physician.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I in the U.S.
 
 ### Can ataxia be severe?
@@ -503,11 +503,11 @@ Educational only—not medical advice. Ibogaine can cause fatal arrhythmias. See
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine infusion cost** means the all-in price of **IV ibogaine infusion** programs—**intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting (consult → screen → monitored infusion → integration). Prices usually cover multi-day lodging, medical staffing, documented IV psychoactive administration, support IV as needed (fluids/electrolytes/antiemetics), and continuous cardiac monitoring—not a simple “drug fee.” **Evidence/context note:** Published clinical literature is still largely **oral**-route; cost pages must not invent “IV clinical trial packages.” Ibogaine is not FDA-approved; U.S. insurance rarely covers it. **Market-reported / not a quote:** consumer-discussed medical totals commonly span roughly **$6,000–$25,000**, often as **cash-pay** for provisional programs abroad (including Mexico). This is educational context — not an invoice, guarantee, or U.S. billing estimate.
+**Definition:** **Ibogaine infusion cost** means the all-in price of **IV ibogaine infusion** programs—**intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting (consult → screen → monitored infusion → integration). Prices usually cover multi-day lodging, medical staffing, documented IV psychoactive administration, support IV as needed (fluids/electrolytes/antiemetics), and continuous cardiac monitoring—not a simple “drug fee.” **Evidence/context note:** Published clinical literature is still largely **oral**-route; cost pages must not invent “IV clinical trial packages.” Ibogaine is not approved for any indication; U.S. insurance rarely covers it. **Market-reported / not a quote:** consumer-discussed medical totals commonly span roughly **$6,000–$25,000**, often as **cash-pay** for provisional programs abroad. This is educational context — not an invoice, guarantee, or U.S. billing estimate.
 
 ## Quotable answer (52 words)
 
-Market-reported (not a quote) IV ibogaine infusion totals often span about $6,000–$25,000 for medical programs that include physician supervision, cardiac screening, continuous monitoring, and multi-day care — commonly cash-pay for provisional Mexico / abroad pathways, not U.S. insurance billing. Insurance usually does not cover it. Lower prices that skip telemetry or blur oral versus IV dosing are a safety red flag.
+Market-reported (not a quote) IV ibogaine infusion totals often span about $6,000–$25,000 for medical programs that include physician supervision, cardiac screening, continuous monitoring, and multi-day care — commonly cash-pay for abroad pathways, not U.S. insurance billing. Insurance usually does not cover it. Lower prices that skip telemetry or blur oral versus IV dosing are a safety red flag.
 
 ## Why prices vary
 
@@ -530,7 +530,7 @@ Luxury rooms without monitoring are not a medical bargain.
 | Mid medical | ~$6k–$15k | Physician oversight, telemetry, labs, clear inclusions |
 | Premium medical | ~$15k–$25k+ | Higher staffing ratios, longer observation, structured aftercare |
 
-Ranges are **market-reported aggregates / not a quote** — not a single study, guaranteed invoice, or U.S. payer rate. Provisional Mexico cash-pay context does not imply FDA-approved U.S. clinic pricing.
+Ranges are **market-reported aggregates / not a quote** — not a single study, guaranteed invoice, or U.S. payer rate. cash-pay abroad context does not imply approved U.S. clinic pricing.
 
 ## Good-cost checklist (ask in writing)
 
@@ -557,7 +557,7 @@ Entity clarity: /what-is-ibogaine-infusion. Safety: /safety-and-screening.
 
 ## Insurance reality
 
-Because ibogaine is not FDA-approved and is Schedule I in the U.S., **commercial insurance usually does not cover** elective ibogaine programs abroad. Do not assume “out-of-network infusion” coding will work. HSAs/FSAs and medical loans vary; verify with your administrator—this is not billing advice.
+Because ibogaine is not approved for any indication and is Schedule I in the U.S., **commercial insurance usually does not cover** elective ibogaine programs abroad. Do not assume “out-of-network infusion” coding will work. HSAs/FSAs and medical loans vary; verify with your administrator—this is not billing advice.
 
 ## Cheap-clinic red flags
 
@@ -649,7 +649,7 @@ Market-reported medical programs often total about $6,000–$25,000, depending o
 Physician supervision, continuous cardiac monitoring, multi-day observation, and emergency readiness drive cost.
 
 ### Does insurance cover ibogaine?
-Usually no in the U.S., given Schedule I status and lack of FDA approval. Not billing advice.
+Usually no in the U.S., given Schedule I status and lack of regulatory approval. Not billing advice.
 
 ### Are cheaper clinics safe if they still offer an “IV”?
 Ask whether IV means psychoactive ibogaine or only support fluids. Missing telemetry is a red flag regardless of price.
@@ -671,7 +671,7 @@ No. Cherian 2024 and similar papers are research contexts (often oral+support IV
 
 ## Medical disclaimer
 
-Educational pricing overview only—not an offer, invoice, or medical advice. Ibogaine is not FDA-approved and carries serious cardiac risk. Verify all clinical and financial terms directly with licensed providers.
+Educational pricing overview only—not an offer, invoice, or medical advice. Ibogaine is not approved for any indication and carries serious cardiac risk. Verify all clinical and financial terms directly with licensed providers.
 
 ## Sources / basis notes
 
@@ -689,7 +689,7 @@ Educational pricing overview only—not an offer, invoice, or medical advice. Ib
     readTime: "15 min",
     content: `## Definition box
 
-**Definition:** **How to choose an ibogaine clinic** means vetting whether a program offers **true psychoactive IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision (consult → cardiac screen → monitored IV infusion → integration)—or oral dosing with only support IV (fluids, magnesium, antiemetics). Demand written **route clarity**, continuous ECG/telemetry, and emergency preparedness because ibogaine can prolong the QTc interval. **Evidence gap:** Most published clinical literature (Cherian/MISTIC, *Nature Medicine* 2024; Knuijver, *Addiction* 2021) describes **oral** ibogaine HCl (± IV magnesium/support)—not proof of IV psychoactive ibogaine. Ibogaine is U.S. Schedule I and not FDA-approved. “Best clinic” equals medical rigor and honesty, not spa aesthetics or cure claims.
+**Definition:** **How to choose an ibogaine clinic** means vetting whether a program offers **true psychoactive IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision (consult → cardiac screen → monitored IV infusion → integration)—or oral dosing with only support IV (fluids, magnesium, antiemetics). Demand written **route clarity**, continuous ECG/telemetry, and emergency preparedness because ibogaine can prolong the QTc interval. **Evidence gap:** Most published clinical literature (Cherian/MISTIC, *Nature Medicine* 2024; Knuijver, *Addiction* 2021) describes **oral** ibogaine HCl (± IV magnesium/support)—not proof of IV psychoactive ibogaine. Ibogaine is U.S. Schedule I and not approved for any indication. “Best clinic” equals medical rigor and honesty, not spa aesthetics or cure claims.
 
 ## Quotable answer (57 words)
 
@@ -730,7 +730,7 @@ Use this as the centerpiece. Ask every vendor—in writing—before deposit. Sco
 | 10 | **Evidence honesty** | Distinguishes oral lit vs their IV (or oral) protocol; no fake IV RCTs | “Clinically proven IV cure” |
 | 11 | **Cost transparency** | Itemized inclusions; screening fail / medical-cancel policy | “Contact for price” only |
 | 12 | **Integration / aftercare** | Written integration hours + home-country follow-up expectations | Dose day only; no aftercare plan |
-| 13 | **Consent & contraindications** | Written risks (QTc, ataxia, prolonged intensity); Schedule I / not FDA-approved disclosed | Guarantees; pressure to book tonight |
+| 13 | **Consent & contraindications** | Written risks (QTc, ataxia, prolonged intensity); Schedule I / not approved for any indication disclosed | Guarantees; pressure to book tonight |
 | 14 | **No ceremony substitution** | Medical infusion framing if they sell medical care | Ayahuasca-style ceremony sold as ibogaine medical care without monitoring |
 
 Print this table. If a sales call cannot answer points **1, 3, 4, 5, and 11** in email, do not send a deposit. Journey shape to expect: /how-it-works.
@@ -789,7 +789,7 @@ Opaque pricing correlates with opaque medicine. Before comparing “best clinic�
 - Ask for **inclusions**, not a single number.  
 - Confirm whether quotes assume **IV psychoactive** or oral + support IV—different staffing stories.  
 - Budget for travel, companion stay, extended observation, and post-care therapy separately.  
-- U.S. insurance rarely covers ibogaine; Schedule I / not FDA-approved status matters for reimbursement expectations.
+- U.S. insurance rarely covers ibogaine; Schedule I / not approved for any indication status matters for reimbursement expectations.
 
 Deep dive: /blog/cost-of-ibogaine-treatment. FAQ hub: /faq.
 
@@ -840,12 +840,12 @@ Different chemistry, risk pathways, and setting norms. Do not accept a ceremony 
 ### How does this compare to choosing a ketamine clinic?
 Ketamine clinics often share consult → infusion → integration UX, but legality, evidence base, session design, and cardiac risk diverge (/blog/ibogaine-vs-ketamine-for-addiction).
 
-### Is ibogaine FDA-approved or covered by U.S. insurance?
-Ibogaine is **Schedule I** in the United States and **not FDA-approved** for addiction, depression, PTSD, or any indication. Insurance coverage is typically not available; confirm locally with clinicians and payers.
+### Is ibogaine approved for medical use or covered by U.S. insurance?
+Ibogaine is **Schedule I** in the United States and **not approved for any indication** for addiction, depression, PTSD, or any indication. Insurance coverage is typically not available; confirm locally with clinicians and payers.
 
 ## Medical disclaimer
 
-Educational vetting guide only—not medical, legal, or travel advice, and not a ranking of named clinics. Ibogaine carries serious cardiac and neurological risks. It is not FDA-approved. Do not self-administer. Consult licensed clinicians; complete medical screening before any program. Soft next steps for this site: /safety-and-screening and /apply.
+Educational vetting guide only—not medical, legal, or travel advice, and not a ranking of named clinics. Ibogaine carries serious cardiac and neurological risks. It is not approved for any indication. Do not self-administer. Consult licensed clinicians; complete medical screening before any program. Soft next steps for this site: /safety-and-screening and /apply.
 
 ## Sources (selected)
 
@@ -863,11 +863,11 @@ Educational vetting guide only—not medical, legal, or travel advice, and not a
     readTime: "12 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine vs ayahuasca** contrasts two powerful, non-interchangeable experiences. **IV ibogaine infusion** is **intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting (consult → cardiac screen → monitored IV infusion → integration), with continuous cardiac monitoring because ibogaine can prolong the QTc interval. **Ayahuasca** is a traditional Amazonian brew combining DMT-containing plants with MAO-inhibiting *Banisteriopsis caapi*, usually taken orally in ceremonial contexts. **Evidence note:** Much published ibogaine clinical literature remains **oral** observational (often with support IV such as magnesium)—including Cherian/MISTIC, *Nature Medicine* 2024, and Knuijver, *Addiction* 2021—not proof of IV psychoactive ibogaine. Do not blur ceremony tourism with medical IV protocols. Different chemistry, different dominant risk pathways, different evidence stories. Neither is FDA-approved for these indications.
+**Definition:** **Ibogaine vs ayahuasca** contrasts two powerful, non-interchangeable experiences. **IV ibogaine infusion** is **intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting (consult → cardiac screen → monitored IV infusion → integration), with continuous cardiac monitoring because ibogaine can prolong the QTc interval. **Ayahuasca** is a traditional Amazonian brew combining DMT-containing plants with MAO-inhibiting *Banisteriopsis caapi*, usually taken orally in ceremonial contexts. **Evidence note:** Much published ibogaine clinical literature remains **oral** observational (often with support IV such as magnesium)—including Cherian/MISTIC, *Nature Medicine* 2024, and Knuijver, *Addiction* 2021—not proof of IV psychoactive ibogaine. Do not blur ceremony tourism with medical IV protocols. Different chemistry, different dominant risk pathways, different evidence stories. Neither is approved for these indications.
 
 ## Quotable answer (54 words)
 
-IV ibogaine infusion and ayahuasca are not substitutes. Ibogaine programs emphasize physician supervision and cardiac monitoring because ibogaine can prolong QTc; much published ibogaine research remains oral. Ayahuasca’s notable risks include MAOI dietary/drug interactions and variable ceremony oversight. Neither is FDA-approved. Choose based on indication, safety infrastructure, and clinical advice—not aesthetics.
+IV ibogaine infusion and ayahuasca are not substitutes. Ibogaine programs emphasize physician supervision and cardiac monitoring because ibogaine can prolong QTc; much published ibogaine research remains oral. Ayahuasca’s notable risks include MAOI dietary/drug interactions and variable ceremony oversight. Neither is approved for any indication. Choose based on indication, safety infrastructure, and clinical advice—not aesthetics.
 
 ## Traveler mistakes this page prevents
 
@@ -906,12 +906,12 @@ Definition hub (up-link): /what-is-ibogaine-infusion. Safety home: /safety-and-s
 | Published evidence landscape | Limited; much human ibogaine data still **oral** observational | Growing research interest; heterogeneous real-world practice |
 | Dominant medical risk themes | QTc / arrhythmia; ataxia; prolonged intensity | MAOI interactions; psychological crisis; variable medical backup |
 | Addiction-detox observational history | Stronger historical association with opioid interrupt narratives (mostly oral lit) | Different tradition; not a drop-in OUD medical protocol |
-| FDA approval | Not approved; Schedule I (US) | Not an FDA-approved drug product in this framing |
+| regulatory approval | Not approved; Schedule I (US) | Not an approved drug product in this framing |
 | “Luxury” that matters | Telemetry, ACLS readiness, electrolytes, MD presence | Facilitator training, consent culture, medical backup—not décor alone |
 
 ## Addiction narratives
 
-Ibogaine’s public medical conversation skews toward **opioid withdrawal interruption** in observational literature (mostly oral-route studies)—still not FDA-approved, still cardiac-risky, still RCT-limited (/ibogaine-for-addiction). Ayahuasca tourism sometimes markets “healing addiction” without medical detox infrastructure. Neither replaces evidence-based OUD care. Soft diligence path: /apply after /safety-and-screening.
+Ibogaine’s public medical conversation skews toward **opioid withdrawal interruption** in observational literature (mostly oral-route studies)—still not approved for any indication, still cardiac-risky, still RCT-limited (/ibogaine-for-addiction). Ayahuasca tourism sometimes markets “healing addiction” without medical detox infrastructure. Neither replaces evidence-based OUD care. Soft diligence path: /apply after /safety-and-screening.
 
 ## Trauma, spirituality, and medical boundaries
 
@@ -993,7 +993,7 @@ No. Different chemistry, settings, risk pathways, and evidence stories. IV iboga
 Not as a standard ceremonial practice. For this brand, IV refers to psychoactive ibogaine infusion under medical supervision—not ceremony aesthetics.
 
 ### Which is better for opioid detox?
-Neither is FDA-approved. Ibogaine has more observational addiction-detox literature (mostly **oral**); that still does not make it a proven cure or automatic IV proof (/ibogaine-for-addiction).
+Neither is approved for any indication. Ibogaine has more observational addiction-detox literature (mostly **oral**); that still does not make it a proven cure or automatic IV proof (/ibogaine-for-addiction).
 
 ### Which has MAOI diet rules?
 Ayahuasca (MAOI component). Ibogaine’s headline medical risk education centers on QTc/cardiac monitoring (/safety-and-screening).
@@ -1004,7 +1004,7 @@ Ibogaine. Continuous ECG/telemetry is a non-negotiable theme for medical protoco
 ### Did Nature Medicine prove ceremonial or IV ibogaine for PTSD?
 No. Cherian et al. 2024 is open-label **oral** ibogaine with **IV magnesium** in veterans—not ceremony proof and not an IV-psychoactive RCT.
 
-### Is either FDA-approved?
+### Is either approved for medical use?
 Not in the sense discussed here for these indications. Ibogaine is U.S. Schedule I.
 
 ### What shared diligence questions apply?
@@ -1012,7 +1012,7 @@ Screening, emergency plan, facilitator/physician credentials, consent, aftercare
 
 ## Medical disclaimer
 
-Educational comparison only—not medical, legal, or travel advice. Both domains involve serious risks. Ibogaine is not FDA-approved and can prolong QTc. Consult licensed clinicians; do not self-experiment. Soft next steps: /safety-and-screening · /apply.
+Educational comparison only—not medical, legal, or travel advice. Both domains involve serious risks. Ibogaine is not approved for any indication and can prolong QTc. Consult licensed clinicians; do not self-experiment. Soft next steps: /safety-and-screening · /apply.
 
 ## Sources (selected)
 
@@ -1030,11 +1030,11 @@ Educational comparison only—not medical, legal, or travel advice. Both domains
     readTime: "12 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine oral vs IV** compares two different things people often conflate: (1) **oral ibogaine HCl**, the route used in most published clinical observational literature (sometimes with **IV magnesium** or other **support IV**), and (2) **IV ibogaine infusion**—**psychoactive intravenous delivery of ibogaine** under physician supervision in a medical infusion setting (consult → cardiac screening → monitored infusion → integration). Ibogaine can prolong the QTc interval, so continuous cardiac monitoring matters for either exposure pathway. **Evidence gap:** Landmark papers such as Cherian et al., *Nature Medicine* 2024 (oral ibogaine + IV magnesium) and Knuijver et al., *Addiction* 2021 (oral HCl) do **not** prove safety or efficacy of psychoactive IV ibogaine. Controlled IV-psychoactive evidence remains sparse. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Ibogaine oral vs IV** compares two different things people often conflate: (1) **oral ibogaine HCl**, the route used in most published clinical observational literature (sometimes with **IV magnesium** or other **support IV**), and (2) **IV ibogaine infusion**—**psychoactive intravenous delivery of ibogaine** under physician supervision in a medical infusion setting (consult → cardiac screening → monitored infusion → integration). Ibogaine can prolong the QTc interval, so continuous cardiac monitoring matters for either exposure pathway. **Evidence gap:** Landmark papers such as Cherian et al., *Nature Medicine* 2024 (oral ibogaine + IV magnesium) and Knuijver et al., *Addiction* 2021 (oral HCl) do **not** prove safety or efficacy of psychoactive IV ibogaine. Controlled IV-psychoactive evidence remains sparse. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (56 words)
 
-Ibogaine oral vs IV is primarily an evidence-and-protocol distinction: most published clinical series use oral ibogaine HCl, often with support IV such as magnesium, while IV ibogaine infusion means the psychoactive dose itself is given intravenously under physician supervision with continuous cardiac monitoring. Oral study results are not automatic proof of IV psychoactive outcomes. It is not FDA-approved.
+Ibogaine oral vs IV is primarily an evidence-and-protocol distinction: most published clinical series use oral ibogaine HCl, often with support IV such as magnesium, while IV ibogaine infusion means the psychoactive dose itself is given intravenously under physician supervision with continuous cardiac monitoring. Oral study results are not automatic proof of IV psychoactive outcomes. It is not approved for any indication.
 
 ## Why “oral vs IV” dominates search—and why it is easy to get wrong
 
@@ -1109,7 +1109,7 @@ Ibogaine’s association with **QTc prolongation** and arrhythmia risk is a reas
 
 ## Legal snapshot (not legal advice)
 
-In the United States, ibogaine is **Schedule I** (21 CFR 1308.11) and **not FDA-approved** for addiction, depression, PTSD, or any indication. Route (oral vs IV) does not change that federal scheduling fact. Programs discussed online often operate outside the U.S.; availability abroad is not approval. See /blog/is-ibogaine-legal-us.
+In the United States, ibogaine is **Schedule I** (21 CFR 1308.11) and **not approved for any indication** for addiction, depression, PTSD, or any indication. Route (oral vs IV) does not change that federal scheduling fact. Programs discussed online often operate outside the U.S.; availability abroad is not approval. See /blog/is-ibogaine-legal-us.
 
 ## Decision framework for readers comparing oral vs IV programs
 
@@ -1147,12 +1147,12 @@ That is the brand entity: intravenous psychoactive ibogaine in a physician-super
 ### Where should I start if a clinic’s “IV” language is vague?
 Ask for written route clarity, then use /blog/how-to-choose-an-ibogaine-clinic and /faq.
 
-### Is ibogaine FDA-approved by either route?
-No. Not FDA-approved for any indication; U.S. Schedule I.
+### Is ibogaine approved for medical use by either route?
+No. not approved for any indication; U.S. Schedule I.
 
 ## Medical disclaimer
 
-Educational content only—not medical, legal, or travel advice. Ibogaine is not FDA-approved and carries serious risks including cardiac arrhythmia. Do not self-administer. Discuss decisions with licensed clinicians. Soft CTAs: /safety-and-screening, /apply.
+Educational content only—not medical, legal, or travel advice. Ibogaine is not approved for any indication and carries serious risks including cardiac arrhythmia. Do not self-administer. Discuss decisions with licensed clinicians. Soft CTAs: /safety-and-screening, /apply.
 
 ## Sources (selected)
 
@@ -1165,16 +1165,16 @@ Educational content only—not medical, legal, or travel advice. Ibogaine is not
     slug: "is-ibogaine-legal-us",
     title: "Is Ibogaine Legal in the US? Schedule I Facts (Not Legal Advice)",
     description:
-      "Is ibogaine legal in the US? It is Schedule I federally and not FDA-approved. Learn what that means for IV ibogaine infusion education—not legal advice.",
+      "Is ibogaine legal in the US? It is Schedule I federally and not approved for any indication. Learn what that means for IV ibogaine infusion education—not legal advice.",
     date: "2026-06-01",
     readTime: "11 min",
     content: `## Definition box
 
-**Definition:** **Is ibogaine legal in the US?** Under federal controlled-substances law, ibogaine is listed as a **Schedule I** substance (see 21 CFR 1308.11). It is **not FDA-approved** for addiction, depression, PTSD, detoxification, or any other indication. **IV ibogaine infusion**—psychoactive intravenous ibogaine under physician supervision in a medical infusion setting—does not change U.S. federal scheduling or create an FDA-approved therapy pathway by branding alone. **Evidence gap:** Most published clinical literature people cite (Cherian et al., *Nature Medicine* 2024; Knuijver et al., *Addiction* 2021) describes **oral** ibogaine (± IV magnesium/support), not controlled IV-psychoactive approval evidence. Cardiac QTc risk remains medically central wherever programs operate. This page is educational—not legal advice.
+**Definition:** **Is ibogaine legal in the US?** Under federal controlled-substances law, ibogaine is listed as a **Schedule I** substance (see 21 CFR 1308.11). It is **not approved for any indication** for addiction, depression, PTSD, detoxification, or any other indication. **IV ibogaine infusion**—psychoactive intravenous ibogaine under physician supervision in a medical infusion setting—does not change U.S. federal scheduling or create an approved therapy pathway by branding alone. **Evidence gap:** Most published clinical literature people cite (Cherian et al., *Nature Medicine* 2024; Knuijver et al., *Addiction* 2021) describes **oral** ibogaine (± IV magnesium/support), not controlled IV-psychoactive approval evidence. Cardiac QTc risk remains medically central wherever programs operate. This page is educational—not legal advice.
 
 ## Quotable answer (54 words)
 
-Ibogaine is Schedule I under U.S. federal law and is not FDA-approved for any indication. IV ibogaine infusion means physician-supervised intravenous psychoactive delivery in a medical setting with cardiac monitoring; that clinical framing does not make ibogaine federally legal or FDA-approved. Most published research remains oral-route. This is not legal advice.
+Ibogaine is Schedule I under U.S. federal law and is not approved for any indication. IV ibogaine infusion means physician-supervised intravenous psychoactive delivery in a medical setting with cardiac monitoring; that clinical framing does not make ibogaine federally legal or approved. Most published research remains oral-route. This is not legal advice.
 
 ## What “Schedule I” means in plain language
 
@@ -1183,7 +1183,7 @@ Schedule I placement (federal) generally signals that a substance is treated as 
 For readers, the practical education points are:
 
 1. **Ibogaine is federally controlled** as Schedule I (21 CFR 1308.11 includes ibogaine).  
-2. **Not FDA-approved** means there is no FDA-approved ibogaine product labeled for opioid detox, depression, PTSD, or related claims.  
+2. **not approved for any indication** means there is no approved ibogaine product labeled for opioid detox, depression, PTSD, or related claims.  
 3. **Clinic marketing abroad** is not the same as U.S. approval or domestic legality.  
 4. **Route (oral vs IV)** does not erase scheduling.
 
@@ -1191,23 +1191,23 @@ This article does **not** interpret criminal exposure, state nuances, research e
 
 ## What this site’s entity is (and is not)
 
-**IV ibogaine infusion** on ibogaineinfusion.com means **psychoactive intravenous ibogaine** under physician supervision—journey parallel to ketamine infusion clinics (consult → cardiac screen → monitored infusion → integration). That entity lock is about **medical model honesty**, not a claim that U.S. law treats ibogaine like FDA-cleared clinic ketamine protocols for depression.
+**IV ibogaine infusion** on ibogaineinfusion.com means **psychoactive intravenous ibogaine** under physician supervision—journey parallel to ketamine infusion clinics (consult → cardiac screen → monitored infusion → integration). That entity lock is about **medical model honesty**, not a claim that U.S. law treats ibogaine like regulator-cleared clinic ketamine protocols for depression.
 
 | Framing | Accurate? |
 |---------|-----------|
 | “IV infusion under MD supervision” as a care-model description | Yes for this brand’s entity education |
-| “Therefore legal/FDA-approved in the US like clinic ketamine” | **No** |
+| “Therefore legal/approved in the US like clinic ketamine” | **No** |
 | “Oral papers prove IV is an approved medicine” | **No** |
 | “Schedule I means zero research can ever occur anywhere” | Oversimplified—research frameworks exist in limited contexts; still not consumer approval |
 
 Entity hub: /what-is-ibogaine-infusion. Journey: /how-it-works. Oral vs IV evidence teaching: /blog/ibogaine-oral-vs-iv.
 
-## FDA approval vs “people study it” vs “clinics offer it abroad”
+## Regulatory approval vs “people study it” vs “clinics offer it abroad”
 
 These are different buckets people mash together in search:
 
-### 1) FDA-approved medicine
-Ibogaine is **not** FDA-approved for any indication. Do not market or imply labeled drug status.
+### 1) Approved medicine
+Ibogaine is **not** approved for any indication. Do not market or imply labeled drug status.
 
 ### 2) Published research interest
 Observational and limited clinical literature exists—largely **oral** administration. Examples:
@@ -1216,10 +1216,10 @@ Observational and limited clinical literature exists—largely **oral** administ
 - **Knuijver et al., *Addiction* 2021** — oral HCl; QTc safety signals.  
 - **Mosca et al. systematic review** — limited RCTs; cardiotoxicity concerns.
 
-Research interest ≠ FDA approval ≠ U.S. consumer legality.
+Research interest ≠ regulatory approval ≠ U.S. consumer legality.
 
 ### 3) Programs outside the United States
-Many public discussions reference treatment tourism (commonly Mexico and other jurisdictions). “Available abroad” means **foreign operation under local rules**—not U.S. Schedule I repeal and not uniform specialty regulation. Travel raises separate legal, medical, and logistical issues this page does not advise on.
+Many public discussions reference treatment tourism (in various jurisdictions). “Available abroad” means **foreign operation under local rules**—not U.S. Schedule I repeal and not uniform specialty regulation. Travel raises separate legal, medical, and logistical issues this page does not advise on.
 
 ## Why legality searches spike next to safety and cost
 
@@ -1253,7 +1253,7 @@ Those pages discuss **research interest and limits**—not guaranteed outcomes a
 
 ## Practical diligence checklist (education, not counsel)
 
-1. Assume **federal Schedule I** + **no FDA approval** unless a licensed attorney and clinician tell you otherwise for a specific regulated research context.  
+1. Assume **federal Schedule I** + **no regulatory approval** unless a licensed attorney and clinician tell you otherwise for a specific regulated research context.  
 2. Do not treat foreign program availability as U.S. legality.  
 3. Require written **psychoactive route** (oral vs IV) and monitoring plan before deposits.  
 4. Prioritize cardiac screening education (/safety-and-screening).  
@@ -1262,24 +1262,24 @@ Those pages discuss **research interest and limits**—not guaranteed outcomes a
 
 ## Soft CTA
 
-If you are educating yourself on **U.S. scheduling facts** while evaluating whether a physician-supervised **IV ibogaine infusion** discussion is even appropriate medically, start with /safety-and-screening and /faq, then request a **confidential screening consult** via /apply. Bring questions about route clarity and cardiac monitoring—not assumptions of FDA approval.
+If you are educating yourself on **U.S. scheduling facts** while evaluating whether a physician-supervised **IV ibogaine infusion** discussion is even appropriate medically, start with /safety-and-screening and /faq, then request a **confidential screening consult** via /apply. Bring questions about route clarity and cardiac monitoring—not assumptions of regulatory approval.
 
 ## FAQ
 
 ### Is ibogaine legal in the US?
-Ibogaine is a U.S. federal **Schedule I** controlled substance (21 CFR 1308.11) and is **not FDA-approved** for any indication. This is educational information, not legal advice.
+Ibogaine is a U.S. federal **Schedule I** controlled substance (21 CFR 1308.11) and is **not approved for any indication** for any indication. This is educational information, not legal advice.
 
-### Does IV delivery make ibogaine legal or FDA-approved?
-No. Psychoactive IV framing describes a medical-model entity; it does not create FDA approval or erase Schedule I status.
+### Does IV delivery make ibogaine legal or approved?
+No. Psychoactive IV framing describes a medical-model entity; it does not create regulatory approval or erase Schedule I status.
 
 ### Is ibogaine the same legally as ketamine clinic treatment?
-No. Ketamine has approved anesthetic uses and established clinic pathways for some psychiatric protocols under different regulatory facts. Ibogaine is Schedule I and not FDA-approved. See /blog/ibogaine-vs-ketamine-for-addiction.
+No. Ketamine has approved anesthetic uses and established clinic pathways for some psychiatric protocols under different regulatory facts. Ibogaine is Schedule I and not approved for any indication. See /blog/ibogaine-vs-ketamine-for-addiction.
 
 ### Can research papers make it legal to buy online?
 Published research does not authorize consumer purchase or unsupervised use. Online sourcing is unsafe and legally risky; this page does not provide sourcing advice.
 
-### Are foreign ibogaine clinics “FDA approved abroad”?
-FDA approval is a U.S. regulatory concept. Foreign programs operate under local rules; they are not FDA-approved ibogaine medicines by virtue of existing.
+### Are foreign ibogaine clinics “approved abroad” by U.S. standards?
+regulatory approval is a U.S. regulatory concept. Foreign programs operate under local rules; they are not approved ibogaine medicines by virtue of existing.
 
 ### Does Schedule I mean no cardiac screening is needed if I travel?
 No. Medical risk (including QTc prolongation) is independent of tourism narratives. See /safety-and-screening.
@@ -1292,7 +1292,7 @@ Most cited clinical literature is **oral** (± support IV such as magnesium). Co
 
 ## Medical disclaimer
 
-Educational only—**not legal advice, not medical advice, not travel advice**. Ibogaine is Schedule I in the United States and not FDA-approved. It carries serious risks including cardiac arrhythmia. Do not self-administer. Consult licensed attorneys for legal questions and licensed clinicians for medical decisions. Soft CTAs: /safety-and-screening, /apply.
+Educational only—**not legal advice, not medical advice, not travel advice**. Ibogaine is Schedule I in the United States and not approved for any indication. It carries serious risks including cardiac arrhythmia. Do not self-administer. Consult licensed attorneys for legal questions and licensed clinicians for medical decisions. Soft CTAs: /safety-and-screening, /apply.
 
 ## Sources (selected)
 
@@ -1311,11 +1311,11 @@ Educational only—**not legal advice, not medical advice, not travel advice**. 
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine ECG requirements** are the cardiac screening and monitoring steps a physician-supervised program should complete before and during **IV ibogaine infusion**—**psychoactive intravenous ibogaine** in a medical infusion setting (consult → cardiac screening → monitored infusion → integration). Because ibogaine can prolong the **QTc interval** and raise arrhythmia risk, baseline ECG/EKG, electrolyte review, medication interaction screening, and **continuous telemetry** during the high-risk window are non-negotiable. **Evidence gap:** Key QTc signals in the literature (e.g., Knuijver et al., *Addiction* 2021) come from **oral** ibogaine HCl series; Cherian et al., *Nature Medicine* 2024 used **oral** ibogaine with **IV magnesium** support—not psychoactive IV proof. Oral cardiac lessons still inform IV-protocol diligence. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Ibogaine ECG requirements** are the cardiac screening and monitoring steps a physician-supervised program should complete before and during **IV ibogaine infusion**—**psychoactive intravenous ibogaine** in a medical infusion setting (consult → cardiac screening → monitored infusion → integration). Because ibogaine can prolong the **QTc interval** and raise arrhythmia risk, baseline ECG/EKG, electrolyte review, medication interaction screening, and **continuous telemetry** during the high-risk window are non-negotiable. **Evidence gap:** Key QTc signals in the literature (e.g., Knuijver et al., *Addiction* 2021) come from **oral** ibogaine HCl series; Cherian et al., *Nature Medicine* 2024 used **oral** ibogaine with **IV magnesium** support—not psychoactive IV proof. Oral cardiac lessons still inform IV-protocol diligence. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (58 words)
 
-Ibogaine ECG requirements typically include a pre-care ECG with QTc review, electrolyte labs, medication screening for QT-prolonging drugs, and continuous cardiac monitoring during IV ibogaine infusion under physician supervision. Much published QTc evidence reflects oral ibogaine HCl, often with support IV such as magnesium—not automatic proof that psychoactive IV dosing is equivalent. It is not FDA-approved.
+Ibogaine ECG requirements typically include a pre-care ECG with QTc review, electrolyte labs, medication screening for QT-prolonging drugs, and continuous cardiac monitoring during IV ibogaine infusion under physician supervision. Much published QTc evidence reflects oral ibogaine HCl, often with support IV such as magnesium—not automatic proof that psychoactive IV dosing is equivalent. It is not approved for any indication.
 
 ## Why ECG is the centerpiece of ibogaine safety education
 
@@ -1352,7 +1352,7 @@ Use this as a **discussion checklist** with clinicians—not a DIY clearance too
 - [ ] **Continuous ECG/telemetry** planned (duration stated in writing)  
 - [ ] IV access for **support** meds (fluids, electrolytes, antiemetics, emergencies) labeled separately from psychoactive IV ibogaine  
 - [ ] Crash-cart / ACLS-capable staffing and hospital transfer plan  
-- [ ] Consent that names **cardiac arrhythmia risk** and Schedule I / not FDA-approved status  
+- [ ] Consent that names **cardiac arrhythmia risk** and Schedule I / not approved for any indication status  
 
 ### D. After the acute window
 
@@ -1409,7 +1409,7 @@ Condition context without cure claims: /ibogaine-for-addiction, /ibogaine-for-de
 
 ## Legal note next to medical checklists (not legal advice)
 
-Ibogaine is **Schedule I** in the United States (21 CFR 1308.11) and **not FDA-approved**. Completing an ECG checklist does not create legality or FDA status. See /blog/is-ibogaine-legal-us.
+Ibogaine is **Schedule I** in the United States (21 CFR 1308.11) and **not approved for any indication**. Completing an ECG checklist does not create legality or regulators status. See /blog/is-ibogaine-legal-us.
 
 ## Soft CTA
 
@@ -1438,12 +1438,12 @@ That is a clinical stop/delay conversation with a qualified physician—not some
 ### Where is the full safety page?
 /safety-and-screening and /faq.
 
-### Is ibogaine FDA-approved if screening is thorough?
-No. Screening quality does not equal FDA approval. U.S. Schedule I status remains (/blog/is-ibogaine-legal-us).
+### Is ibogaine approved for medical use if screening is thorough?
+No. Screening quality does not equal regulatory approval. U.S. Schedule I status remains (/blog/is-ibogaine-legal-us).
 
 ## Medical disclaimer
 
-Educational checklist only—not a medical clearance protocol, diagnosis, or treatment plan. Ibogaine is not FDA-approved and carries serious cardiac risks including arrhythmia. Do not self-administer. Final go/no-go decisions belong to licensed clinicians. Soft CTAs: /safety-and-screening, /apply.
+Educational checklist only—not a medical clearance protocol, diagnosis, or treatment plan. Ibogaine is not approved for any indication and carries serious cardiac risks including arrhythmia. Do not self-administer. Final go/no-go decisions belong to licensed clinicians. Soft CTAs: /safety-and-screening, /apply.
 
 ## Sources (selected)
 
@@ -1461,18 +1461,18 @@ Educational checklist only—not a medical clearance protocol, diagnosis, or tre
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine vs traditional rehab** compares a time-limited, physician-supervised **IV ibogaine infusion** journey—**psychoactive intravenous ibogaine** with consult → cardiac screening → monitored infusion → integration—against conventional addiction treatment models (medically supervised withdrawal, residential rehab, outpatient therapy, and medications for opioid use disorder where appropriate). They are **not interchangeable**. Ibogaine can prolong QTc and requires continuous cardiac monitoring. **Evidence gap:** Most published ibogaine clinical literature is **oral** and observational (e.g., Knuijver et al., *Addiction* 2021; Cherian et al., *Nature Medicine* 2024 oral ibogaine + IV magnesium)—not proof that psychoactive IV ibogaine replaces rehab or cures addiction. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Ibogaine vs traditional rehab** compares a time-limited, physician-supervised **IV ibogaine infusion** journey—**psychoactive intravenous ibogaine** with consult → cardiac screening → monitored infusion → integration—against conventional addiction treatment models (medically supervised withdrawal, residential rehab, outpatient therapy, and medications for opioid use disorder where appropriate). They are **not interchangeable**. Ibogaine can prolong QTc and requires continuous cardiac monitoring. **Evidence gap:** Most published ibogaine clinical literature is **oral** and observational (e.g., Knuijver et al., *Addiction* 2021; Cherian et al., *Nature Medicine* 2024 oral ibogaine + IV magnesium)—not proof that psychoactive IV ibogaine replaces rehab or cures addiction. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (57 words)
 
-Ibogaine vs traditional rehab is a setting-and-evidence comparison, not a swap. IV ibogaine infusion is physician-supervised intravenous psychoactive delivery with cardiac monitoring; rehab models emphasize structured psychosocial care and, for opioids, established medications. Most published ibogaine research remains oral and observational. Neither framing supports cure claims, and ibogaine is not FDA-approved.
+Ibogaine vs traditional rehab is a setting-and-evidence comparison, not a swap. IV ibogaine infusion is physician-supervised intravenous psychoactive delivery with cardiac monitoring; rehab models emphasize structured psychosocial care and, for opioids, established medications. Most published ibogaine research remains oral and observational. Neither framing supports cure claims, and ibogaine is not approved for any indication.
 
 ## Why people search this comparison
 
 Searchers typing **ibogaine vs traditional rehab** often feel stuck after multiple treatment episodes—or are researching a shorter, medical-infusion-shaped alternative they saw online. Honest YMYL writing must hold two truths at once:
 
 1. Interest in ibogaine for substance use disorders is real and appears in observational literature.  
-2. Traditional rehab and MOUD pathways have far more mature clinical infrastructure, guidelines, and regulatory acceptance in the U.S.—while ibogaine remains Schedule I and not FDA-approved.
+2. Traditional rehab and MOUD pathways have far more mature clinical infrastructure, guidelines, and regulatory acceptance in the U.S.—while ibogaine remains Schedule I and not approved for any indication.
 
 This site’s entity is **IV ibogaine infusion**, not “anti-rehab ideology.” See /ibogaine-for-addiction and /what-is-ibogaine-infusion.
 
@@ -1484,7 +1484,7 @@ This site’s entity is **IV ibogaine infusion**, not “anti-rehab ideology.”
 | Typical time shape | Days-scale medical program around an infusion window | Days to months (detox + residential + outpatient continuum) |
 | Evidence maturity | Sparse controlled IV-psychoactive data; oral observational more common | Broader clinical guidelines and implementation base for standard modalities |
 | Dominant medical risk narrative | QTc / arrhythmia; need ECG + telemetry | Variable (withdrawal complications, psychiatric acuity, etc.)—different risk profile |
-| U.S. regulatory posture | Schedule I; not FDA-approved | Many components are standard regulated care |
+| U.S. regulatory posture | Schedule I; not approved for any indication | Many components are standard regulated care |
 | What it cannot claim | Cure; rehab replacement; guaranteed abstinence | Guaranteed abstinence either—but should not be dismissed as “just talk” wholesale |
 
 Deep safety: /safety-and-screening. Cost context: /blog/cost-of-ibogaine-treatment.
@@ -1513,7 +1513,7 @@ Those elements address **chronic care**—something a single infusion window doe
 
 ### Is not
 
-- An FDA-approved detox medication  
+- An approved detox medication  
 - A proven substitute for MOUD when MOUD is indicated  
 - A ceremony-only product with spa décor and no telemetry  
 - A cure for addiction, depression, or PTSD  
@@ -1559,7 +1559,7 @@ If you are comparing **IV ibogaine infusion** education with conventional pathwa
 ## FAQ
 
 ### Is ibogaine a replacement for traditional rehab?
-No. It is not an FDA-approved substitute for rehab or MOUD. Compare settings and evidence without swap claims.
+No. It is not an approved substitute for rehab or MOUD. Compare settings and evidence without swap claims.
 
 ### Is IV ibogaine infusion the same as detox in rehab?
 No. Medically supervised withdrawal in rehab and psychoactive IV ibogaine are different interventions with different risk profiles.
@@ -1577,14 +1577,14 @@ Ibogaine’s QTc/arrhythmia narrative and monitoring needs are distinctive. See 
 Yes. Acute sessions do not replace longitudinal recovery supports.
 
 ### Is ibogaine legal in US rehab centers?
-Ibogaine is Schedule I federally and not FDA-approved; do not assume U.S. rehab centers can offer it as standard care (/blog/is-ibogaine-legal-us).
+Ibogaine is Schedule I federally and not approved for any indication; do not assume U.S. rehab centers can offer it as standard care (/blog/is-ibogaine-legal-us).
 
 ### Where do I read addiction-specific context?
 /ibogaine-for-addiction and /faq.
 
 ## Medical disclaimer
 
-Educational comparison only—not medical, legal, or treatment advice. Ibogaine is not FDA-approved, carries serious cardiac risks, and is not a cure or rehab replacement. Do not self-administer. Discuss options with licensed clinicians. Soft CTAs: /safety-and-screening, /apply.
+Educational comparison only—not medical, legal, or treatment advice. Ibogaine is not approved for any indication, carries serious cardiac risks, and is not a cure or rehab replacement. Do not self-administer. Discuss options with licensed clinicians. Soft CTAs: /safety-and-screening, /apply.
 
 ## Sources (selected)
 
@@ -1602,11 +1602,11 @@ Educational comparison only—not medical, legal, or treatment advice. Ibogaine 
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** An **ibogaine treatment package** for **IV ibogaine infusion** should itemize physician-supervised **psychoactive intravenous ibogaine**—consult → cardiac screening → monitored infusion → integration—plus clearly labeled **support IV** (fluids, electrolytes, antiemetics) that is **not** the psychoactive dose. Because ibogaine can prolong QTc, packages that omit ECG, continuous telemetry, or emergency readiness are incomplete regardless of luxury amenities. **Evidence gap:** Published clinical series people cite (Cherian et al., *Nature Medicine* 2024; Knuijver et al., *Addiction* 2021) are largely **oral** (± IV magnesium support) and do not prove package “clinical IV results.” Ibogaine is U.S. Schedule I and not FDA-approved. Packages are commercial descriptions—not cure offers.
+**Definition:** An **ibogaine treatment package** for **IV ibogaine infusion** should itemize physician-supervised **psychoactive intravenous ibogaine**—consult → cardiac screening → monitored infusion → integration—plus clearly labeled **support IV** (fluids, electrolytes, antiemetics) that is **not** the psychoactive dose. Because ibogaine can prolong QTc, packages that omit ECG, continuous telemetry, or emergency readiness are incomplete regardless of luxury amenities. **Evidence gap:** Published clinical series people cite (Cherian et al., *Nature Medicine* 2024; Knuijver et al., *Addiction* 2021) are largely **oral** (± IV magnesium support) and do not prove package “clinical IV results.” Ibogaine is U.S. Schedule I and not approved for any indication. Packages are commercial descriptions—not cure offers.
 
 ## Quotable answer (55 words)
 
-A credible ibogaine treatment package for IV ibogaine infusion lists psychoactive intravenous dosing under physician supervision, pre-care ECG and labs, continuous cardiac monitoring, emergency readiness, separately labeled support IV medications, observation time, and integration planning. Most published research remains oral-route. Luxury housing does not replace telemetry. Ibogaine is not FDA-approved.
+A credible ibogaine treatment package for IV ibogaine infusion lists psychoactive intravenous dosing under physician supervision, pre-care ECG and labs, continuous cardiac monitoring, emergency readiness, separately labeled support IV medications, observation time, and integration planning. Most published research remains oral-route. Luxury housing does not replace telemetry. Ibogaine is not approved for any indication.
 
 ## Why “package inclusions” are an AEO and safety page
 
@@ -1700,7 +1700,7 @@ Oral vs IV teaching: /blog/ibogaine-oral-vs-iv.
 
 ## Price context without fake precision
 
-Publicly discussed medical program totals often span roughly **$6,000–$25,000** depending on medical intensity, length of observation, staffing, and logistics. Exact quotes must come from providers. Insurance coverage in the U.S. is typically unavailable for this Schedule I, non–FDA-approved substance (/blog/is-ibogaine-legal-us). See /blog/cost-of-ibogaine-treatment for tier thinking and /blog/cheap-ibogaine-clinic-red-flags for underpriced risk patterns.
+Publicly discussed medical program totals often span roughly **$6,000–$25,000** depending on medical intensity, length of observation, staffing, and logistics. Exact quotes must come from providers. Insurance coverage in the U.S. is typically unavailable for this Schedule I, non–approved substance (/blog/is-ibogaine-legal-us). See /blog/cost-of-ibogaine-treatment for tier thinking and /blog/cheap-ibogaine-clinic-red-flags for underpriced risk patterns.
 
 ## Condition-specific package expectations (still no cures)
 
@@ -1749,7 +1749,7 @@ Not necessarily. Ask about continuous telemetry, cancel criteria, and emergency 
 
 ## Medical disclaimer
 
-Educational commercial description only—not an offer of medical services in every jurisdiction, not a price quote, and not medical/legal advice. Ibogaine is not FDA-approved and carries serious cardiac risks. Do not self-administer. Soft CTAs: /safety-and-screening, /apply.
+Educational commercial description only—not an offer of medical services in every jurisdiction, not a price quote, and not medical/legal advice. Ibogaine is not approved for any indication and carries serious cardiac risks. Do not self-administer. Soft CTAs: /safety-and-screening, /apply.
 
 ## Sources (selected)
 
@@ -1767,11 +1767,11 @@ Educational commercial description only—not an offer of medical services in ev
     readTime: "9 min",
     content: `## Definition box
 
-**Definition:** The **Stanford ibogaine study** readers usually mean is the Stanford-affiliated **MISTIC** magnesium–ibogaine work reported by **Cherian et al. in *Nature Medicine* (2024)**: an **open-label observational** protocol in a special-operations **veteran** cohort with **traumatic brain injury (TBI)** history (on the order of **n≈30**). Psychoactive ibogaine was administered **orally**; **IV magnesium** was used as **support**, not as psychoactive ibogaine. That paper is **not** a randomized controlled trial and **not** proof of **IV ibogaine infusion** (psychoactive intravenous ibogaine). Cardiac risk—including QTc considerations—remains central to any ibogaine discussion. Broader literature is still limited (Mosca systematic review; Knuijver *Addiction* 2021 oral QTc signals). Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** The **Stanford ibogaine study** readers usually mean is the Stanford-affiliated **MISTIC** magnesium–ibogaine work reported by **Cherian et al. in *Nature Medicine* (2024)**: an **open-label observational** protocol in a special-operations **veteran** cohort with **traumatic brain injury (TBI)** history (on the order of **n≈30**). Psychoactive ibogaine was administered **orally**; **IV magnesium** was used as **support**, not as psychoactive ibogaine. That paper is **not** a randomized controlled trial and **not** proof of **IV ibogaine infusion** (psychoactive intravenous ibogaine). Cardiac risk—including QTc considerations—remains central to any ibogaine discussion. Broader literature is still limited (Mosca systematic review; Knuijver *Addiction* 2021 oral QTc signals). Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (59 words)
 
-The widely discussed Stanford-affiliated MISTIC study (Cherian et al., Nature Medicine 2024) was an open-label oral ibogaine plus IV magnesium protocol in roughly thirty special-operations veterans with TBI history—not a controlled trial of psychoactive IV ibogaine infusion. Results generate research interest and underscore the need for RCTs. Ibogaine can affect QTc and is not FDA-approved.
+The widely discussed Stanford-affiliated MISTIC study (Cherian et al., Nature Medicine 2024) was an open-label oral ibogaine plus IV magnesium protocol in roughly thirty special-operations veterans with TBI history—not a controlled trial of psychoactive IV ibogaine infusion. Results generate research interest and underscore the need for RCTs. Ibogaine can affect QTc and is not approved for any indication.
 
 ## Why this spoke exists (misattribution is rampant)
 
@@ -1801,7 +1801,7 @@ PTSD condition page: /ibogaine-for-ptsd. Entity hub: /what-is-ibogaine-infusion.
 | IV component | **IV magnesium** (support / cardiac-risk mitigation framing in protocol narratives) |
 | Design | **Open-label observational** |
 | What authors/field emphasize | Signals warrant **randomized controlled trials**; not definitive efficacy proof |
-| What it is not | IV-psychoactive ibogaine RCT; FDA approval package; addiction-cure evidence; blanket PTSD cure |
+| What it is not | IV-psychoactive ibogaine RCT; regulatory approval package; addiction-cure evidence; blanket PTSD cure |
 
 Readers should consult the primary paper for exact inclusion criteria, outcome measures, adverse events, and limitations rather than relying on secondary marketing blogs.
 
@@ -1870,8 +1870,8 @@ No. Small open-label cohorts generate hypotheses and safety/process lessons; RCT
 ### Can clinics say Nature Medicine proved their IV ibogaine?
 Not accurately. That conflates routes and overstates design.
 
-### Does MISTIC mean ibogaine is FDA-approved for veterans?
-No. Ibogaine remains not FDA-approved and is Schedule I in the U.S.
+### Does MISTIC mean ibogaine is approved for veterans?
+No. Ibogaine remains not approved for any indication and is Schedule I in the U.S.
 
 ### Should veterans still get ECG screening?
 Yes. Cardiac diligence is essential regardless of optimistic headlines (/safety-and-screening).
@@ -1884,7 +1884,7 @@ Yes. Cardiac diligence is essential regardless of optimistic headlines (/safety-
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical or legal advice, not a veteran benefits determination, and not an endorsement of unsupervised use. Cherian 2024 is open-label oral ibogaine + IV magnesium; it does not prove psychoactive IV ibogaine or guarantee outcomes. Ibogaine carries serious risks including cardiac arrhythmia and is not FDA-approved. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical or legal advice, not a veteran benefits determination, and not an endorsement of unsupervised use. Cherian 2024 is open-label oral ibogaine + IV magnesium; it does not prove psychoactive IV ibogaine or guarantee outcomes. Ibogaine carries serious risks including cardiac arrhythmia and is not approved for any indication. Soft CTAs: /safety-and-screening, /apply.
 
 ## Sources (selected)
 
@@ -1902,11 +1902,11 @@ Educational research synopsis only—not medical or legal advice, not a veteran 
     readTime: "9 min",
     content: `## Definition box
 
-**Definition:** **Cheap ibogaine clinic risks** are the safety and honesty failures that cluster when price is optimized ahead of physician-supervised medicine—especially missing ECG/telemetry, opaque **oral vs IV** dosing, blurred **support IV vs psychoactive IV**, cure guarantees, and citing oral papers (Cherian *Nature Medicine* 2024; Knuijver *Addiction* 2021) as if they proved **IV ibogaine infusion**. True **IV ibogaine infusion** means psychoactive intravenous ibogaine under physician supervision (consult → cardiac screen → monitored infusion → integration). Ibogaine can prolong QTc; low price does not reduce arrhythmia risk. Controlled psychoactive IV evidence remains sparse. Ibogaine is U.S. Schedule I and not FDA-approved. This is a red-flag guide—not a clinic ranking.
+**Definition:** **Cheap ibogaine clinic risks** are the safety and honesty failures that cluster when price is optimized ahead of physician-supervised medicine—especially missing ECG/telemetry, opaque **oral vs IV** dosing, blurred **support IV vs psychoactive IV**, cure guarantees, and citing oral papers (Cherian *Nature Medicine* 2024; Knuijver *Addiction* 2021) as if they proved **IV ibogaine infusion**. True **IV ibogaine infusion** means psychoactive intravenous ibogaine under physician supervision (consult → cardiac screen → monitored infusion → integration). Ibogaine can prolong QTc; low price does not reduce arrhythmia risk. Controlled psychoactive IV evidence remains sparse. Ibogaine is U.S. Schedule I and not approved for any indication. This is a red-flag guide—not a clinic ranking.
 
 ## Quotable answer (56 words)
 
-Cheap ibogaine clinic risks include skipped cardiac screening, no continuous ECG monitoring, unclear whether dosing is oral or intravenous, cure guarantees, and marketing oral studies as IV proof. IV ibogaine infusion requires physician supervision and telemetry because ibogaine can prolong QTc. Low price is not a safety feature. Ibogaine is not FDA-approved.
+Cheap ibogaine clinic risks include skipped cardiac screening, no continuous ECG monitoring, unclear whether dosing is oral or intravenous, cure guarantees, and marketing oral studies as IV proof. IV ibogaine infusion requires physician supervision and telemetry because ibogaine can prolong QTc. Low price is not a safety feature. Ibogaine is not approved for any indication.
 
 ## Price pressure meets a high-acuity molecule
 
@@ -1964,7 +1964,7 @@ Dose-day tourism without continuity planning—especially risky for substance us
 
 Knuijver et al. (*Addiction*, 2021) — oral HCl QTc signals — is enough reason alone to reject “skip the heart stuff.” Mosca’s systematic review flags limited RCTs and cardiotoxicity concerns across the clinical literature—another reason marketing bravado is a smell test.
 
-## A safer commercial question set (before any wire transfer)
+## A safer commercial question set (before any deposit or wire transfer)
 
 1. Psychoactive route in one written sentence?  
 2. Support medications listed separately?  
@@ -2014,8 +2014,8 @@ No. QTc risk is pharmacologic/clinical—not priced away.
 ### What should a real package list?
 See /blog/ibogaine-treatment-package.
 
-### Is ibogaine FDA-approved if the clinic is cheap or expensive?
-Neither price point creates FDA approval. U.S. Schedule I facts: /blog/is-ibogaine-legal-us.
+### Is ibogaine approved for medical use if the clinic is cheap or expensive?
+Neither price point creates regulatory approval. U.S. Schedule I facts: /blog/is-ibogaine-legal-us.
 
 ### Where do I compare rehab alternatives without hype?
 /blog/ibogaine-vs-traditional-rehab.
@@ -2025,7 +2025,7 @@ Neither price point creates FDA approval. U.S. Schedule I facts: /blog/is-ibogai
 
 ## Medical disclaimer
 
-Educational consumer-protection style guide only—not a blacklist of named clinics, not legal advice, and not medical clearance. Ibogaine is not FDA-approved and carries serious cardiac and neurological risks. Do not self-administer. Soft CTAs: /safety-and-screening, /apply.
+Educational consumer-protection style guide only—not a blacklist of named clinics, not legal advice, and not medical clearance. Ibogaine is not approved for any indication and carries serious cardiac and neurological risks. Do not self-administer. Soft CTAs: /safety-and-screening, /apply.
 
 ## Sources (selected)
 
@@ -2043,11 +2043,11 @@ Educational consumer-protection style guide only—not a blacklist of named clin
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine side effects** are the adverse and challenging effects associated with ibogaine exposure—most critically **QTc prolongation** and arrhythmia risk, along with gastrointestinal effects (nausea/vomiting), ataxia/coordination problems, and a prolonged, intense psychoactive experience requiring observation. In a physician-supervised **IV ibogaine infusion** setting—psychoactive intravenous ibogaine with consult → cardiac screening → monitored infusion → integration—continuous ECG/telemetry and emergency readiness are part of risk management, not optional extras. **Evidence gap:** Much of what is published about human adverse effects comes from **oral** observational series (e.g., Knuijver et al., *Addiction* 2021) and broader reviews (Mosca et al.); Cherian et al., *Nature Medicine* 2024 used **oral** ibogaine with **IV magnesium** support—not a catalog of proven IV-psychoactive safety. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Ibogaine side effects** are the adverse and challenging effects associated with ibogaine exposure—most critically **QTc prolongation** and arrhythmia risk, along with gastrointestinal effects (nausea/vomiting), ataxia/coordination problems, and a prolonged, intense psychoactive experience requiring observation. In a physician-supervised **IV ibogaine infusion** setting—psychoactive intravenous ibogaine with consult → cardiac screening → monitored infusion → integration—continuous ECG/telemetry and emergency readiness are part of risk management, not optional extras. **Evidence gap:** Much of what is published about human adverse effects comes from **oral** observational series (e.g., Knuijver et al., *Addiction* 2021) and broader reviews (Mosca et al.); Cherian et al., *Nature Medicine* 2024 used **oral** ibogaine with **IV magnesium** support—not a catalog of proven IV-psychoactive safety. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (58 words)
 
-Ibogaine side effects of greatest medical concern include QTc prolongation and potential arrhythmia, plus nausea, vomiting, ataxia, and prolonged psychoactive intensity. IV ibogaine infusion still requires physician supervision and continuous cardiac monitoring; much published human safety data reflect oral dosing, sometimes with support IV such as magnesium. Unsupervised use is dangerous. It is not FDA-approved.
+Ibogaine side effects of greatest medical concern include QTc prolongation and potential arrhythmia, plus nausea, vomiting, ataxia, and prolonged psychoactive intensity. IV ibogaine infusion still requires physician supervision and continuous cardiac monitoring; much published human safety data reflect oral dosing, sometimes with support IV such as magnesium. Unsupervised use is dangerous. It is not approved for any indication.
 
 ## How to use this page
 
@@ -2143,7 +2143,7 @@ Consumer protection spoke: /blog/cheap-ibogaine-clinic-red-flags. Package expect
 
 ## Legal / regulatory reminder (not legal advice)
 
-Side-effect education does not imply approved drug status. Ibogaine is **Schedule I** in the United States (21 CFR 1308.11) and **not FDA-approved** (/blog/is-ibogaine-legal-us).
+Side-effect education does not imply approved drug status. Ibogaine is **Schedule I** in the United States (21 CFR 1308.11) and **not approved for any indication** (/blog/is-ibogaine-legal-us).
 
 ## Soft CTA
 
@@ -2177,7 +2177,7 @@ No. Unsupervised use is dangerous; this site does not provide dosing instruction
 
 ## Medical disclaimer
 
-Educational overview only—not a complete adverse-event label, not medical advice, and not permission to self-administer. Ibogaine is not FDA-approved and can cause serious harm including fatal arrhythmia. Discuss risks with licensed clinicians. Soft CTAs: /safety-and-screening, /apply.
+Educational overview only—not a complete adverse-event label, not medical advice, and not permission to self-administer. Ibogaine is not approved for any indication and can cause serious harm including fatal arrhythmia. Discuss risks with licensed clinicians. Soft CTAs: /safety-and-screening, /apply.
 
 ## Sources (selected)
 
@@ -2190,16 +2190,16 @@ Educational overview only—not a complete adverse-event label, not medical advi
     slug: "ibogaine-for-fentanyl",
     title: "Ibogaine for Fentanyl: Research Interest, Risks & IV Infusion Context",
     description:
-      "Ibogaine for fentanyl: observational oral-literature interest, cardiac QTc risk, IV psychoactive infusion context, and why there is no proven cure or FDA approval.",
+      "Ibogaine for fentanyl: observational oral-literature interest, cardiac QTc risk, IV psychoactive infusion context, and why there is no proven cure or regulatory approval.",
     date: "2026-07-20",
     readTime: "12 min",
     content: `## Definition box
 
-**Definition:** Searches for **ibogaine for fentanyl** usually mean interest in whether physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine** in a medical infusion setting (consult → cardiac screening → monitored infusion → integration)—might interrupt fentanyl-era opioid withdrawal or craving. **Evidence gap:** Most published human literature on ibogaine and opioid use disorder remains **oral** observational or open-label; IV lines in those papers often deliver **support** fluids, electrolytes, or magnesium—not psychoactive IV ibogaine. Controlled evidence for psychoactive IV ibogaine in fentanyl dependence is **sparse**. Ibogaine can prolong the QTc interval. It is U.S. Schedule I and not FDA-approved for fentanyl detox or any indication. No cure claims.
+**Definition:** Searches for **ibogaine for fentanyl** usually mean interest in whether physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine** in a medical infusion setting (consult → cardiac screening → monitored infusion → integration)—might interrupt fentanyl-era opioid withdrawal or craving. **Evidence gap:** Most published human literature on ibogaine and opioid use disorder remains **oral** observational or open-label; IV lines in those papers often deliver **support** fluids, electrolytes, or magnesium—not psychoactive IV ibogaine. Controlled evidence for psychoactive IV ibogaine in fentanyl dependence is **sparse**. Ibogaine can prolong the QTc interval. It is U.S. Schedule I and not approved for fentanyl detox or any indication. No cure claims.
 
 ## Quotable answer (58 words)
 
-Ibogaine for fentanyl is an area of clinical interest, not an FDA-approved detox. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with continuous cardiac monitoring because of QTc risk. Most published opioid observations still reflect oral ibogaine HCl, so controlled evidence for IV psychoactive ibogaine in fentanyl dependence remains limited. Unsupervised use is dangerous.
+Ibogaine for fentanyl is an area of clinical interest, not an approved detox. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with continuous cardiac monitoring because of QTc risk. Most published opioid observations still reflect oral ibogaine HCl, so controlled evidence for IV psychoactive ibogaine in fentanyl dependence remains limited. Unsupervised use is dangerous.
 
 ## Why fentanyl changed the ibogaine conversation
 
@@ -2253,7 +2253,7 @@ Continuous ECG/telemetry, physician oversight, emergency preparedness, and writt
 | Methadone / buprenorphine (MOUD) | Evidence-based maintenance for OUD | Stronger clinical guideline footprint; not a “failure” if ongoing |
 | Medically supervised detox (non-ibogaine) | Withdrawal management | Does not equal long-term recovery alone |
 | Naloxone / overdose education | Harm reduction | Essential regardless of pathway |
-| IV ibogaine infusion (this site’s entity) | Investigational interest under physician supervision | Sparse controlled IV psychoactive evidence; Schedule I / not FDA-approved |
+| IV ibogaine infusion (this site’s entity) | Investigational interest under physician supervision | Sparse controlled IV psychoactive evidence; Schedule I / not approved for any indication |
 
 Ibogaine is **not** an approved methadone or Suboxone substitute. Decisions about pausing or tapering MOUD belong with qualified clinicians—not blog copy. Comparisons: /blog/ibogaine-vs-methadone and /blog/ibogaine-vs-suboxone.
 
@@ -2283,7 +2283,7 @@ No article should imply that one infusion ends fentanyl dependence.
 
 ## Legal snapshot (not legal advice)
 
-Ibogaine is **Schedule I** under U.S. federal controlled substances law (21 CFR 1308.11) and is **not FDA-approved** for fentanyl detoxification or any other indication. Many discussed programs operate outside the United States. Availability abroad is not the same as FDA approval or uniform specialty regulation. This page is not legal advice.
+Ibogaine is **Schedule I** under U.S. federal controlled substances law (21 CFR 1308.11) and is **not approved for any indication** for fentanyl detoxification or any other indication. Many discussed programs operate outside the United States. Availability abroad is not the same as regulatory approval or uniform specialty regulation. This page is not legal advice.
 
 ## Soft CTA
 
@@ -2292,7 +2292,7 @@ If you are researching options because fentanyl withdrawal feels unmanageable, b
 ## FAQ
 
 ### Does ibogaine work for fentanyl withdrawal?
-Some observational and open-label reports—mostly after **oral** ibogaine HCl—describe reduced opioid withdrawal or use for some people. That is not FDA-approved proof for fentanyl, and controlled evidence for psychoactive **IV** ibogaine remains sparse.
+Some observational and open-label reports—mostly after **oral** ibogaine HCl—describe reduced opioid withdrawal or use for some people. That is not approved for any indication proof for fentanyl, and controlled evidence for psychoactive **IV** ibogaine remains sparse.
 
 ### Is IV ibogaine infusion used for fentanyl detox?
 This brand defines **IV ibogaine infusion** as intravenous psychoactive ibogaine under physician supervision. Confirm any clinic’s written route; many programs still dose oral HCl with support IV only.
@@ -2309,15 +2309,15 @@ Only under qualified medical guidance. Abrupt changes can be dangerous. Ibogaine
 ### Is published research mostly oral?
 Yes. Landmark papers often describe oral ibogaine (± IV magnesium/support). Do not treat those as IV-psychoactive efficacy trials.
 
-### Is ibogaine legal or FDA-approved in the U.S.?
-Schedule I federally; not FDA-approved. Not legal advice.
+### Is ibogaine legal or approved for medical use in the U.S.?
+Schedule I federally; not approved for any indication. Not legal advice.
 
 ### What should I ask a clinic first?
 Written psychoactive route (IV vs oral), continuous ECG/telemetry, physician oversight, emergency capability, and aftercare—see /blog/how-to-choose-an-ibogaine-clinic.
 
 ## Medical disclaimer
 
-Educational content only—not medical, legal, or treatment advice. Ibogaine is not FDA-approved and can cause life-threatening cardiac events. Do not self-administer. Fentanyl use disorder requires licensed clinical care. Seek emergency help for overdose or acute medical emergencies.
+Educational content only—not medical, legal, or treatment advice. Ibogaine is not approved for any indication and can cause life-threatening cardiac events. Do not self-administer. Fentanyl use disorder requires licensed clinical care. Seek emergency help for overdose or acute medical emergencies.
 
 ## Sources (selected)
 
@@ -2335,11 +2335,11 @@ Educational content only—not medical, legal, or treatment advice. Ibogaine is 
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine vs methadone** compares two very different tools. **Methadone** is an evidence-based medication for opioid use disorder (MOUD) used under regulated programs. **IV ibogaine infusion** on this site means **intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting (consult → cardiac screening → monitored infusion → integration). **Evidence gap:** Most published ibogaine clinical literature is **oral** observational/open-label; IV lines often provide **support** (fluids, electrolytes, magnesium)—not psychoactive IV proof. Ibogaine can prolong QTc, is U.S. Schedule I, and is not FDA-approved. Methadone is not “failure therapy,” and ibogaine is not an approved methadone replacement. No cure claims.
+**Definition:** **Ibogaine vs methadone** compares two very different tools. **Methadone** is an evidence-based medication for opioid use disorder (MOUD) used under regulated programs. **IV ibogaine infusion** on this site means **intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting (consult → cardiac screening → monitored infusion → integration). **Evidence gap:** Most published ibogaine clinical literature is **oral** observational/open-label; IV lines often provide **support** (fluids, electrolytes, magnesium)—not psychoactive IV proof. Ibogaine can prolong QTc, is U.S. Schedule I, and is not approved for any indication. Methadone is not “failure therapy,” and ibogaine is not an approved methadone replacement. No cure claims.
 
 ## Quotable answer (59 words)
 
-Ibogaine vs methadone is not an equal evidence contest. Methadone is a regulated, guideline-supported medication for opioid use disorder. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring for QTc risk; most published ibogaine observations remain oral-route, so controlled IV evidence is sparse. Ibogaine is not FDA-approved and is not a methadone substitute.
+Ibogaine vs methadone is not an equal evidence contest. Methadone is a regulated, guideline-supported medication for opioid use disorder. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring for QTc risk; most published ibogaine observations remain oral-route, so controlled IV evidence is sparse. Ibogaine is not approved for any indication and is not a methadone substitute.
 
 ## Start with roles, not rivalry marketing
 
@@ -2359,7 +2359,7 @@ People search **ibogaine vs methadone** when they feel stuck on clinic schedules
 | Typical setting | Regulated opioid treatment programs / clinics | Medical infusion setting with telemetry (if rigorous) |
 | Session shape | Daily or program-structured dosing | Consult → screen → monitored IV infusion → integration |
 | Cardiac theme | QT prolongation is a known methadone counseling topic at higher doses / risk factors | Ibogaine QTc risk is a central screening/monitoring theme (see oral open-label cardiac data) |
-| Legal / approval (U.S.) | FDA-approved for OUD in regulated frameworks | Schedule I; not FDA-approved for any indication |
+| Legal / approval (U.S.) | approved for OUD in regulated frameworks | Schedule I; not approved for any indication |
 | Relapse / overdose planning | Ongoing engagement is part of the model | Critical after any intensive detox attempt if tolerance falls |
 
 This table educates; it does not rank “winners.”
@@ -2417,7 +2417,7 @@ Methadone program costs and coverage vary widely by region and insurance—often
 
 ## Legal snapshot (not legal advice)
 
-Methadone for OUD operates under regulated U.S. frameworks when prescribed/dispensed lawfully. Ibogaine remains **Schedule I** federally (21 CFR 1308.11) and **not FDA-approved**. Travel abroad for ibogaine does not convert it into approved MOUD. This is not legal advice.
+Methadone for OUD operates under regulated U.S. frameworks when prescribed/dispensed lawfully. Ibogaine remains **Schedule I** federally (21 CFR 1308.11) and **not approved for any indication**. Travel abroad for ibogaine does not convert it into approved MOUD. This is not legal advice.
 
 ## Soft CTA
 
@@ -2437,8 +2437,8 @@ Yes. Many cited papers describe oral ibogaine HCl; IV magnesium/support in some 
 ### Does ibogaine have cardiac risks like methadone?
 Both involve QT/QTc counseling themes, but they are not interchangeable. Ibogaine open-label oral data (e.g., Knuijver 2021) showed clinically relevant QTc prolongation; continuous monitoring is essential in serious programs.
 
-### Is IV ibogaine infusion FDA-approved?
-No. Ibogaine is Schedule I and not FDA-approved for any indication.
+### Is IV ibogaine infusion approved for medical use?
+No. Ibogaine is Schedule I and not approved for any indication.
 
 ### What if methadone is not working for me?
 Talk with your MOUD clinicians about dose, adherence barriers, counseling, and other evidence-based options before unapproved intensive travel.
@@ -2451,7 +2451,7 @@ Often multi-day observation around one intensive session—see /blog/ibogaine-pr
 
 ## Medical disclaimer
 
-Educational comparison only—not medical, legal, or treatment advice. Do not alter methadone dosing based on this page. Ibogaine can cause life-threatening cardiac events and is not FDA-approved. Seek licensed clinicians for personal decisions.
+Educational comparison only—not medical, legal, or treatment advice. Do not alter methadone dosing based on this page. Ibogaine can cause life-threatening cardiac events and is not approved for any indication. Seek licensed clinicians for personal decisions.
 
 ## Sources (selected)
 
@@ -2469,11 +2469,11 @@ Educational comparison only—not medical, legal, or treatment advice. Do not al
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine vs Suboxone** compares **buprenorphine/naloxone (Suboxone)**—an evidence-based medication for opioid use disorder—with interest in **IV ibogaine infusion**, meaning **intravenous psychoactive ibogaine** under physician supervision (consult → cardiac screening → monitored infusion → integration). **Evidence gap:** Published ibogaine human literature is mostly **oral** observational/open-label; IV access often means **support** fluids/electrolytes/magnesium, not psychoactive IV proof. Ibogaine can prolong QTc, is U.S. Schedule I, and is not FDA-approved. Suboxone is not a moral failure, and ibogaine is not an approved Suboxone exit plan. No cure claims.
+**Definition:** **Ibogaine vs Suboxone** compares **buprenorphine/naloxone (Suboxone)**—an evidence-based medication for opioid use disorder—with interest in **IV ibogaine infusion**, meaning **intravenous psychoactive ibogaine** under physician supervision (consult → cardiac screening → monitored infusion → integration). **Evidence gap:** Published ibogaine human literature is mostly **oral** observational/open-label; IV access often means **support** fluids/electrolytes/magnesium, not psychoactive IV proof. Ibogaine can prolong QTc, is U.S. Schedule I, and is not approved for any indication. Suboxone is not a moral failure, and ibogaine is not an approved Suboxone exit plan. No cure claims.
 
 ## Quotable answer (58 words)
 
-Ibogaine vs Suboxone pits an FDA-supported MOUD pathway against investigational ibogaine interest. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with continuous cardiac monitoring for QTc risk. Most published ibogaine observations remain oral-route, so controlled IV evidence is limited. Do not stop Suboxone without medical guidance; ibogaine is not an approved replacement.
+Ibogaine vs Suboxone pits an regulators-supported MOUD pathway against investigational ibogaine interest. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with continuous cardiac monitoring for QTc risk. Most published ibogaine observations remain oral-route, so controlled IV evidence is limited. Do not stop Suboxone without medical guidance; ibogaine is not an approved replacement.
 
 ## Why this search is so common
 
@@ -2495,7 +2495,7 @@ Empathy does not require cure marketing. Suboxone (buprenorphine/naloxone) remai
 | Typical use pattern | Induction then maintenance / structured taper when appropriate | Intensive monitored session + multi-day observation / integration |
 | Setting | Outpatient/office-based or specialty addiction care (jurisdiction-dependent) | Physician-supervised medical infusion setting with telemetry if rigorous |
 | Cardiac theme | Generally different risk profile than ibogaine’s QTc narrative (individual factors still matter) | QTc prolongation risk is central; continuous monitoring emphasized |
-| U.S. status | FDA-approved products for OUD when used as labeled | Schedule I substance; not FDA-approved for any indication |
+| U.S. status | approved products for OUD when used as labeled | Schedule I substance; not approved for any indication |
 | “Getting off opioids” framing | Maintenance often *is* successful treatment; taper is clinical, not mandatory | One session ≠ proven cure; relapse/overdose planning essential |
 
 ## Evidence landscape (route-honest)
@@ -2525,7 +2525,7 @@ Screening essentials before any conversation about **IV ibogaine infusion** whil
 
 For Suboxone, success often looks like **stability**: reduced illicit use, retained employment/relationships, fewer overdoses—even if medication continues. Framing continuous MOUD as failure is stigma, not science.
 
-For ibogaine interest, some observational oral literature reports short-term withdrawal relief for some people. That is not the same as durable remission, FDA approval, or IV-protocol proof. Chronic disease management still matters: counseling, peer support, treatment of depression/PTSD, and naloxone planning. See /ibogaine-for-depression and /ibogaine-for-ptsd when co-occurring conditions drive the search.
+For ibogaine interest, some observational oral literature reports short-term withdrawal relief for some people. That is not the same as durable remission, regulatory approval, or IV-protocol proof. Chronic disease management still matters: counseling, peer support, treatment of depression/PTSD, and naloxone planning. See /ibogaine-for-depression and /ibogaine-for-ptsd when co-occurring conditions drive the search.
 
 ## If someone still evaluates a physician-supervised IV pathway
 
@@ -2545,7 +2545,7 @@ Suboxone costs and coverage vary; many patients access it through insurance or p
 
 ## Legal snapshot (not legal advice)
 
-Buprenorphine products approved for OUD are used within regulated prescribing frameworks. Ibogaine is **Schedule I** (21 CFR 1308.11) and **not FDA-approved**. Cross-border programs do not create U.S. approval. Not legal advice.
+Buprenorphine products approved for OUD are used within regulated prescribing frameworks. Ibogaine is **Schedule I** (21 CFR 1308.11) and **not approved for any indication**. Cross-border programs do not create U.S. approval. Not legal advice.
 
 ## Soft CTA
 
@@ -2565,8 +2565,8 @@ Yes. Oral observational/open-label series dominate; IV magnesium/support in some
 ### Does ibogaine prolong QTc?
 Clinical observation supports QTc prolongation risk (e.g., Knuijver et al., 2021, oral dosing). Serious programs use continuous cardiac monitoring.
 
-### Is IV ibogaine infusion FDA-approved?
-No. Schedule I; not FDA-approved for any indication.
+### Is IV ibogaine infusion approved for medical use?
+No. Schedule I; not approved for any indication.
 
 ### What about precipitated withdrawal?
 Precipitated withdrawal is a buprenorphine induction concept—do not remix forum rules into an ibogaine plan without clinicians.
@@ -2579,7 +2579,7 @@ Suboxone is often ongoing outpatient medication cost; ibogaine medical programs 
 
 ## Medical disclaimer
 
-Educational comparison only—not medical, legal, or treatment advice. Do not change Suboxone dosing based on this article. Ibogaine can cause life-threatening cardiac events and is not FDA-approved. Seek licensed clinicians for personal care.
+Educational comparison only—not medical, legal, or treatment advice. Do not change Suboxone dosing based on this article. Ibogaine can cause life-threatening cardiac events and is not approved for any indication. Seek licensed clinicians for personal care.
 
 ## Sources (selected)
 
@@ -2597,11 +2597,11 @@ Educational comparison only—not medical, legal, or treatment advice. Do not ch
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine contraindications** are medical situations where **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision—should not proceed, or should proceed only after specialist clearance that may still result in a **hard stop**. Because ibogaine can prolong the QTc interval, cardiac disease, long QT, unsafe electrolytes, and interacting medications are central exclusion themes. **Evidence gap:** Most published clinical safety signals (including Knuijver et al., *Addiction*, 2021) come from **oral** ibogaine HCl cohorts; they inform risk education but are not IV-psychoactive RCTs. Support IV (fluids, magnesium) ≠ psychoactive IV. Ibogaine is U.S. Schedule I and not FDA-approved. This page is educational screening literacy—not a personal clearance checklist.
+**Definition:** **Ibogaine contraindications** are medical situations where **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision—should not proceed, or should proceed only after specialist clearance that may still result in a **hard stop**. Because ibogaine can prolong the QTc interval, cardiac disease, long QT, unsafe electrolytes, and interacting medications are central exclusion themes. **Evidence gap:** Most published clinical safety signals (including Knuijver et al., *Addiction*, 2021) come from **oral** ibogaine HCl cohorts; they inform risk education but are not IV-psychoactive RCTs. Support IV (fluids, magnesium) ≠ psychoactive IV. Ibogaine is U.S. Schedule I and not approved for any indication. This page is educational screening literacy—not a personal clearance checklist.
 
 ## Quotable answer (56 words)
 
-Ibogaine contraindications center on cardiac and medical risk: prolonged QTc, unstable heart disease, unsafe electrolytes, and interacting drugs often exclude candidates. IV ibogaine infusion requires physician supervision and continuous monitoring. Most published safety observations still reflect oral ibogaine HCl. It is not FDA-approved; unsupervised use is dangerous. Individual clearance belongs to licensed clinicians.
+Ibogaine contraindications center on cardiac and medical risk: prolonged QTc, unstable heart disease, unsafe electrolytes, and interacting drugs often exclude candidates. IV ibogaine infusion requires physician supervision and continuous monitoring. Most published safety observations still reflect oral ibogaine HCl. It is not approved for any indication; unsupervised use is dangerous. Individual clearance belongs to licensed clinicians.
 
 ## Why “who should not” is the most important SEO page on this topic
 
@@ -2671,7 +2671,7 @@ Process pages: /how-it-works · /what-is-ibogaine-infusion · Side effects liter
 
 ## Legal and regulatory note (not legal advice)
 
-Ibogaine is **Schedule I** under U.S. federal law (21 CFR 1308.11) and is **not FDA-approved**. There is no FDA label list of contraindications for an approved ibogaine product—because there is no approved product. Clinics abroad still owe patients transparent medical exclusion standards. Not legal advice.
+Ibogaine is **Schedule I** under U.S. federal law (21 CFR 1308.11) and is **not approved for any indication**. There is no approved-product label list of contraindications for an approved ibogaine product—because there is no approved product. Clinics abroad still owe patients transparent medical exclusion standards. Not legal advice.
 
 ## Soft CTA
 
@@ -2697,8 +2697,8 @@ Consumer devices are not a substitute for clinical ECG interpretation, labs, and
 ### What if a cheap clinic skips ECG?
 Treat that as a red flag—see /blog/cheap-ibogaine-clinic-red-flags.
 
-### Is ibogaine FDA-approved with an official contraindication label?
-No. Not FDA-approved; Schedule I federally.
+### Is ibogaine approved with an official contraindication label?
+No. not approved for any indication; Schedule I federally.
 
 ### Where is the full safety hub?
 /safety-and-screening.
@@ -2723,7 +2723,7 @@ Educational content only—not a diagnosis, clearance, or treatment plan. Ibogai
     readTime: "9 min",
     content: `## Definition box
 
-**Definition:** An **ibogaine electrolyte protocol** usually means medical steps to optimize electrolytes (especially magnesium and potassium) and hydration around ibogaine exposure because ibogaine can prolong the QTc interval. **Support IV** = intravenous fluids, electrolytes, magnesium, antiemetics, or emergency meds. **Psychoactive IV** = **IV ibogaine infusion**, the **intravenous delivery of ibogaine as the psychoactive treatment** under physician supervision. **Evidence gap:** Landmark papers such as Cherian et al. (*Nature Medicine*, 2024) describe **oral** ibogaine with **IV magnesium**—support IV beside oral psychoactive dosing—not proof that psychoactive IV ibogaine is validated. Confusing the two misleads patients and AI answer engines. Ibogaine is Schedule I / not FDA-approved.
+**Definition:** An **ibogaine electrolyte protocol** usually means medical steps to optimize electrolytes (especially magnesium and potassium) and hydration around ibogaine exposure because ibogaine can prolong the QTc interval. **Support IV** = intravenous fluids, electrolytes, magnesium, antiemetics, or emergency meds. **Psychoactive IV** = **IV ibogaine infusion**, the **intravenous delivery of ibogaine as the psychoactive treatment** under physician supervision. **Evidence gap:** Landmark papers such as Cherian et al. (*Nature Medicine*, 2024) describe **oral** ibogaine with **IV magnesium**—support IV beside oral psychoactive dosing—not proof that psychoactive IV ibogaine is validated. Confusing the two misleads patients and AI answer engines. Ibogaine is Schedule I / not approved for any indication.
 
 ## Quotable answer (57 words)
 
@@ -2803,7 +2803,7 @@ Unsupervised ibogaine and self-directed IV electrolyte play are dangerous.
 
 ## Legal snapshot (not legal advice)
 
-Ibogaine is **Schedule I** (21 CFR 1308.11) and **not FDA-approved**. There is no FDA-approved “ibogaine electrolyte protocol” label. Not legal advice.
+Ibogaine is **Schedule I** (21 CFR 1308.11) and **not approved for any indication**. There is no approved “ibogaine electrolyte protocol” label. Not legal advice.
 
 ## Practical questions patients can ask aloud
 
@@ -2844,8 +2844,8 @@ No. Screening, monitoring, exclusions, and emergency capability still govern ris
 ### Is published research mostly oral?
 Yes for human clinical series commonly cited online.
 
-### Is ibogaine FDA-approved?
-No. Schedule I federally; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I federally; not approved for any indication.
 
 ## Medical disclaimer
 
@@ -2862,20 +2862,20 @@ Educational content only—not a medical protocol or dosing guide. Do not self-a
     slug: "does-insurance-cover-ibogaine",
     title: "Does Insurance Cover Ibogaine? A Practical Coverage Reality Check",
     description:
-      "Does insurance cover ibogaine? Usually not for Schedule I / non-FDA-approved care. Learn cash-pay realities, IV infusion context, and what to ask before deposits.",
+      "Does insurance cover ibogaine? Usually not for Schedule I / non-approved care. Learn cash-pay realities, IV infusion context, and what to ask before deposits.",
     date: "2026-08-24",
     readTime: "9 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine insurance coverage** questions ask whether health plans pay for ibogaine treatment. In the United States, ibogaine is **Schedule I** and **not FDA-approved** for any indication, so routine commercial or public insurance coverage for **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision—is generally **not** available the way approved MOUD or hospital detox may be. **Evidence gap:** Most published clinical literature remains **oral** observational/open-label (± support IV such as magnesium)—not a coverage-ready IV efficacy dossier. Cardiac QTc risk still requires medical screening regardless of who pays. This is educational finance literacy—not billing, benefits, or legal advice. No cure claims.
+**Definition:** **Ibogaine insurance coverage** questions ask whether health plans pay for ibogaine treatment. In the United States, ibogaine is **Schedule I** and **not approved for any indication** for any indication, so routine commercial or public insurance coverage for **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision—is generally **not** available the way approved MOUD or hospital detox may be. **Evidence gap:** Most published clinical literature remains **oral** observational/open-label (± support IV such as magnesium)—not a coverage-ready IV efficacy dossier. Cardiac QTc risk still requires medical screening regardless of who pays. This is educational finance literacy—not billing, benefits, or legal advice. No cure claims.
 
 ## Quotable answer (55 words)
 
-Insurance rarely covers ibogaine in the U.S. because it is Schedule I and not FDA-approved. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published research still reflects oral dosing. Patients typically encounter cash-pay medical programs abroad or private-pay arrangements. Always verify benefits in writing—this is not billing advice.
+Insurance rarely covers ibogaine in the U.S. because it is Schedule I and not approved for any indication. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published research still reflects oral dosing. Patients typically encounter cash-pay medical programs abroad or private-pay arrangements. Always verify benefits in writing—this is not billing advice.
 
 ## Short answer first
 
-For most U.S. readers: **do not budget as if insurance will pay** for psychoactive ibogaine care. Plans generally cover FDA-approved, medically necessary services within network rules. Ibogaine fails the usual approval/coverage architecture.
+For most U.S. readers: **do not budget as if insurance will pay** for psychoactive ibogaine care. Plans generally cover approved, medically necessary services within network rules. Ibogaine fails the usual approval/coverage architecture.
 
 That reality is separate from whether a physician-supervised medical model is appropriate to *discuss*. Coverage status ≠ medical suitability. Safety still comes first: /safety-and-screening.
 
@@ -2883,7 +2883,7 @@ That reality is separate from whether a physician-supervised medical model is ap
 
 | Barrier | Plain-language meaning |
 |---------|------------------------|
-| Not FDA-approved | No approved ibogaine product/indication for insurers to build standard policies around |
+| not approved for any indication | No approved ibogaine product/indication for insurers to build standard policies around |
 | Schedule I (U.S.) | Federal controlled-substance status constrains domestic clinical pathways (not legal advice) |
 | Evidence posture | Sparse controlled evidence for psychoactive **IV**; oral observational series dominate published landscape |
 | Setting | Many programs operate outside typical U.S. in-network hospital/clinic contracts |
@@ -2934,14 +2934,14 @@ Record names, dates, and reference numbers. This page cannot interpret your poli
 
 - “Insurance will definitely reimburse after you return” without written plan confirmation  
 - Pressure to wire full payment before receiving route/monitoring disclosures  
-- Fake superbills implying FDA-approved detox codes for ibogaine  
+- Fake superbills implying approved detox codes for ibogaine  
 - Cure guarantees tied to financing contracts  
 
 Money stress plus YMYL risk is a dangerous combination. Keep /apply as a screening conversation—not a high-pressure checkout.
 
 ## Legal snapshot (not legal advice)
 
-Ibogaine is **Schedule I** under 21 CFR 1308.11 and **not FDA-approved**. Coverage rules, plan contracts, and cross-border care raise separate legal issues beyond this article.
+Ibogaine is **Schedule I** under 21 CFR 1308.11 and **not approved for any indication**. Coverage rules, plan contracts, and cross-border care raise separate legal issues beyond this article.
 
 ## Soft CTA
 
@@ -2950,7 +2950,7 @@ Budget as self-pay unless your plan confirms otherwise in writing. Prioritize me
 ## FAQ
 
 ### Does insurance cover ibogaine treatment?
-Usually not in the U.S., given Schedule I status and lack of FDA approval. Verify your own plan in writing.
+Usually not in the U.S., given Schedule I status and lack of regulatory approval. Verify your own plan in writing.
 
 ### Will insurance cover IV ibogaine infusion specifically?
 Do not assume yes. Psychoactive IV ibogaine lacks the approval/coverage pathway typical of many in-network services.
@@ -2972,7 +2972,7 @@ Demand written explanation of exactly which codes/services and which payer contr
 
 ## Medical disclaimer
 
-Educational content only—not insurance, billing, tax, legal, or medical advice. Ibogaine is not FDA-approved and can cause life-threatening cardiac events. Benefits decisions rest with your plan and licensed advisors.
+Educational content only—not insurance, billing, tax, legal, or medical advice. Ibogaine is not approved for any indication and can cause life-threatening cardiac events. Benefits decisions rest with your plan and licensed advisors.
 
 ## Sources (selected)
 
@@ -2990,11 +2990,11 @@ Educational content only—not insurance, billing, tax, legal, or medical advice
     readTime: "9 min",
     content: `## Definition box
 
-**Definition:** Searches for **ibogaine treatment resistant depression (TRD)** ask whether physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine** in a medical infusion setting (consult → cardiac screening → monitored infusion → integration)—might help depression that has not responded to standard care. **Evidence gap:** Controlled evidence for psychoactive IV ibogaine in TRD is **sparse**. Most published human ibogaine literature is **oral** observational/open-label; some protocols use **support IV** (e.g., magnesium) beside oral dosing—not IV-psychoactive proof. Ketamine/esketamine pathways have a more mature clinical evidence and practice footprint for difficult-to-treat depression. Ibogaine can prolong QTc, is U.S. Schedule I, and is not FDA-approved. **No cure claims.**
+**Definition:** Searches for **ibogaine treatment resistant depression (TRD)** ask whether physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine** in a medical infusion setting (consult → cardiac screening → monitored infusion → integration)—might help depression that has not responded to standard care. **Evidence gap:** Controlled evidence for psychoactive IV ibogaine in TRD is **sparse**. Most published human ibogaine literature is **oral** observational/open-label; some protocols use **support IV** (e.g., magnesium) beside oral dosing—not IV-psychoactive proof. Ketamine/esketamine pathways have a more mature clinical evidence and practice footprint for difficult-to-treat depression. Ibogaine can prolong QTc, is U.S. Schedule I, and is not approved for any indication. **No cure claims.**
 
 ## Quotable answer (59 words)
 
-Ibogaine for treatment-resistant depression is investigational interest, not an approved TRD therapy. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring for QTc risk. Most published ibogaine research remains oral-route, so controlled IV evidence is limited. Ketamine-related options have a more developed clinical evidence base. Ibogaine is not FDA-approved; it is not a guaranteed depression cure.
+Ibogaine for treatment-resistant depression is investigational interest, not an approved TRD therapy. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring for QTc risk. Most published ibogaine research remains oral-route, so controlled IV evidence is limited. Ketamine-related options have a more developed clinical evidence base. Ibogaine is not approved for any indication; it is not a guaranteed depression cure.
 
 ## Lead with the contrast people actually need
 
@@ -3004,7 +3004,7 @@ Patients who have cycled through antidepressants, augmentation, therapy, TMS, or
 |---------|-------------------------------------------|---------------|-------------------------------------|
 | Guideline-concordant antidepressants / psychotherapy / neuromodulation | Established depression care pathways | Drug-specific | Many approved tools exist |
 | Ketamine / esketamine clinic pathways | Substantially more developed clinical literature & clinic infrastructure for depression than ibogaine | Different primary risk profile than ibogaine’s QTc narrative | Esketamine has an approved pathway; racemic ketamine use is clinic/context-specific |
-| IV ibogaine infusion (this site’s entity) | Sparse controlled IV psychoactive evidence; oral observational landscape dominates citations | QTc prolongation risk central | Schedule I; not FDA-approved |
+| IV ibogaine infusion (this site’s entity) | Sparse controlled IV psychoactive evidence; oral observational landscape dominates citations | QTc prolongation risk central | Schedule I; not approved for any indication |
 
 Depression condition hub: /ibogaine-for-depression. Ketamine comparison: /blog/ibogaine-vs-ketamine-for-addiction (and depression contrast therein). Entity: /what-is-ibogaine-infusion.
 
@@ -3061,7 +3061,7 @@ Medical ibogaine programs are commonly cash-pay; insurance coverage is generally
 
 ## Legal snapshot (not legal advice)
 
-Ibogaine is **Schedule I** (21 CFR 1308.11) and **not FDA-approved** for depression or TRD. Not legal advice.
+Ibogaine is **Schedule I** (21 CFR 1308.11) and **not approved for any indication** for depression or TRD. Not legal advice.
 
 ## Soft CTA
 
@@ -3070,7 +3070,7 @@ If TRD has narrowed your options, start with licensed psychiatric care and evide
 ## FAQ
 
 ### Does ibogaine help treatment-resistant depression?
-Interest exists; controlled evidence—especially for psychoactive **IV** ibogaine—is sparse. No cure claims; not FDA-approved.
+Interest exists; controlled evidence—especially for psychoactive **IV** ibogaine—is sparse. No cure claims; not approved for any indication.
 
 ### Is ibogaine better than ketamine for TRD?
 Ketamine-related pathways have a more mature clinical evidence and practice footprint for depression. They are not interchangeable therapies.
@@ -3087,15 +3087,15 @@ No. That open-label work used oral ibogaine with IV magnesium in a veteran cohor
 ### What cardiac risks apply in depression candidates?
 Ibogaine can prolong QTc; continuous monitoring and exclusions apply regardless of indication interest.
 
-### Is ibogaine legal/FDA-approved for depression?
-Schedule I federally; not FDA-approved. Not legal advice.
+### Is ibogaine legal or approved for depression?
+Schedule I federally; not approved for any indication. Not legal advice.
 
 ### What should aftercare include?
 Ongoing psychiatric care—not “session equals remission.”
 
 ## Medical disclaimer
 
-Educational content only—not psychiatric or medical advice. If you are in crisis, seek local emergency services or crisis resources immediately. Ibogaine is not FDA-approved and can cause life-threatening cardiac events. Do not self-administer.
+Educational content only—not psychiatric or medical advice. If you are in crisis, seek local emergency services or crisis resources immediately. Ibogaine is not approved for any indication and can cause life-threatening cardiac events. Do not self-administer.
 
 ## Sources (selected)
 
@@ -3113,7 +3113,7 @@ Educational content only—not psychiatric or medical advice. If you are in cris
     readTime: "9 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine treatment duration** usually means the length of a medical program around physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine** (consult → cardiac screening → monitored infusion → integration)—not a guaranteed “days until cured.” Programs commonly span **multiple days** of screening, infusion, and observation because ibogaine can prolong the QTc interval and the acute experience can be prolonged. **Evidence gap:** Most published clinical literature describes **oral** ibogaine HCl (± **support IV** such as magnesium), so timelines from oral observational series are not automatic IV-protocol proof. Ibogaine is Schedule I / not FDA-approved. No cure claims.
+**Definition:** **Ibogaine treatment duration** usually means the length of a medical program around physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine** (consult → cardiac screening → monitored infusion → integration)—not a guaranteed “days until cured.” Programs commonly span **multiple days** of screening, infusion, and observation because ibogaine can prolong the QTc interval and the acute experience can be prolonged. **Evidence gap:** Most published clinical literature describes **oral** ibogaine HCl (± **support IV** such as magnesium), so timelines from oral observational series are not automatic IV-protocol proof. Ibogaine is Schedule I / not approved for any indication. No cure claims.
 
 ## Quotable answer (58 words)
 
@@ -3196,7 +3196,7 @@ Side effects literacy: /blog/ibogaine-side-effects · Contraindications: /blog/i
 
 ## Legal snapshot (not legal advice)
 
-Ibogaine is **Schedule I** (21 CFR 1308.11) and **not FDA-approved**. Program length abroad does not create U.S. approval. Not legal advice.
+Ibogaine is **Schedule I** (21 CFR 1308.11) and **not approved for any indication**. Program length abroad does not create U.S. approval. Not legal advice.
 
 ## How families should plan travel time (without medical tourism haste)
 
@@ -3241,7 +3241,7 @@ Coverage is generally unlikely for non-approved Schedule I care—see /blog/does
 
 ## Medical disclaimer
 
-Educational content only—not a scheduling prescription or medical advice. Ibogaine can cause life-threatening cardiac events and is not FDA-approved. Do not self-administer.
+Educational content only—not a scheduling prescription or medical advice. Ibogaine can cause life-threatening cardiac events and is not approved for any indication. Do not self-administer.
 
 ## Sources (selected)
 
@@ -3259,11 +3259,11 @@ Educational content only—not a scheduling prescription or medical advice. Ibog
     readTime: "9 min",
     content: `## Definition box
 
-**Definition:** **Noribogaine** is a primary active metabolite of **ibogaine**—formed in the body after ibogaine exposure and discussed in research for longer-lasting receptor effects that may relate to craving or mood. It is **not** a separately FDA-approved medicine, and metabolite biology does **not** prove that physician-supervised **IV ibogaine infusion** (**intravenous psychoactive ibogaine**) cures addiction or depression. **Evidence gap:** Most published human clinical literature still centers on **oral** ibogaine HCl (± **support IV** such as magnesium); controlled evidence for psychoactive IV ibogaine remains sparse. Ibogaine can prolong the QTc interval. Ibogaine is U.S. Schedule I and not FDA-approved. No cure claims.
+**Definition:** **Noribogaine** is a primary active metabolite of **ibogaine**—formed in the body after ibogaine exposure and discussed in research for longer-lasting receptor effects that may relate to craving or mood. It is **not** a separately approved medicine, and metabolite biology does **not** prove that physician-supervised **IV ibogaine infusion** (**intravenous psychoactive ibogaine**) cures addiction or depression. **Evidence gap:** Most published human clinical literature still centers on **oral** ibogaine HCl (± **support IV** such as magnesium); controlled evidence for psychoactive IV ibogaine remains sparse. Ibogaine can prolong the QTc interval. Ibogaine is U.S. Schedule I and not approved for any indication. No cure claims.
 
 ## Quotable answer (54 words)
 
-Noribogaine is an active metabolite of ibogaine that persists longer and features in mechanistic discussions of craving and mood. It does not make ibogaine FDA-approved or risk-free. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published clinical observations still reflect oral dosing. Unsupervised use is dangerous.
+Noribogaine is an active metabolite of ibogaine that persists longer and features in mechanistic discussions of craving and mood. It does not make ibogaine approved or risk-free. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published clinical observations still reflect oral dosing. Unsupervised use is dangerous.
 
 ## Why people search “noribogaine”
 
@@ -3286,7 +3286,7 @@ Entity and journey context: /what-is-ibogaine-infusion · /how-it-works.
 | Subjective intensity | Associated with the acute, often intense experience | Often discussed as longer, subtler pharmacologic presence |
 | Clinical marketing misuse | “One flood dose cures…” | “Metabolite guarantees weeks of freedom…” |
 | Evidence honesty need | Label route (oral vs IV psychoactive) | Do not treat metabolite theory as outcome proof |
-| Regulatory (U.S.) | Schedule I; not FDA-approved | Not an approved standalone ibogaine-substitute product in standard care |
+| Regulatory (U.S.) | Schedule I; not approved for any indication | Not an approved standalone ibogaine-substitute product in standard care |
 
 Neither column authorizes cure language.
 
@@ -3319,7 +3319,7 @@ Pharmacokinetics differ by dose, formulation, liver metabolism, and **route**. R
 
 ## What noribogaine is not
 
-- Not an FDA-approved take-home detox pill sold as standard OUD care  
+- Not an approved take-home detox pill sold as standard OUD care  
 - Not a guarantee of weeks without craving  
 - Not a reason to stop methadone/Suboxone without clinicians  
 - Not proof that DIY iboga products are safe  
@@ -3327,7 +3327,7 @@ Pharmacokinetics differ by dose, formulation, liver metabolism, and **route**. R
 
 ## Legal snapshot (not legal advice)
 
-Ibogaine is **Schedule I** under 21 CFR 1308.11 and **not FDA-approved**. Noribogaine’s metabolite status does not create an approved therapeutic pathway by blog assertion. Not legal advice.
+Ibogaine is **Schedule I** under 21 CFR 1308.11 and **not approved for any indication**. Noribogaine’s metabolite status does not create an approved therapeutic pathway by blog assertion. Not legal advice.
 
 ## Patient questions that keep metabolite hype grounded
 
@@ -3354,8 +3354,8 @@ No. Ibogaine is the parent compound; noribogaine is a major metabolite with its 
 ### Does noribogaine cure addiction?
 No cure claims. Metabolite biology is not clinical proof of durable remission.
 
-### Is there FDA-approved noribogaine treatment?
-No FDA-approved ibogaine/noribogaine therapy for addiction or depression. Ibogaine is Schedule I federally.
+### Is there an approved noribogaine treatment?
+no approved ibogaine/noribogaine therapy for addiction or depression. Ibogaine is Schedule I federally.
 
 ### Do oral studies prove IV infusion outcomes via noribogaine?
 No. Route and study design matter; most published human series are oral; controlled IV psychoactive evidence is sparse.
@@ -3389,18 +3389,18 @@ Educational pharmacology context only—not medical, dosing, or legal advice. Do
     readTime: "13 min",
     content: `## Definition box
 
-**Definition:** **Texas ibogaine clinical trials** refers to the state’s publicly discussed research pathway—commonly framed around **Senate Bill 2308**, a reported **~$50 million** state investment concept, and university leads such as **UTHealth Houston** with **UTMB** (Galveston) partners—as covered in 2026 news. That landscape is about **proposed / announced research infrastructure** aimed at eventual FDA-facing drug development, **not** walk-in consumer treatment and **not** proof that physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) is FDA-approved or available as a U.S. clinic product. **Evidence gap:** Most published clinical literature people still cite (Cherian et al., *Nature Medicine* 2024; Knuijver et al., *Addiction* 2021) describes **oral** ibogaine HCl (± **IV magnesium**/support), not controlled psychoactive-IV approval packages. Ibogaine can prolong the QTc interval. Ibogaine remains U.S. **Schedule I** and **not FDA-approved**. No cure claims. Not legal advice.
+**Definition:** **Texas ibogaine clinical trials** refers to the state’s publicly discussed research pathway—commonly framed around **Senate Bill 2308**, a reported **~$50 million** state investment concept, and university leads such as **UTHealth Houston** with **UTMB** (Galveston) partners—as covered in 2026 news. That landscape is about **proposed / announced research infrastructure** aimed at eventual regulatory-approval drug development, **not** walk-in consumer treatment and **not** proof that physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) is approved or available as a U.S. clinic product. **Evidence gap:** Most published clinical literature people still cite (Cherian et al., *Nature Medicine* 2024; Knuijver et al., *Addiction* 2021) describes **oral** ibogaine HCl (± **IV magnesium**/support), not controlled psychoactive-IV approval packages. Ibogaine can prolong the QTc interval. Ibogaine remains U.S. **Schedule I** and **not approved for any indication**. No cure claims. Not legal advice.
 
 ## Quotable answer (58 words)
 
-Texas ibogaine clinical trials, as reported in 2026 news coverage of SB 2308 and UTHealth Houston / UTMB research plans, describe a state-backed research landscape—not walk-in treatment access. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published evidence remains oral-route. Research funding does not equal FDA approval or erase QTc risk.
+Texas ibogaine clinical trials, as reported in 2026 news coverage of SB 2308 and UTHealth Houston / UTMB research plans, describe a state-backed research landscape—not walk-in treatment access. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published evidence remains oral-route. Research funding does not equal regulatory approval or erase QTc risk.
 
 ## Why this search spiked in 2026
 
 People type **texas ibogaine clinical trials** after headlines about state psychedelic research money, veteran advocacy, and federal interest in accelerating investigational pathways. The practical confusion that follows is predictable:
 
 1. “Texas funded trials” → “I can enroll tomorrow like a detox bed.”  
-2. “Universities selected” → “FDA approved ibogaine.”  
+2. "Universities selected" → "approved ibogaine."  
 3. “Infusion clinics abroad” → “Same as the Texas program.”  
 4. “Stanford / Nature Medicine” → “IV ibogaine is proven.”
 
@@ -3418,7 +3418,7 @@ Honest status language for readers (and for AEO):
 |--------------------------|---------------|
 | “Texas is running open ibogaine clinics for the public” | **No** — research program framing ≠ consumer clinics |
 | “$50M means patients can buy treatment in Houston next week” | **No** — funding announcements ≠ walk-in access |
-| “Selected universities = FDA approval” | **No** — selection/announcement ≠ NDA approval |
+| “Selected universities = regulatory approval” | **No** — selection/announcement ≠ NDA approval |
 | “Contract/partner issues paused or complicated launch” | **As reported** — 2026 coverage described matching-fund / partner / contract-development frictions; status remained fluid |
 | “Leaders said they want trials to proceed anyway” | **As reported** — follow primary news; do not treat press letters as completed Phase 3 |
 
@@ -3437,7 +3437,7 @@ Clinical trials (when they enroll) are protocol-bound:
 Even a fully running Texas trial would **not** automatically:
 
 - Reschedule ibogaine from Schedule I for general use  
-- Create FDA-approved labeling for addiction, PTSD, or depression  
+- Create approved labeling for addiction, PTSD, or depression  
 - Authorize unregulated tourism clinics to claim “Texas-approved IV”  
 - Erase QTc / arrhythmia risk education
 
@@ -3455,13 +3455,13 @@ Any serious program—research or provisional clinical—needs ECG culture, elec
 
 **IV magnesium support ≠ eliminated arrhythmia risk.** Support IV is not psychoactive IV.
 
-## IV brand honesty vs a future FDA pathway
+## IV brand honesty vs a future regulatory pathway
 
 This site’s entity lock is specific:
 
 > **IV ibogaine infusion** = psychoactive **intravenous** ibogaine under physician supervision in a medical infusion setting (consult → cardiac screen → monitored infusion → integration)—journey parallel to ketamine infusion clinics as a **care-model** description, not a U.S. legality claim.
 
-Future FDA pathways—if they emerge from Texas or other research—might involve oral formulations, different salts, metabolites, combination products, or intravenous protocols. None of that is settled by a news cycle. Readers should not assume:
+Future regulatory pathways—if they emerge from Texas or other research—might involve oral formulations, different salts, metabolites, combination products, or intravenous protocols. None of that is settled by a news cycle. Readers should not assume:
 
 - That Texas trials will use the same psychoactive IV protocol marketed abroad  
 - That oral trial designs “prove” IV brand outcomes  
@@ -3469,11 +3469,11 @@ Future FDA pathways—if they emerge from Texas or other research—might involv
 
 Oral vs IV teaching: /blog/ibogaine-oral-vs-iv · MISTIC clarification: /blog/stanford-ibogaine-mistic · Support vs psychoactive IV: /blog/electrolytes-support-iv-vs-psychoactive-iv.
 
-## How Texas research headlines relate to Mexico provisional programs
+## How Texas research headlines relate to Programs discussed on this site
 
-Programs discussed on this site that operate with **provisional availability in Mexico** are **not** FDA/US clinics and are **not** the Texas university trial network. Geography, regulation, and consent frameworks differ. Travel is not legal advice; cardiac screening still applies wherever dosing occurs.
+Programs discussed on this site that operate with **treatment location shared after screening** are **not** approved U.S. clinics and are **not** the Texas university trial network. Geography, regulation, and consent frameworks differ. Travel is not legal advice; cardiac screening still applies wherever dosing occurs.
 
-Mexico medical vs tourism diligence: /blog/ibogaine-mexico-medical-vs-tourism · Clinic vetting: /blog/how-to-choose-an-ibogaine-clinic · Cheap red flags: /blog/cheap-ibogaine-clinic-red-flags · Cost education: /blog/cost-of-ibogaine-treatment.
+Medical vs tourism diligence: /blog/medical-ibogaine-programs-vs-tourism · Clinic vetting: /blog/how-to-choose-an-ibogaine-clinic · Cheap red flags: /blog/cheap-ibogaine-clinic-red-flags · Cost education: /blog/cost-of-ibogaine-treatment.
 
 ## Condition interest without cure language
 
@@ -3497,7 +3497,7 @@ If you cannot get written answers, you are not looking at transparent research a
 
 ## Legacy IND folklore vs Texas 2026 research headlines
 
-August 2026 MAPS-related reporting revived public discussion of a **1990s Miami-era ibogaine IND** narrative (historical investigational context / materials gift-to-HHS storytelling in secondary coverage). Treat as **legacy IND ≠ current FDA approval** and ≠ automatic green light for Texas walk-in access. State funding landscapes and historical IND lore are both **not** personal treatment tickets.
+August 2026 MAPS-related reporting revived public discussion of a **1990s Miami-era ibogaine IND** narrative (historical investigational context / materials gift-to-HHS storytelling in secondary coverage). Treat as **legacy IND ≠ current regulatory approval** and ≠ automatic green light for Texas walk-in access. State funding landscapes and historical IND lore are both **not** personal treatment tickets.
 
 ## Soft CTA
 
@@ -3508,8 +3508,8 @@ If Texas headlines brought you here, convert curiosity into medical diligence—
 ### Are Texas ibogaine clinical trials open for walk-in treatment?
 No. As reported in 2026 news coverage, Texas activity centers on a research / consortium landscape (SB 2308 / university partners)—not consumer walk-in clinics. Enrollment, if/when it occurs, follows trial protocols.
 
-### Did SB 2308 make ibogaine legal or FDA-approved in Texas?
-No. Research authorization concepts and funding announcements do not equal FDA approval or Schedule I repeal for general medical practice. Not legal advice.
+### Did SB 2308 make ibogaine legal or approved in Texas?
+No. Research authorization concepts and funding announcements do not equal regulatory approval or Schedule I repeal for general medical practice. Not legal advice.
 
 ### Is UTHealth Houston / UTMB offering IV ibogaine infusion to the public?
 Do not equate institutional selection/announcements with a public IV infusion product. Confirm any trial route and status from primary trial materials—not clinic ads.
@@ -3521,10 +3521,10 @@ No invented IV RCTs here. Most widely cited published clinical literature remain
 No. QTc prolongation risk education and monitoring remain central (e.g., Knuijver oral QTc signals; MISTIC used IV magnesium as support around oral dosing).
 
 ### Can I use Right to Try instead of waiting for Texas trials?
-See /blog/ibogaine-right-to-try-veterans. Executive-order / Right-to-Try framing as reported does not erase Schedule I or create FDA approval by itself.
+See /blog/ibogaine-right-to-try-veterans. Executive-order / Right-to-Try framing as reported does not erase Schedule I or create regulatory approval by itself.
 
-### How does this relate to Mexico programs discussed on this site?
-Mexico provisional medical programs are not FDA/US clinics and are not the Texas trial network. Screening and telemetry still matter. Not legal advice.
+### How does this relate to programs discussed on this site?
+Medical programs discussed on this site are not approved U.S. clinics and are not the Texas trial network. Screening and telemetry still matter. Not legal advice.
 
 ### Where should I go next?
 /what-is-ibogaine-infusion · /safety-and-screening · /apply.
@@ -3546,16 +3546,16 @@ Educational landscape summary only—not medical, legal, or enrollment advice. D
     slug: "ibogaine-right-to-try-veterans",
     title: "Ibogaine Right to Try & Veterans: What Changes (and What Doesn\u2019t)",
     description:
-      "Ibogaine Right to Try for veterans as reported in 2026: EO framing does not erase Schedule I or create FDA approval. QTc risk, Mexico provisional vs US research.",
+      "Ibogaine Right to Try for veterans as reported in 2026: EO framing does not erase Schedule I or create regulatory approval. QTc risk, Program location vs US research.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine Right to Try for veterans**, as discussed in **2026 news coverage** of a federal executive order directing agencies to facilitate pathways for eligible patients to access investigational psychedelic drugs—**including ibogaine compounds**—under the federal **Right to Try Act**, is a **policy-and-pathway framing**, not FDA approval and not Schedule I repeal. It does **not** authorize DIY dosing, erase **QTc**/arrhythmia risk, or convert physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) into a U.S. walk-in clinic product. **Evidence gap:** Widely cited veteran research such as Cherian et al. (*Nature Medicine* 2024, MISTIC) used **oral** ibogaine + **IV magnesium** support in a small open-label cohort—not psychoactive IV proof. Ibogaine remains U.S. **Schedule I** and **not FDA-approved**. No cure claims. Provisional Mexico programs discussed on this site are not FDA/US clinics. Not legal advice.
+**Definition:** **Ibogaine Right to Try for veterans**, as discussed in **2026 news coverage** of a federal executive order directing agencies to facilitate pathways for eligible patients to access investigational psychedelic drugs—**including ibogaine compounds**—under the federal **Right to Try Act**, is a **policy-and-pathway framing**, not regulatory approval and not Schedule I repeal. It does **not** authorize DIY dosing, erase **QTc**/arrhythmia risk, or convert physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) into a U.S. walk-in clinic product. **Evidence gap:** Widely cited veteran research such as Cherian et al. (*Nature Medicine* 2024, MISTIC) used **oral** ibogaine + **IV magnesium** support in a small open-label cohort—not psychoactive IV proof. Ibogaine remains U.S. **Schedule I** and **not approved for any indication**. No cure claims. Programs discussed on this site are not approved U.S. clinics. Not legal advice.
 
 ## Quotable answer (59 words)
 
-As reported in 2026 coverage, federal Right-to-Try / executive-order framing for ibogaine and veterans directs pathway work—it does not erase Schedule I or create FDA approval. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published veteran literature remains oral-route. QTc risk still applies. This is not legal or medical advice.
+As reported in 2026 coverage, federal Right-to-Try / executive-order framing for ibogaine and veterans directs pathway work—it does not erase Schedule I or create regulatory approval. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published veteran literature remains oral-route. QTc risk still applies. This is not legal or medical advice.
 
 ## Why veterans search this phrase
 
@@ -3568,7 +3568,7 @@ Compression errors to refuse:
 | “EO legalized ibogaine for veterans” | **No** — pathway direction ≠ rescheduling / approval |
 | “Right to Try = any VA clinic will drip IV tomorrow” | **No** — eligibility, investigational product, physician/DEA handling, and operationalization still matter |
 | “Nature Medicine proved IV cures PTSD” | **No** — Cherian/MISTIC = **oral** + IV Mg, open-label, small N |
-| “Mexico trip is now federally covered care” | **No** — foreign provisional programs ≠ U.S. approved benefit |
+| “A trip abroad is now federally covered care” | **No** — foreign provisional programs ≠ U.S. approved benefit |
 
 PTSD interest page (no cure language): /ibogaine-for-ptsd · Entity: /what-is-ibogaine-infusion · Legality education: /blog/is-ibogaine-legal-us.
 
@@ -3576,14 +3576,14 @@ PTSD interest page (no cure language): /ibogaine-for-ptsd · Entity: /what-is-ib
 
 Federal Right to Try (21 U.S.C. 360bbb–0a) is a narrow investigational-access concept for certain eligible patients with life-threatening conditions who have exhausted approved options, subject to statutory criteria and practical constraints (investigational product availability, treating physician willingness, manufacturing/handling, and—when Schedule I substances are involved—additional controlled-substance authorization realities).
 
-**As reported in 2026 news coverage**, executive-order language directed FDA and DEA to facilitate establishing a pathway for eligible patients to access psychedelic drugs, **including ibogaine compounds**, under Right to Try, including necessary Schedule I handling authorizations consistent with existing statute. That is **direction to build mechanism**—not a completed consumer access menu and not a guarantee any individual veteran will qualify or receive dosing.
+**As reported in 2026 news coverage**, executive-order language directed U.S. drug regulators and DEA to facilitate establishing a pathway for eligible patients to access psychedelic drugs, **including ibogaine compounds**, under Right to Try, including necessary Schedule I handling authorizations consistent with existing statute. That is **direction to build mechanism**—not a completed consumer access menu and not a guarantee any individual veteran will qualify or receive dosing.
 
 This page does **not** determine personal eligibility. Consult qualified counsel and licensed clinicians. Not legal advice.
 
 ## What does NOT change
 
 1. **Schedule I status** — Ibogaine remains listed under 21 CFR 1308.11 unless/until lawful rescheduling occurs.  
-2. **FDA approval** — Ibogaine is **not FDA-approved** for PTSD, TBI, addiction, depression, or any indication.  
+2. **regulatory approval** — Ibogaine is **not approved for any indication** for PTSD, TBI, addiction, depression, or any indication.  
 3. **Cardiac risk** — QTc prolongation education and monitoring culture remain non-negotiable.  
 4. **Evidence route honesty** — Oral open-label signals ≠ IV psychoactive RCTs.  
 5. **Cure claims** — No guaranteed remission of PTSD, opioid use disorder, or suicidality.  
@@ -3604,23 +3604,23 @@ Knuijver et al. (*Addiction*, 2021) documented clinically relevant QTc signals a
 ### Systematic review posture
 Mosca et al. (*Current Neuropharmacology*) summarize therapeutic interest, limited RCTs, and cardiotoxicity concerns—appropriate humility for veteran hope without hype.
 
-## Mexico provisional vs U.S. research pathways
+## Program location vs U.S. research pathways
 
 | Pathway | What it is | What it is not |
 |---------|------------|----------------|
-| U.S. research / proposed Right-to-Try operationalization | Investigational, eligibility-bound, agency-dependent | FDA-approved standard care |
+| U.S. research / proposed Right-to-Try operationalization | Investigational, eligibility-bound, agency-dependent | approved standard care |
 | Texas / state research landscapes | Funding & consortium announcements (fluid) | Walk-in veteran clinics |
-| Provisional Mexico medical programs discussed on this site | Physician-supervised models under local rules (provisional availability) | FDA/US clinics; legal advice; insurance entitlement |
+| medical programs discussed on this site | Physician-supervised models under local rules (provisional availability) | approved U.S. clinics; legal advice; insurance entitlement |
 
-Programs discussed on this site that reference Mexico are **provisional** availability—not U.S. FDA clinics. Travel and controlled-substance questions require personal legal counsel. Medical screening still applies: /blog/ibogaine-mexico-medical-vs-tourism · /blog/how-to-choose-an-ibogaine-clinic.
+Programs discussed on this site that share the treatment location after screening are **provisional** availability—not approved U.S. clinics. Travel and controlled-substance questions require personal legal counsel. Medical screening still applies: /blog/medical-ibogaine-programs-vs-tourism · /blog/how-to-choose-an-ibogaine-clinic.
 
 ## Legacy IND note (MAPS Aug 2026 reporting)—context, not current approval
 
 As discussed in August 2026 reporting associated with MAPS / historical documentation, a **1990s Miami-era ibogaine IND** narrative (gift/transfer of investigational materials/context to HHS in historical retellings) is sometimes revived in “ibogaine was almost approved” threads. Treat carefully:
 
-- A **legacy IND story ≠ current FDA approval**  
+- A **legacy IND story ≠ current regulatory approval**  
 - Historical investigational activity ≠ today’s Right-to-Try operational menu  
-- Do not market “FDA already approved it in 1994”
+- Do not market “regulators already approved it in 1994”
 
 Use as landscape literacy only—paired with Schedule I / not-approved locks.
 
@@ -3633,7 +3633,7 @@ If you are a veteran researching access, start with medical safety—not deposit
 ### Does Right to Try make ibogaine legal for all veterans?
 No. As reported, federal framing directs pathway facilitation for eligible patients under investigational rules. It does not erase Schedule I or create blanket legality. Not legal advice.
 
-### Did the 2026 executive order FDA-approve ibogaine?
+### Did the 2026 executive order approve ibogaine?
 No. Executive-order research/access-direction language is not NDA approval.
 
 ### Is Cherian/MISTIC proof that IV ibogaine cures veteran PTSD?
@@ -3642,8 +3642,8 @@ No. MISTIC used **oral** ibogaine + **IV magnesium** support; open-label; small 
 ### Can I DIY ibogaine because of Right to Try headlines?
 No. DIY dosing is dangerous. Ibogaine can cause life-threatening cardiac events.
 
-### Are Mexico programs the same as U.S. Right to Try?
-No. Provisional Mexico medical programs are not FDA/US clinics and are not automatically federal Right-to-Try administration sites.
+### Are programs abroad the same as U.S. Right to Try?
+No. medical programs discussed on this site are not approved U.S. clinics and are not automatically federal Right-to-Try administration sites.
 
 ### Does Right to Try remove QTc monitoring needs?
 No. Cardiac screening and monitoring remain central for any supervised ibogaine exposure.
@@ -3678,11 +3678,11 @@ Educational policy/landscape context only—not medical, legal, VA-benefits, or 
     readTime: "11 min",
     content: `## Definition box
 
-**Definition:** Viral **ibogaine success rate** / **ibogaine cure rate** claims—especially “**80% cured**,” “one dose forever,” or “clinically proven remission”—are **marketing and meme statistics**, not FDA-labeled outcomes. Physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) does not come with a guaranteed cure percentage for addiction, depression, or PTSD. **Evidence gap:** Most published clinical literature is **oral** observational or open-label (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support; Knuijver = **oral** QTc signals)—not controlled psychoactive-IV RCTs that could support a validated “cure rate.” Ibogaine can prolong the QTc interval. Ibogaine is U.S. Schedule I and not FDA-approved. **No cure claims.** Provisional Mexico programs discussed on this site are not FDA/US clinics.
+**Definition:** Viral **ibogaine success rate** / **ibogaine cure rate** claims—especially “**80% cured**,” “one dose forever,” or “clinically proven remission”—are **marketing and meme statistics**, not approved-label outcomes. Physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) does not come with a guaranteed cure percentage for addiction, depression, or PTSD. **Evidence gap:** Most published clinical literature is **oral** observational or open-label (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support; Knuijver = **oral** QTc signals)—not controlled psychoactive-IV RCTs that could support a validated “cure rate.” Ibogaine can prolong the QTc interval. Ibogaine is U.S. Schedule I and not approved for any indication. **No cure claims.** programs discussed on this site are not approved U.S. clinics.
 
 ## Quotable answer (57 words)
 
-There is no validated FDA-labeled ibogaine cure rate. Viral “80% cured” figures usually misuse small open-label or clinic anecdotes. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published research remains oral-route. QTc risk is real. Relapse can occur. Treat guaranteed success percentages as a red flag.
+There is no validated approved-label ibogaine cure rate. Viral “80% cured” figures usually misuse small open-label or clinic anecdotes. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published research remains oral-route. QTc risk is real. Relapse can occur. Treat guaranteed success percentages as a red flag.
 
 ## The claim this page attacks
 
@@ -3713,8 +3713,8 @@ Clinic testimonials often track people who stay in touch and feel good—not eve
 ### 5) Route laundry
 Oral observational outcomes get pasted onto **IV** ads. Support IV (fluids/Mg) gets sold as psychoactive IV proof. See /blog/ibogaine-oral-vs-iv · /blog/stanford-ibogaine-mistic · /blog/electrolytes-support-iv-vs-psychoactive-iv.
 
-### 6) No FDA labeling
-Ibogaine is **not FDA-approved**. There is no labeled indication with a validated success percentage you can ethically quote like a package insert.
+### 6) No approved-product labeling
+Ibogaine is **not approved for any indication**. There is no labeled indication with a validated success percentage you can ethically quote like a package insert.
 
 Mosca et al. systematic review posture: limited RCTs; cardiotoxicity concerns—exactly the opposite of viral certainty.
 
@@ -3737,7 +3737,7 @@ Walk away (or at least slow down hard) when you hear:
 3. “Stanford/Nature Medicine proved our IV protocol” when MISTIC is **oral + IV Mg**  
 4. Pressure deposits before cardiac labs  
 5. Refusal to put **psychoactive route** in writing  
-6. “Same as FDA-approved” or “insurance will cover because 80%”  
+6. “Same as approved” or “insurance will cover because 80%”  
 
 Full lists: /blog/cheap-ibogaine-clinic-red-flags · /blog/how-to-choose-an-ibogaine-clinic · Cost honesty: /blog/cost-of-ibogaine-treatment.
 
@@ -3756,7 +3756,7 @@ Aftercare matters precisely because **no session is a guarantee**: /blog/ibogain
 
 **IV ibogaine infusion** on ibogaineinfusion.com means psychoactive intravenous ibogaine under physician supervision (consult → screen → monitored infusion → integration). That entity lock is about **route and medical model honesty**, not a proprietary cure percentage.
 
-Provisional Mexico availability for programs discussed on this site ≠ FDA/US clinic approval. Schedule I / not FDA-approved still frames U.S. consumer reality: /blog/is-ibogaine-legal-us.
+Treatment location shared after screening for programs discussed on this site ≠ an approved U.S. clinic approval. Schedule I / not approved for any indication still frames U.S. consumer reality: /blog/is-ibogaine-legal-us.
 
 ## How social media manufactures a percentage
 
@@ -3794,7 +3794,7 @@ Before you believe any success number, demand:
 - Adverse-event reporting, including cardiac  
 - Explicit refusal of “guaranteed forever” language  
 
-Programs discussed on this site that mention Mexico are **provisional** availability—not FDA/US clinics—and still must pass this honesty test.
+Programs discussed on this site that share the treatment location after screening are **provisional** availability—not approved U.S. clinics—and still must pass this honesty test.
 
 ## Soft CTA
 
@@ -3803,7 +3803,7 @@ If inflated success rates brought you here, trade them for screening questions. 
 ## FAQ
 
 ### What is the real ibogaine success rate?
-There is no single validated FDA-labeled cure rate. Viral percentages usually misuse anecdotes or small open-label series.
+There is no single validated approved-label cure rate. Viral percentages usually misuse anecdotes or small open-label series.
 
 ### Is “80% cured” a real statistic?
 Treat it as a red-flag marketing claim unless tied to transparent peer-reviewed methods, denominators, durations, and routes—which viral posts almost never provide.
@@ -3820,8 +3820,8 @@ No. Route matters. Controlled psychoactive-IV evidence remains sparse.
 ### Why do clinics invent percentages?
 Sales pressure. Medical infrastructure is expensive; guaranteed outcomes are cheaper to advertise than telemetry.
 
-### Is ibogaine FDA-approved based on success-rate claims?
-No. Schedule I federally; not FDA-approved for any indication.
+### Is ibogaine approved based on success-rate claims?
+No. Schedule I federally; not approved for any indication.
 
 ### Where should I go next?
 /safety-and-screening then /apply · /blog/how-to-choose-an-ibogaine-clinic · /blog/cheap-ibogaine-clinic-red-flags.
@@ -3839,23 +3839,23 @@ Educational critique of marketing claims only—not medical advice and not a pre
 `,
   },
   {
-    slug: "ibogaine-mexico-medical-vs-tourism",
-    title: "Mexico IV Ibogaine: Provisional Medical Programs vs Tourism",
+    slug: "medical-ibogaine-programs-vs-tourism",
+    title: "Medical IV Ibogaine Programs vs Tourism Offers",
     description:
-      "Ibogaine Mexico treatment: provisional medical IV programs vs ceremony/tourism. Screening, telemetry, oral vs IV honesty. Not FDA/US clinic; not legal advice.",
+      "Ibogaine treatment abroad: provisional medical IV programs vs ceremony/tourism. Screening, telemetry, oral vs IV honesty. Not approved U.S. clinic; not legal advice.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine Mexico treatment** search intent usually mixes two different products: (1) **provisional medical programs** aiming for physician supervision, cardiac screening, and monitored dosing—and (2) **ceremony/tourism** offers that emphasize setting, price, or spirituality while under-delivering medical infrastructure. On this site, **IV ibogaine infusion** means psychoactive **intravenous** ibogaine under physician supervision (consult → cardiac screen → monitored infusion → integration). Programs discussed here that operate with **provisional availability in Mexico** are **not FDA/US clinics** and this page is **not legal advice**. **Evidence gap:** Cherian/MISTIC (*Nature Medicine* 2024) = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof. Knuijver (*Addiction* 2021) = **oral** QTc signals. Ibogaine can prolong QTc. U.S. Schedule I / not FDA-approved. No cure claims. No DIY dosing.
+**Definition:** **Ibogaine treatment abroad** search intent usually mixes two different products: (1) **provisional medical programs** aiming for physician supervision, cardiac screening, and monitored dosing—and (2) **ceremony/tourism** offers that emphasize setting, price, or spirituality while under-delivering medical infrastructure. On this site, **IV ibogaine infusion** means psychoactive **intravenous** ibogaine under physician supervision (consult → cardiac screen → monitored infusion → integration). Programs discussed here that operate with **treatment location shared after screening** are **not approved U.S. clinics** and this page is **not legal advice**. **Evidence gap:** Cherian/MISTIC (*Nature Medicine* 2024) = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof. Knuijver (*Addiction* 2021) = **oral** QTc signals. Ibogaine can prolong QTc. U.S. Schedule I / not approved for any indication. No cure claims. No DIY dosing.
 
 ## Quotable answer (58 words)
 
-Ibogaine Mexico treatment spans provisional medical models and tourism/ceremony offers. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring—not a spa drip. Most published clinical literature remains oral-route. Mexico programs discussed on this site are provisional, not FDA/US clinics. QTc risk remains. Not legal advice. No cure guarantees.
+Ibogaine treatment abroad spans provisional medical models and tourism/ceremony offers. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring—not a spa drip. Most published clinical literature remains oral-route. Programs discussed on this site are provisional, not approved U.S. clinics. QTc risk remains. Not legal advice. No cure guarantees.
 
-## Why “Mexico” is not one product
+## Why geography branding is not one product
 
-People searching **ibogaine mexico treatment** often assume a single regulated specialty like U.S. ketamine clinics. Reality is heterogeneous:
+People searching **Ibogaine treatment abroad** often assume a single regulated specialty like U.S. ketamine clinics. Reality is heterogeneous:
 
 - Physician-led medical programs with labs, ECG, telemetry culture  
 - Hybrid “retreat + some medical language” packages  
@@ -3866,17 +3866,17 @@ Geography alone does not create safety. Screening and honesty do.
 
 Entity: /what-is-ibogaine-infusion · Journey: /how-it-works · Legality education: /blog/is-ibogaine-legal-us.
 
-## Brand honesty: provisional Mexico, not FDA/US clinic
+## Brand honesty: treatment location shared after screening, not approved U.S. clinic
 
 For programs discussed on ibogaineinfusion.com:
 
 | Statement | Status |
 |-----------|--------|
-| Provisional availability in Mexico for discussed programs | Yes (site lock) |
-| FDA-approved U.S. clinic product | **No** |
+| Treatment location shared after screening for discussed programs | Yes (site lock) |
+| approved U.S. clinic product | **No** |
 | Schedule I erased for U.S. residents by flying | **No** — not legal advice |
 | Oral papers prove IV brand efficacy | **No** |
-| Cure guaranteed because “medical Mexico” | **No** |
+| Cure guaranteed because "medical abroad" | **No** |
 
 Travel raises separate legal, immigration, insurance, and emergency-care questions this page does not advise on. Consult qualified counsel for personal legal questions.
 
@@ -3907,7 +3907,7 @@ Not every contemplative setting is unsafe—and not every “medical” logo is 
 
 Cardiac education: /safety-and-screening · /blog/ibogaine-ecg-checklist · /blog/is-ibogaine-safe-screening-cardiac-risk · /blog/ibogaine-contraindications · /blog/ibogaine-side-effects.
 
-## Support IV vs psychoactive IV (Mexico ads love this blur)
+## Support IV vs psychoactive IV (tourism ads love this blur)
 
 | Term | Meaning |
 |------|---------|
@@ -3919,7 +3919,7 @@ Ask in writing: **“Is the psychoactive ibogaine dose intravenous or oral?”**
 
 ## How U.S. research news relates (without false equivalence)
 
-Texas SB 2308 / university research landscapes and federal Right-to-Try / EO framing as reported in 2026 are **U.S. research and policy pathways**—not the same as a Mexico provisional medical program, and not walk-in U.S. access. See /blog/texas-ibogaine-clinical-trials · /blog/ibogaine-right-to-try-veterans · /blog/ibogaine-state-research-bills-2026.
+Texas SB 2308 / university research landscapes and federal Right-to-Try / EO framing as reported in 2026 are **U.S. research and policy pathways**—not the same as a Program location medical program, and not walk-in U.S. access. See /blog/texas-ibogaine-clinical-trials · /blog/ibogaine-right-to-try-veterans · /blog/ibogaine-state-research-bills-2026.
 
 Research funding ≠ personal treatment access in the US. Legacy IND stories ≠ current approval.
 
@@ -3945,40 +3945,40 @@ If answers are vague, you are negotiating with marketing—not medicine.
 
 ## Insurance, cost pressure, and “medical tourism” myths
 
-U.S. insurance generally does not treat foreign investigational/unapproved psychedelic programs as standard covered benefits. “Medical” branding abroad does not create an FDA label. For coverage education, see /blog/does-insurance-cover-ibogaine. Price shopping without cardiac diligence is how people find red-flag clinics (/blog/cheap-ibogaine-clinic-red-flags).
+U.S. insurance generally does not treat foreign investigational/unapproved psychedelic programs as standard covered benefits. “Medical” branding abroad does not create an approved-product label. For coverage education, see /blog/does-insurance-cover-ibogaine. Price shopping without cardiac diligence is how people find red-flag clinics (/blog/cheap-ibogaine-clinic-red-flags).
 
 Program length expectations: /blog/ibogaine-program-duration. Aftercare still matters after you fly home—relapse risk does not respect borders.
 
-## Veterans and Mexico narratives (extra caution)
+## Veterans and destination narratives (extra caution)
 
-Veteran stories often drive Mexico searches. Honor the suffering; refuse the compression that “Stanford + Mexico = guaranteed PTSD cure.” MISTIC remains **oral + IV Mg**, small open-label. Right-to-Try / EO framing as reported in 2026 does not convert a foreign program into VA standard care: /blog/ibogaine-right-to-try-veterans · /ibogaine-for-ptsd.
+Veteran stories often drive destination searches. Honor the suffering; refuse the compression that “Stanford + abroad = guaranteed PTSD cure.” MISTIC remains **oral + IV Mg**, small open-label. Right-to-Try / EO framing as reported in 2026 does not convert a foreign program into VA standard care: /blog/ibogaine-right-to-try-veterans · /ibogaine-for-ptsd.
 
 ## Soft CTA
 
-If you are comparing Mexico options, start with safety infrastructure—not Instagram aesthetics. Read /safety-and-screening, then request a **confidential screening consult** via /apply. Also: /blog/is-ibogaine-legal-us · /faq.
+If you are comparing destination options, start with safety infrastructure—not Instagram aesthetics. Read /safety-and-screening, then request a **confidential screening consult** via /apply. Also: /blog/is-ibogaine-legal-us · /faq.
 
 ## FAQ
 
-### Is ibogaine treatment in Mexico the same as an FDA clinic?
-No. Programs discussed on this site with provisional Mexico availability are not FDA/US clinics. Not legal advice.
+### Is ibogaine treatment abroad the same as an approved U.S. clinic?
+No. Programs discussed on this site with treatment location shared after screening are not approved U.S. clinics. Not legal advice.
 
 ### What is the difference between medical and tourism ibogaine offers?
 Medical framing prioritizes physician supervision, cardiac screening/telemetry, and route honesty. Tourism/ceremony offers may prioritize setting or price while under-delivering monitoring.
 
-### Does “IV protocol in Mexico” always mean psychoactive IV ibogaine?
+### Does “IV protocol abroad” always mean psychoactive IV ibogaine?
 No. Many ads mean support IV around oral dosing. Demand written route clarity.
 
-### Did Stanford prove Mexico IV programs?
+### Did Stanford prove destination IV programs?
 No. Cherian/MISTIC used **oral** ibogaine + **IV magnesium**; open-label; not psychoactive IV proof.
 
-### Is ibogaine legal for U.S. residents because Mexico clinics exist?
-Foreign operation ≠ U.S. Schedule I repeal or FDA approval. Not legal advice. See /blog/is-ibogaine-legal-us.
+### Is ibogaine legal for U.S. residents because clinics abroad exist?
+Foreign operation ≠ U.S. Schedule I repeal or regulatory approval. Not legal advice. See /blog/is-ibogaine-legal-us.
 
 ### Can I skip ECG if the retreat feels “healing”?
 No. QTc risk does not care about ambience. Screening matters.
 
-### Are cure rates higher in Mexico?
-No validated FDA-labeled cure rates—geography does not invent percentages. See /blog/ibogaine-cure-rate-claims.
+### Are cure rates higher abroad?
+No validated approved-label cure rates—geography does not invent percentages. See /blog/ibogaine-cure-rate-claims.
 
 ### Where should I go next?
 /safety-and-screening then /apply.
@@ -4004,11 +4004,11 @@ Educational geography/model comparison only—not medical, legal, travel, or imm
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Noribogaine clinical trial** headlines (including 2026 reporting on investigational **oral noribogaine** / metabolite-product IND pathway news) describe **early U.S. research interest in a related compound**—not FDA approval of ibogaine, and **not** the same product or route as physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Noribogaine is a major active **metabolite** of ibogaine; metabolite biology and early trial news do not authorize cure claims or DIY dosing. **Evidence gap:** Most published human ibogaine clinical literature remains **oral** (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support; Knuijver = **oral** QTc signals). Controlled psychoactive-IV evidence is sparse. Ibogaine can prolong QTc. Schedule I / not FDA-approved. Provisional Mexico programs on this site ≠ FDA/US clinics.
+**Definition:** **Noribogaine clinical trial** headlines (including 2026 reporting on investigational **oral noribogaine** / metabolite-product IND pathway news) describe **early U.S. research interest in a related compound**—not regulatory approval of ibogaine, and **not** the same product or route as physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Noribogaine is a major active **metabolite** of ibogaine; metabolite biology and early trial news do not authorize cure claims or DIY dosing. **Evidence gap:** Most published human ibogaine clinical literature remains **oral** (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support; Knuijver = **oral** QTc signals). Controlled psychoactive-IV evidence is sparse. Ibogaine can prolong QTc. Schedule I / not approved for any indication. Programs discussed on this site on this site ≠ approved U.S. clinics.
 
 ## Quotable answer (56 words)
 
-Noribogaine clinical trial news concerns investigational metabolite/oral product pathways—not FDA-approved ibogaine and not IV ibogaine infusion. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring. Most published ibogaine observations remain oral-route. QTc risk still matters. Trial headlines are not personal treatment access or cure rates.
+Noribogaine clinical trial news concerns investigational metabolite/oral product pathways—not approved for any indication ibogaine and not IV ibogaine infusion. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring. Most published ibogaine observations remain oral-route. QTc risk still matters. Trial headlines are not personal treatment access or cure rates.
 
 ## Why this comparison page exists
 
@@ -4025,8 +4025,8 @@ Metabolite explainer: /blog/noribogaine-explained · Entity: /what-is-ibogaine-i
 | Feature | Noribogaine trial headlines (as reported) | IV ibogaine infusion (this site’s entity) |
 |---------|-------------------------------------------|-------------------------------------------|
 | What it is | Investigational interest in noribogaine (ibogaine’s metabolite), often framed as oral product development | Psychoactive **intravenous** ibogaine under physician supervision |
-| Typical news hook | IND acceptance / early clinical development for a specific indication (e.g., AUD interest in company releases) | Medical infusion-model education; provisional Mexico availability for discussed programs |
-| FDA-approved therapy? | **No** (investigational headlines ≠ approval) | **No** — ibogaine not FDA-approved |
+| Typical news hook | IND acceptance / early clinical development for a specific indication (e.g., AUD interest in company releases) | Medical infusion-model education; treatment location shared after screening for discussed programs |
+| approved therapy? | **No** (investigational headlines ≠ approval) | **No** — ibogaine not approved for any indication |
 | Same as parent ibogaine flood? | **No** — metabolite/product strategy may differ in psychoactivity and dosing goals | Parent psychoactive ibogaine by IV route |
 | Proves IV brand outcomes? | **No** | N/A — do not cite noribogaine IND as IV efficacy RCT |
 | Cardiac story | Still requires scientific humility; do not assume “metabolite = zero QTc concern” without data literacy | QTc monitoring culture central |
@@ -4035,7 +4035,7 @@ Company press releases are landscape—not your personal enrollment ticket and n
 
 ## What 2026 noribogaine headlines are (careful framing)
 
-As reported in 2026 industry/news coverage, at least one developer publicly described FDA IND-pathway progress for an **oral noribogaine** candidate (sometimes coded in press materials) aimed at conditions such as **alcohol use disorder**, with early volunteer studies and later-phase ambitions discussed as future plans. Treat that as:
+As reported in 2026 industry/news coverage, at least one developer publicly described IND-pathway progress for an **oral noribogaine** candidate (sometimes coded in press materials) aimed at conditions such as **alcohol use disorder**, with early volunteer studies and later-phase ambitions discussed as future plans. Treat that as:
 
 - **Announced investigational progress**  
 - **Not** NDA approval  
@@ -4057,10 +4057,10 @@ Support IV ≠ psychoactive IV: /blog/electrolytes-support-iv-vs-psychoactive-iv
 ## Regulatory locks that trial hype does not erase
 
 1. Ibogaine remains **Schedule I** federally (21 CFR 1308.11) unless/until lawfully changed.  
-2. **Not FDA-approved** for addiction, depression, PTSD, AUD, or detox.  
+2. **not approved for any indication** for addiction, depression, PTSD, AUD, or detox.  
 3. Research funding / IND news ≠ walk-in U.S. treatment access.  
 4. Legacy 1990s IND narratives ≠ current approval (landscape only).  
-5. Provisional Mexico programs discussed here ≠ FDA/US clinics.  
+5. Programs discussed on this site discussed here ≠ approved U.S. clinics.  
 6. **No DIY dosing.**
 
 Legality education: /blog/is-ibogaine-legal-us · Right-to-Try/veterans framing: /blog/ibogaine-right-to-try-veterans · Texas landscape: /blog/texas-ibogaine-clinical-trials.
@@ -4075,9 +4075,9 @@ Screening hub: /safety-and-screening · ECG: /blog/ibogaine-ecg-checklist · Sid
 
 **If your goal is understanding metabolite science** → read /blog/noribogaine-explained and track primary trial registrations when real NCT IDs exist.  
 
-**If your goal is supervised psychoactive ibogaine education** → stay on the IV entity path: /what-is-ibogaine-infusion · /how-it-works · provisional Mexico honesty /blog/ibogaine-mexico-medical-vs-tourism.  
+**If your goal is supervised psychoactive ibogaine education** → stay on the IV entity path: /what-is-ibogaine-infusion · /how-it-works · treatment-location honesty /blog/medical-ibogaine-programs-vs-tourism.  
 
-**If your goal is U.S. approved take-home treatment next month** → noribogaine IND headlines and ibogaine research bills are **not** that product today. Schedule I / not FDA-approved still apply.
+**If your goal is U.S. approved take-home treatment next month** → noribogaine IND headlines and ibogaine research bills are **not** that product today. Schedule I / not approved for any indication still apply.
 
 Crossing these goals without labeling is how misinformation spreads.
 
@@ -4085,7 +4085,7 @@ Crossing these goals without labeling is how misinformation spreads.
 
 Red-flag remixes to reject:
 
-- “FDA just approved noribogaine, so our IV ibogaine is approved too.”  
+- “regulators just approved noribogaine, so our IV ibogaine is approved too.”  
 - “Metabolite trials prove 80% cure.” (/blog/ibogaine-cure-rate-claims)  
 - “Because noribogaine is gentler, we skip ECG.”  
 - “Oral noribogaine IND = our psychoactive IV protocol.”  
@@ -4112,11 +4112,11 @@ If noribogaine trial headlines sparked your research, translate them into screen
 ### Is a noribogaine clinical trial the same as IV ibogaine infusion?
 No. Different compound/context and typically different route ambitions. IV ibogaine infusion means intravenous psychoactive ibogaine under physician supervision.
 
-### Does IND news mean noribogaine is FDA-approved?
+### Does IND news mean noribogaine is approved?
 No. IND/early development headlines are not NDA approval.
 
 ### Can I get noribogaine or ibogaine at a U.S. walk-in clinic because of trials?
-Research pathways ≠ general personal access. Schedule I / not FDA-approved still frame consumer reality. Not legal advice.
+Research pathways ≠ general personal access. Schedule I / not approved for any indication still frame consumer reality. Not legal advice.
 
 ### Did MISTIC study noribogaine IV?
 No. MISTIC (Cherian 2024) used **oral** ibogaine + **IV magnesium** support.
@@ -4150,16 +4150,16 @@ Educational differentiation only—not medical, legal, or investment advice. Do 
     slug: "ibogaine-for-alcohol-use-disorder",
     title: "Ibogaine for Alcohol Use Disorder: Evidence Limits (No Cure Claims)",
     description:
-      "Ibogaine for alcohol use disorder: thin evidence, noribogaine trial interest, oral vs IV honesty, QTc risk. No cure claims. Not FDA-approved.",
+      "Ibogaine for alcohol use disorder: thin evidence, noribogaine trial interest, oral vs IV honesty, QTc risk. No cure claims. not approved for any indication.",
     date: "2026-09-06",
     readTime: "11 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine for alcohol use disorder (AUD)** is an emerging search and research-interest topic—not an FDA-approved indication and not a guaranteed detox or “alcoholism cure.” Physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) is a medical-model entity on this site; it does **not** come with validated AUD cure rates. **Evidence gap:** Most published human ibogaine clinical literature remains **oral** and often centers other populations (e.g., opioid interest; Cherian/MISTIC = **oral** ibogaine + **IV magnesium** in a veteran open-label cohort—not AUD IV proof). 2026 **noribogaine** investigational headlines for AUD are **not** the same as psychoactive IV ibogaine approval. Ibogaine can prolong QTc. Schedule I / not FDA-approved. Provisional Mexico programs ≠ FDA/US clinics. No DIY dosing. No cure claims.
+**Definition:** **Ibogaine for alcohol use disorder (AUD)** is an emerging search and research-interest topic—not an approved indication and not a guaranteed detox or “alcoholism cure.” Physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) is a medical-model entity on this site; it does **not** come with validated AUD cure rates. **Evidence gap:** Most published human ibogaine clinical literature remains **oral** and often centers other populations (e.g., opioid interest; Cherian/MISTIC = **oral** ibogaine + **IV magnesium** in a veteran open-label cohort—not AUD IV proof). 2026 **noribogaine** investigational headlines for AUD are **not** the same as psychoactive IV ibogaine approval. Ibogaine can prolong QTc. Schedule I / not approved for any indication. Programs discussed on this site ≠ approved U.S. clinics. No DIY dosing. No cure claims.
 
 ## Quotable answer (55 words)
 
-Evidence that ibogaine treats alcohol use disorder remains limited and largely not at FDA-approval standard. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published ibogaine literature is oral-route. Noribogaine trial headlines are investigational, not cures. QTc risk applies. Relapse can occur. Not medical advice.
+Evidence that ibogaine treats alcohol use disorder remains limited and largely not at regulators-approval standard. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published ibogaine literature is oral-route. Noribogaine trial headlines are investigational, not cures. QTc risk applies. Relapse can occur. Not medical advice.
 
 ## Why AUD searches are rising now
 
@@ -4194,7 +4194,7 @@ Observational and limited clinical conversations historically skew toward opioid
 As reported in 2026 coverage, developers have discussed **oral noribogaine** clinical-development steps with AUD as a headline indication. Landscape only: early pathway ≠ consumer drug.
 
 ### IV ibogaine infusion (this site)
-Psychoactive intravenous ibogaine under physician supervision with consult → cardiac screen → monitored infusion → integration. Provisional Mexico availability for programs discussed here is **not** an FDA AUD label.
+Psychoactive intravenous ibogaine under physician supervision with consult → cardiac screen → monitored infusion → integration. Treatment location shared after screening for programs discussed here is **not** an regulators AUD label.
 
 Oral vs IV teaching: /blog/ibogaine-oral-vs-iv · Support vs psychoactive IV: /blog/electrolytes-support-iv-vs-psychoactive-iv.
 
@@ -4211,16 +4211,16 @@ Screening: /safety-and-screening · /blog/ibogaine-ecg-checklist · /blog/ibogai
 
 ## How this compares with standard AUD care (high level)
 
-Evidence-based AUD care commonly includes behavioral therapies, FDA-approved medications where appropriate, and medically supervised withdrawal management when indicated. Ibogaine/noribogaine interest is **investigational/exploratory** relative to that standard—not a replacement slogan.
+Evidence-based AUD care commonly includes behavioral therapies, approved medications where appropriate, and medically supervised withdrawal management when indicated. Ibogaine/noribogaine interest is **investigational/exploratory** relative to that standard—not a replacement slogan.
 
 This site also refuses fake success percentages: /blog/ibogaine-cure-rate-claims.
 
 Related condition spokes (no cures): /ibogaine-for-addiction · /ibogaine-for-depression · /ibogaine-for-ptsd.
 
-## Mexico provisional vs U.S. research pathways for AUD seekers
+## Program location vs U.S. research pathways for AUD seekers
 
-- **U.S.:** Schedule I / not FDA-approved; research bills and IND headlines ≠ walk-in AUD infusion clinics.  
-- **Provisional Mexico programs discussed on this site:** not FDA/US clinics; demand route honesty and telemetry culture (/blog/ibogaine-mexico-medical-vs-tourism).  
+- **U.S.:** Schedule I / not approved for any indication; research bills and IND headlines ≠ walk-in AUD infusion clinics.  
+- **programs discussed on this site:** not approved U.S. clinics; demand route honesty and telemetry culture (/blog/medical-ibogaine-programs-vs-tourism).  
 - **Clinic vetting:** /blog/how-to-choose-an-ibogaine-clinic · /blog/cheap-ibogaine-clinic-red-flags.  
 
 After any supervised session, alcohol relapse risk can return—plan integration: /blog/ibogaine-aftercare-integration.
@@ -4248,7 +4248,7 @@ U.S. legality reminder: /blog/is-ibogaine-legal-us. Research-bill landscape: /bl
 
 People exploring alcohol options often compare psychedelic-clinic UX to ketamine pathways or residential rehab. Useful literacy—without false equivalence:
 
-- Ketamine may have clearer U.S. clinic pathways for some mood indications; that does **not** make ibogaine FDA-approved for AUD (/blog/ibogaine-vs-ketamine-for-addiction).  
+- Ketamine may have clearer U.S. clinic pathways for some mood indications; that does **not** make ibogaine approved for AUD (/blog/ibogaine-vs-ketamine-for-addiction).  
 - Traditional rehab structures can provide containment and aftercare scaffolding ibogaine tourism sometimes skips (/blog/ibogaine-vs-traditional-rehab).  
 - Insurance expectations differ sharply (/blog/does-insurance-cover-ibogaine).  
 
@@ -4275,8 +4275,8 @@ If AUD research brought you here, start with medical safety—not cure ads. Read
 ### Does ibogaine cure alcoholism?
 No. No cure/guarantee claims. Evidence for AUD remains limited relative to approval standards.
 
-### Is there an FDA-approved ibogaine treatment for alcohol use disorder?
-No. Ibogaine is Schedule I federally and not FDA-approved for AUD or any indication.
+### Is there an approved ibogaine treatment for alcohol use disorder?
+No. Ibogaine is Schedule I federally and not approved for AUD or any indication.
 
 ### Are noribogaine trials the same as IV ibogaine infusion?
 No. See /blog/noribogaine-trials-vs-iv-infusion.
@@ -4290,8 +4290,8 @@ No. Dangerous. Complicated alcohol withdrawal can be life-threatening; seek lice
 ### Does QTc risk apply if my goal is alcohol, not opioids?
 Yes. Cardiac screening/monitoring remain central for ibogaine discussions across indications.
 
-### Are Mexico AUD packages FDA clinics?
-No. Provisional Mexico programs discussed here are not FDA/US clinics. Not legal advice.
+### Are destination AUD packages approved U.S. clinics?
+No. Programs discussed on this site discussed here are not approved U.S. clinics. Not legal advice.
 
 ### Where should I go next?
 /safety-and-screening then /apply.
@@ -4313,16 +4313,16 @@ Educational evidence-limits summary only—not a detox protocol, medical advice,
     slug: "ibogaine-state-research-bills-2026",
     title: "State Ibogaine Research Bills 2026: Landscape Guide (Not Personal Access)",
     description:
-      "State ibogaine research bills 2026 landscape: funding and proposed trials \u2260 walk-in access or FDA approval. Texas SB 2308 context; QTc; oral vs IV honesty.",
+      "State ibogaine research bills 2026 landscape: funding and proposed trials \u2260 walk-in access or regulatory approval. Texas SB 2308 context; QTc; oral vs IV honesty.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **State ibogaine research bills** in the **2026 news landscape**—including Texas **SB 2308** / reported **~$50M** research-investment framing and other state-level psychedelic research proposals—describe **policy and funding pathways for clinical research**, not FDA approval and not walk-in consumer clinics. They do **not** convert physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) into a U.S. standard-of-care product. **Evidence gap:** Published clinical literature people cite remains largely **oral** (Cherian/MISTIC = **oral** ibogaine + **IV magnesium**; Knuijver = **oral** QTc). Ibogaine can prolong QTc. Schedule I / not FDA-approved. Research funding ≠ personal treatment access in the US. Provisional Mexico programs on this site ≠ FDA/US clinics. No cure claims. Not legal advice.
+**Definition:** **State ibogaine research bills** in the **2026 news landscape**—including Texas **SB 2308** / reported **~$50M** research-investment framing and other state-level psychedelic research proposals—describe **policy and funding pathways for clinical research**, not regulatory approval and not walk-in consumer clinics. They do **not** convert physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) into a U.S. standard-of-care product. **Evidence gap:** Published clinical literature people cite remains largely **oral** (Cherian/MISTIC = **oral** ibogaine + **IV magnesium**; Knuijver = **oral** QTc). Ibogaine can prolong QTc. Schedule I / not approved for any indication. Research funding ≠ personal treatment access in the US. Programs discussed on this site on this site ≠ approved U.S. clinics. No cure claims. Not legal advice.
 
 ## Quotable answer (54 words)
 
-State ibogaine research bills, as reported in 2026 coverage, fund or propose research landscapes—they do not create FDA-approved walk-in treatment. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published evidence remains oral-route. QTc risk still applies. Funding announcements are not cure rates or legalization.
+State ibogaine research bills, as reported in 2026 coverage, fund or propose research landscapes—they do not create approved walk-in treatment. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published evidence remains oral-route. QTc risk still applies. Funding announcements are not cure rates or legalization.
 
 ## How to read a “state bill” headline without getting hurt
 
@@ -4333,7 +4333,7 @@ A useful status ladder:
 3. **Funded on paper** (appropriation language)  
 4. **Contracted / partnered** (often where 2026 Texas coverage described friction)  
 5. **Enrolling trial** (real NCT ID, inclusion criteria)  
-6. **FDA-approved marketed drug** (not where ibogaine is today)
+6. **approved marketed drug** (not where ibogaine is today)
 
 Most consumer social posts jump from (2) or (3) to (6). That jump is false.
 
@@ -4354,16 +4354,16 @@ Honest reader takeaway:
 ### Can (in principle)
 - Support university/hospital trial infrastructure  
 - Attract investigators and safety monitoring protocols  
-- Generate data that might someday inform FDA pathways  
+- Generate data that might someday inform regulators pathways  
 - Increase public literacy (and, unfortunately, marketing misuse)
 
 ### Cannot (by itself)
 - Reschedule ibogaine federally  
-- Create FDA-approved labeling  
+- Create approved labeling  
 - Guarantee individual remission  
 - Erase QTc risk  
 - Make oral papers into IV RCTs  
-- Turn Mexico provisional programs into U.S. benefits
+- Turn Programs discussed on this site into U.S. benefits
 
 Legacy Miami 1990s IND narratives revived in 2026 MAPS-related reporting remain **legacy IND ≠ current approval**.
 
@@ -4379,7 +4379,7 @@ Screening: /safety-and-screening · /blog/ibogaine-ecg-checklist · /blog/ibogai
 
 No DIY dosing while “waiting for your state’s trial.”
 
-## IV brand vs future FDA pathway honesty
+## IV brand vs future regulators pathway honesty
 
 Future state-backed trials might study oral formulations, metabolites (noribogaine), or other designs. Do not assume they will match any commercial **psychoactive IV** protocol abroad.
 
@@ -4400,7 +4400,7 @@ When another state announces “ibogaine funding”:
 2. Check whether money is appropriated, contingent on match, or aspirational.  
 3. Ask whether any trial is actually enrolling.  
 4. Reject cure-rate bill marketing (/blog/ibogaine-cure-rate-claims).  
-5. Keep Mexico provisional programs conceptually separate (/blog/ibogaine-mexico-medical-vs-tourism).  
+5. Keep Programs discussed on this site conceptually separate (/blog/medical-ibogaine-programs-vs-tourism).  
 
 Clinic diligence remains personal: /blog/how-to-choose-an-ibogaine-clinic · /blog/cheap-ibogaine-clinic-red-flags.
 
@@ -4442,7 +4442,7 @@ If state-bill news brought you here, convert politics into screening questions. 
 ## FAQ
 
 ### Do state ibogaine research bills legalize treatment clinics?
-Generally no—they target research frameworks. They do not equal FDA approval or Schedule I repeal. Not legal advice.
+Generally no—they target research frameworks. They do not equal regulatory approval or Schedule I repeal. Not legal advice.
 
 ### Is Texas already offering public IV ibogaine?
 Do not treat funding/selection headlines as walk-in IV access. See /blog/texas-ibogaine-clinical-trials.
@@ -4453,8 +4453,8 @@ No. No cure claims. Funding ≠ outcome validation.
 ### Are oral studies enough for state bills to approve IV use?
 No. Route and design matter. MISTIC is oral + IV Mg, not psychoactive IV proof.
 
-### Should I wait for my state instead of considering provisional Mexico programs?
-That is a personal medical/legal decision this page cannot make. Mexico programs discussed here are provisional, not FDA/US clinics. Not legal advice.
+### Should I wait for my state instead of considering programs discussed on this site?
+That is a personal medical/legal decision this page cannot make. Programs discussed on this site discussed here are provisional, not approved U.S. clinics. Not legal advice.
 
 ### Does a bill remove the need for ECG?
 No. QTc risk remains central.
@@ -4488,7 +4488,7 @@ Educational policy landscape only—not legal, medical, or enrollment advice. Do
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine aftercare / integration** means the structured medical, psychological, and practical supports that continue **after** a physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine)—because a monitored session is **not** a cure guarantee. Relapse, craving return, sleep disruption, mood volatility, and cardiac follow-up questions can all occur. **Evidence gap:** Most published clinical literature remains **oral** observational/open-label (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof; Knuijver = **oral** QTc signals). Ibogaine can prolong QTc; aftercare planning should not ignore medical follow-up. Schedule I / not FDA-approved. Provisional Mexico programs ≠ FDA/US clinics. No DIY dosing. No cure claims.
+**Definition:** **Ibogaine aftercare / integration** means the structured medical, psychological, and practical supports that continue **after** a physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine)—because a monitored session is **not** a cure guarantee. Relapse, craving return, sleep disruption, mood volatility, and cardiac follow-up questions can all occur. **Evidence gap:** Most published clinical literature remains **oral** observational/open-label (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof; Knuijver = **oral** QTc signals). Ibogaine can prolong QTc; aftercare planning should not ignore medical follow-up. Schedule I / not approved for any indication. Programs discussed on this site ≠ approved U.S. clinics. No DIY dosing. No cure claims.
 
 ## Quotable answer (57 words)
 
@@ -4544,9 +4544,9 @@ Side effects / contraindications: /blog/ibogaine-side-effects · /blog/ibogaine-
 
 **No DIY “booster doses”** because aftercare feels incomplete. Unsupervised redosing is dangerous.
 
-## Mexico provisional programs and the flight-home gap
+## Programs discussed on this site and the flight-home gap
 
-For provisional Mexico availability discussed on this site (not FDA/US clinics), integration planning must include the post-travel gap: jet lag, weaker local support, and the temptation to treat the airport departure as the finish line. See /blog/ibogaine-mexico-medical-vs-tourism.
+For programs discussed on this site (treatment location shared after screening) (not approved U.S. clinics), integration planning must include the post-travel gap: jet lag, weaker local support, and the temptation to treat the airport departure as the finish line. See /blog/medical-ibogaine-programs-vs-tourism.
 
 U.S. research-bill or Right-to-Try headlines do not replace a personal aftercare plan: /blog/ibogaine-state-research-bills-2026 · /blog/ibogaine-right-to-try-veterans · /blog/is-ibogaine-legal-us.
 
@@ -4621,8 +4621,8 @@ Follow the treating physicians’ monitoring plan; do not self-interpret forums.
 ### Can I take a DIY booster if I relapse?
 No. DIY dosing is dangerous.
 
-### Do Mexico programs include aftercare automatically?
-Ask in writing. Provisional Mexico programs are not FDA/US clinics; flight-home gaps are common failure points.
+### Do programs discussed on this site include aftercare automatically?
+Ask in writing. Programs discussed on this site are not approved U.S. clinics; flight-home gaps are common failure points.
 
 ### Is integration the same as a guarantee?
 No. Integration is support and planning—not a promised outcome.
@@ -4646,16 +4646,16 @@ Educational aftercare framing only—not medical, psychiatric, or legal advice a
     slug: "ibogaine-for-cocaine-stimulants",
     title: "Ibogaine for Cocaine & Stimulants: Evidence Limits (No Cure Claims)",
     description:
-      "Ibogaine for cocaine and stimulants: thin human evidence, oral vs IV honesty, QTc/cardiac risk, no cure claims. Not FDA-approved. Screening-first.",
+      "Ibogaine for cocaine and stimulants: thin human evidence, oral vs IV honesty, QTc/cardiac risk, no cure claims. not approved for any indication. Screening-first.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine for cocaine** (and other stimulants such as amphetamine/methamphetamine) is a high-intent search topic—not an FDA-approved indication and not a guaranteed stimulant “cure.” Physician-supervised **IV ibogaine infusion** means **psychoactive intravenous ibogaine** in a medical infusion setting (consult → cardiac screening → continuous monitoring → integration). **Evidence gap:** Most published human ibogaine clinical literature remains **oral** and often centers opioid-interest cohorts; Cherian/MISTIC (*Nature Medicine* 2024) = **oral** ibogaine + **IV magnesium** support in a veteran open-label series—not stimulant IV-ibogaine proof. Older preclinical and exploratory discussions mentioning cocaine do not create labeled stimulant therapy. Ibogaine can prolong QTc. U.S. Schedule I / not FDA-approved. Provisional Mexico programs discussed on this site ≠ FDA/US clinics. No DIY dosing. No cure claims.
+**Definition:** **Ibogaine for cocaine** (and other stimulants such as amphetamine/methamphetamine) is a high-intent search topic—not an approved indication and not a guaranteed stimulant “cure.” Physician-supervised **IV ibogaine infusion** means **psychoactive intravenous ibogaine** in a medical infusion setting (consult → cardiac screening → continuous monitoring → integration). **Evidence gap:** Most published human ibogaine clinical literature remains **oral** and often centers opioid-interest cohorts; Cherian/MISTIC (*Nature Medicine* 2024) = **oral** ibogaine + **IV magnesium** support in a veteran open-label series—not stimulant IV-ibogaine proof. Older preclinical and exploratory discussions mentioning cocaine do not create labeled stimulant therapy. Ibogaine can prolong QTc. U.S. Schedule I / not approved for any indication. Programs discussed on this site ≠ approved U.S. clinics. No DIY dosing. No cure claims.
 
 ## Quotable answer (54 words)
 
-Evidence that ibogaine treats cocaine or stimulant use disorder remains limited and not FDA-approval standard. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published research is oral-route. QTc risk applies. Relapse can occur. Treat “cocaine cure” ads as a red flag. Not medical advice.
+Evidence that ibogaine treats cocaine or stimulant use disorder remains limited and not approved-approval standard. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published research is oral-route. QTc risk applies. Relapse can occur. Treat “cocaine cure” ads as a red flag. Not medical advice.
 
 ## Why “ibogaine for cocaine” searches spike
 
@@ -4677,7 +4677,7 @@ Entity: /what-is-ibogaine-infusion · Journey: /how-it-works · Condition hub: /
 | “Ibogaine cures cocaine addiction” | **Refuse** — no cure claims |
 | “Large stimulant RCTs prove IV infusion” | **No** — do not invent IV RCTs/DOIs |
 | “MISTIC proved stimulant recovery” | **No** — MISTIC was **oral** + IV Mg in a veteran/TBI-interest open-label context |
-| “Animal cocaine data = human cure rate” | **No** — preclinical ≠ FDA labeling |
+| “Animal cocaine data = human cure rate” | **No** — preclinical ≠ approved-product labeling |
 | “Skip cardiac screening for stimulants” | **Dangerous** — QTc risk is route/drug risk, not opioid-only |
 
 Mosca et al. (*Current Neuropharmacology*) and related reviews: limited RCTs; cardiotoxicity concerns dominate responsible summaries. That posture applies whether the person’s primary substance is opioid or stimulant.
@@ -4722,14 +4722,14 @@ Screening hub: /safety-and-screening · Side effects: /blog/ibogaine-side-effect
 
 ## How this compares with standard stimulant-use care (high level)
 
-Evidence-based care for cocaine/stimulant use disorder commonly emphasizes contingency management, behavioral therapies, treatment of co-occurring mood/ADHD/trauma where indicated, and medical management of complications. There is **no** FDA-approved ibogaine product for stimulants.
+Evidence-based care for cocaine/stimulant use disorder commonly emphasizes contingency management, behavioral therapies, treatment of co-occurring mood/ADHD/trauma where indicated, and medical management of complications. There is **no** approved ibogaine product for stimulants.
 
 Ibogaine/noribogaine interest is investigational/exploratory relative to that standard—not a replacement slogan. Related spokes: /ibogaine-for-depression · /ibogaine-for-ptsd · fentanyl/opioid literacy /blog/ibogaine-for-fentanyl (different substance class—do not paste outcomes across).
 
-## Mexico provisional vs U.S. status for stimulant seekers
+## Program location vs U.S. status for stimulant seekers
 
-- **U.S.:** Schedule I / not FDA-approved; research headlines ≠ walk-in stimulant infusion clinics (/blog/is-ibogaine-legal-us).  
-- **Provisional Mexico programs discussed on this site:** not FDA/US clinics; demand route honesty and telemetry culture (/blog/ibogaine-mexico-medical-vs-tourism).  
+- **U.S.:** Schedule I / not approved for any indication; research headlines ≠ walk-in stimulant infusion clinics (/blog/is-ibogaine-legal-us).  
+- **programs discussed on this site:** not approved U.S. clinics; demand route honesty and telemetry culture (/blog/medical-ibogaine-programs-vs-tourism).  
 - **Clinic vetting:** /blog/how-to-choose-an-ibogaine-clinic · /blog/cheap-ibogaine-clinic-red-flags.  
 - **Cost literacy:** /blog/cost-of-ibogaine-treatment (market-reported ranges ≠ invoices; cash-pay abroad context).
 
@@ -4765,8 +4765,8 @@ If cocaine or stimulant research brought you here, start with medical safety—n
 ### Does ibogaine cure cocaine addiction?
 No. No cure/guarantee claims. Evidence for stimulant use disorder remains limited relative to approval standards.
 
-### Is there an FDA-approved ibogaine treatment for cocaine or methamphetamine?
-No. Ibogaine is Schedule I federally and not FDA-approved for stimulants or any indication.
+### Is there an approved ibogaine treatment for cocaine or methamphetamine?
+No. Ibogaine is Schedule I federally and not approved for stimulants or any indication.
 
 ### Did Stanford/MISTIC prove ibogaine for cocaine?
 No. MISTIC used **oral** ibogaine + **IV magnesium** in a small open-label veteran cohort—not a stimulant IV RCT.
@@ -4780,8 +4780,8 @@ Yes. Cardiac screening and monitoring remain central across indication discussio
 ### Can I DIY ibogaine for a cocaine binge crash?
 No. Dangerous. Seek licensed medical care for acute toxicity or withdrawal complications.
 
-### Are Mexico stimulant packages FDA clinics?
-No. Provisional Mexico programs discussed here are not FDA/US clinics. Not legal advice.
+### Are destination stimulant packages approved U.S. clinics?
+No. Programs discussed on this site discussed here are not approved U.S. clinics. Not legal advice.
 
 ### Where should I go next?
 /safety-and-screening then /apply.
@@ -4796,23 +4796,23 @@ Educational evidence-limits summary only—not a detox protocol, medical advice,
 2. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; QTc findings in opioid-dependent open-label cohort.  
 3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
 4. 21 CFR 1308.11 — Schedule I (ibogaine).  
-5. Broader clinical landscape: no FDA-approved ibogaine indication for cocaine/stimulant use disorder as of last update.
+5. Broader clinical landscape: no approved ibogaine indication for cocaine/stimulant use disorder as of last update.
 `,
   },
   {
     slug: "ibogaine-microdosing-myths",
     title: "Ibogaine Microdosing Myths: Why DIY Schedules Fail Safety",
     description:
-      "Ibogaine microdosing myths debunked: no safe DIY schedule, QTc risk still applies, oral vs IV honesty. Not FDA-approved. Screening-first medical model.",
+      "Ibogaine microdosing myths debunked: no safe DIY schedule, QTc risk still applies, oral vs IV honesty. not approved for any indication. Screening-first medical model.",
     date: "2026-09-06",
     readTime: "8 min",
     content: `## Definition box
 
-**Definition:** **Ibogaine microdosing** usually means informal, often gray-market, repeated low-dose oral ibogaine or iboga products marketed as “gentle resets,” “daily neuroplasticity,” or “flood without the flood.” It is **not** an FDA-approved regimen, **not** a validated addiction cure, and **not** the same as physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine with consult → cardiac screening → continuous monitoring → integration). **Evidence gap:** Most published human clinical literature describes **oral** ibogaine in observational/open-label contexts—not controlled microdose RCTs proving safe daily self-administration. Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not microdose proof and not IV-ibogaine proof. Ibogaine can prolong QTc even outside meme “micro” framing. U.S. Schedule I / not FDA-approved. Provisional Mexico medical programs discussed on this site ≠ DIY capsules. No DIY dosing. No cure claims.
+**Definition:** **Ibogaine microdosing** usually means informal, often gray-market, repeated low-dose oral ibogaine or iboga products marketed as “gentle resets,” “daily neuroplasticity,” or “flood without the flood.” It is **not** an approved regimen, **not** a validated addiction cure, and **not** the same as physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine with consult → cardiac screening → continuous monitoring → integration). **Evidence gap:** Most published human clinical literature describes **oral** ibogaine in observational/open-label contexts—not controlled microdose RCTs proving safe daily self-administration. Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not microdose proof and not IV-ibogaine proof. Ibogaine can prolong QTc even outside meme “micro” framing. U.S. Schedule I / not approved for any indication. medical programs discussed on this site ≠ DIY capsules. No DIY dosing. No cure claims.
 
 ## Quotable answer (58 words)
 
-Ibogaine microdosing is not an FDA-approved or validated safe DIY practice. Cardiac QTc risk and variable potency still apply. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with monitoring; most published research remains oral-route, not controlled microdose trials. Treat “daily iboga reset” kits as a safety red flag. Not medical advice.
+Ibogaine microdosing is not an approved or validated safe DIY practice. Cardiac QTc risk and variable potency still apply. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with monitoring; most published research remains oral-route, not controlled microdose trials. Treat “daily iboga reset” kits as a safety red flag. Not medical advice.
 
 ## The myths this page retires
 
@@ -4855,9 +4855,9 @@ Cherian/MISTIC: **oral** + **IV magnesium** (support)—do not cite as microdose
 
 ## Legal and supply reality (educational, not legal advice)
 
-- Ibogaine is **Schedule I** in the United States and **not FDA-approved** (/blog/is-ibogaine-legal-us).  
+- Ibogaine is **Schedule I** in the United States and **not approved for any indication** (/blog/is-ibogaine-legal-us).  
 - Online “research chem” microdose sellers do not create a lawful personal pharmacy.  
-- Provisional **Mexico** physician-supervised programs discussed on this site are **not** the same as mail-order capsules and are **not** FDA/US clinics (/blog/ibogaine-mexico-medical-vs-tourism).
+- physician-supervised programs discussed on this site are **not** the same as mail-order capsules and are **not** approved U.S. clinics (/blog/medical-ibogaine-programs-vs-tourism).
 
 ## Red flags specific to microdosing funnels
 
@@ -4889,7 +4889,7 @@ If microdosing ads brought you here, start with medical safety—not vendor dosi
 ## FAQ
 
 ### Is ibogaine microdosing safe?
-There is no FDA-approved safe DIY microdose regimen. Cardiac risk and product-quality uncertainty remain. Unsupervised use is dangerous.
+There is no approved safe DIY microdose regimen. Cardiac risk and product-quality uncertainty remain. Unsupervised use is dangerous.
 
 ### Does microdosing remove QTc risk?
 No. Lower marketed doses are not a cardiac free pass.
@@ -4930,16 +4930,16 @@ Educational myth-busting only—not a dosing protocol, medical advice, or legal 
     slug: "ibogaine-for-anxiety",
     title: "Ibogaine for Anxiety: Evidence Limits, Not a Cure Claim",
     description:
-      "Ibogaine for anxiety: limited controlled evidence, oral-literature gap vs IV ibogaine infusion, QTc risk first, no cure claims, Schedule I / Mexico provisional.",
+      "Ibogaine for anxiety: limited controlled evidence, oral-literature gap vs IV ibogaine infusion, QTc risk first, no cure claims, Schedule I / Program location.",
     date: "2026-09-06",
     readTime: "11 min",
     content: `## Definition box
 
-**Definition:** Searches for **ibogaine for anxiety** usually ask whether a supervised psychoactive session might reduce worry, panic, or trauma-linked hyperarousal. On this site, the treatment entity is **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting (consult → cardiac screening → continuous monitoring → integration). **Evidence gap:** Controlled evidence specifically for anxiety disorders is thin; much public conversation borrows from addiction observational series, veteran open-label cohorts, or mood/PTSD narratives that used **oral** ibogaine HCl (often with **IV magnesium** support)—not IV ibogaine as the psychoactive dose. Ibogaine can prolong the **QTc** interval. It is U.S. **Schedule I**, not FDA-approved for anxiety or any indication. Provisional Mexico programs discussed here are not FDA/U.S. clinics. No DIY dosing. No cure claims.
+**Definition:** Searches for **ibogaine for anxiety** usually ask whether a supervised psychoactive session might reduce worry, panic, or trauma-linked hyperarousal. On this site, the treatment entity is **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting (consult → cardiac screening → continuous monitoring → integration). **Evidence gap:** Controlled evidence specifically for anxiety disorders is thin; much public conversation borrows from addiction observational series, veteran open-label cohorts, or mood/PTSD narratives that used **oral** ibogaine HCl (often with **IV magnesium** support)—not IV ibogaine as the psychoactive dose. Ibogaine can prolong the **QTc** interval. It is U.S. **Schedule I**, not approved for anxiety or any indication. Programs discussed on this site discussed here are not approved U.S. clinics. No DIY dosing. No cure claims.
 
 ## Quotable answer (58 words)
 
-IV ibogaine infusion is intravenous psychoactive ibogaine under physician supervision, sometimes discussed for anxiety within a monitored medical journey. Controlled evidence for anxiety disorders is limited, and most published clinical literature still reflects oral ibogaine—often with IV magnesium support—rather than IV psychoactive proof. QTc risk requires cardiac screening. It is not FDA-approved; outcomes are not guaranteed.
+IV ibogaine infusion is intravenous psychoactive ibogaine under physician supervision, sometimes discussed for anxiety within a monitored medical journey. Controlled evidence for anxiety disorders is limited, and most published clinical literature still reflects oral ibogaine—often with IV magnesium support—rather than IV psychoactive proof. QTc risk requires cardiac screening. It is not approved for any indication; outcomes are not guaranteed.
 
 ## Why anxiety seekers land on ibogaine pages
 
@@ -4960,7 +4960,7 @@ Entity hub: /what-is-ibogaine-infusion · Journey: /how-it-works.
 
 **Cannot say:**
 
-- FDA-approved anxiolytic  
+- approved anxiolytic  
 - Guaranteed remission of panic/GAD  
 - “Proven by *Nature Medicine* as IV anxiety therapy”  
 - Equivalent evidence maturity to SSRIs, CBT, or labeled ketamine/esketamine pathways  
@@ -4990,7 +4990,7 @@ Safety hub: /safety-and-screening · ECG questions: /blog/ibogaine-ecg-checklist
 | Psychoactive route in many cited papers | Oral ibogaine HCl | **IV psychoactive ibogaine** |
 | IV line in research | Often **support** (Mg/fluids/antiemetics) | Psychoactive dose may be IV—label must be explicit |
 | Anxiety-specific RCTs | Sparse / not regulatory-grade | Do not invent |
-| Regulatory | Schedule I / not FDA-approved | Same; provisional Mexico ≠ U.S. approval |
+| Regulatory | Schedule I / not approved for any indication | Same; treatment location shared after screening ≠ U.S. approval |
 
 Deep route literacy: /blog/ibogaine-oral-vs-iv · MISTIC labeling: /blog/stanford-ibogaine-mistic.
 
@@ -5022,17 +5022,17 @@ Integration realism: /blog/ibogaine-aftercare-integration · /blog/ibogaine-inte
 | Axis | Established anxiety care pathways | IV ibogaine infusion |
 |------|-----------------------------------|----------------------|
 | Evidence maturity | Comparatively stronger for many first-line options | Limited for anxiety; sparse IV controlled data |
-| U.S. regulatory posture | Many labeled therapies exist | Schedule I; not FDA-approved |
+| U.S. regulatory posture | Many labeled therapies exist | Schedule I; not approved for any indication |
 | Dominant risk narrative | Drug-class specific | QTc/arrhythmia + intense prolonged effects |
 | Session design | Often outpatient series / therapy | Prolonged observation typical of ibogaine programs |
 
 Ketamine comparison (journey shape ≠ equivalence): /blog/ibogaine-vs-ketamine-for-addiction.
 
-## Mexico provisional availability (not tourism hype)
+## Program location availability (not tourism hype)
 
-Programs discussed on this site regarding provisional **Mexico** availability are **not** FDA/U.S. clinics. Geography does not create an anxiety indication, erase Schedule I status for U.S. possession/distribution questions, or convert oral papers into IV RCTs. Ask for written route honesty and telemetry culture. See /blog/ibogaine-mexico-medical-vs-tourism · legality literacy /blog/is-ibogaine-legal-us.
+Programs discussed on this site regarding treatment (location shared after screening) are **not** approved U.S. clinics. Geography does not create an anxiety indication, erase Schedule I status for U.S. possession/distribution questions, or convert oral papers into IV RCTs. Ask for written route honesty and telemetry culture. See /blog/medical-ibogaine-programs-vs-tourism · legality literacy /blog/is-ibogaine-legal-us.
 
-Research headlines (state bills, IND talk, Right-to-Try framing) are not personal anxiety prescriptions: /blog/ibogaine-state-research-bills-2026 · /blog/ibogaine-fda-ind-explained · /blog/ibogaine-right-to-try-veterans.
+Research headlines (state bills, IND talk, Right-to-Try framing) are not personal anxiety prescriptions: /blog/ibogaine-state-research-bills-2026 · /blog/ibogaine-ind-explained · /blog/ibogaine-right-to-try-veterans.
 
 ## Red flags for anxiety-targeted marketing
 
@@ -5060,8 +5060,8 @@ If anxiety research brought you here, start with cardiac and psychiatric safety�
 ### Does ibogaine cure anxiety?
 No. No cure or guarantee claims. Controlled evidence for anxiety disorders is limited.
 
-### Is IV ibogaine infusion FDA-approved for anxiety?
-No. Ibogaine is Schedule I federally and not FDA-approved for anxiety or any indication.
+### Is IV ibogaine infusion approved for anxiety?
+No. Ibogaine is Schedule I federally and not approved for anxiety or any indication.
 
 ### Is published research mostly oral?
 Yes for much of the cited clinical literature. Cherian/MISTIC used **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof.
@@ -5072,8 +5072,8 @@ Yes. Cardiac screening and monitoring remain central.
 ### Can I DIY a small “anxiety dose”?
 No. Unsupervised dosing is dangerous.
 
-### Are Mexico anxiety packages U.S. clinics?
-No. Provisional Mexico programs discussed here are not FDA/U.S. clinics. Not legal advice.
+### Are destination anxiety packages U.S. clinics?
+No. Programs discussed on this site discussed here are not approved U.S. clinics. Not legal advice.
 
 ### Will one infusion replace therapy or prescribed meds?
 No ethical program should claim that. Medication changes belong with licensed clinicians.
@@ -5097,12 +5097,12 @@ Educational evidence-limits summary only—not medical, psychiatric, or legal ad
     slug: "flying-home-after-ibogaine",
     title: "Flying Home After Ibogaine: Why the Airport Is Not the Finish Line",
     description:
-      "Flying home after IV ibogaine infusion: cardiac caution, oral-lit gap, Mexico provisional reality, no DIY boosters, aftercare before the airport finish line.",
+      "Flying home after IV ibogaine infusion: cardiac caution, oral-lit gap, Program location reality, no DIY boosters, aftercare before the airport finish line.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `## Definition box
 
-**Definition:** **Flying home after ibogaine** means the post-program travel window after a physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine)—including residual fatigue, sleep disruption, medication restart questions, and **cardiac** caution that does **not** end when the IV stops. **Evidence gap:** Most published clinical literature remains **oral** observational/open-label (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof; Knuijver = **oral** QTc signals). Ibogaine can prolong QTc. U.S. **Schedule I** / not FDA-approved. Provisional **Mexico** programs discussed on this site are not FDA/U.S. clinics. No DIY redosing in hotel rooms. No cure claims. The boarding pass is logistics—not proof of lasting recovery.
+**Definition:** **Flying home after ibogaine** means the post-program travel window after a physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine)—including residual fatigue, sleep disruption, medication restart questions, and **cardiac** caution that does **not** end when the IV stops. **Evidence gap:** Most published clinical literature remains **oral** observational/open-label (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof; Knuijver = **oral** QTc signals). Ibogaine can prolong QTc. U.S. **Schedule I** / not approved for any indication. Programs discussed on this site are not approved U.S. clinics. No DIY redosing in hotel rooms. No cure claims. The boarding pass is logistics—not proof of lasting recovery.
 
 ## Quotable answer (55 words)
 
@@ -5119,7 +5119,7 @@ Clinic marketing loves arrival photos. Life happens on the return flight:
 - Questions about when to restart home medications  
 - Cardiac symptoms that forums minimize  
 
-Aftercare honesty: /blog/ibogaine-aftercare-integration · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism · Entity: /what-is-ibogaine-infusion.
+Aftercare honesty: /blog/ibogaine-aftercare-integration · Medical vs tourism: /blog/medical-ibogaine-programs-vs-tourism · Entity: /what-is-ibogaine-infusion.
 
 ## Cardiac reality does not respect gate numbers
 
@@ -5147,16 +5147,16 @@ Literacy: /safety-and-screening · /blog/ibogaine-ecg-checklist · /blog/ibogain
 
 Route spoke: /blog/ibogaine-oral-vs-iv · MISTIC: /blog/stanford-ibogaine-mistic.
 
-## Mexico provisional programs and the flight-home gap
+## Programs discussed on this site and the flight-home gap
 
-For provisional **Mexico** availability discussed on this site (not FDA/U.S. clinics):
+For programs discussed on this site (treatment location shared after screening) (not approved U.S. clinics):
 
 - Confirm discharge criteria with the treating physicians—not a travel agent.  
 - Build a home clinician contact *before* departure.  
 - Expect that U.S. insurance usually will not treat this like a covered inpatient episode (/blog/does-insurance-cover-ibogaine).  
-- Do not confuse foreign provisional care with FDA approval or Schedule I disappearance (/blog/is-ibogaine-legal-us).  
+- Do not confuse foreign provisional care with regulatory approval or Schedule I disappearance (/blog/is-ibogaine-legal-us).  
 
-Research-bill or Right-to-Try headlines do not write your flight plan: /blog/ibogaine-state-research-bills-2026 · /blog/ibogaine-right-to-try-veterans · /blog/ibogaine-fda-ind-explained.
+Research-bill or Right-to-Try headlines do not write your flight plan: /blog/ibogaine-state-research-bills-2026 · /blog/ibogaine-right-to-try-veterans · /blog/ibogaine-ind-explained.
 
 ## Practical pre-flight checklist (education—not clearance)
 
@@ -5228,8 +5228,8 @@ No. Viral success rates are red flags. MISTIC is oral + IV Mg open-label—not I
 ### Can I take a hotel “booster” if I feel incomplete?
 No. DIY dosing is dangerous.
 
-### Are Mexico programs FDA clinics that clear you like U.S. discharge?
-No. Provisional Mexico programs discussed here are not FDA/U.S. clinics. Not legal advice.
+### Are programs discussed on this site approved U.S. clinics that clear you like U.S. discharge?
+No. Programs discussed on this site discussed here are not approved U.S. clinics. Not legal advice.
 
 ### Should I stop home medications for the flight?
 Medication decisions require licensed clinicians—not forum certainty.
@@ -5256,17 +5256,17 @@ Educational travel-aftercare framing only—not medical, aviation, or legal advi
     slug: "what-to-expect-iv-ibogaine-session",
     title: "What to Expect From an IV Ibogaine Session (Medical-Model Map)",
     description:
-      "What to expect from IV ibogaine treatment: screening, cardiac monitoring, session flow, integration. Oral vs IV honesty; no cure claims. Not FDA-approved.",
+      "What to expect from IV ibogaine treatment: screening, cardiac monitoring, session flow, integration. Oral vs IV honesty; no cure claims. not approved for any indication.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `
 ## Definition box
 
-**Definition:** **What to expect from ibogaine treatment**—when the entity is physician-supervised **IV ibogaine infusion**—means understanding a medical infusion journey: confidential consult, cardiac and medication screening, physician go/no-go, **psychoactive intravenous ibogaine** under continuous monitoring, observation, and structured integration afterward. It does **not** mean a guaranteed cure, a spa drip, or a weekend tourism package. **Evidence gap:** Much published human literature still describes **oral** ibogaine HCl (e.g., Knuijver QTc open-label; Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support)—so session expectations for psychoactive IV must not be sold as carbon copies of oral papers. Support IV (fluids/Mg/antiemetics) ≠ psychoactive IV. Ibogaine can prolong QTc. U.S. Schedule I / not FDA-approved. Provisional Mexico programs discussed on this site ≠ FDA/US clinics. No DIY dosing. No cure claims.
+**Definition:** **What to expect from ibogaine treatment**—when the entity is physician-supervised **IV ibogaine infusion**—means understanding a medical infusion journey: confidential consult, cardiac and medication screening, physician go/no-go, **psychoactive intravenous ibogaine** under continuous monitoring, observation, and structured integration afterward. It does **not** mean a guaranteed cure, a spa drip, or a weekend tourism package. **Evidence gap:** Much published human literature still describes **oral** ibogaine HCl (e.g., Knuijver QTc open-label; Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support)—so session expectations for psychoactive IV must not be sold as carbon copies of oral papers. Support IV (fluids/Mg/antiemetics) ≠ psychoactive IV. Ibogaine can prolong QTc. U.S. Schedule I / not approved for any indication. Programs discussed on this site ≠ approved U.S. clinics. No DIY dosing. No cure claims.
 
 ## Quotable answer (57 words)
 
-What to expect from IV ibogaine treatment in a medical model: screening, ECG/labs, physician clearance, continuous cardiac monitoring during psychoactive intravenous ibogaine, observation, and integration—not a guaranteed cure. Most published research remains oral-route; QTc risk is real. Unsupervised use is dangerous. Not FDA-approved. Not medical advice.
+What to expect from IV ibogaine treatment in a medical model: screening, ECG/labs, physician clearance, continuous cardiac monitoring during psychoactive intravenous ibogaine, observation, and integration—not a guaranteed cure. Most published research remains oral-route; QTc risk is real. Unsupervised use is dangerous. not approved for any indication. Not medical advice.
 
 
 ## How to use this page
@@ -5318,7 +5318,7 @@ Programs differ in length (/blog/ibogaine-program-duration). Common expectations
 - Setting expectations: nausea, ataxia, intense introspection, long observation—not “instant bliss cure”  
 - Confirming aftercare contacts
 
-Mexico geography honesty: provisional programs discussed here are **not** FDA-approved U.S. clinic care (/blog/ibogaine-mexico-medical-vs-tourism · /blog/is-ibogaine-legal-us).
+Geography honesty: provisional programs discussed here are **not** approved U.S. clinic care (/blog/medical-ibogaine-programs-vs-tourism · /blog/is-ibogaine-legal-us).
 
 
 ## Phase 3 — The infusion / acute monitoring window
@@ -5363,7 +5363,7 @@ Read: /blog/ibogaine-aftercare-integration · Condition hubs without cures: /ibo
 | Source | What it is | What it is not |
 |--------|------------|----------------|
 | Knuijver 2021 | Oral HCl open-label QTc teaching | Your personal IV PK profile |
-| Cherian/MISTIC 2024 | Oral + IV Mg, small open-label veterans | Proof your IV session is FDA-validated |
+| Cherian/MISTIC 2024 | Oral + IV Mg, small open-label veterans | Proof your IV session is regulators-validated |
 | Clinic brochure | Marketing | Peer-reviewed outcome label |
 
 Route twin: /blog/ibogaine-oral-vs-iv · MISTIC twin: /blog/stanford-ibogaine-mistic · Support IV twin: /blog/electrolytes-support-iv-vs-psychoactive-iv.
@@ -5413,8 +5413,8 @@ No. No cure/guarantee claims. Relapse can occur.
 ### Why is cardiac monitoring required?
 Ibogaine can prolong QTc and has arrhythmia concerns in the clinical conversation.
 
-### Are Mexico programs the same as FDA clinics?
-No. Provisional Mexico availability discussed here ≠ FDA-approved U.S. care. Not legal advice.
+### Are programs discussed on this site the same as approved U.S. clinics?
+No. Treatment location shared after screening discussed here ≠ approved U.S. care. Not legal advice.
 
 ### How long is a program?
 Varies; duration ≠ cure timeline. See /blog/ibogaine-program-duration.
@@ -5440,17 +5440,17 @@ Educational process map only—not a medical protocol, clearance algorithm, outc
     slug: "ibogaine-and-benzodiazepines",
     title: "Ibogaine and Benzodiazepines: Educational Warnings (Physician-Owned)",
     description:
-      "Ibogaine and benzodiazepines: educational taper/warning themes, seizure risk, physician-owned decisions, QTc screening. No DIY. Not FDA-approved.",
+      "Ibogaine and benzodiazepines: educational taper/warning themes, seizure risk, physician-owned decisions, QTc screening. No DIY. not approved for any indication.",
     date: "2026-09-06",
     readTime: "9 min",
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine and benzodiazepines** is a high-risk clinical intersection—not a DIY combo guide. People search whether they can take ibogaine while on Xanax, Klonopin, Valium, Ativan, or during benzo taper/withdrawal. Physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) still requires cardiac screening and continuous monitoring; benzodiazepine dependence adds **withdrawal/seizure** and sedation-complexity themes that belong to licensed clinicians. **Evidence gap:** Most published ibogaine human literature is **oral** observational/open-label; Cherian/MISTIC = **oral** ibogaine + **IV magnesium**—not a benzodiazepine-interaction RCT and not IV-ibogaine proof. This page provides **educational warnings only**—no taper schedules, no stop dates, no milligram conversions. Ibogaine can prolong QTc. U.S. Schedule I / not FDA-approved. Provisional Mexico programs ≠ FDA/US clinics. No DIY dosing. No cure claims.
+**Definition:** **Ibogaine and benzodiazepines** is a high-risk clinical intersection—not a DIY combo guide. People search whether they can take ibogaine while on Xanax, Klonopin, Valium, Ativan, or during benzo taper/withdrawal. Physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) still requires cardiac screening and continuous monitoring; benzodiazepine dependence adds **withdrawal/seizure** and sedation-complexity themes that belong to licensed clinicians. **Evidence gap:** Most published ibogaine human literature is **oral** observational/open-label; Cherian/MISTIC = **oral** ibogaine + **IV magnesium**—not a benzodiazepine-interaction RCT and not IV-ibogaine proof. This page provides **educational warnings only**—no taper schedules, no stop dates, no milligram conversions. Ibogaine can prolong QTc. U.S. Schedule I / not approved for any indication. Programs discussed on this site ≠ approved U.S. clinics. No DIY dosing. No cure claims.
 
 ## Quotable answer (56 words)
 
-Ibogaine plus benzodiazepines is a physician-owned risk problem, not a forum protocol. Abrupt benzo cessation can cause life-threatening withdrawal; ibogaine adds QTc/cardiac monitoring needs. IV ibogaine infusion means supervised intravenous psychoactive ibogaine; most published research is oral-route. No DIY taper charts here. Not FDA-approved. Not medical advice.
+Ibogaine plus benzodiazepines is a physician-owned risk problem, not a forum protocol. Abrupt benzo cessation can cause life-threatening withdrawal; ibogaine adds QTc/cardiac monitoring needs. IV ibogaine infusion means supervised intravenous psychoactive ibogaine; most published research is oral-route. No DIY taper charts here. not approved for any indication. Not medical advice.
 
 
 ## Why this page refuses dosing charts on purpose
@@ -5537,9 +5537,9 @@ Session expectations: /blog/what-to-expect-iv-ibogaine-session · Consent questi
 
 ## Legal / geography notes (educational)
 
-- Ibogaine: U.S. **Schedule I** / not FDA-approved (/blog/is-ibogaine-legal-us).  
+- Ibogaine: U.S. **Schedule I** / not approved for any indication (/blog/is-ibogaine-legal-us).  
 - Benzodiazepines: controlled medications with their own prescribing laws—do not import “clinic abroad said stop” as a U.S. prescription change without your clinician.  
-- Provisional **Mexico** IV programs discussed on this site ≠ FDA/US clinics (/blog/ibogaine-mexico-medical-vs-tourism).
+- IV programs discussed on this site ≠ approved U.S. clinics (/blog/medical-ibogaine-programs-vs-tourism).
 
 
 ## Aftercare if a supervised session ever proceeds
@@ -5585,8 +5585,8 @@ Yes. MISTIC is oral + IV magnesium; controlled psychoactive-IV evidence is spars
 ### Why is cardiac screening still required?
 Ibogaine can prolong QTc; monitoring remains central.
 
-### Are Mexico programs FDA-approved for benzo-complex cases?
-No. Provisional Mexico programs discussed here are not FDA/US clinics. Not legal advice.
+### Are programs discussed on this site approved for benzo-complex cases?
+No. Programs discussed on this site discussed here are not approved U.S. clinics. Not legal advice.
 
 ### Where should I go next?
 /safety-and-screening then /apply.
@@ -5610,17 +5610,17 @@ Educational warning summary only—not a taper protocol, medical advice, prescri
     slug: "ibogaine-drug-interactions-qtc",
     title: "Ibogaine Drug Interactions & QTc: Educational Screening Literacy",
     description:
-      "Ibogaine drug interactions and QTc risk: QT-prolonging meds, CYP2D6 inhibitors, electrolytes, oral vs IV honesty. No DIY. Not FDA-approved.",
+      "Ibogaine drug interactions and QTc risk: QT-prolonging meds, CYP2D6 inhibitors, electrolytes, oral vs IV honesty. No DIY. not approved for any indication.",
     date: "2026-09-06",
     readTime: "9 min",
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine drug interactions** are medication, supplement, and substance combinations that may increase toxicity—especially **QTc prolongation** / arrhythmia risk—or alter ibogaine/noribogaine exposure via pathways such as **CYP2D6**. In physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine), interaction review sits inside consult → ECG/labs → continuous monitoring → integration. **Evidence gap:** Most published human interaction/safety signals come from **oral** contexts (Knuijver QTc open-label; Glue CYP2D6 PK work; Obach metabolism). Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not a complete IV-interaction label. This page is **educational literacy**, not a personal stop/start list and not a complete interaction database. Ibogaine is U.S. Schedule I / not FDA-approved. Provisional Mexico programs ≠ FDA/US clinics. No DIY dosing. No cure claims.
+**Definition:** **Ibogaine drug interactions** are medication, supplement, and substance combinations that may increase toxicity—especially **QTc prolongation** / arrhythmia risk—or alter ibogaine/noribogaine exposure via pathways such as **CYP2D6**. In physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine), interaction review sits inside consult → ECG/labs → continuous monitoring → integration. **Evidence gap:** Most published human interaction/safety signals come from **oral** contexts (Knuijver QTc open-label; Glue CYP2D6 PK work; Obach metabolism). Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not a complete IV-interaction label. This page is **educational literacy**, not a personal stop/start list and not a complete interaction database. Ibogaine is U.S. Schedule I / not approved for any indication. Programs discussed on this site ≠ approved U.S. clinics. No DIY dosing. No cure claims.
 
 ## Quotable answer (55 words)
 
-Ibogaine drug interactions center on QTc-prolonging medications, electrolyte threats, and CYP2D6 inhibitors that can raise exposure. IV ibogaine infusion still requires physician supervision and cardiac monitoring; most published human data reflect oral dosing. Unsupervised polypharmacy with ibogaine is dangerous. Not FDA-approved. Not medical advice.
+Ibogaine drug interactions center on QTc-prolonging medications, electrolyte threats, and CYP2D6 inhibitors that can raise exposure. IV ibogaine infusion still requires physician supervision and cardiac monitoring; most published human data reflect oral dosing. Unsupervised polypharmacy with ibogaine is dangerous. not approved for any indication. Not medical advice.
 
 
 ## How to use this page (and how not to)
@@ -5705,7 +5705,7 @@ Vetting: /blog/how-to-choose-an-ibogaine-clinic · Red flags: /blog/cheap-ibogai
 
 ## Legal / geography
 
-Ibogaine remains U.S. **Schedule I** and **not FDA-approved** (/blog/is-ibogaine-legal-us). Provisional Mexico programs discussed on this site are not FDA/US clinics (/blog/ibogaine-mexico-medical-vs-tourism). Travel does not shrink interaction risk.
+Ibogaine remains U.S. **Schedule I** and **not approved for any indication** (/blog/is-ibogaine-legal-us). Programs discussed on this site are not approved U.S. clinics (/blog/medical-ibogaine-programs-vs-tourism). Travel does not shrink interaction risk.
 
 
 
@@ -5744,8 +5744,8 @@ Do not stop psychiatric medicines based on blogs. Ask the prescribing clinician 
 ### Can supplements interact?
 Yes—full lists matter (including “natural” products). Clinician review only.
 
-### Is ibogaine FDA-approved so interactions are on a label?
-No. Not FDA-approved; no consumer package-insert playbook for this use.
+### Is ibogaine approved so interactions are on a label?
+No. not approved for any indication; no consumer package-insert playbook for this use.
 
 ### Where should I go next?
 /safety-and-screening then /apply.
@@ -5776,7 +5776,7 @@ Educational interaction literacy only—not a complete interaction checker, medi
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine vs MDMA therapy** compares two distinct psychoactive treatment conversations that are often collapsed online. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. **MDMA-assisted therapy** typically means supervised oral MDMA paired with structured psychotherapy sessions in research or regulated pathways—not an ibogaine drip. **Evidence gap:** Most published ibogaine clinical literature remains **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Controlled evidence for psychoactive IV ibogaine is sparse. Neither is an FDA-approved “cure.” Ibogaine is U.S. Schedule I; MDMA remains Schedule I federally pending any future labeling changes. **No DIY.** Mexico programs discussed here are provisional only—not FDA/US clinics.
+**Definition:** **Ibogaine vs MDMA therapy** compares two distinct psychoactive treatment conversations that are often collapsed online. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. **MDMA-assisted therapy** typically means supervised oral MDMA paired with structured psychotherapy sessions in research or regulated pathways—not an ibogaine drip. **Evidence gap:** Most published ibogaine clinical literature remains **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Controlled evidence for psychoactive IV ibogaine is sparse. Neither is an approved “cure.” Ibogaine is U.S. Schedule I; MDMA remains Schedule I federally pending any future labeling changes. **No DIY.** programs discussed on this site discussed here are provisional only—not approved U.S. clinics.
 
 ## Quotable answer (58 words)
 
@@ -5802,11 +5802,11 @@ Entity hub: /what-is-ibogaine-infusion · Journey model: /how-it-works.
 |------|------------------------------------------|---------------------------------------------|
 | Typical psychoactive route | Oral MDMA in supervised sessions | **Intravenous psychoactive ibogaine** |
 | Dominant pairing | Structured psychotherapy (often multi-session) | Medical infusion + monitoring + integration |
-| U.S. legal baseline | Schedule I; research / regulatory pathway dependent | Schedule I; not FDA-approved for any indication |
+| U.S. legal baseline | Schedule I; research / regulatory pathway dependent | Schedule I; not approved for any indication |
 | Evidence landscape | Larger late-stage PTSD trial public discourse (still not a consumer guarantee) | Limited; mostly **oral** observational; sparse IV psychoactive RCTs |
 | Signature risk narrative | BP/HR, rare psychiatric AEs, session containment | **QTc prolongation / torsades risk**; continuous ECG/telemetry |
 | Support IV role | Not the brand story | Fluids / electrolytes / Mg may be **support**, labeled separately from psychoactive IV |
-| Common marketing abuse | “FDA-approved soon = book now” | “Stanford proved our IV cure” (false route laundry) |
+| Common marketing abuse | “approved soon = book now” | “Stanford proved our IV cure” (false route laundry) |
 
 Related comparisons: /blog/ibogaine-vs-ketamine-for-addiction · Condition hubs: /ibogaine-for-ptsd · /ibogaine-for-addiction · /ibogaine-for-depression.
 
@@ -5840,7 +5840,7 @@ Read: /safety-and-screening · /blog/ibogaine-side-effects · /blog/ibogaine-mor
 | “One flood cures PTSD like MDMA trials” | No cure/guarantee language; relapse and residual symptoms can occur |
 | “Luxury retreat = clinical equivalence” | Setting aesthetics ≠ telemetry / ACLS capability |
 
-Cure-rate critique: /blog/ibogaine-cure-rate-claims. Clinic selection: /blog/how-to-choose-an-ibogaine-clinic · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+Cure-rate critique: /blog/ibogaine-cure-rate-claims. Clinic selection: /blog/how-to-choose-an-ibogaine-clinic · Medical vs tourism: /blog/medical-ibogaine-programs-vs-tourism.
 
 
 ## Who might be comparing for the wrong reason
@@ -5877,14 +5877,14 @@ Yes—much of the known clinical literature is oral observational; controlled ps
 ### Which has higher cardiac (QTc) concern in the ibogaine conversation?
 Ibogaine’s signature risk front is QTc prolongation and arrhythmia risk; continuous monitoring is central to ethical programs.
 
-### Is either FDA-approved as a cure?
-No. Do not treat either as an FDA-labeled cure for addiction, PTSD, or depression.
+### Is either approved as a cure?
+No. Do not treat either as an approved-label cure for addiction, PTSD, or depression.
 
 ### Can I DIY compare doses at home?
 No. Unsupervised use is dangerous. This page is educational, not a dosing guide.
 
-### Are Mexico programs FDA clinics?
-No. Provisional Mexico availability discussed on this site is not an FDA/US clinic designation.
+### Are programs discussed on this site approved U.S. clinics?
+No. Treatment location shared after screening discussed on this site is not an approved U.S. clinic designation.
 
 ### Where should families start?
 /blog/family-guide-ibogaine-treatment · /safety-and-screening · /apply.
@@ -5892,7 +5892,7 @@ No. Provisional Mexico availability discussed on this site is not an FDA/US clin
 
 ## Medical disclaimer
 
-Educational comparison only—not medical advice, not a recommendation to use either substance, and not a prediction of individual outcomes. Do not self-administer ibogaine or MDMA as treatment. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved.
+Educational comparison only—not medical advice, not a recommendation to use either substance, and not a prediction of individual outcomes. Do not self-administer ibogaine or MDMA as treatment. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 
 ## Sources (selected)
@@ -5913,7 +5913,7 @@ Educational comparison only—not medical advice, not a recommendation to use ei
     content: `
 ## Definition box
 
-**Definition:** A **family guide to ibogaine treatment** helps relatives evaluate risk, legality, and clinic honesty—not sell a miracle. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. **Support IV** (fluids, magnesium, antiemetics) is not the same as the psychoactive dose. **Evidence gap:** Most published clinical literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** only)—not controlled proof of psychoactive IV outcomes. Ibogaine is U.S. Schedule I and not FDA-approved. **No cures/guarantees. No DIY.** Mexico programs discussed here are provisional only.
+**Definition:** A **family guide to ibogaine treatment** helps relatives evaluate risk, legality, and clinic honesty—not sell a miracle. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. **Support IV** (fluids, magnesium, antiemetics) is not the same as the psychoactive dose. **Evidence gap:** Most published clinical literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** only)—not controlled proof of psychoactive IV outcomes. Ibogaine is U.S. Schedule I and not approved for any indication. **No cures/guarantees. No DIY.** programs discussed on this site discussed here are provisional only.
 
 ## Quotable answer (56 words)
 
@@ -5929,7 +5929,7 @@ Primary safety pillar: /safety-and-screening. Soft next step after screening lit
 
 ## Five truths families need early
 
-1. **Ibogaine is not FDA-approved** for addiction, PTSD, or depression.  
+1. **Ibogaine is not approved for any indication** for addiction, PTSD, or depression.  
 2. **Cardiac risk is front-line**, not fine print—QTc prolongation and arrhythmia risk are central.  
 3. **“Stanford proved it” is often misquoted**—MISTIC was open-label **oral** + **IV Mg**, small N.  
 4. **Support IV ≠ psychoactive IV**—electrolyte drips are not the treatment entity.  
@@ -5963,7 +5963,7 @@ Educational caution only: /blog/ibogaine-ssri-psychiatric-meds (not a taper plan
 - Will they refuse “guaranteed detox / lifelong cure” language in writing?  
 - What aftercare is included vs upsold?
 
-Aftercare: /blog/ibogaine-aftercare-integration · Choosing clinics: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+Aftercare: /blog/ibogaine-aftercare-integration · Choosing clinics: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Medical vs tourism: /blog/medical-ibogaine-programs-vs-tourism.
 
 ### Money and pressure
 - Full cost, refund rules, what happens if screened out for cardiac risk?  
@@ -6068,7 +6068,7 @@ Not automatically. Spa aesthetics ≠ telemetry/ACLS. See luxury red-flag guidan
 No DIY taper plans. Medication changes require licensed clinicians.
 
 ### Is ibogaine legal in the U.S.?
-Federally Schedule I; not FDA-approved. See legality page.
+Federally Schedule I; not approved for any indication. See legality page.
 
 ### Where do we go next?
 /safety-and-screening → /apply · /blog/how-to-choose-an-ibogaine-clinic.
@@ -6076,7 +6076,7 @@ Federally Schedule I; not FDA-approved. See legality page.
 
 ## Medical disclaimer
 
-Educational family guidance only—not medical advice and not a substitute for physician evaluation. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved.
+Educational family guidance only—not medical advice and not a substitute for physician evaluation. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 
 ## Sources (selected)
@@ -6097,7 +6097,7 @@ Educational family guidance only—not medical advice and not a substitute for p
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine mortality and cardiac risk** discussions center on **QTc prolongation**, arrhythmia (including torsades de pointes risk), and deaths reported in heterogeneous medical and non-medical settings. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring—not a wellness drip. **Support IV** (fluids, magnesium, antiemetics) is labeled separately from the psychoactive dose. **Evidence gap:** Landmark QTc observations (e.g., Knuijver et al., *Addiction*, 2021) followed **oral** ibogaine HCl; Cherian/MISTIC (*Nature Medicine*, 2024) used **oral** ibogaine + **IV magnesium**. Those papers inform risk—they are not psychoactive-IV RCTs and not proof of safety. Ibogaine is U.S. Schedule I and not FDA-approved. **No cures. No DIY.** Mexico programs discussed here are provisional only.
+**Definition:** **Ibogaine mortality and cardiac risk** discussions center on **QTc prolongation**, arrhythmia (including torsades de pointes risk), and deaths reported in heterogeneous medical and non-medical settings. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring—not a wellness drip. **Support IV** (fluids, magnesium, antiemetics) is labeled separately from the psychoactive dose. **Evidence gap:** Landmark QTc observations (e.g., Knuijver et al., *Addiction*, 2021) followed **oral** ibogaine HCl; Cherian/MISTIC (*Nature Medicine*, 2024) used **oral** ibogaine + **IV magnesium**. Those papers inform risk—they are not psychoactive-IV RCTs and not proof of safety. Ibogaine is U.S. Schedule I and not approved for any indication. **No cures. No DIY.** programs discussed on this site discussed here are provisional only.
 
 ## Quotable answer (59 words)
 
@@ -6165,7 +6165,7 @@ Medication interaction caution (not DIY taper): /blog/ibogaine-ssri-psychiatric-
 | Written psychoactive route (IV vs oral) | Prevents support-IV bait-and-switch |
 | Refusal when contraindicated | “Not a candidate” is a safety outcome |
 
-Clinic selection: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+Clinic selection: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Medical vs tourism: /blog/medical-ibogaine-programs-vs-tourism.
 
 
 ## What mortality talk must never become
@@ -6194,7 +6194,7 @@ Investigative and case reports often mix:
 - Preexisting cardiac vulnerability  
 - Delayed emergency response  
 
-That mixture means **you cannot extract a single universal fatality percentage from headlines** and treat it as an FDA label. It also means you cannot dismiss deaths as “only junkie tourism” while selling unmonitored luxury. Both denial and fatalism are bad medicine.
+That mixture means **you cannot extract a single universal fatality percentage from headlines** and treat it as an approved-product label. It also means you cannot dismiss deaths as “only junkie tourism” while selling unmonitored luxury. Both denial and fatalism are bad medicine.
 
 Practical translation for decision-makers:
 
@@ -6231,8 +6231,8 @@ No. Unsupervised use is dangerous.
 ### Are cure-rate ads compatible with mortality honesty?
 Usually not. Guaranteed outcomes plus buried cardiac risk are a red flag.
 
-### Is ibogaine FDA-approved?
-No. U.S. Schedule I; not FDA-approved for any indication.
+### Is ibogaine approved for medical use?
+No. U.S. Schedule I; not approved for any indication.
 
 ### What should I read next?
 /safety-and-screening · /blog/ibogaine-telemetry-acls-monitoring · /apply.
@@ -6240,7 +6240,7 @@ No. U.S. Schedule I; not FDA-approved for any indication.
 
 ## Medical disclaimer
 
-Educational risk information only—not medical advice and not an individualized risk score. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved. Mexico programs discussed here are provisional only.
+Educational risk information only—not medical advice and not an individualized risk score. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not approved for any indication. Programs discussed on this site discussed here are provisional only.
 
 
 ## Sources (selected)
@@ -6261,7 +6261,7 @@ Educational risk information only—not medical advice and not an individualized
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine and SSRIs** (and other psychiatric medications) is a **screening and interaction caution** topic—not a home taper guide. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. Medication lists matter for cardiac risk, serotonergic risk conversations, withdrawal destabilization, and program eligibility. **Evidence gap:** Most published ibogaine clinical literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support)—not controlled psychoactive-IV interaction RCTs. **Support IV ≠ psychoactive IV.** Ibogaine is U.S. Schedule I and not FDA-approved. **No cures. No DIY taper plans on this page.** Mexico programs discussed here are provisional only.
+**Definition:** **Ibogaine and SSRIs** (and other psychiatric medications) is a **screening and interaction caution** topic—not a home taper guide. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. Medication lists matter for cardiac risk, serotonergic risk conversations, withdrawal destabilization, and program eligibility. **Evidence gap:** Most published ibogaine clinical literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support)—not controlled psychoactive-IV interaction RCTs. **Support IV ≠ psychoactive IV.** Ibogaine is U.S. Schedule I and not approved for any indication. **No cures. No DIY taper plans on this page.** programs discussed on this site discussed here are provisional only.
 
 ## Quotable answer (57 words)
 
@@ -6331,9 +6331,9 @@ Walk away if a program:
 2. Says “stop everything 14 days before or we cancel—figure it out yourself”  
 3. Treats luxury booking deposits as more important than psych history  
 4. Claims SSRIs “block the cure” with guaranteed outcome language  
-5. Cites MISTIC oral+Mg as proof their IV psych protocol is FDA-like  
+5. Cites MISTIC oral+Mg as proof their IV psych protocol is regulator-like  
 
-Clinic choice: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Cure claims: /blog/ibogaine-cure-rate-claims · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+Clinic choice: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Cure claims: /blog/ibogaine-cure-rate-claims · Medical vs tourism: /blog/medical-ibogaine-programs-vs-tourism.
 
 
 ## How an ethical conversation usually sounds
@@ -6394,8 +6394,8 @@ No. Route matters; controlled psychoactive-IV evidence is sparse.
 ### Will stopping antidepressants guarantee better results?
 No. No cure/guarantee claims. Medication changes are about safety and stability, not guaranteed outcomes.
 
-### Is ibogaine FDA-approved for depression?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for depression?
+No. Schedule I; not approved for any indication.
 
 ### What should I do next?
 /safety-and-screening → /blog/preparing-for-ibogaine-screening → /apply.
@@ -6403,7 +6403,7 @@ No. Schedule I; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational interaction caution only—**not a taper plan, not medical advice, and not a dosing guide**. Do not start, stop, or change psychiatric medications based on this article. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved.
+Educational interaction caution only—**not a taper plan, not medical advice, and not a dosing guide**. Do not start, stop, or change psychiatric medications based on this article. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 
 ## Sources (selected)
@@ -6424,7 +6424,7 @@ Educational interaction caution only—**not a taper plan, not medical advice, a
     content: `
 ## Definition box
 
-**Definition:** **Preparing for ibogaine screening** means assembling medical history, medication lists, cardiac data, and substance-use timelines so a physician can decide whether **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under continuous cardiac monitoring—is even appropriate. Screening exists because ibogaine can prolong the **QTc** interval and has been linked to serious cardiac events. **Support IV** (fluids/magnesium/antiemetics) is not the psychoactive dose. **Evidence gap:** Much published literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** only); controlled psychoactive-IV evidence is sparse. Ibogaine is U.S. Schedule I and not FDA-approved. **No cures. No DIY.** Mexico programs discussed here are provisional only.
+**Definition:** **Preparing for ibogaine screening** means assembling medical history, medication lists, cardiac data, and substance-use timelines so a physician can decide whether **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under continuous cardiac monitoring—is even appropriate. Screening exists because ibogaine can prolong the **QTc** interval and has been linked to serious cardiac events. **Support IV** (fluids/magnesium/antiemetics) is not the psychoactive dose. **Evidence gap:** Much published literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** only); controlled psychoactive-IV evidence is sparse. Ibogaine is U.S. Schedule I and not approved for any indication. **No cures. No DIY.** programs discussed on this site discussed here are provisional only.
 
 ## Quotable answer (54 words)
 
@@ -6486,7 +6486,7 @@ Condition context: /ibogaine-for-addiction · Comparisons: /blog/ibogaine-vs-nal
 5. What happens if QTc or labs fail—refund/reschedule policy?  
 6. Will they refuse “guaranteed cure” language?
 
-Telemetry: /blog/ibogaine-telemetry-acls-monitoring · Mortality/cardiac: /blog/ibogaine-mortality-cardiac-risk · Side effects: /blog/ibogaine-side-effects · Clinic choice: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism · Cure claims: /blog/ibogaine-cure-rate-claims · Stanford oral+Mg label: /blog/stanford-ibogaine-mistic · Legal: /blog/is-ibogaine-legal-us · Cost: /blog/cost-of-ibogaine-treatment · Family: /blog/family-guide-ibogaine-treatment.
+Telemetry: /blog/ibogaine-telemetry-acls-monitoring · Mortality/cardiac: /blog/ibogaine-mortality-cardiac-risk · Side effects: /blog/ibogaine-side-effects · Clinic choice: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Medical vs tourism: /blog/medical-ibogaine-programs-vs-tourism · Cure claims: /blog/ibogaine-cure-rate-claims · Stanford oral+Mg label: /blog/stanford-ibogaine-mistic · Legal: /blog/is-ibogaine-legal-us · Cost: /blog/cost-of-ibogaine-treatment · Family: /blog/family-guide-ibogaine-treatment.
 
 
 ## What “pass screening” does not mean
@@ -6494,7 +6494,7 @@ Telemetry: /blog/ibogaine-telemetry-acls-monitoring · Mortality/cardiac: /blog/
 | It means | It does not mean |
 |----------|------------------|
 | Acute contraindications were not obvious on review | Zero cardiac risk |
-| Monitoring plan is acceptable to the team | FDA approval |
+| Monitoring plan is acceptable to the team | regulatory approval |
 | You understood route and consent | Guaranteed addiction/PTSD/depression cure |
 | Support IV may be used | Support IV is the medicine |
 
@@ -6509,7 +6509,7 @@ Oral literature reminder: Knuijver oral QTc signals; Cherian/MISTIC oral + IV Mg
 - Do not interpret a sales email saying “you’re approved pending deposit” as a cardiology clearance  
 - Re-read side-effect and monitoring pages so consent is informed, not theatrical  
 
-If cross-border care is in view, separate **provisional Mexico availability** from FDA/US clinic status. Medical infrastructure questions still dominate tourism amenities.
+If cross-border care is in view, separate **treatment location shared after screening** from approved U.S. clinic status. Medical infrastructure questions still dominate tourism amenities.
 
 
 ## Common preparation mistakes
@@ -6518,7 +6518,7 @@ If cross-border care is in view, separate **provisional Mexico availability** fr
 - Booking nonrefundable luxury packages before ECG  
 - Assuming ketamine-clinic vibes equal ibogaine telemetry capability  
 - Hiding fentanyl/benzo use to avoid “judgment”  
-- Treating Mexico provisional availability as FDA equivalence  
+- Treating Program location availability as regulators equivalence  
 - Confusing Cherian/MISTIC **oral + IV Mg** with psychoactive IV proof  
 
 
@@ -6581,8 +6581,8 @@ No. Psychoactive IV ibogaine ≠ support IV magnesium/fluids.
 ### Does passing screening guarantee results?
 No. No cure/guarantee claims.
 
-### Is ibogaine legal/FDA-approved in the U.S.?
-Schedule I federally; not FDA-approved.
+### Is ibogaine legal/approved in the U.S.?
+Schedule I federally; not approved for any indication.
 
 ### What next?
 /safety-and-screening → /apply · /faq.
@@ -6590,7 +6590,7 @@ Schedule I federally; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational preparation guide only—not medical advice and not a clearance letter. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved.
+Educational preparation guide only—not medical advice and not a clearance letter. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 
 ## Sources (selected)
@@ -6611,7 +6611,7 @@ Educational preparation guide only—not medical advice and not a clearance lett
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine luxury retreat red flags** are sales and setting cues that prioritize villa photos over cardiac medicine. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous monitoring for **QTc** risk—not a float-tank aesthetic. **Support IV** magnesium/fluids must be labeled separately from the psychoactive dose. **Evidence gap:** Most published clinical literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** only); sparse controlled psychoactive-IV evidence cannot be replaced by thread-count marketing. Ibogaine is U.S. Schedule I and not FDA-approved. **No cures. No DIY.** Mexico programs discussed here are provisional only—not FDA/US clinics.
+**Definition:** **Ibogaine luxury retreat red flags** are sales and setting cues that prioritize villa photos over cardiac medicine. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous monitoring for **QTc** risk—not a float-tank aesthetic. **Support IV** magnesium/fluids must be labeled separately from the psychoactive dose. **Evidence gap:** Most published clinical literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** only); sparse controlled psychoactive-IV evidence cannot be replaced by thread-count marketing. Ibogaine is U.S. Schedule I and not approved for any indication. **No cures. No DIY.** programs discussed on this site discussed here are provisional only—not approved U.S. clinics.
 
 ## Quotable answer (55 words)
 
@@ -6622,7 +6622,7 @@ Luxury ibogaine retreats are not automatically safer. Infinity pools do not subs
 
 Luxury can include excellent medicine. Luxury can also *camouflage* thin medicine. Price and marble are not clinical endpoints.
 
-Safety home: /safety-and-screening · Choosing clinics: /blog/how-to-choose-an-ibogaine-clinic · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism · Cheap-clinic cousin list: treat amenity theater as the luxury twin of discount recklessness.
+Safety home: /safety-and-screening · Choosing clinics: /blog/how-to-choose-an-ibogaine-clinic · Medical vs tourism: /blog/medical-ibogaine-programs-vs-tourism · Cheap-clinic cousin list: treat amenity theater as the luxury twin of discount recklessness.
 
 
 ## Red-flag checklist (luxury edition)
@@ -6655,7 +6655,7 @@ Not psychiatry. /blog/ibogaine-ssri-psychiatric-meds
 Integration theater without therapy/recovery pathways. /blog/ibogaine-aftercare-integration
 
 ### 10) Legal laundering
-Implying FDA-like status for provisional Mexico stays. /blog/is-ibogaine-legal-us
+Implying regulator-like status for treatment location shared after screening stays. /blog/is-ibogaine-legal-us
 
 
 ## Side-by-side: amenity vs medicine
@@ -6704,7 +6704,7 @@ If answers are breezy and brochure-shaped, keep shopping—or stop.
 
 **Pattern D — Aftercare ghosting.** Integration is a group photo and a discount code for a future stay. Relapse planning is treated as negative thinking.
 
-If you recognize these patterns, return to /safety-and-screening and /blog/ibogaine-mexico-medical-vs-tourism before any wire transfer.
+If you recognize these patterns, return to /safety-and-screening and /blog/medical-ibogaine-programs-vs-tourism before any deposit or wire transfer.
 
 Oral evidence still matters for humility: Knuijver oral QTc signals remind every pretty room that arrhythmia risk is physiologic, not aesthetic. Cherian/MISTIC oral + IV Mg remains misused in luxury ads—label it every time.
 
@@ -6731,7 +6731,7 @@ Not automatically. Safety tracks monitoring and clinical governance, not thread 
 No. Support IV ≠ psychoactive intravenous ibogaine.
 
 ### Can a retreat guarantee a cure if it costs more?
-No. Price does not create an FDA-labeled cure rate.
+No. Price does not create an approved-label cure rate.
 
 ### Why is QTc mentioned on a luxury page?
 Because ibogaine’s cardiac risk does not care about the view.
@@ -6742,8 +6742,8 @@ No. MISTIC is oral + IV Mg open-label—not psychoactive IV luxury proof.
 ### Should families prioritize amenities?
 Prioritize ECG, telemetry, physician coverage, and honest consent. Amenities last.
 
-### Is ibogaine FDA-approved if offered in a medical villa?
-No. U.S. Schedule I; not FDA-approved. Provisional Mexico ≠ FDA clinic.
+### Is ibogaine approved if offered in a medical villa?
+No. U.S. Schedule I; not approved for any indication. Treatment location shared after screening ≠ approved U.S. clinic.
 
 ### What should I read next?
 /safety-and-screening · /blog/how-to-choose-an-ibogaine-clinic · /apply.
@@ -6751,7 +6751,7 @@ No. U.S. Schedule I; not FDA-approved. Provisional Mexico ≠ FDA clinic.
 
 ## Medical disclaimer
 
-Educational consumer-protection article—not medical advice and not a ranking of specific resorts. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved.
+Educational consumer-protection article—not medical advice and not a ranking of specific resorts. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 
 ## Sources (selected)
@@ -6772,11 +6772,11 @@ Educational consumer-protection article—not medical advice and not a ranking o
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine vs naltrexone** compares an experimental psychoactive treatment conversation with an established opioid-antagonist medication used in addiction care. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring for **QTc** risk. **Naltrexone** (oral or extended-release injectable formulations in routine practice) is an opioid receptor antagonist used in evidence-based pathways for opioid and/or alcohol use disorders depending on indication and clinician judgment—not an ibogaine substitute drip. **Evidence gap:** Most published ibogaine clinical literature remains **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support); controlled psychoactive-IV evidence is sparse. **Support IV ≠ psychoactive IV.** Ibogaine is U.S. Schedule I and not FDA-approved. Naltrexone products have FDA-approved uses in labeled contexts. **No cures/guarantees. No DIY.** Mexico programs discussed here are provisional only.
+**Definition:** **Ibogaine vs naltrexone** compares an experimental psychoactive treatment conversation with an established opioid-antagonist medication used in addiction care. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring for **QTc** risk. **Naltrexone** (oral or extended-release injectable formulations in routine practice) is an opioid receptor antagonist used in evidence-based pathways for opioid and/or alcohol use disorders depending on indication and clinician judgment—not an ibogaine substitute drip. **Evidence gap:** Most published ibogaine clinical literature remains **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support); controlled psychoactive-IV evidence is sparse. **Support IV ≠ psychoactive IV.** Ibogaine is U.S. Schedule I and not approved for any indication. Naltrexone products have approved uses in labeled contexts. **No cures/guarantees. No DIY.** programs discussed on this site discussed here are provisional only.
 
 ## Quotable answer (58 words)
 
-Ibogaine and naltrexone are not interchangeable addiction tools. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with QTc-focused monitoring; much published ibogaine research is still oral and not FDA-approved. Naltrexone is an opioid antagonist used in established medical pathways. Evidence maturity, legality, and risk profiles diverge. Neither guarantees lasting recovery without ongoing care.
+Ibogaine and naltrexone are not interchangeable addiction tools. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with QTc-focused monitoring; much published ibogaine research is still oral and not approved for any indication. Naltrexone is an opioid antagonist used in established medical pathways. Evidence maturity, legality, and risk profiles diverge. Neither guarantees lasting recovery without ongoing care.
 
 
 ## Why this comparison appears in search
@@ -6793,7 +6793,7 @@ That binary is false. Relapse can occur after either path. Aftercare matters eit
 | Axis | Naltrexone (typical medical use) | IV ibogaine infusion (this entity) |
 |------|----------------------------------|-------------------------------------|
 | Drug class role | Opioid receptor antagonist | Psychoactive iboga alkaloid (experimental use conversation) |
-| U.S. regulatory | FDA-approved products/indications in labeled contexts | Schedule I; not FDA-approved |
+| U.S. regulatory | approved products/indications in labeled contexts | Schedule I; not approved for any indication |
 | Evidence maturity | Decades of clinical use literature for labeled pathways | Limited; oral observational dominates; sparse IV RCTs |
 | Delivery | Oral or extended-release injection per clinician | **Intravenous psychoactive ibogaine** in monitored setting |
 | Signature risk themes | Precipitated withdrawal if opioids still onboard; adherence; overdose risk if antagonist stops and opioid tolerance is lost—clinician counseling required | **QTc / arrhythmia**; prolonged observation; medication interactions |
@@ -6807,7 +6807,7 @@ Related: /blog/ibogaine-vs-ketamine-for-addiction · /blog/ibogaine-vs-mdma-ther
 
 **Naltrexone logic:** occupy opioid receptors so exogenous opioids have blunted effect; used within structured care, often after detox timing determined by clinicians. This page does **not** teach induction timing—precipitated withdrawal risk is real and clinician-managed.
 
-**Ibogaine logic (as discussed historically):** intense multi-hour experience sometimes associated with interruption of withdrawal and craving in observational reports—**not** an FDA-labeled induction protocol, **not** a guaranteed antagonist equivalent, and **not** DIY.
+**Ibogaine logic (as discussed historically):** intense multi-hour experience sometimes associated with interruption of withdrawal and craving in observational reports—**not** an approved-label induction protocol, **not** a guaranteed antagonist equivalent, and **not** DIY.
 
 If someone is already on methadone/buprenorphine, transitions involving either naltrexone or experimental ibogaine care are high-stakes medication decisions—not forum polls.
 
@@ -6825,12 +6825,12 @@ Read: /safety-and-screening · /blog/ibogaine-mortality-cardiac-risk · /blog/ib
 
 | Situation people describe | Honest orientation |
 |---------------------------|--------------------|
-| Want FDA-labeled antagonist option | Discuss naltrexone (and other MOUD) with addiction clinicians |
+| Want approved-label antagonist option | Discuss naltrexone (and other MOUD) with addiction clinicians |
 | Exploring experimental psychoactive care | Screening-first; accept exclusion; no cure ads |
 | Hope to never take daily medication | Desire ≠ pharmacology; relapse planning still required |
 | Saw “ibogaine replaces Vivitrol” reel | Treat as marketing until peer-reviewed, route-labeled evidence says otherwise |
 
-Clinic diligence: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism · Cost: /blog/cost-of-ibogaine-treatment · Screening prep: /blog/preparing-for-ibogaine-screening · Family: /blog/family-guide-ibogaine-treatment · Entity/journey: /what-is-ibogaine-infusion · /how-it-works · PTSD/depression hubs if dual goals: /ibogaine-for-ptsd · /ibogaine-for-depression.
+Clinic diligence: /blog/how-to-choose-an-ibogaine-clinic · Luxury red flags: /blog/ibogaine-luxury-retreat-red-flags · Medical vs tourism: /blog/medical-ibogaine-programs-vs-tourism · Cost: /blog/cost-of-ibogaine-treatment · Screening prep: /blog/preparing-for-ibogaine-screening · Family: /blog/family-guide-ibogaine-treatment · Entity/journey: /what-is-ibogaine-infusion · /how-it-works · PTSD/depression hubs if dual goals: /ibogaine-for-ptsd · /ibogaine-for-depression.
 
 
 ## Overdose literacy after any path
@@ -6862,7 +6862,7 @@ Compare tools with a clinician, not a sales binary. If exploring ibogaine, start
 ## FAQ
 
 ### Is ibogaine a substitute for naltrexone?
-Not as an FDA-labeled equivalent. Different regulatory and evidence statuses.
+Not as an approved-label equivalent. Different regulatory and evidence statuses.
 
 ### Which is “more proven”?
 Naltrexone has established labeled medical pathways; ibogaine remains experimental with limited, mostly oral observational literature and sparse psychoactive-IV RCTs.
@@ -6879,8 +6879,8 @@ QTc prolongation and arrhythmia risk are central safety themes.
 ### Is IV magnesium the same as treatment?
 No. Support IV ≠ psychoactive IV ibogaine.
 
-### Is ibogaine legal/FDA-approved in the U.S.?
-Schedule I; not FDA-approved. Provisional Mexico ≠ FDA clinic.
+### Is ibogaine legal/approved in the U.S.?
+Schedule I; not approved for any indication. Treatment location shared after screening ≠ approved U.S. clinic.
 
 ### What next?
 /safety-and-screening → /apply · /ibogaine-for-addiction.
@@ -6888,7 +6888,7 @@ Schedule I; not FDA-approved. Provisional Mexico ≠ FDA clinic.
 
 ## Medical disclaimer
 
-Educational comparison only—not medical advice, not a prescription, and not an instruction to start/stop naltrexone or use ibogaine. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed addiction clinicians. Ibogaine is U.S. Schedule I and not FDA-approved.
+Educational comparison only—not medical advice, not a prescription, and not an instruction to start/stop naltrexone or use ibogaine. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed addiction clinicians. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 
 ## Sources (selected)
@@ -6897,20 +6897,20 @@ Educational comparison only—not medical advice, not a prescription, and not an
 2. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; QTc open-label findings.  
 3. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
 4. 21 CFR 1308.11 — Schedule I (ibogaine).  
-5. FDA-labeled naltrexone product information (consult current labels via FDA resources for approved indications and warnings).
+5. approved-label naltrexone product information (consult current labels via regulators resources for approved indications and warnings).
 `,
   },
   {
     slug: "how-to-read-ibogaine-clinic-website",
     title: "How to Read an Ibogaine Clinic Website: A YMYL Decoder",
     description:
-      "How to read an ibogaine clinic website: decode oral vs IV, support Mg vs psychoactive IV, QTc honesty, cure claims, Schedule I, Mexico provisional vs tourism.",
+      "How to read an ibogaine clinic website: decode oral vs IV, support Mg vs psychoactive IV, QTc honesty, cure claims, Schedule I, Program location vs tourism.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `
 ## Definition box
 
-**Definition:** **How to read an ibogaine clinic website** means translating marketing language into medical reality before you send money or fly. On this site, **IV ibogaine infusion** means **psychoactive intravenous ibogaine** under physician supervision (consult → cardiac screening → continuous monitoring → integration)—not merely an IV line for fluids beside oral capsules. **Evidence gap:** Most published clinical literature still describes **oral** ibogaine HCl, often with **IV magnesium** support (Cherian/MISTIC; Knuijver QTc work)—not controlled proof of psychoactive IV outcomes. Ibogaine can prolong **QTc**. It is U.S. **Schedule I** / not FDA-approved. Provisional **Mexico** programs are not FDA/U.S. clinics. No DIY. No cure claims.
+**Definition:** **How to read an ibogaine clinic website** means translating marketing language into medical reality before you send money or fly. On this site, **IV ibogaine infusion** means **psychoactive intravenous ibogaine** under physician supervision (consult → cardiac screening → continuous monitoring → integration)—not merely an IV line for fluids beside oral capsules. **Evidence gap:** Most published clinical literature still describes **oral** ibogaine HCl, often with **IV magnesium** support (Cherian/MISTIC; Knuijver QTc work)—not controlled proof of psychoactive IV outcomes. Ibogaine can prolong **QTc**. It is U.S. **Schedule I** / not approved for any indication. Programs discussed on this site are not approved U.S. clinics. No DIY. No cure claims.
 
 ## Quotable answer (57 words)
 
@@ -6943,7 +6943,7 @@ Must discuss ECG, electrolytes, QTc, continuous monitoring, and physician go/no-
 Check route labels on every citation. Cherian et al., *Nature Medicine* 2024 = **oral** ibogaine + **IV magnesium**, open-label—not IV-ibogaine RCT proof (/blog/stanford-ibogaine-mistic). Knuijver 2021 = **oral** QTc signals. Mosca reviews: limited RCTs.
 
 ### 4) Legal / location page
-U.S. readers need Schedule I / not FDA-approved honesty (/blog/is-ibogaine-legal-us). If the brand discusses provisional **Mexico** care, it should not imply FDA/U.S. clinic status (/blog/ibogaine-mexico-medical-vs-tourism). Research bills and IND headlines ≠ walk-in approval (/blog/ibogaine-fda-ind-explained · /blog/ibogaine-state-research-bills-2026).
+U.S. readers need Schedule I / not approved for any indication honesty (/blog/is-ibogaine-legal-us). If the brand discusses care discussed on this site, it should not imply approved U.S. clinic status (/blog/medical-ibogaine-programs-vs-tourism). Research bills and IND headlines ≠ walk-in approval (/blog/ibogaine-ind-explained · /blog/ibogaine-state-research-bills-2026).
 
 ### 5) Pricing / apply
 Opaque “from $X” without staffing/monitoring explanation is a vetting issue. Market-reported bands often cited around ~$6,000–$25,000 are not quotes (/blog/cost-of-ibogaine-treatment · /blog/ibogaine-treatment-package · /blog/does-insurance-cover-ibogaine). Soft apply should follow safety, not replace it (/apply).
@@ -6990,7 +6990,7 @@ Email these and keep the reply:
 3. Is magnesium labeled **support**?  
 4. How do you cite MISTIC/Cherian (oral + IV Mg)?  
 5. Do you publish cure percentages? Why or why not?  
-6. Where does care occur, and how is Mexico (if applicable) described vs FDA/U.S. clinics?  
+6. Where does care occur, and how is abroad (if applicable) described vs approved U.S. clinics?  
 7. What aftercare is included in writing?  
 
 Side-effects literacy: /blog/ibogaine-side-effects. Flying-home gap: /blog/flying-home-after-ibogaine.
@@ -7000,7 +7000,7 @@ Side-effects literacy: /blog/ibogaine-side-effects. Flying-home gap: /blog/flyin
 
 Even careful websites cannot ethically claim:
 
-- FDA approval for ibogaine indications  
+- regulatory approval for ibogaine indications  
 - Guaranteed detox/cure  
 - That oral observational series equal IV psychoactive RCTs  
 - That Schedule I disappears because a foreign program exists  
@@ -7043,11 +7043,11 @@ No. Treat guaranteed percentages as a red flag.
 ### Does QTc content belong on a marketing site?
 Yes. Cardiac risk should be front—not buried.
 
-### Are Mexico package sites FDA clinics?
-No. Provisional Mexico programs are not FDA/U.S. clinics. Not legal advice.
+### Are destination package sites approved U.S. clinics?
+No. Programs discussed on this site are not approved U.S. clinics. Not legal advice.
 
 ### Can websites legally imply U.S. approval?
-Ibogaine is Schedule I / not FDA-approved. Misleading implication is a trust failure; this is not legal advice.
+Ibogaine is Schedule I / not approved for any indication. Misleading implication is a trust failure; this is not legal advice.
 
 ### Is “test dose / flood dose” always the brand IV protocol?
 No. Those labels often reflect oral-literature traditions—verify route.
@@ -7079,11 +7079,11 @@ Educational website-literacy guide only—not medical, legal, or consumer-protec
     content: `
 ## Definition box
 
-**Definition:** **Test dose** and **flood dose** are historical/clinic-culture labels most often associated with **oral** ibogaine HCl protocols described in observational literature and treatment-provider vernacular—not a DIY recipe and not automatically the same as this site’s **IV ibogaine infusion** entity (**psychoactive intravenous ibogaine** under physician supervision with cardiac monitoring). **Evidence gap:** Landmark papers (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support; Knuijver = **oral** QTc signals) do not convert flood-dose folklore into controlled IV-psychoactive proof. Ibogaine can prolong **QTc**. Schedule I / not FDA-approved. Provisional Mexico ≠ FDA/U.S. clinics. **No DIY dosing. No cure claims. No mg/kg instructions on this page.**
+**Definition:** **Test dose** and **flood dose** are historical/clinic-culture labels most often associated with **oral** ibogaine HCl protocols described in observational literature and treatment-provider vernacular—not a DIY recipe and not automatically the same as this site’s **IV ibogaine infusion** entity (**psychoactive intravenous ibogaine** under physician supervision with cardiac monitoring). **Evidence gap:** Landmark papers (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support; Knuijver = **oral** QTc signals) do not convert flood-dose folklore into controlled IV-psychoactive proof. Ibogaine can prolong **QTc**. Schedule I / not approved for any indication. Treatment location shared after screening ≠ approved U.S. clinics. **No DIY dosing. No cure claims. No mg/kg instructions on this page.**
 
 ## Quotable answer (56 words)
 
-Ibogaine “test dose” and “flood dose” are primarily oral-literature and provider-culture labels for staged oral exposure—not home instructions and not identical to physician-supervised IV ibogaine infusion. Most published clinical series still reflect oral routes, often with support IV such as magnesium. QTc risk requires medical screening. It is not FDA-approved; outcomes are not guaranteed.
+Ibogaine “test dose” and “flood dose” are primarily oral-literature and provider-culture labels for staged oral exposure—not home instructions and not identical to physician-supervised IV ibogaine infusion. Most published clinical series still reflect oral routes, often with support IV such as magnesium. QTc risk requires medical screening. It is not approved for any indication; outcomes are not guaranteed.
 
 
 ## Why these search terms are high-risk
@@ -7145,7 +7145,7 @@ Watch for:
 4. Skipping stop rules for rising QTc  
 5. Selling “test dose weekends” as tourism  
 
-Mexico provisional honesty: /blog/ibogaine-mexico-medical-vs-tourism · legality: /blog/is-ibogaine-legal-us.
+Treatment-location honesty: /blog/medical-ibogaine-programs-vs-tourism · legality: /blog/is-ibogaine-legal-us.
 
 
 ## What a physician-supervised journey discusses instead (no manual)
@@ -7163,7 +7163,7 @@ How it works: /how-it-works · duration: /blog/ibogaine-program-duration · afte
 
 ## Noribogaine and IND headlines are not “flood 2.0”
 
-Metabolite pharmacokinetics and investigational noribogaine programs are separate from oral flood folklore and from brand IV infusion claims. See /blog/noribogaine-explained · /blog/noribogaine-trials-vs-iv-infusion · /blog/ibogaine-fda-ind-explained.
+Metabolite pharmacokinetics and investigational noribogaine programs are separate from oral flood folklore and from brand IV infusion claims. See /blog/noribogaine-explained · /blog/noribogaine-trials-vs-iv-infusion · /blog/ibogaine-ind-explained.
 
 Cure-rate myths often piggyback on flood lore: /blog/ibogaine-cure-rate-claims.
 
@@ -7220,8 +7220,8 @@ No. MISTIC used **oral** ibogaine + **IV magnesium** support, open-label.
 ### Does QTc risk apply to “just a test dose” idea?
 Any ibogaine exposure discussion should take cardiac risk seriously; unsupervised dosing is refused here.
 
-### Are Mexico flood packages FDA-approved?
-No. Provisional Mexico programs are not FDA/U.S. clinics. Not legal advice.
+### Are destination flood packages approved?
+No. Programs discussed on this site are not approved U.S. clinics. Not legal advice.
 
 ### Where should I go next?
 /safety-and-screening then /apply.
@@ -7250,7 +7250,7 @@ Educational terminology labeling only—not a dosing protocol, medical advice, o
     content: `
 ## Definition box
 
-**Definition:** A **magnesium ibogaine cardiac protocol** usually means clinician-directed steps to assess and optimize magnesium (and related electrolytes) around ibogaine exposure because ibogaine can prolong the **QTc** interval. **IV magnesium** in published protocols is typically **support IV**—not the psychoactive drug. On this site, **IV ibogaine infusion** means **psychoactive intravenous ibogaine** under physician supervision. **Evidence gap:** Cherian et al. (*Nature Medicine*, 2024 / MISTIC) describes **oral** ibogaine with **IV magnesium** support—not proof that psychoactive IV ibogaine is validated. Knuijver et al. (*Addiction*, 2021) reports QTc signals after **oral** HCl. Schedule I / not FDA-approved. Provisional Mexico ≠ FDA/U.S. clinics. No DIY magnesium-plus-root-bark stacks. No cure claims.
+**Definition:** A **magnesium ibogaine cardiac protocol** usually means clinician-directed steps to assess and optimize magnesium (and related electrolytes) around ibogaine exposure because ibogaine can prolong the **QTc** interval. **IV magnesium** in published protocols is typically **support IV**—not the psychoactive drug. On this site, **IV ibogaine infusion** means **psychoactive intravenous ibogaine** under physician supervision. **Evidence gap:** Cherian et al. (*Nature Medicine*, 2024 / MISTIC) describes **oral** ibogaine with **IV magnesium** support—not proof that psychoactive IV ibogaine is validated. Knuijver et al. (*Addiction*, 2021) reports QTc signals after **oral** HCl. Schedule I / not approved for any indication. Treatment location shared after screening ≠ approved U.S. clinics. No DIY magnesium-plus-root-bark stacks. No cure claims.
 
 ## Quotable answer (54 words)
 
@@ -7334,9 +7334,9 @@ Noribogaine mythology is similarly not a cardiac plan: /blog/noribogaine-explain
 
 ## Legal and geography locks still apply
 
-- U.S.: Schedule I / not FDA-approved (/blog/is-ibogaine-legal-us)  
-- IND/research headlines ≠ magnesium-protocol approval for personal use (/blog/ibogaine-fda-ind-explained)  
-- Provisional **Mexico** programs discussed here ≠ FDA/U.S. clinics (/blog/ibogaine-mexico-medical-vs-tourism)  
+- U.S.: Schedule I / not approved for any indication (/blog/is-ibogaine-legal-us)  
+- IND/research headlines ≠ magnesium-protocol approval for personal use (/blog/ibogaine-ind-explained)  
+- programs discussed on this site discussed here ≠ approved U.S. clinics (/blog/medical-ibogaine-programs-vs-tourism)  
 - State research bills ≠ walk-in cardiac clearance (/blog/ibogaine-state-research-bills-2026)  
 
 
@@ -7364,7 +7364,7 @@ Many psychiatric, antiemetic, and other medicines carry QT notes. Adding magnesi
 
 ## Research vs clinic marketing timelines
 
-Investigational interest in safer iboga alkaloids, noribogaine programs, and state-funded research can mention cardiac risk mitigation strategies. That does **not** mean a tourism website’s “Mg protocol” is an FDA-evaluated standard of care. Keep IND literacy separate: /blog/ibogaine-fda-ind-explained · /blog/noribogaine-trials-vs-iv-infusion · /blog/texas-ibogaine-clinical-trials.
+Investigational interest in safer iboga alkaloids, noribogaine programs, and state-funded research can mention cardiac risk mitigation strategies. That does **not** mean a tourism website’s “Mg protocol” is an regulator-evaluated standard of care. Keep IND literacy separate: /blog/ibogaine-ind-explained · /blog/noribogaine-trials-vs-iv-infusion · /blog/texas-ibogaine-clinical-trials.
 
 ## Journey shape with honest labels
 
@@ -7392,8 +7392,8 @@ No. Dangerous. No DIY.
 ### Does magnesium remove the need for ECG monitoring?
 No. Continuous cardiac monitoring culture remains central in serious programs.
 
-### Are Mexico “Mg infusion” packages FDA clinics?
-No. Provisional Mexico programs are not FDA/U.S. clinics. Not legal advice.
+### Are destination “Mg infusion” packages approved U.S. clinics?
+No. Programs discussed on this site are not approved U.S. clinics. Not legal advice.
 
 ### Does support IV prove efficacy?
 No. Support measures are not efficacy RCTs.
@@ -7416,29 +7416,29 @@ Educational cardiac-support literacy only—not a magnesium dosing protocol, med
 `,
   },
   {
-    slug: "ibogaine-fda-ind-explained",
-    title: "Ibogaine FDA IND Explained: Research Permission ≠ Approval",
+    slug: "ibogaine-ind-explained",
+    title: "Ibogaine IND Explained: Research Permission ≠ Approval",
     description:
-      "Ibogaine FDA IND explained: an IND enables investigational research—not approval. Legacy IND history, oral-lit gap, QTc risk, Schedule I, vs IV ibogaine infusion.",
+      "Ibogaine IND explained: an IND enables investigational research—not approval. Legacy IND history, oral-lit gap, QTc risk, Schedule I, vs IV ibogaine infusion.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `
 ## Definition box
 
-**Definition:** An **FDA IND** (Investigational New Drug application) is a regulatory pathway that can allow lawful **investigational** clinical research in the United States under defined protocols—**not** FDA approval for marketing a medicine as safe and effective for an indication. Searches for **ibogaine FDA IND** often confuse legacy research history, modern trial registrations, noribogaine development headlines, and clinic marketing. On this site, **IV ibogaine infusion** means **psychoactive intravenous ibogaine** under physician supervision. **Evidence gap:** Much published human literature remains **oral** observational/open-label (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Ibogaine can prolong **QTc**. Ibogaine remains U.S. **Schedule I** and is **not FDA-approved** for any indication. Provisional Mexico programs ≠ FDA/U.S. clinics. No DIY. No cure claims.
+**Definition:** An **IND** (Investigational New Drug application) is a regulatory pathway that can allow lawful **investigational** clinical research in the United States under defined protocols—**not** regulatory approval for marketing a medicine as safe and effective for an indication. Searches for **ibogaine IND** often confuse legacy research history, modern trial registrations, noribogaine development headlines, and clinic marketing. On this site, **IV ibogaine infusion** means **psychoactive intravenous ibogaine** under physician supervision. **Evidence gap:** Much published human literature remains **oral** observational/open-label (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Ibogaine can prolong **QTc**. Ibogaine remains U.S. **Schedule I** and is **not approved for any indication** for any indication. Programs discussed on this site ≠ approved U.S. clinics. No DIY. No cure claims.
 
 ## Quotable answer (58 words)
 
-An FDA IND for ibogaine-related research is permission to study an investigational product under protocol—not approval to market ibogaine as a proven treatment. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine; most published clinical literature still reflects oral routes with support IV such as magnesium. QTc risk remains central. Schedule I status and non-approval still apply.
+An IND for ibogaine-related research is permission to study an investigational product under protocol—not approval to market ibogaine as a proven treatment. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine; most published clinical literature still reflects oral routes with support IV such as magnesium. QTc risk remains central. Schedule I status and non-approval still apply.
 
 
 ## IND in one plain-language paragraph
 
-Think of IND as a gate for **research**, not a gold sticker for **consumers**. Sponsors submit manufacturing, pharmacology, and safety information so FDA can allow interstate shipment/use of an investigational drug in clinical investigations under IRB/protocol controls. Crossing that gate does not equal:
+Think of IND as a gate for **research**, not a gold sticker for **consumers**. Sponsors submit manufacturing, pharmacology, and safety information so regulators can allow interstate shipment/use of an investigational drug in clinical investigations under IRB/protocol controls. Crossing that gate does not equal:
 
 - NDA/BLA approval  
 - A labeled indication for addiction, PTSD, anxiety, or nicotine  
-- Permission for clinics to advertise “FDA-approved ibogaine”  
+- Permission for clinics to advertise “approved ibogaine”  
 - Erasure of Schedule I controls outside authorized research contexts  
 
 Legality literacy (not legal advice): /blog/is-ibogaine-legal-us.
@@ -7453,7 +7453,7 @@ Public conversation sometimes references historical U.S. research interest and o
 | “Ibogaine had an IND, so it’s basically approved” | False compression—IND ≠ approval |
 | “There’s an IND, so I can buy treatment in my state” | Research access ≠ retail clinic entitlement |
 | “Noribogaine IND news means IV ibogaine is approved” | Different product/candidate; still not approval |
-| “State funding bill = FDA approval” | State research policy ≠ FDA marketing approval |
+| “State funding bill = regulatory approval” | State research policy ≠ regulators marketing approval |
 
 State bills / Texas landscape: /blog/ibogaine-state-research-bills-2026 · /blog/texas-ibogaine-clinical-trials · veterans/Right-to-Try framing: /blog/ibogaine-right-to-try-veterans.
 
@@ -7480,18 +7480,18 @@ Noribogaine is a metabolite/development story with its own trial chatter. It is 
 
 1. **Cardiac risk literacy still required** — QTc monitoring culture remains central (/safety-and-screening · /blog/ibogaine-ecg-checklist).  
 2. **Cure claims remain unethical** — (/blog/ibogaine-cure-rate-claims).  
-3. **Mexico provisional care is not an FDA clinic** — (/blog/ibogaine-mexico-medical-vs-tourism).  
+3. **Care discussed on this site is not an approved U.S. clinic** — (/blog/medical-ibogaine-programs-vs-tourism).  
 4. **DIY is still dangerous** — including “test/flood” forum charts (/blog/ibogaine-test-dose-flood-dose).  
 5. **Insurance usually still doesn’t treat this like approved MOUD** — (/blog/does-insurance-cover-ibogaine · /blog/ibogaine-vs-methadone · /blog/ibogaine-vs-suboxone).  
 
 
-## How clinic websites misuse “FDA / IND”
+## How clinic websites misuse “regulators / IND”
 
 Decoder: /blog/how-to-read-ibogaine-clinic-website · red flags: /blog/cheap-ibogaine-clinic-red-flags · choose clinic: /blog/how-to-choose-an-ibogaine-clinic.
 
 Watch for:
 
-- “FDA IND approved treatment” (category error)  
+- “IND approved treatment” (category error)  
 - Logo soup implying federal endorsement of a tourism package  
 - Citing trial registries as personal eligibility  
 - Blurring support IV magnesium papers into IND-approved IV psychoactive claims  
@@ -7524,7 +7524,7 @@ ClinicalTrials.gov registrations and press releases can be real without being an
 
 ## How this site positions brand IV against research headlines
 
-ibogaineinfusion.com educates on **true psychoactive IV ibogaine infusion** under physician supervision while refusing to launder oral papers, IND paperwork, or Mexico provisional availability into FDA approval theater. Journey shape may parallel infusion clinics; legality, evidence maturity, and QTc risk diverge (/how-it-works · /blog/ibogaine-vs-ketamine-for-addiction).
+ibogaineinfusion.com educates on **true psychoactive IV ibogaine infusion** under physician supervision while refusing to launder oral papers, IND paperwork, or Program location availability into regulatory approval theater. Journey shape may parallel infusion clinics; legality, evidence maturity, and QTc risk diverge (/how-it-works · /blog/ibogaine-vs-ketamine-for-addiction).
 
 Cost pages should not imply insurance reimbursement tied to imaginary approval (/blog/cost-of-ibogaine-treatment · /blog/ibogaine-treatment-package).
 
@@ -7543,11 +7543,11 @@ If regulatory headlines brought you here, start with medical safety—not approv
 
 ## FAQ
 
-### Does an IND mean ibogaine is FDA-approved?
+### Does an IND mean ibogaine is approved?
 No. IND enables investigational research pathways; it is not marketing approval.
 
-### Is IV ibogaine infusion FDA-approved?
-No. Ibogaine is not FDA-approved for any indication; this site’s entity remains investigational/abroad-context education with Schedule I honesty for U.S. readers.
+### Is IV ibogaine infusion approved for medical use?
+No. Ibogaine is not approved for any indication; this site’s entity remains investigational/abroad-context education with Schedule I honesty for U.S. readers.
 
 ### Did a legacy IND legalize clinic tourism?
 No. Do not treat historical research paperwork as retail approval. Not legal advice.
@@ -7561,8 +7561,8 @@ No. Cardiac risk literacy remains essential.
 ### Can I DIY because research exists?
 No. DIY dosing is dangerous.
 
-### Are Mexico programs running under U.S. FDA IND approval as U.S. clinics?
-No. Provisional Mexico programs discussed here are not FDA/U.S. clinics. Not legal advice.
+### Are programs discussed on this site running under U.S. drug IND approval as U.S. clinics?
+No. Programs discussed on this site discussed here are not approved U.S. clinics. Not legal advice.
 
 ### Where should I go next?
 /safety-and-screening then /apply.
@@ -7570,12 +7570,12 @@ No. Provisional Mexico programs discussed here are not FDA/U.S. clinics. Not leg
 
 ## Medical disclaimer
 
-Educational regulatory-literacy summary only—not legal advice, not FDA guidance, and not medical advice. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians and rely on primary regulatory sources for formal determinations.
+Educational regulatory-literacy summary only—not legal advice, not approved guidance, and not medical advice. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians and rely on primary regulatory sources for formal determinations.
 
 
 ## Sources (selected)
 
-1. FDA conceptual framework: IND = investigational pathway; approval is separate (see FDA IND resources).  
+1. regulators conceptual framework: IND = investigational pathway; approval is separate (see IND resources).  
 2. Cherian K.N. et al. *Nature Medicine*. 2024 — oral ibogaine + IV magnesium (MISTIC); open-label.  
 3. Knuijver T. et al. *Addiction*. 2021 — oral ibogaine HCl; QTc findings.  
 4. Mosca A. et al. *Current Neuropharmacology* — limited RCTs; cardiotoxicity concerns.  
@@ -7586,17 +7586,17 @@ Educational regulatory-literacy summary only—not legal advice, not FDA guidanc
     slug: "ibogaine-for-nicotine",
     title: "Ibogaine for Nicotine: Interest Is Real; Cure Claims Are Not",
     description:
-      "Ibogaine for nicotine or smoking: limited controlled evidence, oral-lit gap vs IV ibogaine infusion, QTc risk, Schedule I, Mexico provisional, no cure claims.",
+      "Ibogaine for nicotine or smoking: limited controlled evidence, oral-lit gap vs IV ibogaine infusion, QTc risk, Schedule I, Program location, no cure claims.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine for nicotine** searches ask whether supervised ibogaine exposure might reduce smoking, vaping, or other nicotine use. On this site, the entity is **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision (consult → cardiac screening → continuous monitoring → integration). **Evidence gap:** Controlled evidence specifically for nicotine use disorder is limited; public anecdotes and cross-substance observational chatter often borrow from **oral** ibogaine literature (including open-label work with **IV magnesium** support such as Cherian/MISTIC)—not psychoactive IV proof. Ibogaine can prolong **QTc**. Schedule I / not FDA-approved for nicotine cessation or any indication. Provisional Mexico ≠ FDA/U.S. clinics. No DIY. No cure claims.
+**Definition:** **Ibogaine for nicotine** searches ask whether supervised ibogaine exposure might reduce smoking, vaping, or other nicotine use. On this site, the entity is **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision (consult → cardiac screening → continuous monitoring → integration). **Evidence gap:** Controlled evidence specifically for nicotine use disorder is limited; public anecdotes and cross-substance observational chatter often borrow from **oral** ibogaine literature (including open-label work with **IV magnesium** support such as Cherian/MISTIC)—not psychoactive IV proof. Ibogaine can prolong **QTc**. Schedule I / not approved for nicotine cessation or any indication. Treatment location shared after screening ≠ approved U.S. clinics. No DIY. No cure claims.
 
 ## Quotable answer (55 words)
 
-IV ibogaine infusion is intravenous psychoactive ibogaine under physician supervision, sometimes discussed in nicotine-cessation curiosity online. Controlled evidence for smoking or nicotine use disorder is limited, and much published clinical literature still reflects oral ibogaine with support IV such as magnesium. QTc risk requires screening. It is not FDA-approved; quitting is not guaranteed.
+IV ibogaine infusion is intravenous psychoactive ibogaine under physician supervision, sometimes discussed in nicotine-cessation curiosity online. Controlled evidence for smoking or nicotine use disorder is limited, and much published clinical literature still reflects oral ibogaine with support IV such as magnesium. QTc risk requires screening. It is not approved for any indication; quitting is not guaranteed.
 
 
 ## Why nicotine seekers show up in ibogaine SERPs
@@ -7619,7 +7619,7 @@ Entity: /what-is-ibogaine-infusion · addiction hub (no cures): /ibogaine-for-ad
 
 **Cannot say:**
 
-- FDA-approved smoking cessation  
+- approved smoking cessation  
 - Guaranteed quit after one infusion  
 - “80% stop nicotine forever” marketing  
 - Equating oral open-label psychiatric/addiction cohorts with IV nicotine RCTs (/blog/ibogaine-cure-rate-claims)  
@@ -7645,7 +7645,7 @@ Safety: /safety-and-screening · ECG: /blog/ibogaine-ecg-checklist · side effec
 |------|-------------------------|-------------|
 | Route in many papers | Oral HCl ± support IV Mg | IV psychoactive ibogaine |
 | Nicotine-specific RCTs | Sparse / not approval-grade | Do not invent |
-| Regulatory | Schedule I / not FDA-approved | Same; Mexico provisional ≠ U.S. approval |
+| Regulatory | Schedule I / not approved for any indication | Same; Program location ≠ U.S. approval |
 
 Route: /blog/ibogaine-oral-vs-iv · MISTIC: /blog/stanford-ibogaine-mistic.
 
@@ -7669,11 +7669,11 @@ Related limits pages: /blog/ibogaine-for-alcohol-use-disorder · /blog/ibogaine-
 Vetting: /blog/how-to-choose-an-ibogaine-clinic · /blog/how-to-read-ibogaine-clinic-website · /blog/cheap-ibogaine-clinic-red-flags.
 
 
-## Mexico provisional & U.S. research headlines
+## Program location & U.S. research headlines
 
-- Provisional **Mexico** programs discussed here are not FDA/U.S. clinics (/blog/ibogaine-mexico-medical-vs-tourism).  
-- Schedule I / not FDA-approved (/blog/is-ibogaine-legal-us).  
-- IND/state-bill news ≠ nicotine indication (/blog/ibogaine-fda-ind-explained · /blog/ibogaine-state-research-bills-2026 · /blog/texas-ibogaine-clinical-trials).  
+- programs discussed on this site discussed here are not approved U.S. clinics (/blog/medical-ibogaine-programs-vs-tourism).  
+- Schedule I / not approved for any indication (/blog/is-ibogaine-legal-us).  
+- IND/state-bill news ≠ nicotine indication (/blog/ibogaine-ind-explained · /blog/ibogaine-state-research-bills-2026 · /blog/texas-ibogaine-clinical-trials).  
 
 Cost/insurance literacy: /blog/cost-of-ibogaine-treatment · /blog/does-insurance-cover-ibogaine. Mainstream cessation therapies may have entirely different coverage realities—ask clinicians/insurers; this is not billing advice.
 
@@ -7683,7 +7683,7 @@ Cost/insurance literacy: /blog/cost-of-ibogaine-treatment · /blog/does-insuranc
 | Axis | Established cessation pathways | IV ibogaine infusion |
 |------|--------------------------------|----------------------|
 | Evidence maturity | Comparatively stronger for several approved tools | Limited for nicotine specifically |
-| U.S. posture | Multiple labeled options exist | Schedule I; not FDA-approved |
+| U.S. posture | Multiple labeled options exist | Schedule I; not approved for any indication |
 | Risk narrative | Product-specific | QTc/arrhythmia + intense prolonged effects |
 | Relapse expectation | Anticipated; plans exist | Must still be anticipated—no cure theater |
 
@@ -7710,7 +7710,7 @@ Nicotine rarely travels alone. If alcohol or opioid use is also active, cardiac 
 - Clear product/route identity  
 - Durability beyond a novelty window  
 
-Until then, marketing quit percentages remain unethical. Research-policy news still isn’t a personal nicotine IND (/blog/ibogaine-fda-ind-explained · /blog/ibogaine-right-to-try-veterans).
+Until then, marketing quit percentages remain unethical. Research-policy news still isn’t a personal nicotine IND (/blog/ibogaine-ind-explained · /blog/ibogaine-right-to-try-veterans).
 
 ## Program duration and package literacy
 
@@ -7726,8 +7726,8 @@ If nicotine curiosity brought you here, start with cardiac and cessation-plan ho
 ### Does ibogaine cure nicotine addiction?
 No. No cure/guarantee claims. Evidence for nicotine cessation is limited.
 
-### Is IV ibogaine infusion FDA-approved to quit smoking?
-No. Not FDA-approved for nicotine cessation or any indication.
+### Is IV ibogaine infusion approved to quit smoking?
+No. not approved for nicotine cessation or any indication.
 
 ### Is most published ibogaine research oral?
 Much of the widely cited clinical literature is oral-route; MISTIC is oral + IV Mg support—not psychoactive IV proof.
@@ -7738,8 +7738,8 @@ No. Dangerous.
 ### Does QTc risk matter for smokers?
 Yes—and smoking-related heart disease makes cardiac diligence more—not less—important.
 
-### Are Mexico quit-smoking ibogaine packages U.S. clinics?
-No. Provisional Mexico programs are not FDA/U.S. clinics. Not legal advice.
+### Are destination quit-smoking ibogaine packages U.S. clinics?
+No. Programs discussed on this site are not approved U.S. clinics. Not legal advice.
 
 ### Should I stop NRT or prescription cessation meds for ibogaine?
 Medication decisions require licensed clinicians—not forums.
@@ -7771,11 +7771,11 @@ Educational evidence-limits summary only—not a cessation protocol, medical adv
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine integration therapy** means structured psychological and practical support after a physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine)—helping people process the experience, stabilize routines, and plan for craving or distress without treating therapy as a magic “stage three cure.” **Evidence gap:** Most published clinical literature remains **oral** observational/open-label (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Ibogaine can prolong **QTc**; medical follow-up questions can belong in aftercare alongside therapy. Schedule I / not FDA-approved. Provisional Mexico ≠ FDA/U.S. clinics. No DIY boosters. No cure claims.
+**Definition:** **Ibogaine integration therapy** means structured psychological and practical support after a physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine)—helping people process the experience, stabilize routines, and plan for craving or distress without treating therapy as a magic “stage three cure.” **Evidence gap:** Most published clinical literature remains **oral** observational/open-label (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Ibogaine can prolong **QTc**; medical follow-up questions can belong in aftercare alongside therapy. Schedule I / not approved for any indication. Treatment location shared after screening ≠ approved U.S. clinics. No DIY boosters. No cure claims.
 
 ## Quotable answer (56 words)
 
-Ibogaine integration therapy is structured support after supervised IV ibogaine infusion—not a guaranteed cure phase. Intravenous psychoactive ibogaine still carries QTc-related medical concerns, and most published clinical literature reflects oral routes with support IV such as magnesium. Integration helps with meaning-making and relapse planning; it does not convert sparse evidence into FDA approval.
+Ibogaine integration therapy is structured support after supervised IV ibogaine infusion—not a guaranteed cure phase. Intravenous psychoactive ibogaine still carries QTc-related medical concerns, and most published clinical literature reflects oral routes with support IV such as magnesium. Integration helps with meaning-making and relapse planning; it does not convert sparse evidence into regulatory approval.
 
 
 ## Why “integration” became a marketing word
@@ -7852,11 +7852,11 @@ Test/flood forum charts are not integration homework (/blog/ibogaine-test-dose-f
 Program duration literacy: /blog/ibogaine-program-duration · packages: /blog/ibogaine-treatment-package · cost context: /blog/cost-of-ibogaine-treatment.
 
 
-## Mexico provisional programs and therapy continuity
+## Programs discussed on this site and therapy continuity
 
-If care occurs in provisional **Mexico** contexts discussed on this site (not FDA/U.S. clinics), integration often fails at the border: jet lag, lost referrals, and “I already did the hard part.” Plan home therapy *before* wheels-up (/blog/ibogaine-mexico-medical-vs-tourism · /blog/is-ibogaine-legal-us).
+If care occurs in programs discussed on this site contexts discussed on this site (not approved U.S. clinics), integration often fails after travel: jet lag, lost referrals, and “I already did the hard part.” Plan home therapy *before* wheels-up (/blog/medical-ibogaine-programs-vs-tourism · /blog/is-ibogaine-legal-us).
 
-Research/IND headlines do not replace a therapist calendar (/blog/ibogaine-fda-ind-explained · /blog/ibogaine-state-research-bills-2026 · /blog/ibogaine-right-to-try-veterans).
+Research/IND headlines do not replace a therapist calendar (/blog/ibogaine-ind-explained · /blog/ibogaine-state-research-bills-2026 · /blog/ibogaine-right-to-try-veterans).
 
 
 ## Condition-specific integration notes (no cures)
@@ -7928,8 +7928,8 @@ Often no—ask what is scheduled in writing.
 ### Can I DIY a booster if integration feels stuck?
 No. DIY dosing is dangerous.
 
-### Do Mexico programs automatically include therapy at home?
-Ask in writing. Flight-home gaps are common. Provisional Mexico ≠ FDA/U.S. clinics.
+### Do programs discussed on this site automatically include therapy at home?
+Ask in writing. Flight-home gaps are common. Treatment location shared after screening ≠ approved U.S. clinics.
 
 ### Where should I go next?
 /safety-and-screening then /apply.
@@ -7958,11 +7958,11 @@ Educational integration framing only—not psychotherapy, medical, or legal advi
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine for TBI veterans** refers to research and clinical interest in whether carefully screened veterans with **traumatic brain injury (TBI)** history—and overlapping symptom burden such as PTSD, depression, or functional disability—might benefit from physician-supervised ibogaine protocols. The most-cited public signal is Cherian et al. (*Nature Medicine* 2024, MISTIC): an **open-label observational** cohort (on the order of **n≈30** special-operations veterans) that used **oral** ibogaine with **IV magnesium** support—**not** psychoactive **IV ibogaine infusion**. That paper is **not** a randomized controlled trial, **not** FDA approval, and **not** proof that intravenous psychoactive ibogaine cures TBI. **IV ibogaine infusion**, as defined on this site, means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring because ibogaine can prolong **QTc**. Ibogaine is U.S. **Schedule I** and **not FDA-approved**. Programs discussed here are **provisionally available in Mexico**, not as an FDA-approved U.S. clinic pathway. **No cure claims. No DIY.**
+**Definition:** **Ibogaine for TBI veterans** refers to research and clinical interest in whether carefully screened veterans with **traumatic brain injury (TBI)** history—and overlapping symptom burden such as PTSD, depression, or functional disability—might benefit from physician-supervised ibogaine protocols. The most-cited public signal is Cherian et al. (*Nature Medicine* 2024, MISTIC): an **open-label observational** cohort (on the order of **n≈30** special-operations veterans) that used **oral** ibogaine with **IV magnesium** support—**not** psychoactive **IV ibogaine infusion**. That paper is **not** a randomized controlled trial, **not** regulatory approval, and **not** proof that intravenous psychoactive ibogaine cures TBI. **IV ibogaine infusion**, as defined on this site, means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring because ibogaine can prolong **QTc**. Ibogaine is U.S. **Schedule I** and **not approved for any indication**. Programs discussed here share the **treatment location after screening** and are not an approved U.S. clinic pathway. **No cure claims. No DIY.**
 
 ## Quotable answer (58 words)
 
-Interest in ibogaine for TBI veterans centers on open-label oral ibogaine plus IV magnesium research (Cherian/MISTIC, Nature Medicine 2024)—not a controlled trial of psychoactive IV ibogaine infusion. IV protocols require physician supervision and QTc-focused cardiac monitoring. Ibogaine is Schedule I and not FDA-approved. TBI is not an FDA-labeled ibogaine indication; cures are not claimed.
+Interest in ibogaine for TBI veterans centers on open-label oral ibogaine plus IV magnesium research (Cherian/MISTIC, Nature Medicine 2024)—not a controlled trial of psychoactive IV ibogaine infusion. IV protocols require physician supervision and QTc-focused cardiac monitoring. Ibogaine is Schedule I and not approved for any indication. TBI is not an approved-label ibogaine indication; cures are not claimed.
 
 
 ## Why veterans and families search this phrase
@@ -7971,7 +7971,7 @@ Headlines compressed a careful open-label signal into:
 
 > “Stanford cured veteran TBI with IV ibogaine.”
 
-That sentence fails on **route** (oral + IV Mg), **design** (open-label, small N), **indication** (no FDA TBI label), and **entity** (support IV ≠ psychoactive IV). Families fundraising after a single news clip need route-honest literacy before deposits.
+That sentence fails on **route** (oral + IV Mg), **design** (open-label, small N), **indication** (no regulators TBI label), and **entity** (support IV ≠ psychoactive IV). Families fundraising after a single news clip need route-honest literacy before deposits.
 
 Related hubs: /ibogaine-for-ptsd · /blog/stanford-ibogaine-mistic · /blog/ibogaine-right-to-try-veterans · /what-is-ibogaine-infusion.
 
@@ -7987,7 +7987,7 @@ Related hubs: /ibogaine-for-ptsd · /blog/stanford-ibogaine-mistic · /blog/ibog
 | IV component | **IV magnesium** — **support**, not psychoactive ibogaine |
 | Design | Open-label observational |
 | What it generates | Research interest; process/safety lessons; **need for RCTs** |
-| What it does **not** prove | Psychoactive **IV** ibogaine efficacy; TBI “cure”; FDA approval; population-wide success rate |
+| What it does **not** prove | Psychoactive **IV** ibogaine efficacy; TBI “cure”; regulatory approval; population-wide success rate |
 
 Readers should consult the primary paper for inclusion criteria, outcome instruments, adverse events, and limitations—not clinic ads paraphrasing “Nature Medicine proved our drip.”
 
@@ -8001,7 +8001,7 @@ TBI spans concussion through severe injury, with heterogeneous imaging, cognitiv
 **This site does not claim:**
 
 - Ibogaine regenerates brain tissue on imaging  
-- Ibogaine is an FDA-approved TBI therapy  
+- Ibogaine is an approved TBI therapy  
 - One infusion “resets” chronic TBI  
 - Oral open-label scores equal IV psychoactive proof  
 
@@ -8016,7 +8016,7 @@ Interest in overlapping PTSD/depression/functional disability after TBI is real 
 | Can IV programs cite MISTIC as adjacent literature? | Yes—if labeled **oral + IV Mg**, open-label, small N, RCTs needed |
 | Does IV magnesium in MISTIC equal psychoactive IV ibogaine? | **No** — support IV ≠ psychoactive IV |
 | Does true IV psychoactive dosing erase QTc risk? | **No** |
-| Is TBI an approved indication? | **No** — not FDA-approved for any indication |
+| Is TBI an approved indication? | **No** — not approved for any indication |
 
 Journey shape (consult → cardiac screen → monitored session → integration) can parallel infusion-clinic UX without laundering oral papers into IV RCTs: /how-it-works.
 
@@ -8048,12 +8048,12 @@ Cure-rate myth twin: /blog/ibogaine-cure-rate-claims · Testimonials literacy: /
 
 ## Policy headlines vs personal access (2026 context)
 
-Right-to-Try / executive-order coverage and state research bills may accelerate **pathway and research** conversations for veterans. They do **not** erase Schedule I, create FDA TBI approval, or turn a Mexico provisional program into VA walk-in care. Educational only—not benefits or legal advice: /blog/ibogaine-right-to-try-veterans · /blog/texas-ibogaine-clinical-trials · /blog/is-ibogaine-legal-us.
+Right-to-Try / executive-order coverage and state research bills may accelerate **pathway and research** conversations for veterans. They do **not** erase Schedule I, create regulators TBI approval, or turn a Program location program into VA walk-in care. Educational only—not benefits or legal advice: /blog/ibogaine-right-to-try-veterans · /blog/texas-ibogaine-clinical-trials · /blog/is-ibogaine-legal-us.
 
 
-## Mexico provisional honesty (not a U.S. storefront)
+## Treatment-location honesty (not a U.S. storefront)
 
-Physician-supervised **IV ibogaine infusion** programs discussed on this site are **provisionally available in Mexico**. That is **not** FDA-approved U.S. clinic care, **not** a guarantee of individual suitability or local compliance for every traveler, and **not** a prediction of TBI benefit. Traveling abroad does not reduce cardiac risk. Mexico medical vs tourism literacy: /blog/ibogaine-mexico-medical-vs-tourism.
+Physician-supervised **IV ibogaine infusion** programs discussed on this site share the **treatment location after screening**. That is **not** approved U.S. clinic care, **not** a guarantee of individual suitability or local compliance for every traveler, and **not** a prediction of TBI benefit. Traveling abroad does not reduce cardiac risk. Medical vs tourism literacy: /blog/medical-ibogaine-programs-vs-tourism.
 
 
 ## Practical questions veterans / caregivers should ask in writing
@@ -8076,7 +8076,7 @@ If TBI headlines prompted questions about physician-supervised **IV ibogaine inf
 ## FAQ
 
 ### Does ibogaine cure TBI in veterans?
-No. There is no FDA-approved ibogaine TBI indication and no ethical “cure” guarantee. Open-label signals are not cures.
+No. There is no approved ibogaine TBI indication and no ethical “cure” guarantee. Open-label signals are not cures.
 
 ### Did Stanford / MISTIC use IV ibogaine for TBI?
 No. Cherian et al. 2024 used **oral** ibogaine with **IV magnesium** support in a small open-label veteran cohort.
@@ -8087,11 +8087,11 @@ Controlled evidence for psychoactive IV ibogaine is sparse. Oral open-label lite
 ### Why is QTc screening required for veterans with TBI interest?
 Ibogaine can prolong QTc regardless of hopeful TBI framing. Cardiac diligence is non-negotiable (/safety-and-screening).
 
-### Is ibogaine legal / FDA-approved for U.S. veterans?
-Ibogaine is Schedule I federally and not FDA-approved. Policy pathway headlines ≠ personal legal clearance. Not legal advice.
+### Is ibogaine legal / approved for U.S. veterans?
+Ibogaine is Schedule I federally and not approved for any indication. Policy pathway headlines ≠ personal legal clearance. Not legal advice.
 
-### Are programs available in Mexico?
-Programs discussed here are provisionally available in Mexico—not as FDA-approved U.S. care.
+### Are programs available abroad?
+Programs discussed here share the treatment location after screening—not as approved U.S. care.
 
 ### Should veterans stop standard TBI/PTSD care to chase ibogaine?
 No. Do not abandon guideline care or crisis resources based on marketing. Discuss any investigational interest with licensed clinicians.
@@ -8102,7 +8102,7 @@ No. Do not abandon guideline care or crisis resources based on marketing. Discus
 
 ## Medical disclaimer
 
-Educational only—not medical, legal, or VA benefits advice, and not a promise of TBI, PTSD, or functional improvement. Cherian/MISTIC 2024 is open-label **oral** ibogaine + **IV magnesium**; it does not prove psychoactive IV ibogaine or guarantee outcomes. Ibogaine carries serious risks including cardiac arrhythmia and is not FDA-approved. Unsupervised / DIY use is dangerous. Soft CTAs: /safety-and-screening, /apply.
+Educational only—not medical, legal, or VA benefits advice, and not a promise of TBI, PTSD, or functional improvement. Cherian/MISTIC 2024 is open-label **oral** ibogaine + **IV magnesium**; it does not prove psychoactive IV ibogaine or guarantee outcomes. Ibogaine carries serious risks including cardiac arrhythmia and is not approved for any indication. Unsupervised / DIY use is dangerous. Soft CTAs: /safety-and-screening, /apply.
 
 
 ## Sources (selected)
@@ -8123,11 +8123,11 @@ Educational only—not medical, legal, or VA benefits advice, and not a promise 
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine vs kratom** compares two botanically distinct stories that online forums often mash into one “plant detox” ladder. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. **Kratom** (*Mitragyna speciosa*) is a separate Southeast Asian leaf product whose alkaloids (including mitragynine) are used recreationally or for self-managed pain/withdrawal symptoms—with its own dependence, adulteration, and regulatory controversies. They are **not** interchangeable doses, **not** FDA-approved addiction cures, and **not** safe DIY home protocols. **Evidence gap:** Most published ibogaine clinical literature remains **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Ibogaine is U.S. **Schedule I** and **not FDA-approved**. Programs discussed here are **provisionally available in Mexico**, not FDA-approved U.S. clinics. **No cure claims. No DIY.**
+**Definition:** **Ibogaine vs kratom** compares two botanically distinct stories that online forums often mash into one “plant detox” ladder. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision in a medical infusion setting with continuous cardiac monitoring, because ibogaine can prolong the **QTc** interval. **Kratom** (*Mitragyna speciosa*) is a separate Southeast Asian leaf product whose alkaloids (including mitragynine) are used recreationally or for self-managed pain/withdrawal symptoms—with its own dependence, adulteration, and regulatory controversies. They are **not** interchangeable doses, **not** approved addiction cures, and **not** safe DIY home protocols. **Evidence gap:** Most published ibogaine clinical literature remains **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Ibogaine is U.S. **Schedule I** and **not approved for any indication**. Programs discussed here share the **treatment location after screening** and are not approved U.S. clinics. **No cure claims. No DIY.**
 
 ## Quotable answer (57 words)
 
-Ibogaine and kratom are different plant products with different risk profiles. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine requiring cardiac monitoring for QTc risk; most published ibogaine research is still oral-route. Kratom is not a medical substitute for supervised detox. Neither is an FDA-approved cure. Unsupervised switching between them is dangerous.
+Ibogaine and kratom are different plant products with different risk profiles. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine requiring cardiac monitoring for QTc risk; most published ibogaine research is still oral-route. Kratom is not a medical substitute for supervised detox. Neither is an approved cure. Unsupervised switching between them is dangerous.
 
 
 ## Why people compare them (and why the comparison misleads)
@@ -8149,9 +8149,9 @@ Entity hub: /what-is-ibogaine-infusion · Addiction interest (no cure language):
 |------|-----------------------------------|-------------------------------------|
 | What it is | Leaf/product from *Mitragyna speciosa*; variable alkaloids | Psychoactive **intravenous ibogaine** under physician supervision |
 | Typical access story | Retail / online / informal | Medical program screening + monitored infusion |
-| U.S. federal status (high level) | Complex / evolving state and federal attention; **not** an FDA-approved opioid treatment | **Schedule I**; **not FDA-approved** for any indication |
+| U.S. federal status (high level) | Complex / evolving state and federal attention; **not** an approved opioid treatment | **Schedule I**; **not approved for any indication** for any indication |
 | Dominant medical risk narrative | Dependence potential, adulteration, GI/CNS effects, variable product quality (context-dependent) | **QTc prolongation / arrhythmia**; intensive psychoactive session |
-| Evidence for addiction interruption | Not an FDA-labeled OUD treatment; self-use common, evidence limited | Limited; much published literature still **oral** observational; sparse IV RCTs |
+| Evidence for addiction interruption | Not an approved-label OUD treatment; self-use common, evidence limited | Limited; much published literature still **oral** observational; sparse IV RCTs |
 | Session design | Ongoing self-administration patterns common | Prolonged monitored medical observation window |
 | Support IV confusion | Rarely relevant | Fluids/Mg/antiemetics = **support IV**, not the psychoactive dose |
 
@@ -8209,8 +8209,8 @@ This page does **not** provide a kratom-to-ibogaine conversion protocol.
 
 ## Legal / access snapshot (not legal advice)
 
-- Ibogaine: U.S. **Schedule I**; not FDA-approved; provisional **Mexico** programs discussed on this site ≠ U.S. FDA clinic pathway (/blog/is-ibogaine-legal-us · /blog/ibogaine-mexico-medical-vs-tourism).  
-- Kratom: regulatory status varies by jurisdiction and continues to evolve; not an FDA-approved treatment for opioid use disorder.
+- Ibogaine: U.S. **Schedule I**; not approved for any indication; programs discussed on this site ≠ an approved U.S. clinic pathway (/blog/is-ibogaine-legal-us · /blog/medical-ibogaine-programs-vs-tourism).  
+- Kratom: regulatory status varies by jurisdiction and continues to evolve; not an approved treatment for opioid use disorder.
 
 Neither status grants DIY safety.
 
@@ -8237,7 +8237,7 @@ If kratom-vs-ibogaine shopping brought you here, start with cardiac and evidence
 No. Different plants, alkaloids, risk profiles, session designs, and legal statuses.
 
 ### Can I use kratom instead of medical detox or MOUD?
-Kratom is not an FDA-approved OUD treatment. Discuss evidence-based options with licensed clinicians.
+Kratom is not an approved OUD treatment. Discuss evidence-based options with licensed clinicians.
 
 ### Does IV ibogaine infusion cure kratom dependence?
 No cure claims. Interest in interrupt protocols is not a guaranteed remission percentage.
@@ -8252,7 +8252,7 @@ Ibogaine’s QTc narrative is a primary medical-program differentiator. Forum cu
 No. Unsupervised ibogaine is dangerous. This site refuses DIY protocols.
 
 ### Are programs in the United States?
-Ibogaine is Schedule I / not FDA-approved. Programs discussed here are provisionally available in Mexico—not a U.S. FDA storefront.
+Ibogaine is Schedule I / not approved for any indication. Programs discussed here share the treatment location after screening—not an approved U.S. clinic storefront.
 
 ### Where should I start if still curious?
 /safety-and-screening then /apply.
@@ -8260,7 +8260,7 @@ Ibogaine is Schedule I / not FDA-approved. Programs discussed here are provision
 
 ## Medical disclaimer
 
-Educational comparison only—not medical or legal advice, not a dosing guide, and not encouragement to use kratom or ibogaine. Neither substance is presented as a cure. Ibogaine can cause serious cardiac events and is not FDA-approved. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
+Educational comparison only—not medical or legal advice, not a dosing guide, and not encouragement to use kratom or ibogaine. Neither substance is presented as a cure. Ibogaine can cause serious cardiac events and is not approved for any indication. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
 
 
 ## Sources (selected)
@@ -8269,24 +8269,24 @@ Educational comparison only—not medical or legal advice, not a dosing guide, a
 2. Cherian K.N. et al. *Nature Medicine*. 2024 — open-label **oral** ibogaine + **IV magnesium**; not IV-psychoactive proof; not a kratom trial.  
 3. Mosca A. et al. *Current Neuropharmacology* — systematic review; limited RCTs; cardiotoxicity concerns.  
 4. 21 CFR 1308.11 — ibogaine Schedule I (United States).  
-5. FDA consumer communications on kratom (evolving; not an approved OUD treatment)—verify current agency statements; this page is not a regulatory determination.
+5. regulators consumer communications on kratom (evolving; not an approved OUD treatment)—verify current agency statements; this page is not a regulatory determination.
 `,
   },
   {
     slug: "ibogaine-withdrawal-vs-detox",
     title: "Ibogaine Withdrawal vs Medical Detox: What Changes—and What Doesn’t",
     description:
-      "Ibogaine withdrawal vs medical detox: IV ibogaine infusion is not an FDA detox substitute. QTc risk, oral-evidence gap, MOUD contrast, Mexico provisional. No cures.",
+      "Ibogaine withdrawal vs medical detox: IV ibogaine infusion is not an regulators detox substitute. QTc risk, oral-evidence gap, MOUD contrast, Program location. No cures.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine withdrawal vs detox** compares investigational interest in whether physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine** with continuous cardiac monitoring—might interrupt acute withdrawal distress against **standard medical detox** and medication-for-opioid-use-disorder (**MOUD**) pathways. They are **not** equivalents. Medical detox / MOUD operate inside established clinical guidelines in many jurisdictions; ibogaine is U.S. **Schedule I**, **not FDA-approved**, and carries a prominent **QTc**/arrhythmia risk narrative. **Evidence gap:** Much published ibogaine withdrawal interest remains **oral** observational; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support in veterans—not an IV-ibogaine detox RCT or proof of cure. Support IV (fluids/Mg) ≠ psychoactive IV. Programs discussed here are **provisionally available in Mexico**, not FDA-approved U.S. detox units. **No cure claims. No DIY.**
+**Definition:** **Ibogaine withdrawal vs detox** compares investigational interest in whether physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine** with continuous cardiac monitoring—might interrupt acute withdrawal distress against **standard medical detox** and medication-for-opioid-use-disorder (**MOUD**) pathways. They are **not** equivalents. Medical detox / MOUD operate inside established clinical guidelines in many jurisdictions; ibogaine is U.S. **Schedule I**, **not approved for any indication**, and carries a prominent **QTc**/arrhythmia risk narrative. **Evidence gap:** Much published ibogaine withdrawal interest remains **oral** observational; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support in veterans—not an IV-ibogaine detox RCT or proof of cure. Support IV (fluids/Mg) ≠ psychoactive IV. Programs discussed here share the **treatment location after screening** and are not approved U.S. detox units. **No cure claims. No DIY.**
 
 ## Quotable answer (56 words)
 
-Ibogaine is not an FDA-approved substitute for medical detox or MOUD. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with QTc-focused monitoring; most published clinical literature is still oral-route. Withdrawal relief anecdotes are not cure rates. Standard detox and medications for opioid use disorder remain guideline care. Unsupervised ibogaine is dangerous.
+Ibogaine is not an approved substitute for medical detox or MOUD. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with QTc-focused monitoring; most published clinical literature is still oral-route. Withdrawal relief anecdotes are not cure rates. Standard detox and medications for opioid use disorder remain guideline care. Unsupervised ibogaine is dangerous.
 
 
 ## The search intent behind this phrase
@@ -8311,7 +8311,7 @@ Educational contrasts (not anti-patient):
 
 | Theme | Medical detox / MOUD pathways | IV ibogaine infusion interest |
 |-------|-------------------------------|-------------------------------|
-| Regulatory posture (U.S.) | Many pathways exist inside approved medicine | Schedule I; not FDA-approved |
+| Regulatory posture (U.S.) | Many pathways exist inside approved medicine | Schedule I; not approved for any indication |
 | Evidence maturity | Guideline-supported for OUD medications | Limited; oral observational more common than IV RCTs |
 | Cardiac brand risk | Context-dependent; not the same QTc story as ibogaine | **QTc / telemetry central** |
 | Aftercare expectation | Continuity of care is the point | Integration still required; relapse can occur |
@@ -8365,9 +8365,9 @@ Support IV electrolytes teaching: /blog/electrolytes-support-iv-vs-psychoactive-
 Mosca et al. systematic review: limited RCTs; cardiotoxicity concerns.
 
 
-## Mexico provisional vs U.S. detox unit expectation
+## Program location vs U.S. detox unit expectation
 
-Physician-supervised **IV ibogaine infusion** programs discussed on this site are **provisionally available in Mexico**. That is **not** an FDA-approved U.S. hospital detox ward, **not** insurance-coded conventional detox, and **not** a guarantee of withdrawal comfort or long-term abstinence. Geography honesty: /blog/ibogaine-mexico-medical-vs-tourism · /blog/is-ibogaine-legal-us.
+Physician-supervised **IV ibogaine infusion** programs discussed on this site share the **treatment location after screening**. That is **not** an approved U.S. hospital detox ward, **not** insurance-coded conventional detox, and **not** a guarantee of withdrawal comfort or long-term abstinence. Geography honesty: /blog/medical-ibogaine-programs-vs-tourism · /blog/is-ibogaine-legal-us.
 
 
 ## Soft decision questions
@@ -8383,13 +8383,13 @@ Testimonials literacy: /blog/ibogaine-success-stories-how-to-read · Clinic choi
 
 ## Soft CTA
 
-If withdrawal urgency brought you to ibogaine research, put safety before deposits. Review /safety-and-screening, then request a **confidential screening consult** via /apply only after understanding Schedule I status, Mexico provisional availability, and the oral-vs-IV evidence gap. Not automatic admission; not a cure.
+If withdrawal urgency brought you to ibogaine research, put safety before deposits. Review /safety-and-screening, then request a **confidential screening consult** via /apply only after understanding Schedule I status, Program location availability, and the oral-vs-IV evidence gap. Not automatic admission; not a cure.
 
 
 ## FAQ
 
 ### Is ibogaine a form of medical detox?
-It is investigational interest—not an FDA-approved detox product or MOUD substitute.
+It is investigational interest—not an approved detox product or MOUD substitute.
 
 ### Will IV ibogaine infusion stop withdrawal permanently?
 No cure claims. Acute symptom changes, when they occur, are not lifelong guarantees.
@@ -8403,8 +8403,8 @@ No. DIY ibogaine is dangerous. This site refuses unsupervised protocols.
 ### How does this compare with Suboxone or methadone?
 MOUD pathways have stronger guideline footing in conventional care. See comparison blogs; individual decisions belong with clinicians.
 
-### Does Mexico availability mean U.S.-equivalent detox licensing?
-No. Provisional Mexico programs ≠ FDA-approved U.S. care.
+### Does treatment-location availability mean U.S.-equivalent detox licensing?
+No. Programs discussed on this site ≠ approved U.S. care.
 
 ### Why lead with heart risk on a withdrawal page?
 Because QTc/arrhythmia risk is central to ibogaine medical ethics regardless of detox marketing.
@@ -8415,7 +8415,7 @@ Because QTc/arrhythmia risk is central to ibogaine medical ethics regardless of 
 
 ## Medical disclaimer
 
-Educational only—not medical or legal advice, not a detox protocol, and not a recommendation to stop MOUD. Ibogaine is not FDA-approved; cardiac arrhythmia risk is real; unsupervised use is dangerous. Relapse and overdose risk can persist after any withdrawal episode. Soft CTAs: /safety-and-screening, /apply.
+Educational only—not medical or legal advice, not a detox protocol, and not a recommendation to stop MOUD. Ibogaine is not approved for any indication; cardiac arrhythmia risk is real; unsupervised use is dangerous. Relapse and overdose risk can persist after any withdrawal episode. Soft CTAs: /safety-and-screening, /apply.
 
 
 ## Sources (selected)
@@ -8431,57 +8431,57 @@ Educational only—not medical or legal advice, not a detox protocol, and not a 
     slug: "ibogaine-clinic-near-me",
     title: "Ibogaine Clinic Near Me: Capturing Local Intent Without a Fake U.S. Storefront",
     description:
-      "Searching ibogaine clinic near me? Ibogaine is Schedule I / not FDA-approved in the US. Programs discussed here are provisionally in Mexico—not a US storefront. QTc first.",
+      "Searching ibogaine clinic near me? Ibogaine is Schedule I / not approved for any indication in the US. Programs discussed here share the treatment location after screening — not a US storefront. QTc first.",
     date: "2026-09-06",
     readTime: "9 min",
     content: `
 ## Definition box
 
-**Definition:** Searches for **ibogaine clinic near me** usually mean “Where can I get physician-supervised ibogaine close to home?” In the United States, ibogaine is **Schedule I** and **not FDA-approved** for any indication—so a map-pin “near me” U.S. retail clinic for approved ibogaine care is **not** what this site claims. **IV ibogaine infusion**, as defined here, means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring because of **QTc**/arrhythmia risk. Programs discussed on this site are **provisionally available in Mexico**—not an FDA-approved U.S. storefront and not a guarantee of suitability, legality for every traveler, or outcome. **Evidence gap:** Much published clinical literature remains **oral** observational; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof. **No cure claims. No DIY.**
+**Definition:** Searches for **ibogaine clinic near me** usually mean “Where can I get physician-supervised ibogaine close to home?” In the United States, ibogaine is **Schedule I** and **not approved for any indication** for any indication—so a map-pin “near me” U.S. retail clinic for approved ibogaine care is **not** what this site claims. **IV ibogaine infusion**, as defined here, means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring because of **QTc**/arrhythmia risk. programs discussed on this site share the **treatment location after screening**—not an approved U.S. storefront and not a guarantee of suitability, legality for every traveler, or outcome. **Evidence gap:** Much published clinical literature remains **oral** observational; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof. **No cure claims. No DIY.**
 
 ## Quotable answer (58 words)
 
-“Ibogaine clinic near me” often expects a U.S. map result, but ibogaine is Schedule I and not FDA-approved in the United States. Physician-supervised IV ibogaine infusion programs discussed on this site are provisionally available in Mexico—not a domestic FDA clinic. Cardiac QTc screening remains essential. Most published research is still oral-route. This is not legal advice.
+“Ibogaine clinic near me” often expects a U.S. map result, but ibogaine is Schedule I and not approved for any indication in the United States. Physician-supervised IV ibogaine infusion programs discussed on this site share the treatment location after screening—not a domestic approved U.S. clinic. Cardiac QTc screening remains essential. Most published research is still oral-route. This is not legal advice.
 
 
 ## Why this page exists (intent honesty)
 
-Local SEO pages often fake storefronts. This page does the opposite: it **captures near-me intent** and **redirects it into accurate geography, legality, and safety literacy** so travelers are not misled into believing they are booking a U.S. FDA-approved infusion center.
+Local SEO pages often fake storefronts. This page does the opposite: it **captures near-me intent** and **redirects it into accurate geography, legality, and safety literacy** so travelers are not misled into believing they are booking a regulator-approved infusion center.
 
 If a site answers “near me” with a U.S. city landing page while dosing Schedule I ibogaine as if it were ketamine-clinic retail, treat that as a trust failure.
 
-Entity: /what-is-ibogaine-infusion · Legality education: /blog/is-ibogaine-legal-us · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+Entity: /what-is-ibogaine-infusion · Legality education: /blog/is-ibogaine-legal-us · Medical vs tourism: /blog/medical-ibogaine-programs-vs-tourism.
 
 
 ## What “near me” usually maps to in real search behavior
 
 | Intent cluster | What people hope | Honest response posture |
 |----------------|------------------|-------------------------|
-| Same-day local clinic | Drive across town like ketamine | Not an FDA-approved U.S. ibogaine retail model on this site |
+| Same-day local clinic | Drive across town like ketamine | Not an approved U.S. ibogaine retail model on this site |
 | “Legal in my state” | State bill = personal dosing | Research bills ≠ personal access (/blog/ibogaine-state-research-bills-2026) |
 | Veteran local VA drip | Right-to-Try headlines | Pathway news ≠ walk-in VA IV (/blog/ibogaine-right-to-try-veterans) |
 | Cheap nearby flood | Price-first tourism | Red-flag territory (/blog/cheap-ibogaine-clinic-red-flags) |
-| Supervised medical program abroad | Travel + screening | Provisional **Mexico** programs discussed here—cardiac still first |
+| Supervised medical program abroad | Travel + screening | programs discussed on this site discussed here—cardiac still first |
 
 
 ## U.S. legal snapshot for near-me searchers (not legal advice)
 
 - Ibogaine is listed as **Schedule I** under 21 CFR 1308.11.  
-- Ibogaine is **not FDA-approved** for addiction, PTSD, TBI, depression, or any indication.  
+- Ibogaine is **not approved for any indication** for addiction, PTSD, TBI, depression, or any indication.  
 - State research-funding bills and trial announcements do not automatically create a consumer clinic on your block.  
 - This page is **educational**, not a determination of your local legality or travel compliance.
 
 Texas / trial landscape example: /blog/texas-ibogaine-clinical-trials.
 
 
-## Mexico provisional availability—said plainly
+## Program location availability—said plainly
 
-Physician-supervised **IV ibogaine infusion** programs discussed on this site are **provisionally available in Mexico**.
+Physician-supervised **IV ibogaine infusion** programs discussed on this site share the **treatment location after screening**.
 
 That sentence means:
 
-- **Yes** — geography for discussed programs is abroad (Mexico), not a hidden U.S. storefront.  
-- **No** — Mexico availability is not FDA approval.  
+- **Yes** — geography for discussed programs is abroad, not a hidden U.S. storefront.  
+- **No** — treatment-location availability is not regulatory approval.  
 - **No** — travel does not reduce QTc risk.  
 - **No** — submitting /apply is not automatic admission or a legality warranty.  
 - **No** — “medical-sounding” marketing abroad is not automatically high-acuity care (see tourism vs medical spoke).
@@ -8508,7 +8508,7 @@ Start: /safety-and-screening · ECG literacy: /blog/ibogaine-ecg-checklist · Co
 
 | Myth | Reality |
 |------|---------|
-| “If Google Maps shows a U.S. pin, it’s FDA-approved ibogaine.” | Map pins are not approval. |
+| “If Google Maps shows a U.S. pin, it’s approved ibogaine.” | Map pins are not approval. |
 | “IV means it’s the Stanford protocol.” | MISTIC = oral + IV Mg—not IV-ibogaine proof (/blog/stanford-ibogaine-mistic). |
 | “Near me = safer.” | Acuity and screening culture matter more than zip code. |
 | “Nearby = insured.” | Coverage is usually absent (/blog/does-insurance-cover-ibogaine). |
@@ -8522,7 +8522,7 @@ Market-reported multi-day medical program bands are often discussed roughly in t
 
 ## How to convert near-me intent ethically (site UX)
 
-1. Answer the geography question in the first screen (Mexico provisional / not U.S. FDA storefront).  
+1. Answer the geography question in the first screen (Program location / not approved U.S. clinic storefront).  
 2. Lead with QTc / screening.  
 3. Label oral literature vs IV entity.  
 4. Soft CTA to safety, then apply—never “book your cure.”  
@@ -8533,16 +8533,16 @@ Condition pages without cure language: /ibogaine-for-addiction · /ibogaine-for-
 
 ## Soft CTA
 
-If you searched **ibogaine clinic near me**, begin with honesty and cardiac education—not a fake map pin. Review /safety-and-screening, then request a **confidential screening consult** via /apply about physician-supervised **IV ibogaine infusion** programs provisionally available in Mexico. Not automatic admission; not legal advice; not a cure promise.
+If you searched **ibogaine clinic near me**, begin with honesty and cardiac education—not a fake map pin. Review /safety-and-screening, then request a **confidential screening consult** via /apply about physician-supervised **IV ibogaine infusion** programs (treatment location shared after screening). Not automatic admission; not legal advice; not a cure promise.
 
 
 ## FAQ
 
-### Is there an FDA-approved ibogaine clinic near me in the U.S.?
-Ibogaine is Schedule I and not FDA-approved. This site does not claim a U.S. FDA-approved retail storefront.
+### Is there an approved ibogaine clinic near me in the U.S.?
+Ibogaine is Schedule I and not approved for any indication. This site does not claim a regulator-approved retail storefront.
 
 ### Where are programs discussed on this site?
-Provisionally available in Mexico—not as FDA-approved U.S. care.
+treatment location shared after screening—not as approved U.S. care.
 
 ### Does “near me” search mean I can skip cardiac screening?
 No. Proximity never removes QTc diligence.
@@ -8565,7 +8565,7 @@ No. Educational only.
 
 ## Medical disclaimer
 
-Educational geography and intent page only—not medical or legal advice, not a clinic directory warranty, and not a promise of local availability or outcome. Ibogaine carries serious cardiac risks and is not FDA-approved. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
+Educational geography and intent page only—not medical or legal advice, not a clinic directory warranty, and not a promise of local availability or outcome. Ibogaine carries serious cardiac risks and is not approved for any indication. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
 
 
 ## Sources (selected)
@@ -8580,13 +8580,13 @@ Educational geography and intent page only—not medical or legal advice, not a 
     slug: "ibogaine-success-stories-how-to-read",
     title: "Ibogaine Success Stories: How to Read Testimonials Without Confusing Anecdote for Evidence",
     description:
-      "Ibogaine success stories are anecdotes—not evidence. How to read testimonials without cure claims. Oral vs IV gap; QTc risk; red-flag marketing; Mexico provisional.",
+      "Ibogaine success stories are anecdotes—not evidence. How to read testimonials without cure claims. Oral vs IV gap; QTc risk; red-flag marketing; Program location.",
     date: "2026-09-06",
     readTime: "11 min",
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine success stories**—video testimonials, “before/after” posts, veteran reunion clips, and clinic reels—are **individual anecdotes**, not randomized evidence and not an FDA-labeled success rate. They can be emotionally meaningful and still fail as proof that physician-supervised **IV ibogaine infusion** (**intravenous psychoactive ibogaine**) cures addiction, PTSD, TBI, or depression. **Evidence gap:** Much published clinical literature remains **oral** observational; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support in a small open-label veteran cohort—not psychoactive IV proof and not a testimonial database. Ibogaine can prolong **QTc**; continuous monitoring culture matters more than highlight reels. Ibogaine is U.S. **Schedule I** and **not FDA-approved**. Programs discussed here are **provisionally available in Mexico**, not FDA/US clinics. **Testimonials ≠ evidence. No cure claims. No DIY.**
+**Definition:** **Ibogaine success stories**—video testimonials, “before/after” posts, veteran reunion clips, and clinic reels—are **individual anecdotes**, not randomized evidence and not an approved-label success rate. They can be emotionally meaningful and still fail as proof that physician-supervised **IV ibogaine infusion** (**intravenous psychoactive ibogaine**) cures addiction, PTSD, TBI, or depression. **Evidence gap:** Much published clinical literature remains **oral** observational; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support in a small open-label veteran cohort—not psychoactive IV proof and not a testimonial database. Ibogaine can prolong **QTc**; continuous monitoring culture matters more than highlight reels. Ibogaine is U.S. **Schedule I** and **not approved for any indication**. Programs discussed here share the **treatment location after screening** and are not approved U.S. clinics. **Testimonials ≠ evidence. No cure claims. No DIY.**
 
 ## Quotable answer (55 words)
 
@@ -8608,7 +8608,7 @@ Paired myth page: /blog/ibogaine-cure-rate-claims · Addiction/PTSD/depression h
 | A program’s customer-service tone | Cardiac safety for you |
 | Short-term abstinence or score change | Lifelong cure |
 | Motivation to research further | Route-specific IV RCTs |
-| The need for better trials | FDA approval |
+| The need for better trials | regulatory approval |
 
 Cherian et al. 2024 remains **open-label oral + IV Mg**—even peer-reviewed signals need RCT follow-through and must not be rewritten as “my cousin’s IV cured TBI.” Deep dive: /blog/stanford-ibogaine-mistic · TBI spoke: /blog/ibogaine-for-tbi-veterans.
 
@@ -8656,7 +8656,7 @@ Safety home: /safety-and-screening · Side effects: /blog/ibogaine-side-effects 
 4. **Denominator:** How many treated vs how many filmed?  
 5. **Concurrent treatments:** Therapy, MOUD changes, residential structure?  
 6. **Adverse events:** Any mention of QTc, ataxia, vomiting, psychiatric crisis?  
-7. **Geography/legal:** U.S. Schedule I honesty? Mexico provisional vs fake local FDA vibe? (/blog/ibogaine-clinic-near-me · /blog/ibogaine-mexico-medical-vs-tourism)
+7. **Geography/legal:** U.S. Schedule I honesty? Program location vs fake local approval vibe? (/blog/ibogaine-clinic-near-me · /blog/medical-ibogaine-programs-vs-tourism)
 
 Clinic vetting checklist culture: /blog/how-to-choose-an-ibogaine-clinic · Red flags: /blog/cheap-ibogaine-clinic-red-flags.
 
@@ -8670,7 +8670,7 @@ Many stories end at the airport. Relapse, craving, and overdose-risk education a
 
 - Anecdote ≠ evidence  
 - Individual results vary; relapse can occur  
-- Not FDA-approved; Schedule I in the U.S.  
+- not approved for any indication; Schedule I in the U.S.  
 - Cardiac screening required  
 - Oral literature ≠ IV proof when citing papers  
 - Soft CTA to screening—not “book your miracle”
@@ -8727,10 +8727,10 @@ Because emotion converts. Ethical sites separate stories from claims.
 Never.
 
 ### What is a red-flag success-story page?
-Cure guarantees, hidden cardiac risk, oral-as-IV laundering, and fake U.S. FDA storefront vibes.
+Cure guarantees, hidden cardiac risk, oral-as-IV laundering, and fake approved U.S. clinic storefront vibes.
 
-### Is there an official FDA success rate?
-No. Ibogaine is not FDA-approved.
+### Is there an official regulators success rate?
+No. Ibogaine is not approved for any indication.
 
 ### Should I ignore all patient stories?
 You can listen for human context while refusing to treat them as evidence.
@@ -8741,7 +8741,7 @@ You can listen for human context while refusing to treat them as evidence.
 
 ## Medical disclaimer
 
-Educational media-literacy page only—not medical or legal advice and not a collection of outcome guarantees. Testimonials do not establish safety or efficacy for any individual. Ibogaine carries serious cardiac risks and is not FDA-approved. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
+Educational media-literacy page only—not medical or legal advice and not a collection of outcome guarantees. Testimonials do not establish safety or efficacy for any individual. Ibogaine carries serious cardiac risks and is not approved for any indication. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
 
 
 ## Sources (selected)
@@ -8762,11 +8762,11 @@ Educational media-literacy page only—not medical or legal advice and not a col
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine CYP2D6** metabolism refers to the major role of cytochrome P450 **2D6** in O-demethylating ibogaine to **noribogaine** (12-hydroxyibogamine). Genetic poor metabolizers and people taking strong CYP2D6 inhibitors can show substantially different exposure—relevant to **QTc**/safety discussions. Physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) still requires cardiac screening and monitoring; metabolism literacy does **not** create a DIY dosing calculator. **Evidence gap:** Key human PK papers (Obach; Glue et al.; later OUD PK/PD) primarily describe **oral** dosing contexts. Cherian/MISTIC = **oral** ibogaine + **IV magnesium**—not IV-ibogaine PK proof. U.S. Schedule I / not FDA-approved. Provisional Mexico programs ≠ FDA/US clinics. No cure claims. No DIY dosing.
+**Definition:** **Ibogaine CYP2D6** metabolism refers to the major role of cytochrome P450 **2D6** in O-demethylating ibogaine to **noribogaine** (12-hydroxyibogamine). Genetic poor metabolizers and people taking strong CYP2D6 inhibitors can show substantially different exposure—relevant to **QTc**/safety discussions. Physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) still requires cardiac screening and monitoring; metabolism literacy does **not** create a DIY dosing calculator. **Evidence gap:** Key human PK papers (Obach; Glue et al.; later OUD PK/PD) primarily describe **oral** dosing contexts. Cherian/MISTIC = **oral** ibogaine + **IV magnesium**—not IV-ibogaine PK proof. U.S. Schedule I / not approved for any indication. Programs discussed on this site ≠ approved U.S. clinics. No cure claims. No DIY dosing.
 
 ## Quotable answer (53 words)
 
-Ibogaine is largely converted to noribogaine via CYP2D6; poor metabolizers and CYP2D6 inhibitors can raise exposure. That variability matters for QTc risk discussions. IV ibogaine infusion still needs physician supervision and monitoring; most published PK evidence is oral-route. Not a DIY genotype dosing guide. Not FDA-approved.
+Ibogaine is largely converted to noribogaine via CYP2D6; poor metabolizers and CYP2D6 inhibitors can raise exposure. That variability matters for QTc risk discussions. IV ibogaine infusion still needs physician supervision and monitoring; most published PK evidence is oral-route. Not a DIY genotype dosing guide. not approved for any indication.
 
 
 ## The core biochemistry (plain language)
@@ -8845,7 +8845,7 @@ Clinic vetting: /blog/how-to-choose-an-ibogaine-clinic · /blog/cheap-ibogaine-c
 
 ## Legal / geography
 
-Ibogaine is U.S. **Schedule I** / not FDA-approved (/blog/is-ibogaine-legal-us). Provisional Mexico programs discussed on this site ≠ FDA/US clinics (/blog/ibogaine-mexico-medical-vs-tourism). Genotype reports do not legalize possession.
+Ibogaine is U.S. **Schedule I** / not approved for any indication (/blog/is-ibogaine-legal-us). Programs discussed on this site ≠ approved U.S. clinics (/blog/medical-ibogaine-programs-vs-tourism). Genotype reports do not legalize possession.
 
 Condition pages (no cures): /ibogaine-for-addiction · /ibogaine-for-depression · /ibogaine-for-ptsd.
 
@@ -8869,7 +8869,7 @@ Consent twin: /blog/ibogaine-informed-consent-questions · clinic choice: /blog/
 
 ## Research vs consumer access
 
-State bills, IND headlines, and noribogaine development news may mention metabolism science. Landscape only: research interest ≠ walk-in FDA clinic (/blog/ibogaine-state-research-bills-2026 · /blog/is-ibogaine-legal-us).
+State bills, IND headlines, and noribogaine development news may mention metabolism science. Landscape only: research interest ≠ walk-in approved U.S. clinic (/blog/ibogaine-state-research-bills-2026 · /blog/is-ibogaine-legal-us).
 
 ## Soft CTA
 
@@ -8894,7 +8894,7 @@ No. In MISTIC, IV magnesium was support alongside **oral** ibogaine.
 Do not change psychiatric medicines from a blog. Ask licensed clinicians.
 
 ### Is genotyping required for treatment?
-Not an FDA-label requirement (there is no FDA-approved ibogaine treatment). Some research discussions encourage it; it is not a cure tool.
+Not an regulators-label requirement (there is no approved ibogaine treatment). Some research discussions encourage it; it is not a cure tool.
 
 ### Does metabolism science prove ibogaine cures addiction?
 No. No cure claims.
@@ -8922,17 +8922,17 @@ Educational pharmacology literacy only—not a dosing protocol, genotyping servi
     slug: "ibogaine-vs-5-meo-dmt",
     title: "Ibogaine vs 5-MeO-DMT: Differences Without Cure Theater",
     description:
-      "Ibogaine vs 5-MeO-DMT: chemistry, duration, cardiac QTc vs other risks, oral vs IV honesty. No cure claims. Not FDA-approved. Screening-first.",
+      "Ibogaine vs 5-MeO-DMT: chemistry, duration, cardiac QTc vs other risks, oral vs IV honesty. No cure claims. not approved for any indication. Screening-first.",
     date: "2026-09-06",
     readTime: "9 min",
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine vs 5-MeO-DMT** compares two distinct psychoactive substances people encounter in addiction/trauma tourism marketing—not interchangeable “same reset” medicines. **Ibogaine** (and physician-supervised **IV ibogaine infusion**—psychoactive intravenous ibogaine) is a long-acting iboga alkaloid with prominent **QTc**/cardiac monitoring concerns in clinical literature. **5-MeO-DMT** is a short-acting tryptamine (often vaporized/insufflated in nonmedical contexts; sometimes discussed in research settings) with a very different time course and risk profile. **Evidence gap:** Most published human ibogaine clinical literature is **oral**; Cherian/MISTIC = **oral** ibogaine + **IV magnesium**—not IV-ibogaine proof and not a 5-MeO head-to-head. Neither is FDA-approved as a branded addiction cure. Ibogaine is U.S. Schedule I. Provisional Mexico ibogaine programs discussed on this site ≠ FDA/US clinics. No DIY dosing. No cure claims.
+**Definition:** **Ibogaine vs 5-MeO-DMT** compares two distinct psychoactive substances people encounter in addiction/trauma tourism marketing—not interchangeable “same reset” medicines. **Ibogaine** (and physician-supervised **IV ibogaine infusion**—psychoactive intravenous ibogaine) is a long-acting iboga alkaloid with prominent **QTc**/cardiac monitoring concerns in clinical literature. **5-MeO-DMT** is a short-acting tryptamine (often vaporized/insufflated in nonmedical contexts; sometimes discussed in research settings) with a very different time course and risk profile. **Evidence gap:** Most published human ibogaine clinical literature is **oral**; Cherian/MISTIC = **oral** ibogaine + **IV magnesium**—not IV-ibogaine proof and not a 5-MeO head-to-head. Neither is approved for any indication as a branded addiction cure. Ibogaine is U.S. Schedule I. Treatment location shared after screening ibogaine programs discussed on this site ≠ approved U.S. clinics. No DIY dosing. No cure claims.
 
 ## Quotable answer (58 words)
 
-Ibogaine and 5-MeO-DMT are different drugs: ibogaine is longer-acting with major QTc/cardiac monitoring concerns; 5-MeO-DMT is typically brief and intense with a separate risk set. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine; most published ibogaine research is oral-route. Neither is an FDA-approved cure. Not medical advice.
+Ibogaine and 5-MeO-DMT are different drugs: ibogaine is longer-acting with major QTc/cardiac monitoring concerns; 5-MeO-DMT is typically brief and intense with a separate risk set. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine; most published ibogaine research is oral-route. Neither is an approved cure. Not medical advice.
 
 
 ## Side-by-side comparison (educational)
@@ -8943,7 +8943,7 @@ Ibogaine and 5-MeO-DMT are different drugs: ibogaine is longer-acting with major
 | Typical duration (general) | Many hours; prolonged after-effects common | Often minutes of peak intensity (route-dependent) |
 | Medical headline risk theme | QTc prolongation / arrhythmia concern | Acute physiologic/psychological intensity; context-dependent medical risks—not the same as ibogaine’s QT literature |
 | Common nonmedical routes | Oral (most literature); this site’s entity = psychoactive **IV** | Often vaporized/insufflated in underground settings |
-| FDA addiction/depression label | None; Schedule I (ibogaine) | Not an FDA-approved ibogaine substitute “cure” |
+| regulators addiction/depression label | None; Schedule I (ibogaine) | Not an approved ibogaine substitute “cure” |
 | Research confusion risk | Oral papers sold as IV proof | Retreat anecdotes sold as clinical equivalence |
 
 Entity: /what-is-ibogaine-infusion · Other comparisons: /blog/ibogaine-vs-ayahuasca · /blog/ibogaine-vs-ketamine-for-addiction.
@@ -8990,9 +8990,9 @@ Oral vs IV: /blog/ibogaine-oral-vs-iv · Support IV: /blog/electrolytes-support-
 
 ## Legal landscape (educational, not advice)
 
-- **Ibogaine:** U.S. Schedule I / not FDA-approved (/blog/is-ibogaine-legal-us).  
+- **Ibogaine:** U.S. Schedule I / not approved for any indication (/blog/is-ibogaine-legal-us).  
 - **5-MeO-DMT:** Controlled-substance status is a separate legal topic; do not assume retreat geography equals personal legality.  
-- Provisional **Mexico** physician-supervised **ibogaine** programs discussed on this site ≠ FDA/US clinics and ≠ a license for unsupervised 5-MeO (/blog/ibogaine-mexico-medical-vs-tourism).
+- physician-supervised **ibogaine** programs discussed on this site ≠ approved U.S. clinics and ≠ a license for unsupervised 5-MeO (/blog/medical-ibogaine-programs-vs-tourism).
 
 
 ## Choosing a clinic if ibogaine is the actual question
@@ -9057,8 +9057,8 @@ No cure claims; stacking increases complexity and is not endorsed here as a DIY 
 ### Is published ibogaine research mostly oral?
 Yes. Controlled psychoactive-IV evidence is sparse.
 
-### Are Mexico “iboga + toad” packages FDA clinics?
-No. Provisional Mexico ibogaine programs discussed here are not FDA/US clinics. Not legal advice.
+### Are destination “iboga + toad” packages approved U.S. clinics?
+No. Treatment location shared after screening ibogaine programs discussed here are not approved U.S. clinics. Not legal advice.
 
 ### Where should I go next?
 /safety-and-screening then /apply.
@@ -9082,17 +9082,17 @@ Educational comparison only—not medical advice, dosing guidance, or legal advi
     slug: "ibogaine-and-liver-health",
     title: "Ibogaine and Liver Health: Screening Themes, Metabolism & Why Cardiac Risk Still Leads",
     description:
-      "Ibogaine and liver health: hepatic screening themes, metabolism considerations, QTc still first. IV psychoactive entity; oral-evidence gap; no DIY; Mexico provisional.",
+      "Ibogaine and liver health: hepatic screening themes, metabolism considerations, QTc still first. IV psychoactive entity; oral-evidence gap; no DIY; Program location.",
     date: "2026-09-06",
     readTime: "9 min",
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine and liver health** covers how hepatic function, liver-enzyme labs, and drug-metabolism considerations enter screening for physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine** with continuous cardiac monitoring. Ibogaine is metabolized in pathways that clinically relevant conversations often link to hepatic enzyme systems (including **CYP2D6**-related discussions in the literature); severe hepatic impairment is commonly treated as a high-concern screening theme. **Cardiac QTc risk remains front-line** even on a liver page—arrhythmia risk is not optional fine print. **Evidence gap:** Much published clinical safety literature remains **oral** observational (Knuijver oral QTc; Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Support IV ≠ psychoactive IV. Ibogaine is U.S. **Schedule I** and **not FDA-approved**. Programs discussed here are **provisionally available in Mexico**. **No cure claims. No DIY. This is not a personal clearance algorithm.**
+**Definition:** **Ibogaine and liver health** covers how hepatic function, liver-enzyme labs, and drug-metabolism considerations enter screening for physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine** with continuous cardiac monitoring. Ibogaine is metabolized in pathways that clinically relevant conversations often link to hepatic enzyme systems (including **CYP2D6**-related discussions in the literature); severe hepatic impairment is commonly treated as a high-concern screening theme. **Cardiac QTc risk remains front-line** even on a liver page—arrhythmia risk is not optional fine print. **Evidence gap:** Much published clinical safety literature remains **oral** observational (Knuijver oral QTc; Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof). Support IV ≠ psychoactive IV. Ibogaine is U.S. **Schedule I** and **not approved for any indication**. Programs discussed here share the **treatment location after screening**. **No cure claims. No DIY. This is not a personal clearance algorithm.**
 
 ## Quotable answer (57 words)
 
-Ibogaine and liver health intersect through metabolism and screening: hepatic impairment and interacting drugs can raise concern before any physician-supervised IV ibogaine infusion. Cardiac QTc monitoring still leads risk education. Most published clinical literature remains oral-route. Ibogaine is not FDA-approved. Liver labs do not replace ECG diligence, and unsupervised use is dangerous.
+Ibogaine and liver health intersect through metabolism and screening: hepatic impairment and interacting drugs can raise concern before any physician-supervised IV ibogaine infusion. Cardiac QTc monitoring still leads risk education. Most published clinical literature remains oral-route. Ibogaine is not approved for any indication. Liver labs do not replace ECG diligence, and unsupervised use is dangerous.
 
 
 ## Why liver questions appear next to ibogaine searches
@@ -9152,7 +9152,7 @@ Physician judgment rules. A blog checklist is not a go/no-go algorithm.
 
 ## “Ibogaine liver cleanse” is marketing, not medicine
 
-Some wellness copy implies ibogaine purifies organs. That is **not** an FDA-labeled claim and not an ethical promise on this site. Hepatic risk review is about **whether dosing is inappropriate**, not about selling a cleanse.
+Some wellness copy implies ibogaine purifies organs. That is **not** an approved-label claim and not an ethical promise on this site. Hepatic risk review is about **whether dosing is inappropriate**, not about selling a cleanse.
 
 No cure / no cleanse: /blog/ibogaine-cure-rate-claims.
 
@@ -9178,9 +9178,9 @@ People with heavy alcohol exposure may present with both hepatic vulnerability a
 Withdrawal vs detox literacy: /blog/ibogaine-withdrawal-vs-detox · Fentanyl: /blog/ibogaine-for-fentanyl.
 
 
-## Mexico provisional + Schedule I reminders
+## Program location + Schedule I reminders
 
-Programs discussed here for physician-supervised **IV ibogaine infusion** are **provisionally available in Mexico**, not as FDA-approved U.S. hepatology-adjacent retail care. Travel does not improve liver or heart risk. Geography: /blog/ibogaine-mexico-medical-vs-tourism · Legal education: /blog/is-ibogaine-legal-us · Near-me honesty: /blog/ibogaine-clinic-near-me.
+Programs discussed here for physician-supervised **IV ibogaine infusion** share the **treatment location after screening**, not as approved U.S. hepatology-adjacent retail care. Travel does not improve liver or heart risk. Geography: /blog/medical-ibogaine-programs-vs-tourism · Legal education: /blog/is-ibogaine-legal-us · Near-me honesty: /blog/ibogaine-clinic-near-me.
 
 
 ## Questions to ask a program in writing
@@ -9221,8 +9221,8 @@ Do not assume route equals safety without data. Controlled psychoactive-IV evide
 ### Did MISTIC prove hepatic safety of IV ibogaine?
 No. MISTIC used oral ibogaine + IV magnesium in a small open-label veteran cohort.
 
-### Is ibogaine an FDA-approved liver treatment?
-No. It is not FDA-approved for any indication and is Schedule I in the U.S.
+### Is ibogaine an approved liver treatment?
+No. It is not approved for any indication and is Schedule I in the U.S.
 
 ### Should people with alcohol-related liver disease travel for ibogaine?
 That is a specialist medical decision—often high-concern. This page is not clearance.
@@ -9233,7 +9233,7 @@ That is a specialist medical decision—often high-concern. This page is not cle
 
 ## Medical disclaimer
 
-Educational only—not hepatology or cardiology advice, not a lab interpretation service, and not a dosing guide. Ibogaine carries serious risks including cardiac arrhythmia and is not FDA-approved. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
+Educational only—not hepatology or cardiology advice, not a lab interpretation service, and not a dosing guide. Ibogaine carries serious risks including cardiac arrhythmia and is not approved for any indication. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
 
 
 ## Sources (selected)
@@ -9248,17 +9248,17 @@ Educational only—not hepatology or cardiology advice, not a lab interpretation
     slug: "ibogaine-pre-existing-heart-conditions",
     title: "Ibogaine and Pre-Existing Heart Conditions: Why QTc Screening Comes First",
     description:
-      "Ibogaine and pre-existing heart conditions: QTc, long QT, arrhythmia history, screening exclusions. IV psychoactive entity; oral-evidence gap; no DIY; Mexico provisional.",
+      "Ibogaine and pre-existing heart conditions: QTc, long QT, arrhythmia history, screening exclusions. IV psychoactive entity; oral-evidence gap; no DIY; Program location.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine and pre-existing heart conditions** addresses why people with known cardiac disease, baseline **prolonged QTc**, long QT syndromes, heart-failure history, prior arrhythmia, or QT-prolonging medication regimens are often **excluded**—or require specialist review that may still end in a hard stop—before physician-supervised **IV ibogaine infusion** (**intravenous psychoactive ibogaine** with continuous monitoring). Ibogaine can prolong the **QTc** interval and raise risk for life-threatening arrhythmia. **Evidence gap:** Landmark open-label cardiac observations such as Knuijver et al. (*Addiction*, 2021) reflect **oral** ibogaine HCl; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support—not proof that psychoactive IV is safe in cardiac disease. Support IV ≠ psychoactive IV. Ibogaine is U.S. **Schedule I** and **not FDA-approved**. Programs discussed here are **provisionally available in Mexico**. **No cure claims. No DIY clearance.**
+**Definition:** **Ibogaine and pre-existing heart conditions** addresses why people with known cardiac disease, baseline **prolonged QTc**, long QT syndromes, heart-failure history, prior arrhythmia, or QT-prolonging medication regimens are often **excluded**—or require specialist review that may still end in a hard stop—before physician-supervised **IV ibogaine infusion** (**intravenous psychoactive ibogaine** with continuous monitoring). Ibogaine can prolong the **QTc** interval and raise risk for life-threatening arrhythmia. **Evidence gap:** Landmark open-label cardiac observations such as Knuijver et al. (*Addiction*, 2021) reflect **oral** ibogaine HCl; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support—not proof that psychoactive IV is safe in cardiac disease. Support IV ≠ psychoactive IV. Ibogaine is U.S. **Schedule I** and **not approved for any indication**. Programs discussed here share the **treatment location after screening**. **No cure claims. No DIY clearance.**
 
 ## Quotable answer (56 words)
 
-Pre-existing heart conditions often contraindicate or heavily restrict ibogaine exposure because ibogaine can prolong QTc and increase arrhythmia risk. IV ibogaine infusion requires physician supervision and continuous cardiac monitoring. Most published QTc observations still reflect oral ibogaine HCl. It is not FDA-approved. Unsupervised use is dangerous; individual clearance belongs to clinicians.
+Pre-existing heart conditions often contraindicate or heavily restrict ibogaine exposure because ibogaine can prolong QTc and increase arrhythmia risk. IV ibogaine infusion requires physician supervision and continuous cardiac monitoring. Most published QTc observations still reflect oral ibogaine HCl. It is not approved for any indication. Unsupervised use is dangerous; individual clearance belongs to clinicians.
 
 
 ## The non-negotiable frame
@@ -9341,9 +9341,9 @@ If a “clinic near me” ad skips these, leave: /blog/ibogaine-clinic-near-me �
 Hepatic impairment and metabolic interactions can compound risk management complexity. Liver literacy: /blog/ibogaine-and-liver-health. Neither organ system page replaces the other.
 
 
-## Mexico provisional does not reduce arrhythmia risk
+## Program location does not reduce arrhythmia risk
 
-Programs discussed on this site are **provisionally available in Mexico**, not as FDA-approved U.S. cardiology infusion centers. Flying south does not shorten QTc. Geography honesty: /blog/ibogaine-mexico-medical-vs-tourism · Legal education: /blog/is-ibogaine-legal-us.
+programs discussed on this site share the **treatment location after screening**, not as approved U.S. cardiology infusion centers. Travel does not shorten QTc. Geography honesty: /blog/medical-ibogaine-programs-vs-tourism · Legal education: /blog/is-ibogaine-legal-us.
 
 Mosca et al. systematic review: limited RCTs; cardiotoxicity concerns—exactly why this page exists.
 
@@ -9383,8 +9383,8 @@ IV magnesium support does not eliminate arrhythmia risk or replace exclusions.
 ### Are deaths from ibogaine only in unsupervised settings?
 Adverse cardiac events have been discussed across heterogeneous settings. Medical supervision reduces—not erases—risk.
 
-### Is ibogaine FDA-approved for any cardiac or addiction use?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for any cardiac or addiction use?
+No. Schedule I; not approved for any indication.
 
 ### Should I stop heart medications to qualify?
 Never self-stop cardiac meds. Discuss only with your clinicians.
@@ -9395,7 +9395,7 @@ Never self-stop cardiac meds. Discuss only with your clinicians.
 
 ## Medical disclaimer
 
-Educational cardiology-literacy page only—not a personal clearance, not ECG interpretation, and not medical advice. Ibogaine can cause life-threatening arrhythmia and is not FDA-approved. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
+Educational cardiology-literacy page only—not a personal clearance, not ECG interpretation, and not medical advice. Ibogaine can cause life-threatening arrhythmia and is not approved for any indication. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
 
 
 ## Sources (selected)
@@ -9410,17 +9410,17 @@ Educational cardiology-literacy page only—not a personal clearance, not ECG in
     slug: "ibogaine-vs-psilocybin-therapy",
     title: "Ibogaine vs Psilocybin Therapy: Key Differences",
     description:
-      "Ibogaine vs psilocybin therapy: legality, QTc risk, session design, evidence maturity. IV ibogaine infusion ≠ psilocybin. Oral-evidence gap; no cures; Mexico provisional.",
+      "Ibogaine vs psilocybin therapy: legality, QTc risk, session design, evidence maturity. IV ibogaine infusion ≠ psilocybin. Oral-evidence gap; no cures; Program location.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine vs psilocybin therapy** compares two distinct psychoactive treatment conversations that online culture often collapses into one “psychedelic healing” shelf. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring because ibogaine can prolong **QTc**. **Psilocybin therapy** usually means structured sessions with psilocybin (or related protocols) under emerging clinical-research or jurisdiction-specific frameworks—often oral dosing with psychological support—not an ibogaine cardiac-telemetry product. They differ in pharmacology, session length, dominant risk narratives, evidence maturity by indication, and legal pathways. **Evidence gap:** Much published ibogaine clinical literature remains **oral** observational; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof. Ibogaine is U.S. **Schedule I** and **not FDA-approved**. Programs discussed here are **provisionally available in Mexico**, not FDA-approved U.S. clinics. **No cure claims. No DIY.**
+**Definition:** **Ibogaine vs psilocybin therapy** compares two distinct psychoactive treatment conversations that online culture often collapses into one “psychedelic healing” shelf. **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision with continuous cardiac monitoring because ibogaine can prolong **QTc**. **Psilocybin therapy** usually means structured sessions with psilocybin (or related protocols) under emerging clinical-research or jurisdiction-specific frameworks—often oral dosing with psychological support—not an ibogaine cardiac-telemetry product. They differ in pharmacology, session length, dominant risk narratives, evidence maturity by indication, and legal pathways. **Evidence gap:** Much published ibogaine clinical literature remains **oral** observational; Cherian/MISTIC (*Nature Medicine* 2024) used **oral** ibogaine + **IV magnesium** support—not psychoactive IV proof. Ibogaine is U.S. **Schedule I** and **not approved for any indication**. Programs discussed here share the **treatment location after screening** and are not approved U.S. clinics. **No cure claims. No DIY.**
 
 ## Quotable answer (58 words)
 
-Ibogaine and psilocybin therapy are not interchangeable psychedelic options. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with QTc-focused cardiac monitoring; most published ibogaine research is still oral-route. Psilocybin protocols typically emphasize psychological support around a different alkaloid risk profile. Neither is an FDA-approved universal cure. Legal status, session design, and evidence by indication diverge.
+Ibogaine and psilocybin therapy are not interchangeable psychedelic options. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with QTc-focused cardiac monitoring; most published ibogaine research is still oral-route. Psilocybin protocols typically emphasize psychological support around a different alkaloid risk profile. Neither is an approved universal cure. Legal status, session design, and evidence by indication diverge.
 
 
 ## Why people compare them
@@ -9438,7 +9438,7 @@ Related comparisons: /blog/ibogaine-vs-ketamine-for-addiction · /blog/ibogaine-
 | Common psychoactive route in protocols | Oral (most discussed clinical research) | **Intravenous psychoactive ibogaine** (brand entity); many external programs still oral HCl |
 | Dominant medical risk narrative | Psychological distress, rare challenging experiences, BP/HR changes in context; protocol-dependent | **QTc prolongation / arrhythmia**; prolonged intensive window |
 | Session design | Often preparation + dosing day + integration; duration protocol-dependent | Multi-hour to multi-day observation typical for flood-scale medical programs |
-| U.S. federal status (high level) | Schedule I classically; research and some jurisdiction pathways evolving—verify current law | **Schedule I**; **not FDA-approved** |
+| U.S. federal status (high level) | Schedule I classically; research and some jurisdiction pathways evolving—verify current law | **Schedule I**; **not approved for any indication** |
 | Evidence maturity | Growing controlled research in depression/other indications (still not a consumer free-for-all) | Limited; oral observational common; sparse psychoactive-IV RCTs |
 | Support IV confusion | Less central | Fluids/Mg = **support IV**, not the psychoactive dose |
 | Typical goals people shop for | Depression, end-of-life distress, addiction research interest | Addiction interrupt interest; PTSD/TBI curiosity; mood curiosity |
@@ -9492,7 +9492,7 @@ Mosca et al. (*Current Neuropharmacology*): limited RCTs and cardiotoxicity conc
 
 ## Legal and access (not legal advice)
 
-- **Ibogaine:** U.S. Schedule I; not FDA-approved; provisional **Mexico** programs discussed on this site ≠ U.S. FDA storefront (/blog/is-ibogaine-legal-us · /blog/ibogaine-clinic-near-me · /blog/ibogaine-mexico-medical-vs-tourism).  
+- **Ibogaine:** U.S. Schedule I; not approved for any indication; programs discussed on this site ≠ an approved U.S. clinic (/blog/is-ibogaine-legal-us · /blog/ibogaine-clinic-near-me · /blog/medical-ibogaine-programs-vs-tourism).  
 - **Psilocybin:** Also classically Schedule I federally, with research programs and evolving jurisdiction-specific initiatives that must be verified locally—this page does not map your city’s rules.
 
 “Decriminalized mushrooms nearby” ≠ “ibogaine clinic near me.” Different compounds, different risks.
@@ -9542,7 +9542,7 @@ No. MISTIC/Cherian 2024 was open-label oral ibogaine + IV magnesium.
 No. This site refuses unsupervised protocols.
 
 ### Are ibogaine programs available in the U.S. like some psilocybin initiatives?
-Ibogaine remains Schedule I / not FDA-approved; programs discussed here are provisionally available in Mexico. Psilocybin access rules are jurisdiction-specific—verify separately. Not legal advice.
+Ibogaine remains Schedule I / not approved for any indication; programs discussed here share the treatment location after screening. Psilocybin access rules are jurisdiction-specific—verify separately. Not legal advice.
 
 ### Where next?
 /safety-and-screening → /apply.
@@ -9550,7 +9550,7 @@ Ibogaine remains Schedule I / not FDA-approved; programs discussed here are prov
 
 ## Medical disclaimer
 
-Educational comparison only—not medical or legal advice, not a dosing guide, and not a recommendation to obtain either substance outside lawful supervised channels. Neither ibogaine nor psilocybin is presented as a universal cure. Ibogaine carries serious cardiac risks and is not FDA-approved. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
+Educational comparison only—not medical or legal advice, not a dosing guide, and not a recommendation to obtain either substance outside lawful supervised channels. Neither ibogaine nor psilocybin is presented as a universal cure. Ibogaine carries serious cardiac risks and is not approved for any indication. Unsupervised use is dangerous. Soft CTAs: /safety-and-screening, /apply.
 
 
 ## Sources (selected)
@@ -9566,17 +9566,17 @@ Educational comparison only—not medical or legal advice, not a dosing guide, a
     slug: "ibogaine-informed-consent-questions",
     title: "Ibogaine Questions to Ask a Clinic Before You Consent",
     description:
-      "Ibogaine questions to ask a clinic before consent: route, QTc monitoring, oral vs IV honesty, MISTIC myths, Mexico provisional. No cure claims.",
+      "Ibogaine questions to ask a clinic before consent: route, QTc monitoring, oral vs IV honesty, MISTIC myths, Program location. No cure claims.",
     date: "2026-09-06",
     readTime: "9 min",
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine questions to ask a clinic** are informed-consent prompts for anyone considering physician-supervised **IV ibogaine infusion**—**psychoactive intravenous ibogaine** with consult → cardiac screening → continuous monitoring → integration. Good questions force honesty about route (oral vs IV), **QTc** risk, emergency plans, evidence limits, and geography. **Evidence gap:** Most published clinical literature is **oral**; Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not IV-ibogaine proof. This checklist is educational—not a clearance algorithm and not a promise you will qualify. Ibogaine is U.S. Schedule I / not FDA-approved. Provisional Mexico programs discussed on this site ≠ FDA/US clinics. No DIY dosing. No cure claims.
+**Definition:** **Ibogaine questions to ask a clinic** are informed-consent prompts for anyone considering physician-supervised **IV ibogaine infusion**—**psychoactive intravenous ibogaine** with consult → cardiac screening → continuous monitoring → integration. Good questions force honesty about route (oral vs IV), **QTc** risk, emergency plans, evidence limits, and geography. **Evidence gap:** Most published clinical literature is **oral**; Cherian/MISTIC = **oral** ibogaine + **IV magnesium** support—not IV-ibogaine proof. This checklist is educational—not a clearance algorithm and not a promise you will qualify. Ibogaine is U.S. Schedule I / not approved for any indication. Programs discussed on this site ≠ approved U.S. clinics. No DIY dosing. No cure claims.
 
 ## Quotable answer (52 words)
 
-Before consenting to ibogaine treatment, ask whether the psychoactive dose is oral or intravenous, how QTc is monitored, what emergency transfer looks like, and whether MISTIC is correctly labeled oral plus IV magnesium. IV ibogaine infusion still carries cardiac risk. No cure guarantees. Not FDA-approved. Not medical advice.
+Before consenting to ibogaine treatment, ask whether the psychoactive dose is oral or intravenous, how QTc is monitored, what emergency transfer looks like, and whether MISTIC is correctly labeled oral plus IV magnesium. IV ibogaine infusion still carries cardiac risk. No cure guarantees. not approved for any indication. Not medical advice.
 
 
 ## How to use this consent toolkit
@@ -9620,7 +9620,7 @@ Deep dives: /blog/ibogaine-cyp2d6-metabolism · /blog/ibogaine-and-benzodiazepin
 
 ## Block D — Evidence honesty (catch the hype)
 
-13. Do you claim an FDA approval or labeled cure rate? (Correct answer: no.)  
+13. Do you claim an regulatory approval or labeled cure rate? (Correct answer: no.)  
 14. When you cite Stanford/Nature Medicine/MISTIC, do you state **oral ibogaine + IV magnesium**, open-label, small N?  
 15. Do you invent psychoactive-IV RCT success percentages?  
 
@@ -9641,9 +9641,9 @@ Anti-hype: /blog/ibogaine-cure-rate-claims · /blog/stanford-ibogaine-mistic. Mo
 19. What exactly is included in the price (monitoring nights, physician coverage, labs, transfer)?  
 20. Are deposits refundable if cardiac screening fails?  
 21. Do you pressure same-day payment before ECG review?  
-22. Are you clear that provisional **Mexico** programs discussed in this ecosystem are **not** FDA-approved U.S. clinic care?  
+22. Are you clear that programs discussed on this site discussed in this ecosystem are **not** approved U.S. clinic care?  
 
-/blog/cost-of-ibogaine-treatment · /blog/does-insurance-cover-ibogaine · /blog/ibogaine-mexico-medical-vs-tourism · /blog/is-ibogaine-legal-us.
+/blog/cost-of-ibogaine-treatment · /blog/does-insurance-cover-ibogaine · /blog/medical-ibogaine-programs-vs-tourism · /blog/is-ibogaine-legal-us.
 
 
 ## Block G — Consent capacity and coercion
@@ -9668,7 +9668,7 @@ Process: /how-it-works · Apply only after safety read: /apply.
 
 ## Sample email you can send (copy/paste)
 
-> I am evaluating physician-supervised care only. Please answer in writing: (1) Is the psychoactive dose oral or IV ibogaine? (2) What ECG/lab criteria and continuous monitoring do you use? (3) What is your emergency transfer plan? (4) When you cite MISTIC/Nature Medicine, do you label it oral ibogaine + IV magnesium? (5) Do you make cure/guarantee claims? (6) Are deposits refundable if screening fails? I understand ibogaine is not FDA-approved and that programs abroad are not U.S. FDA clinics.
+> I am evaluating physician-supervised care only. Please answer in writing: (1) Is the psychoactive dose oral or IV ibogaine? (2) What ECG/lab criteria and continuous monitoring do you use? (3) What is your emergency transfer plan? (4) When you cite MISTIC/Nature Medicine, do you label it oral ibogaine + IV magnesium? (5) Do you make cure/guarantee claims? (6) Are deposits refundable if screening fails? I understand ibogaine is not approved for any indication and that programs abroad are not approved U.S. clinics.
 
 If the reply is vague marketing, you already have your answer.
 
@@ -9705,11 +9705,11 @@ No. Oral ibogaine + IV magnesium, open-label.
 ### Do these questions replace medical screening?
 No. They prepare you to participate in screening with clinicians.
 
-### Is ibogaine FDA-approved?
-No. Schedule I federally; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I federally; not approved for any indication.
 
-### Are Mexico programs the same as U.S. FDA clinics?
-No. Provisional Mexico availability discussed here ≠ FDA/US clinics. Not legal advice.
+### Are programs discussed on this site the same as approved U.S. clinics?
+No. Treatment location shared after screening discussed here ≠ approved U.S. clinics. Not legal advice.
 
 ### What if staff refuse written answers?
 That refusal is itself an answer—slow down or leave.
@@ -9742,7 +9742,7 @@ Educational consent literacy only—not medical advice, legal advice, or a perso
     content: `
 ## Definition box
 
-**Definition:** **Ibogaine telemetry and ACLS monitoring** means continuous cardiac observation and emergency response capability during physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine**—because ibogaine can prolong the **QTc** interval and raise arrhythmia risk. Telemetry is not a luxury add-on; ACLS-ready staffing and transfer planning are ethical floors. **Support IV** (fluids, magnesium, antiemetics, emergency drugs) may run in parallel and must be labeled separately from the psychoactive dose. **Evidence gap:** Landmark QTc observations (Knuijver et al., *Addiction*, 2021) followed **oral** ibogaine HCl; Cherian/MISTIC (*Nature Medicine*, 2024) used **oral** ibogaine + **IV magnesium**. Those papers inform monitoring ethics—they are not psychoactive-IV RCTs proving a “safe protocol brand.” Ibogaine is U.S. Schedule I and not FDA-approved. **No cures. No DIY.** Mexico programs discussed here are provisional only.
+**Definition:** **Ibogaine telemetry and ACLS monitoring** means continuous cardiac observation and emergency response capability during physician-supervised **IV ibogaine infusion**—**intravenous psychoactive ibogaine**—because ibogaine can prolong the **QTc** interval and raise arrhythmia risk. Telemetry is not a luxury add-on; ACLS-ready staffing and transfer planning are ethical floors. **Support IV** (fluids, magnesium, antiemetics, emergency drugs) may run in parallel and must be labeled separately from the psychoactive dose. **Evidence gap:** Landmark QTc observations (Knuijver et al., *Addiction*, 2021) followed **oral** ibogaine HCl; Cherian/MISTIC (*Nature Medicine*, 2024) used **oral** ibogaine + **IV magnesium**. Those papers inform monitoring ethics—they are not psychoactive-IV RCTs proving a “safe protocol brand.” Ibogaine is U.S. Schedule I and not approved for any indication. **No cures. No DIY.** programs discussed on this site discussed here are provisional only.
 
 ## Quotable answer (56 words)
 
@@ -9782,7 +9782,7 @@ Ask in writing:
 4. Transfer agreements / ambulance plan?  
 5. What happens at 2 a.m. if the attending is off-site?
 
-Luxury villas without crash-ready response are a known red-flag pattern: /blog/ibogaine-luxury-retreat-red-flags · Clinic choice: /blog/how-to-choose-an-ibogaine-clinic · Mexico medical vs tourism: /blog/ibogaine-mexico-medical-vs-tourism.
+Luxury villas without crash-ready response are a known red-flag pattern: /blog/ibogaine-luxury-retreat-red-flags · Clinic choice: /blog/how-to-choose-an-ibogaine-clinic · Medical vs tourism: /blog/medical-ibogaine-programs-vs-tourism.
 
 
 ## Why oral QTc papers still force IV monitoring ethics
@@ -9825,7 +9825,7 @@ Condition pages (no guarantees): /ibogaine-for-addiction · /ibogaine-for-ptsd �
 ## What monitoring does *not* guarantee
 
 - Zero risk of arrhythmia  
-- FDA approval  
+- regulatory approval  
 - A cure for addiction, PTSD, or depression  
 - That oral open-label signals equal IV efficacy  
 
@@ -9875,7 +9875,7 @@ No. Unsupervised ibogaine use is dangerous.
 
 ## Medical disclaimer
 
-Educational monitoring guidance only—not a hospital protocol, not medical advice, and not a certification of any clinic. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not FDA-approved. Mexico programs discussed here are provisional only.
+Educational monitoring guidance only—not a hospital protocol, not medical advice, and not a certification of any clinic. Do not self-administer ibogaine. Ibogaine can cause life-threatening cardiac events. Seek licensed clinicians. Ibogaine is U.S. Schedule I and not approved for any indication. Programs discussed on this site discussed here are provisional only.
 
 
 ## Sources (selected)
@@ -9896,11 +9896,11 @@ Educational monitoring guidance only—not a hospital protocol, not medical advi
     content: `
 ## Definition box
 
-**Definition:** The **MISTIC 12-month follow-up** is the prospective long-term extension of Stanford-affiliated **magnesium–ibogaine therapy (MISTIC)** published in *Translational Psychiatry* (2026; doi: **10.1038/s41398-026-04327-5**). It reports durability of symptom and disability signals through 12 months after the original open-label protocol in special-operations veterans with traumatic brain injury (TBI) history: **25 of 30** treated participants completed 12-month assessments. Psychoactive ibogaine in the parent protocol was **oral**; **IV magnesium** was **support**, not psychoactive ibogaine. This follow-up is **not** a randomized controlled trial and **not** proof that physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) works. Authors note important confounders—including other psychedelics and interventions during follow-up. Cardiac QTc risk remains central. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** The **MISTIC 12-month follow-up** is the prospective long-term extension of Stanford-affiliated **magnesium–ibogaine therapy (MISTIC)** published in *Translational Psychiatry* (2026; doi: **10.1038/s41398-026-04327-5**). It reports durability of symptom and disability signals through 12 months after the original open-label protocol in special-operations veterans with traumatic brain injury (TBI) history: **25 of 30** treated participants completed 12-month assessments. Psychoactive ibogaine in the parent protocol was **oral**; **IV magnesium** was **support**, not psychoactive ibogaine. This follow-up is **not** a randomized controlled trial and **not** proof that physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) works. Authors note important confounders—including other psychedelics and interventions during follow-up. Cardiac QTc risk remains central. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (58 words)
 
-The 2026 Translational Psychiatry MISTIC 12-month follow-up found durable symptom and disability improvements in 25 of 30 veterans after oral ibogaine plus IV magnesium support—not a controlled trial of psychoactive IV ibogaine infusion. Confounders such as other psychedelics during follow-up limit causal claims. RCTs are still needed. Ibogaine can prolong QTc and is not FDA-approved.
+The 2026 Translational Psychiatry MISTIC 12-month follow-up found durable symptom and disability improvements in 25 of 30 veterans after oral ibogaine plus IV magnesium support—not a controlled trial of psychoactive IV ibogaine infusion. Confounders such as other psychedelics during follow-up limit causal claims. RCTs are still needed. Ibogaine can prolong QTc and is not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -9922,7 +9922,7 @@ Related reading: /blog/stanford-ibogaine-mistic · /blog/ibogaine-for-tbi-vetera
 | Psychoactive route | **Oral** ibogaine (parent protocol) |
 | IV component | **IV magnesium** support — not psychoactive IV ibogaine |
 | Outcomes framed | Functional disability (self-report) + clinician-administered PTSD, depression, anxiety measures |
-| What it is not | IV-psychoactive ibogaine RCT; FDA approval package; addiction-cure evidence; license to skip screening |
+| What it is not | IV-psychoactive ibogaine RCT; regulatory approval package; addiction-cure evidence; license to skip screening |
 
 Readers should open the primary paper for exact instruments, effect sizes, adverse-event reporting, and limitation language rather than relying on secondary blogs.
 
@@ -9990,7 +9990,7 @@ Even with magnesium co-administration narratives, ECG screening, electrolyte man
 |--------------------------|-----------------|
 | “12-month MISTIC proves IV ibogaine works” | **False** — oral + IV Mg; observational |
 | “84% PTSD remission forever for everyone” | **False** — conditional survival estimate in remitted subset of a small open-label cohort; confounders |
-| “FDA-approved for veterans TBI” | **False** — Schedule I; not FDA-approved |
+| “approved for veterans TBI” | **False** — Schedule I; not approved for any indication |
 | “Skip cardiac screening because magnesium” | **Dangerous and false** |
 | Adjacent literature with route labels OK? | **Yes** — if labeled oral+IV Mg, open-label, small N, RCTs needed |
 
@@ -10017,8 +10017,8 @@ No. Different route, open-label design, small N, special population.
 ### Why do authors mention other psychedelics?
 Because most participants reported other psychedelic use or other interventions during follow-up—so year-long trajectories cannot be attributed to ibogaine alone.
 
-### Is this FDA approval for veterans?
-No. Ibogaine remains Schedule I in the U.S. and is not FDA-approved.
+### Is this regulatory approval for veterans?
+No. Ibogaine remains Schedule I in the U.S. and is not approved for any indication.
 
 ### Should cardiac screening still happen?
 Yes. QTc risk teaching still applies (/safety-and-screening).
@@ -10029,7 +10029,7 @@ Yes. QTc risk teaching still applies (/safety-and-screening).
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Cherian/MISTIC 12-month follow-up is open-label oral ibogaine + IV magnesium durability data—not psychoactive IV ibogaine proof.
 
@@ -10054,11 +10054,11 @@ Cherian/MISTIC 12-month follow-up is open-label oral ibogaine + IV magnesium dur
     content: `
 ## Definition box
 
-**Definition:** **Brown & Alper (2018)** in *The American Journal of Drug and Alcohol Abuse* (doi: **10.1080/00952990.2017.1320802**; PMID **28541119**) is a prospective **observational** study of **n=30** adults with DSM-IV opioid dependence treated with **oral ibogaine HCl** (mean total dose about **1,540 ± 920 mg**) in clinic settings. Authors reported acute reductions on the Subjective Opioid Withdrawal Scale (SOWS) and that **50%** of subjects reported no opioid use in the prior 30 days at **1-month** follow-up, with Addiction Severity Index Composite improvements at later time points. This is **not** a randomized controlled trial, **not** FDA approval evidence, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Cardiac risk—including QTc prolongation—remains central. Most published clinical ibogaine literature is oral. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Brown & Alper (2018)** in *The American Journal of Drug and Alcohol Abuse* (doi: **10.1080/00952990.2017.1320802**; PMID **28541119**) is a prospective **observational** study of **n=30** adults with DSM-IV opioid dependence treated with **oral ibogaine HCl** (mean total dose about **1,540 ± 920 mg**) in clinic settings. Authors reported acute reductions on the Subjective Opioid Withdrawal Scale (SOWS) and that **50%** of subjects reported no opioid use in the prior 30 days at **1-month** follow-up, with Addiction Severity Index Composite improvements at later time points. This is **not** a randomized controlled trial, **not** regulatory approval evidence, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Cardiac risk—including QTc prolongation—remains central. Most published clinical ibogaine literature is oral. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (57 words)
 
-Brown and Alper’s 2018 observational study of 30 people with opioid dependence found oral ibogaine HCl associated with reduced withdrawal scores and 50% reporting no opioid use in the prior 30 days at one month—not an RCT and not evidence for psychoactive IV ibogaine infusion. Cardiac QTc risk still matters. Ibogaine is not FDA-approved.
+Brown and Alper’s 2018 observational study of 30 people with opioid dependence found oral ibogaine HCl associated with reduced withdrawal scores and 50% reporting no opioid use in the prior 30 days at one month—not an RCT and not evidence for psychoactive IV ibogaine infusion. Cardiac QTc risk still matters. Ibogaine is not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -10140,11 +10140,11 @@ Anyone considering any ibogaine exposure needs ECG/electrolyte diligence and con
 |-------|--------|
 | “50% cure rate for IV ibogaine” | **False** — oral observational; 1-month self-report subset metric |
 | “RCT-proven OUD treatment” | **False** — observational |
-| “FDA-cleared detox” | **False** — Schedule I; not FDA-approved |
+| “regulator-cleared detox” | **False** — Schedule I; not approved for any indication |
 | “Safe because SOWS improved” | **False** — efficacy-ish scores ≠ cardiac safety proof |
 | Cite as adjacent oral literature with labels? | **Yes** — if design/route/N labeled |
 
-U.S. access context remains Schedule I / not FDA. Provisional Mexico programs on this site ≠ U.S. FDA clinics (/blog/is-ibogaine-legal-us, /blog/ibogaine-mexico-medical-vs-tourism).
+U.S. access context remains Schedule I / not approved. Programs discussed on this site on this site ≠ approved U.S. clinics (/blog/is-ibogaine-legal-us, /blog/medical-ibogaine-programs-vs-tourism).
 
 
 ## Soft CTA
@@ -10172,8 +10172,8 @@ No. Route was oral; design was observational.
 ### Are cardiac risks irrelevant because withdrawal scores fell?
 No. Cardiac QTc risk must be evaluated separately (/safety-and-screening).
 
-### Is ibogaine FDA-approved for OUD?
-No. Schedule I in the U.S.; not FDA-approved.
+### Is ibogaine approved for OUD?
+No. Schedule I in the U.S.; not approved for any indication.
 
 ### Where can I read adjacent oral OUD papers?
 /blog/noller-2018-ibogaine-new-zealand, /blog/mash-2018-ibogaine-detox-frontiers, /blog/kock-2022-ibogaine-systematic-review.
@@ -10181,7 +10181,7 @@ No. Schedule I in the U.S.; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Brown & Alper 2018 is oral observational OUD literature—not psychoactive IV ibogaine proof.
 
@@ -10206,11 +10206,11 @@ Brown & Alper 2018 is oral observational OUD literature—not psychoactive IV ib
     content: `
 ## Definition box
 
-**Definition:** **Noller, Frampton & Yazar-Klosinski (2018)** in *The American Journal of Drug and Alcohol Abuse* (doi: **10.1080/00952990.2017.1310218**) is a twelve-month **observational** study of **n=14** adults (50% female) receiving **legal oral ibogaine** treatment for opioid dependence in New Zealand. Primary outcome was Addiction Severity Index-Lite (ASI-Lite); secondary measures included Beck Depression Inventory-II (BDI-II) and Subjective Opioid Withdrawal Scale (SOWS). Completers with full interview series (**n=8**) showed significant reductions in ASI-Lite drug-use composite and BDI-II scores at 12 months; SOWS fell acutely after treatment in all 14. **One patient enrolled in the study died during treatment**—a fact the paper states and that this page discusses honestly. This is **not** a randomized controlled trial, **not** FDA approval evidence, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Most published clinical ibogaine literature is oral. Cardiac QTc risk remains central. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Noller, Frampton & Yazar-Klosinski (2018)** in *The American Journal of Drug and Alcohol Abuse* (doi: **10.1080/00952990.2017.1310218**) is a twelve-month **observational** study of **n=14** adults (50% female) receiving **legal oral ibogaine** treatment for opioid dependence in New Zealand. Primary outcome was Addiction Severity Index-Lite (ASI-Lite); secondary measures included Beck Depression Inventory-II (BDI-II) and Subjective Opioid Withdrawal Scale (SOWS). Completers with full interview series (**n=8**) showed significant reductions in ASI-Lite drug-use composite and BDI-II scores at 12 months; SOWS fell acutely after treatment in all 14. **One patient enrolled in the study died during treatment**—a fact the paper states and that this page discusses honestly. This is **not** a randomized controlled trial, **not** regulatory approval evidence, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Most published clinical ibogaine literature is oral. Cardiac QTc risk remains central. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (59 words)
 
-Noller and colleagues’ 2018 New Zealand observational study of 14 people treated with oral ibogaine for opioid dependence reported 12-month ASI and depression improvements in completers—and one death during treatment. It is not an RCT and not evidence for psychoactive IV ibogaine infusion. Cardiac risk and monitoring culture still matter. Ibogaine is not FDA-approved.
+Noller and colleagues’ 2018 New Zealand observational study of 14 people treated with oral ibogaine for opioid dependence reported 12-month ASI and depression improvements in completers—and one death during treatment. It is not an RCT and not evidence for psychoactive IV ibogaine infusion. Cardiac risk and monitoring culture still matter. Ibogaine is not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -10232,7 +10232,7 @@ Related: /blog/brown-alper-2018-ibogaine-oud · /blog/mash-2018-ibogaine-detox-f
 | Primary outcome | Addiction Severity Index-Lite (ASI-Lite) composites over 12 months |
 | Secondary | BDI-II (depression); SOWS (acute opioid withdrawal) |
 | Completers | **n=8** with all interviews; **n=4** partial data; **1 death** during treatment |
-| What it is not | RCT; IV-psychoactive ibogaine proof; FDA package; license to skip screening |
+| What it is not | RCT; IV-psychoactive ibogaine proof; regulators package; license to skip screening |
 
 Readers should open the primary paper for exact composites, provider context, coronial discussion, and limitation language.
 
@@ -10320,10 +10320,10 @@ Noller’s enrolled death is a reminder that observational outcome papers and sa
 | “NZ proves year-long cure rates for IV ibogaine” | **False** — oral observational; small completer subset |
 | “Safe because ASI improved” | **False** — one enrolled death; scores ≠ cardiac safety |
 | “RCT-proven OUD treatment” | **False** — observational |
-| “FDA-cleared detox” | **False** — U.S. Schedule I; not FDA-approved |
+| “regulator-cleared detox” | **False** — U.S. Schedule I; not approved for any indication |
 | Cite as adjacent oral literature with labels? | **Yes** — if design/route/N/**death** labeled |
 
-U.S. access context remains Schedule I / not FDA. Provisional Mexico programs on this site ≠ U.S. FDA clinics (/blog/is-ibogaine-legal-us, /blog/ibogaine-mexico-medical-vs-tourism).
+U.S. access context remains Schedule I / not approved. Programs discussed on this site on this site ≠ approved U.S. clinics (/blog/is-ibogaine-legal-us, /blog/medical-ibogaine-programs-vs-tourism).
 
 
 ## Soft CTA
@@ -10351,8 +10351,8 @@ No. Route was oral; design was observational; N was small; a treatment-period de
 ### Does New Zealand legality mean ibogaine is safe?
 No. Legal availability is not a cardiac-safety certificate. QTc risk and monitoring requirements remain.
 
-### Is ibogaine FDA-approved for OUD?
-No. Schedule I in the United States; not FDA-approved.
+### Is ibogaine approved for OUD?
+No. Schedule I in the United States; not approved for any indication.
 
 ### Where can I read adjacent papers?
 /blog/brown-alper-2018-ibogaine-oud, /blog/mash-2018-ibogaine-detox-frontiers, /blog/knuijver-2021-ibogaine-qtc-safety, /blog/kock-2022-ibogaine-systematic-review.
@@ -10360,7 +10360,7 @@ No. Schedule I in the United States; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. This page discusses a published enrolled death in Noller 2018 honestly. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. This page discusses a published enrolled death in Noller 2018 honestly. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Noller 2018 is oral observational NZ literature—not psychoactive IV ibogaine proof.
 
@@ -10386,11 +10386,11 @@ Noller 2018 is oral observational NZ literature—not psychoactive IV ibogaine p
     content: `
 ## Definition box
 
-**Definition:** **Mash, Duque, Page & Allen-Ferdinand (2018)** in *Frontiers in Pharmacology* (doi: **10.3389/fphar.2018.00529**) is an **open-label case series** of **N=191** human volunteers seeking inpatient medical detoxification from **opioids or cocaine** with **oral ibogaine HCl**. Authors reported diminished opioid withdrawal symptoms, reduced heroin and cocaine craving on multi-dimensional questionnaires, mood improvements at discharge, and reviewed one-month follow-up craving data where available, alongside pharmacokinetic blood assays and adverse-event observation in a medically monitored inpatient setting. This is **not** a randomized controlled trial, **not** FDA approval evidence, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). The paper itself supports product-development interest in **single oral dose** ibogaine for opioid withdrawal—not IV psychoactive branding. Cardiac QTc risk remains central across the broader literature. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Mash, Duque, Page & Allen-Ferdinand (2018)** in *Frontiers in Pharmacology* (doi: **10.3389/fphar.2018.00529**) is an **open-label case series** of **N=191** human volunteers seeking inpatient medical detoxification from **opioids or cocaine** with **oral ibogaine HCl**. Authors reported diminished opioid withdrawal symptoms, reduced heroin and cocaine craving on multi-dimensional questionnaires, mood improvements at discharge, and reviewed one-month follow-up craving data where available, alongside pharmacokinetic blood assays and adverse-event observation in a medically monitored inpatient setting. This is **not** a randomized controlled trial, **not** regulatory approval evidence, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). The paper itself supports product-development interest in **single oral dose** ibogaine for opioid withdrawal—not IV psychoactive branding. Cardiac QTc risk remains central across the broader literature. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (58 words)
 
-Mash and colleagues’ 2018 Frontiers open-label series of 191 people found oral ibogaine associated with reduced opioid withdrawal and heroin/cocaine craving under inpatient monitoring—not an RCT and not evidence for psychoactive IV ibogaine infusion. Authors framed oral single-dose product development. Cardiac QTc risk still matters. Ibogaine is not FDA-approved.
+Mash and colleagues’ 2018 Frontiers open-label series of 191 people found oral ibogaine associated with reduced opioid withdrawal and heroin/cocaine craving under inpatient monitoring—not an RCT and not evidence for psychoactive IV ibogaine infusion. Authors framed oral single-dose product development. Cardiac QTc risk still matters. Ibogaine is not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -10411,7 +10411,7 @@ Addiction hub: /ibogaine-for-addiction · /blog/ibogaine-for-cocaine-stimulants 
 | Psychoactive route | **Oral** ibogaine HCl (authors discuss effective oral dose ranges for blocking opioid withdrawal; commonly summarized around **8–12 mg/kg** in secondary clinical discussions of this series) |
 | Measures | Opioid withdrawal symptoms; multi-dimensional craving questionnaires (heroin & cocaine); standardized health/mood questionnaires; PK blood assays; AE review |
 | Follow-up | Program discharge assessments; **one-month** craving follow-up where available |
-| What it is not | Placebo-controlled RCT; IV-psychoactive ibogaine proof; FDA approval package; population cure-rate certificate |
+| What it is not | Placebo-controlled RCT; IV-psychoactive ibogaine proof; regulatory approval package; population cure-rate certificate |
 
 Open the primary paper (PMC5996271) for exact instruments, PK tables, AE definitions, and limitation language.
 
@@ -10480,10 +10480,10 @@ Systematic reviews (Köck 2022; Mosca 2023) flag cardiotoxicity and mortality al
 | “N=191 proves IV ibogaine detox” | **False** — oral open-label series |
 | “Clinically proven cure for opioids and cocaine” | **False** — not an RCT; no cure claims appropriate |
 | “Safe because authors reported no significant AEs in-range” | **Incomplete** — series observation ≠ global cardiac clearance |
-| “FDA-cleared detox product” | **False** — Schedule I; not FDA-approved |
+| “regulator-cleared detox product” | **False** — Schedule I; not approved for any indication |
 | Cite as adjacent large oral series with labels? | **Yes** — if design/route/N labeled |
 
-U.S. access remains Schedule I / not FDA (/blog/is-ibogaine-legal-us, /blog/ibogaine-mexico-medical-vs-tourism).
+U.S. access remains Schedule I / not approved (/blog/is-ibogaine-legal-us, /blog/medical-ibogaine-programs-vs-tourism).
 
 
 ## Soft CTA
@@ -10514,13 +10514,13 @@ No. Route was oral; design was open-label.
 ### Are cardiac risks irrelevant because AEs were limited in-series?
 No. Broader QTc/fatality literature still applies (/safety-and-screening).
 
-### Is ibogaine FDA-approved?
-No. Schedule I in the U.S.; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I in the U.S.; not approved for any indication.
 
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Mash 2018 is oral open-label detox literature—not psychoactive IV ibogaine proof.
 
@@ -10546,11 +10546,11 @@ Mash 2018 is oral open-label detox literature—not psychoactive IV ibogaine pro
     content: `
 ## Definition box
 
-**Definition:** **Glue et al. (2016)** in *Clinical Pharmacology in Drug Development* (doi: **10.1002/cpdd.254**) is a randomized, **double-blind, placebo-controlled**, single ascending-dose Phase 1 safety study of **oral noribogaine**—ibogaine’s primary active metabolite—in **n=27** opioid-dependent patients established on methadone opioid substitution therapy (OST), switched to morphine the prior week, and seeking to discontinue OST. Noribogaine doses were **60, 120, or 180 mg** (n=6/dose) or matching placebo (n=3/dose level). Authors reported dose-linear PK, mean t½ about **24–30 hours**, concentration-dependent **QTcI** increase (**0.17 ms/ng/mL**), with largest observed mean QTcI effects of about **16, 28, and 42 ms** at 60/120/180 mg, and a non-significant trend toward lower opioid-withdrawal ratings (most notable at 120 mg). This is **noribogaine**, **not** psychoactive **IV ibogaine infusion**, and **not** FDA approval of either. Cardiac risk remains central. Ibogaine (and related development compounds) sit in a U.S. controlled-substance / non-approval landscape; ibogaine itself is Schedule I and not FDA-approved.
+**Definition:** **Glue et al. (2016)** in *Clinical Pharmacology in Drug Development* (doi: **10.1002/cpdd.254**) is a randomized, **double-blind, placebo-controlled**, single ascending-dose Phase 1 safety study of **oral noribogaine**—ibogaine’s primary active metabolite—in **n=27** opioid-dependent patients established on methadone opioid substitution therapy (OST), switched to morphine the prior week, and seeking to discontinue OST. Noribogaine doses were **60, 120, or 180 mg** (n=6/dose) or matching placebo (n=3/dose level). Authors reported dose-linear PK, mean t½ about **24–30 hours**, concentration-dependent **QTcI** increase (**0.17 ms/ng/mL**), with largest observed mean QTcI effects of about **16, 28, and 42 ms** at 60/120/180 mg, and a non-significant trend toward lower opioid-withdrawal ratings (most notable at 120 mg). This is **noribogaine**, **not** psychoactive **IV ibogaine infusion**, and **not** regulatory approval of either. Cardiac risk remains central. Ibogaine (and related development compounds) sit in a U.S. controlled-substance / non-approval landscape; ibogaine itself is Schedule I and not approved for any indication.
 
 ## Quotable answer (57 words)
 
-Glue and colleagues’ 2016 double-blind Phase 1 study of oral noribogaine in 27 opioid-dependent patients found dose-related QTc prolongation (about 16–42 ms mean by dose) and only a non-significant withdrawal-score trend—not proof of psychoactive IV ibogaine infusion. Noribogaine is a metabolite, not the brand IV entity. Cardiac monitoring still matters. Not FDA-approved.
+Glue and colleagues’ 2016 double-blind Phase 1 study of oral noribogaine in 27 opioid-dependent patients found dose-related QTc prolongation (about 16–42 ms mean by dose) and only a non-significant withdrawal-score trend—not proof of psychoactive IV ibogaine infusion. Noribogaine is a metabolite, not the brand IV entity. Cardiac monitoring still matters. not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -10572,7 +10572,7 @@ Related: /blog/noribogaine-explained · /blog/noribogaine-trials-vs-iv-infusion 
 | Doses | **60 / 120 / 180 mg** (n=6 each) vs placebo (n=3/level) |
 | Key safety signal | Concentration-dependent **QTcI** prolongation |
 | Efficacy signal | Non-statistically significant trend toward lower withdrawal ratings |
-| What it is not | Ibogaine flood RCT; IV psychoactive ibogaine proof; FDA approval |
+| What it is not | Ibogaine flood RCT; IV psychoactive ibogaine proof; regulatory approval |
 
 
 ## Methods (plain language)
@@ -10631,7 +10631,7 @@ Marketing that says “noribogaine Phase 1 proved our IV ibogaine protocol” is
 
 Glue 2016 shows **dose-related QTc prolongation even for noribogaine** at relatively modest milligram doses versus typical oral ibogaine flood milligram-per-kilogram regimens. Knuijver 2021 later documented much larger mean QTc shifts after oral ibogaine **10 mg/kg**. Together they reinforce: cardiac screening, electrolyte management, and continuous monitoring are structural requirements—not marketing optional extras (/safety-and-screening, /blog/knuijver-2021-ibogaine-qtc-safety).
 
-Ibogaine remains U.S. Schedule I and not FDA-approved. Noribogaine development programs (when real) are separate regulatory pathways and still not a brand license to skip screening.
+Ibogaine remains U.S. Schedule I and not approved for any indication. Noribogaine development programs (when real) are separate regulatory pathways and still not a brand license to skip screening.
 
 
 ## What this does NOT prove for IV ibogaine infusion brand
@@ -10641,7 +10641,7 @@ Ibogaine remains U.S. Schedule I and not FDA-approved. Noribogaine development p
 | “DBPC proved IV ibogaine works” | **False** — oral noribogaine Phase 1 |
 | “Noribogaine = ibogaine flood = IV brand” | **False** — molecule/route mismatch |
 | “No cardiac issue because well tolerated” | **False** — dose-related QTcI rise documented |
-| “FDA-approved detox metabolite” | **False** — not an approval of ibogaine or brand IV |
+| “approved detox metabolite” | **False** — not an approval of ibogaine or brand IV |
 | Cite as adjacent metabolite safety literature? | **Yes** — with molecule/route/QTc labels |
 
 
@@ -10670,8 +10670,8 @@ No. Molecule was noribogaine; route was oral; design was Phase 1 safety—not IV
 ### Why does this paper matter for patients?
 It is one of the clearer controlled human cardiac-signal datasets in the iboga alkaloid family—useful for risk literacy.
 
-### Is ibogaine FDA-approved?
-No. Schedule I in the U.S.; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I in the U.S.; not approved for any indication.
 
 ### Where else should I read?
 /blog/noribogaine-explained, /blog/knuijver-2021-ibogaine-qtc-safety, /blog/mosca-2023-ibogaine-sud-review.
@@ -10679,7 +10679,7 @@ No. Schedule I in the U.S.; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine and noribogaine can affect cardiac repolarization (QTc). Serious cardiac events including torsades de pointes and death have been associated with ibogaine in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine and noribogaine can affect cardiac repolarization (QTc). Serious cardiac events including torsades de pointes and death have been associated with ibogaine in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Glue 2016 is oral noribogaine Phase 1 literature—not psychoactive IV ibogaine proof.
 
@@ -10704,7 +10704,7 @@ Glue 2016 is oral noribogaine Phase 1 literature—not psychoactive IV ibogaine 
     content: `
 ## Definition box
 
-**Definition:** **Knuijver et al. (2021)** in *Addiction* (doi: **10.1111/add.15448**; PMID **33620733**) is a descriptive **open-label observational** safety study of a single **oral ibogaine HCl 10 mg/kg** dose in **n=14** opioid-dependent patients in a Dutch university medical center after conversion to morphine sulfate. Mean maximum QTc (Fridericia) prolongation was about **+95 ms** (range ~29–146 ms); **50%** of subjects reached QTc **>500 ms**; severe transient **ataxia** occurred in all; **no torsades de pointes** were observed in this small sample. This is critical cardiac teaching—and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Absence of TdP in n=14 does not equal cardiac safety. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Knuijver et al. (2021)** in *Addiction* (doi: **10.1111/add.15448**; PMID **33620733**) is a descriptive **open-label observational** safety study of a single **oral ibogaine HCl 10 mg/kg** dose in **n=14** opioid-dependent patients in a Dutch university medical center after conversion to morphine sulfate. Mean maximum QTc (Fridericia) prolongation was about **+95 ms** (range ~29–146 ms); **50%** of subjects reached QTc **>500 ms**; severe transient **ataxia** occurred in all; **no torsades de pointes** were observed in this small sample. This is critical cardiac teaching—and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Absence of TdP in n=14 does not equal cardiac safety. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (57 words)
 
@@ -10783,7 +10783,7 @@ QTc >500 ms is a conventional red-flag threshold for TdP risk discussions. A stu
 | “10 mg/kg is a consumer DIY dose” | **False** — research context; illegal/unapproved in U.S. |
 | Cite as oral cardiac risk literature? | **Yes** — primary teaching paper |
 
-U.S. Schedule I / not FDA. Provisional Mexico ≠ FDA clinic (/blog/is-ibogaine-legal-us).
+U.S. Schedule I / not approved. Treatment location shared after screening ≠ approved U.S. clinic (/blog/is-ibogaine-legal-us).
 
 
 ## How to interpret “no TdP observed” without false reassurance
@@ -10837,13 +10837,13 @@ No. It is oral safety description, not an IV efficacy RCT.
 ### Should I still get screening?
 Yes—non-negotiable (/safety-and-screening).
 
-### Is ibogaine FDA-approved?
-No. Schedule I in the U.S.; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I in the U.S.; not approved for any indication.
 
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Knuijver 2021 is oral QTc/ataxia safety literature—not psychoactive IV ibogaine proof.
 
@@ -10867,7 +10867,7 @@ Knuijver 2021 is oral QTc/ataxia safety literature—not psychoactive IV ibogain
     content: `
 ## Definition box
 
-**Definition:** **Köck et al. (2022)** in the *Journal of Substance Abuse Treatment* (doi: **10.1016/j.jsat.2021.108717**) is a **PRISMA-style systematic review** of clinical data on ibogaine/noribogaine through December 7, 2020. Authors included **24 studies** covering **705 individuals**, spanning only a handful of controlled trials plus many open-label series, case reports, and one survey. They report signals for reduced withdrawal and craving—and document **severe complications and deaths** tied to neuro-/cardiotoxic concerns, including fatalities described within included studies. This review synthesizes mostly **oral** literature and is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). RCTs remain scarce. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Köck et al. (2022)** in the *Journal of Substance Abuse Treatment* (doi: **10.1016/j.jsat.2021.108717**) is a **PRISMA-style systematic review** of clinical data on ibogaine/noribogaine through December 7, 2020. Authors included **24 studies** covering **705 individuals**, spanning only a handful of controlled trials plus many open-label series, case reports, and one survey. They report signals for reduced withdrawal and craving—and document **severe complications and deaths** tied to neuro-/cardiotoxic concerns, including fatalities described within included studies. This review synthesizes mostly **oral** literature and is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). RCTs remain scarce. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (55 words)
 
@@ -10937,11 +10937,11 @@ The review’s insistence on cardiotoxicity and deaths aligns with primary safet
 | Claim | Status |
 |-------|--------|
 | “705 patients prove IV brand” | **False** — mixed designs; mostly non-IV; not brand RCT |
-| “Systematic review = FDA approval” | **False** |
+| “Systematic review = regulatory approval” | **False** |
 | “Deaths were only in bad clinics so ignore” | **False** — review still flags cardiotoxicity |
 | Cite as field map with harm/benefit balance? | **Yes** |
 
-U.S. Schedule I / not FDA. Provisional Mexico ≠ FDA (/blog/is-ibogaine-legal-us).
+U.S. Schedule I / not approved. Treatment location shared after screening ≠ regulators (/blog/is-ibogaine-legal-us).
 
 
 ## How clinicians and families should use a systematic review
@@ -10992,8 +10992,8 @@ No. Synthesis ≠ IV psychoactive RCT.
 ### Are medical settings optional?
 Authors argue rigorous medical settings are necessary for safer application and monitoring.
 
-### Is ibogaine FDA-approved?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I; not approved for any indication.
 
 ### Related review?
 /blog/mosca-2023-ibogaine-sud-review.
@@ -11001,7 +11001,7 @@ No. Schedule I; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Köck 2022 is a systematic synthesis of mostly non-IV literature—not psychoactive IV ibogaine proof.
 
@@ -11026,11 +11026,11 @@ Köck 2022 is a systematic synthesis of mostly non-IV literature—not psychoact
     content: `
 ## Definition box
 
-**Definition:** **Mosca et al. (2023)** in *Current Neuropharmacology* (doi: **10.2174/1570159X21666221017085612**; PMID **36263479**; PMC **PMC10556383**) is a **PROSPERO-registered systematic review** (CRD42021287034) of ibogaine/noribogaine in substance use disorders. From searches through 29 Nov 2021, authors selected **31 articles** for qualitative synthesis and examined limited controlled data quantitatively (including a side-effect meta-analytic signal for **headache**). They conclude there are **some efficacy signals** for SUD applications alongside **worrying cardiotoxicity and mortality**, with a clear need for further rigorous studies. This review is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Most underlying clinical literature remains oral/observational. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Mosca et al. (2023)** in *Current Neuropharmacology* (doi: **10.2174/1570159X21666221017085612**; PMID **36263479**; PMC **PMC10556383**) is a **PROSPERO-registered systematic review** (CRD42021287034) of ibogaine/noribogaine in substance use disorders. From searches through 29 Nov 2021, authors selected **31 articles** for qualitative synthesis and examined limited controlled data quantitatively (including a side-effect meta-analytic signal for **headache**). They conclude there are **some efficacy signals** for SUD applications alongside **worrying cardiotoxicity and mortality**, with a clear need for further rigorous studies. This review is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Most underlying clinical literature remains oral/observational. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (54 words)
 
-Mosca and colleagues’ 2023 Current Neuropharmacology systematic review found some substance-use efficacy signals for ibogaine/noribogaine but emphasized cardiotoxicity, mortality, and limited RCTs. It does not validate psychoactive IV ibogaine infusion. Cardiac screening and medical monitoring remain essential. Ibogaine is not an FDA-approved cure.
+Mosca and colleagues’ 2023 Current Neuropharmacology systematic review found some substance-use efficacy signals for ibogaine/noribogaine but emphasized cardiotoxicity, mortality, and limited RCTs. It does not validate psychoactive IV ibogaine infusion. Cardiac screening and medical monitoring remain essential. Ibogaine is not an approved cure.
 
 
 ## Why this paper-spoke exists
@@ -11106,7 +11106,7 @@ Headache meta-signals matter for tolerability counseling; they do not outrank ar
 | “Noribogaine section unlocks U.S. IV access” | **False** |
 | Cite as balanced field review? | **Yes** — with route and RCT limits labeled |
 
-U.S. Schedule I / not FDA. Provisional Mexico programs ≠ FDA clinics (/blog/ibogaine-mexico-medical-vs-tourism).
+U.S. Schedule I / not approved. Programs discussed on this site ≠ approved U.S. clinics (/blog/medical-ibogaine-programs-vs-tourism).
 
 
 ## Reading Mosca next to Köck (and why both spokes exist)
@@ -11130,7 +11130,7 @@ Limited RCTs means:
 - Observational detox stories (Mash, Brown & Alper, Noller) remain informative but confounded.  
 - Cardiac screening is not optional “red tape.”  
 - U.S. Schedule I / non-approval status is unchanged by review articles.  
-- Provisional Mexico programs, if discussed, are not FDA equivalents (/blog/ibogaine-mexico-medical-vs-tourism).
+- programs discussed on this site, if discussed, are not approved U.S. clinic equivalents (/blog/medical-ibogaine-programs-vs-tourism).
 
 Hope and humility can coexist; cure ads cannot.
 
@@ -11139,7 +11139,7 @@ Hope and humility can coexist; cure ads cannot.
 1. Does the clinic disclose cardiac deaths and QTc monitoring plans, or only success anecdotes?  
 2. Are they citing oral observational series as if they were IV RCTs?  
 3. Is noribogaine trial news being sold as parent IV access?  
-4. Is U.S. Schedule I / non-FDA status stated clearly?  
+4. Is U.S. Schedule I / non-approved status stated clearly?  
 5. Is the next step screening (/safety-and-screening) rather than pressure to wire a deposit?
 
 Those questions operationalize Mosca’s “further studies needed” conclusion for real families.
@@ -11169,8 +11169,8 @@ No.
 ### Why mention headache?
 A meta-analytic side-effect signal; still secondary to cardiac risk teaching.
 
-### Is ibogaine FDA-approved?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I; not approved for any indication.
 
 ### Related synthesis?
 /blog/kock-2022-ibogaine-systematic-review.
@@ -11178,7 +11178,7 @@ No. Schedule I; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Mosca 2023 is a systematic review of mixed-route literature with limited RCTs—not psychoactive IV ibogaine proof.
 
@@ -11203,11 +11203,11 @@ Mosca 2023 is a systematic review of mixed-route literature with limited RCTs—
     content: `
 ## Definition box
 
-**Definition:** **Knuijver et al. (2024)** in the *Journal of Psychopharmacology* (doi: **10.1177/02698811241237873**; PMID **38519421**) is an open-label **pharmacokinetics/pharmacodynamics (PK/PD)** analysis of a single **oral ibogaine HCl 10 mg/kg** dose in **n=14** opioid use disorder (OUD) patients—the same Dutch university cohort described in the 2021 *Addiction* safety paper. Authors show **highly variable** ibogaine clearance strongly linked to **CYP2D6 activity score**, model QTc prolongation with a sigmoid Emax relationship to **ibogaine** (not noribogaine) plasma concentrations, and conclude that future work should explore **lower doses** and/or **CYP2D6-individualized** dosing. This is oral PK/PD teaching—**not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Knuijver et al. (2024)** in the *Journal of Psychopharmacology* (doi: **10.1177/02698811241237873**; PMID **38519421**) is an open-label **pharmacokinetics/pharmacodynamics (PK/PD)** analysis of a single **oral ibogaine HCl 10 mg/kg** dose in **n=14** opioid use disorder (OUD) patients—the same Dutch university cohort described in the 2021 *Addiction* safety paper. Authors show **highly variable** ibogaine clearance strongly linked to **CYP2D6 activity score**, model QTc prolongation with a sigmoid Emax relationship to **ibogaine** (not noribogaine) plasma concentrations, and conclude that future work should explore **lower doses** and/or **CYP2D6-individualized** dosing. This is oral PK/PD teaching—**not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (58 words)
 
-Knuijver and colleagues’ 2024 Journal of Psychopharmacology study of oral ibogaine 10 mg/kg in 14 OUD patients found clearance strongly tied to CYP2D6 genotype and QTc effects driven mainly by ibogaine concentration, not noribogaine. It does not prove psychoactive IV ibogaine infusion. Cardiac screening and monitoring remain essential. Not FDA-approved.
+Knuijver and colleagues’ 2024 Journal of Psychopharmacology study of oral ibogaine 10 mg/kg in 14 OUD patients found clearance strongly tied to CYP2D6 genotype and QTc effects driven mainly by ibogaine concentration, not noribogaine. It does not prove psychoactive IV ibogaine infusion. Cardiac screening and monitoring remain essential. not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -11287,7 +11287,7 @@ Poor metabolizers and people on strong CYP2D6 inhibitors are higher-risk exposur
 | “Oral PK proves IV brand efficacy” | **False** |
 | Cite as oral exposure–QTc teaching? | **Yes** |
 
-U.S. Schedule I / not FDA. Provisional Mexico ≠ FDA clinic (/blog/is-ibogaine-legal-us).
+U.S. Schedule I / not approved. Treatment location shared after screening ≠ approved U.S. clinic (/blog/is-ibogaine-legal-us).
 
 
 ## How families should use CYP2D6 teaching without false reassurance
@@ -11336,13 +11336,13 @@ Discuss genetics, interactions, and monitoring with physicians; do not self-dose
 ### Did withdrawal severity track plasma levels?
 Not in the reported correlations for this sample.
 
-### Is ibogaine FDA-approved?
-No. Schedule I in the U.S.; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I in the U.S.; not approved for any indication.
 
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Knuijver 2024 is oral PK/PD literature—not psychoactive IV ibogaine proof.
 
@@ -11366,11 +11366,11 @@ Knuijver 2024 is oral PK/PD literature—not psychoactive IV ibogaine proof.
     content: `
 ## Definition box
 
-**Definition:** **Kervadec et al. (2026)** in the *Journal of Clinical Psychopharmacology* (doi: **10.1097/jcp.0000000000002197**) is a **narrative review** of human clinical literature on ibogaine/noribogaine from **1990 through February 2025**. Authors include **24 studies** and **38 case reports/series**, conclude that **current evidence is insufficient to support clinical use**, note that **no double-blind RCT** has demonstrated efficacy for opioid use disorder (OUD), highlight **high risk of bias** in many positive observational reports, and emphasize **cardiotoxicity from QT prolongation** as a considerable risk given unproven efficacy. This synthesis is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Most underlying clinical literature remains oral/observational. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Kervadec et al. (2026)** in the *Journal of Clinical Psychopharmacology* (doi: **10.1097/jcp.0000000000002197**) is a **narrative review** of human clinical literature on ibogaine/noribogaine from **1990 through February 2025**. Authors include **24 studies** and **38 case reports/series**, conclude that **current evidence is insufficient to support clinical use**, note that **no double-blind RCT** has demonstrated efficacy for opioid use disorder (OUD), highlight **high risk of bias** in many positive observational reports, and emphasize **cardiotoxicity from QT prolongation** as a considerable risk given unproven efficacy. This synthesis is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Most underlying clinical literature remains oral/observational. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (56 words)
 
-Kervadec and colleagues’ 2026 Journal of Clinical Psychopharmacology narrative review of thirty years of human ibogaine research found insufficient evidence for clinical use, no double-blind RCT proving OUD efficacy, and serious QT-related cardiotoxicity risk. It does not validate psychoactive IV ibogaine infusion. Cardiac screening remains essential. Not FDA-approved.
+Kervadec and colleagues’ 2026 Journal of Clinical Psychopharmacology narrative review of thirty years of human ibogaine research found insufficient evidence for clinical use, no double-blind RCT proving OUD efficacy, and serious QT-related cardiotoxicity risk. It does not validate psychoactive IV ibogaine infusion. Cardiac screening remains essential. not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -11444,10 +11444,10 @@ Unproven efficacy + documented cardiac risk is exactly why soft CTAs go **screen
 |-------|--------|
 | “30 years proves it works” | **False** — authors say evidence insufficient for clinical use |
 | “No OUD DB RCT = ignore cardiac risk” | **False** — risk still real |
-| “Narrative review = FDA approval” | **False** |
+| “Narrative review = regulatory approval” | **False** |
 | Cite as cautious field synthesis? | **Yes** |
 
-U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us).
+U.S. Schedule I / not approved (/blog/is-ibogaine-legal-us).
 
 
 ## How to read “exploratory PTSD/OUD signals” without cure ads
@@ -11494,7 +11494,7 @@ Serious cardiac AEs, especially QT-related cardiotoxicity, are central given unp
 ### Is observational PTSD benefit “proof”?
 No—review frames such signals as exploratory.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I in the U.S.
 
 ### Where should families start?
@@ -11503,7 +11503,7 @@ No. Schedule I in the U.S.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Kervadec 2026 is a cautious narrative synthesis—not psychoactive IV ibogaine proof and not a cure claim.
 
@@ -11527,11 +11527,11 @@ Kervadec 2026 is a cautious narrative synthesis—not psychoactive IV ibogaine p
     content: `
 ## Definition box
 
-**Definition:** **Belgers et al. (2016)** in *Translational Psychiatry* (doi: **10.1038/tp.2016.71**; article e826) is a **PRECLINICAL / ANIMAL** systematic review and meta-analysis of ibogaine in laboratory models of substance use disorders. Meta-analysis of **27 animal studies** found reduced **drug self-administration** (especially in the first 24 hours) but **no effect** on drug-induced conditioned place preference; animal dosing also produced **motor impairment** early after administration and **cerebral/cerebellar cell loss** detectable weeks later. Cardiac-rhythm animal data were limited. **This paper is NOT human efficacy proof** and is **NOT** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Animal signals can motivate human trials; they cannot replace them. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Belgers et al. (2016)** in *Translational Psychiatry* (doi: **10.1038/tp.2016.71**; article e826) is a **PRECLINICAL / ANIMAL** systematic review and meta-analysis of ibogaine in laboratory models of substance use disorders. Meta-analysis of **27 animal studies** found reduced **drug self-administration** (especially in the first 24 hours) but **no effect** on drug-induced conditioned place preference; animal dosing also produced **motor impairment** early after administration and **cerebral/cerebellar cell loss** detectable weeks later. Cardiac-rhythm animal data were limited. **This paper is NOT human efficacy proof** and is **NOT** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Animal signals can motivate human trials; they cannot replace them. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (57 words)
 
-Belgers and colleagues’ 2016 Translational Psychiatry meta-analysis of 27 animal studies found ibogaine reduced drug self-administration but caused motor impairment and longer-term cerebellar cell loss in animals. It is preclinical evidence only—not human cure proof and not validation of psychoactive IV ibogaine infusion. Human cardiac screening remains essential. Not FDA-approved.
+Belgers and colleagues’ 2016 Translational Psychiatry meta-analysis of 27 animal studies found ibogaine reduced drug self-administration but caused motor impairment and longer-term cerebellar cell loss in animals. It is preclinical evidence only—not human cure proof and not validation of psychoactive IV ibogaine infusion. Human cardiac screening remains essential. not approved for any indication.
 
 
 ## Labeling rule (read this first)
@@ -11613,7 +11613,7 @@ Even though Belgers’ cardiac animal data were limited, human literature later 
 | “Cerebellar cell loss is irrelevant to humans” | **Unsupported leap** — reason for caution, not dismissal |
 | Cite as preclinical mechanism/efficacy map? | **Yes** — with species label |
 
-U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us).
+U.S. Schedule I / not approved (/blog/is-ibogaine-legal-us).
 
 
 ## How clinicians and families should use animal meta-analyses
@@ -11661,13 +11661,13 @@ To stop preclinical-to-marketing laundering and keep toxicity labels visible.
 ### Should families still care about human QTc?
 Yes—human cardiac literature is mandatory (/safety-and-screening).
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I in the U.S.
 
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 **Belgers 2016 is PRECLINICAL/ANIMAL literature—not human efficacy proof and not psychoactive IV ibogaine proof.**
 
@@ -11691,11 +11691,11 @@ Educational research synopsis only—not medical, psychiatric, or legal advice, 
     content: `
 ## Definition box
 
-**Definition:** **Ona et al. (2022)** in *Psychopharmacology* (doi: **10.1007/s00213-021-05964-y**; PMID **34406452**; e-pub 2021) is a **PRISMA systematic review** updating human **adverse events and fatalities** associated with ibogaine/noribogaine for **2015–2020**. Authors included **18 studies**, found highly heterogeneous products and dosages, and classified AEs into **acute (<24 h)** effects—mainly **cardiac** (most commonly **QTc prolongation**), gastrointestinal, neurological, and clinical alterations—and **longer-lasting (>24 h)** effects including persistent cardiac, psychiatric, and neurological signs. They call for Phase I trials with standardized products, vulnerable-population profiling, and better screening/clinical procedures. This AE map is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Causation is often hard to prove from case reports. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Ona et al. (2022)** in *Psychopharmacology* (doi: **10.1007/s00213-021-05964-y**; PMID **34406452**; e-pub 2021) is a **PRISMA systematic review** updating human **adverse events and fatalities** associated with ibogaine/noribogaine for **2015–2020**. Authors included **18 studies**, found highly heterogeneous products and dosages, and classified AEs into **acute (<24 h)** effects—mainly **cardiac** (most commonly **QTc prolongation**), gastrointestinal, neurological, and clinical alterations—and **longer-lasting (>24 h)** effects including persistent cardiac, psychiatric, and neurological signs. They call for Phase I trials with standardized products, vulnerable-population profiling, and better screening/clinical procedures. This AE map is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Causation is often hard to prove from case reports. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (55 words)
 
-Ona and colleagues’ 2022 Psychopharmacology systematic review of eighteen 2015–2020 studies mapped acute ibogaine adverse events—especially QTc prolongation—plus longer-lasting cardiac, psychiatric, and neurological problems. Heterogeneous products limit certainty. It does not prove psychoactive IV ibogaine infusion. Screening and medical monitoring remain essential. Not FDA-approved.
+Ona and colleagues’ 2022 Psychopharmacology systematic review of eighteen 2015–2020 studies mapped acute ibogaine adverse events—especially QTc prolongation—plus longer-lasting cardiac, psychiatric, and neurological problems. Heterogeneous products limit certainty. It does not prove psychoactive IV ibogaine infusion. Screening and medical monitoring remain essential. not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -11771,7 +11771,7 @@ Families comparing clinics should treat missing telemetry as a walk-away criteri
 | “Standardized product alone erases QTc” | **False** — still need monitoring |
 | Cite as harm inventory with screening implications? | **Yes** |
 
-U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us).
+U.S. Schedule I / not approved (/blog/is-ibogaine-legal-us).
 
 
 ## Practical checklist derived from AE-review themes
@@ -11812,13 +11812,13 @@ Yes—non-negotiable (/safety-and-screening).
 ### Is product heterogeneity a real problem?
 Yes—authors highlight highly heterogeneous products and dosages.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I in the U.S.
 
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Ona 2022 is human AE literature synthesis—not psychoactive IV ibogaine efficacy proof.
 
@@ -11842,11 +11842,11 @@ Ona 2022 is human AE literature synthesis—not psychoactive IV ibogaine efficac
     content: `
 ## Definition box
 
-**Definition:** **Rocha et al. (2023)** in *European Archives of Psychiatry and Clinical Neuroscience* (doi: **10.1007/s00406-023-01590-1**; PMID **36947216**) is a **PRISMA systematic review** titled *Identifying setting factors associated with improved ibogaine safety: a systematic review of clinical studies*. Searching through **17 November 2022**, authors synthesized **12 sources** on clinical ibogaine use with attention to **administration settings**, adverse effects, and participant screening. They conclude that **controlled settings** supported by **trained professionals** and equipment enabling rigorous **medical, psychiatric, and cardiac monitoring** are essential to promote safety. This setting-factors map is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy. Evidence of anti-addictive benefit remains preliminary. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Rocha et al. (2023)** in *European Archives of Psychiatry and Clinical Neuroscience* (doi: **10.1007/s00406-023-01590-1**; PMID **36947216**) is a **PRISMA systematic review** titled *Identifying setting factors associated with improved ibogaine safety: a systematic review of clinical studies*. Searching through **17 November 2022**, authors synthesized **12 sources** on clinical ibogaine use with attention to **administration settings**, adverse effects, and participant screening. They conclude that **controlled settings** supported by **trained professionals** and equipment enabling rigorous **medical, psychiatric, and cardiac monitoring** are essential to promote safety. This setting-factors map is **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy. Evidence of anti-addictive benefit remains preliminary. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (54 words)
 
-Rocha and colleagues’ 2023 systematic review of twelve clinical sources found that controlled medical settings with trained staff and rigorous cardiac, psychiatric, and medical monitoring are essential for safer ibogaine use. It does not prove psychoactive IV ibogaine infusion efficacy. Screening first. Not FDA-approved.
+Rocha and colleagues’ 2023 systematic review of twelve clinical sources found that controlled medical settings with trained staff and rigorous cardiac, psychiatric, and medical monitoring are essential for safer ibogaine use. It does not prove psychoactive IV ibogaine infusion efficacy. Screening first. not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -11939,7 +11939,7 @@ More red flags: /blog/cheap-ibogaine-clinic-red-flags, /blog/how-to-choose-an-ib
 | “Review proves IV brand superior” | **False** |
 | Cite as medical-setting requirement map? | **Yes** |
 
-U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us).
+U.S. Schedule I / not approved (/blog/is-ibogaine-legal-us).
 
 
 ## Soft CTA
@@ -11970,13 +11970,13 @@ Yes (/blog/ibogaine-telemetry-acls-monitoring).
 ### Where should screening start?
 /safety-and-screening.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I in the U.S.
 
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Rocha 2023 is setting-safety literature—not psychoactive IV ibogaine efficacy proof.
 
@@ -12000,11 +12000,11 @@ Rocha 2023 is setting-safety literature—not psychoactive IV ibogaine efficacy 
     content: `
 ## Definition box
 
-**Definition:** **Brunt (2026)** in *Addiction* (doi: **10.1111/add.70319**; PMID **41560340**) is a “**Rare but relevant**” review/teaching article on **ibogaine cardiovascular complications**—specifically **prolonged QT/QTc** and **ventricular arrhythmias** including **Torsades de Pointes (TdP)**. It explains hERG (and related) channel mechanisms, notes that events can occur at **therapeutic doses** and even without known pre-existing cardiac disease, highlights **CYP2D6** interindividual variability as a risk amplifier, and argues future ibogaine-assisted treatment should occur **only under controlled medical supervision** with genotyping considerations and rigorous cardiovascular monitoring. This is cardiac YMYL teaching—**not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Brunt (2026)** in *Addiction* (doi: **10.1111/add.70319**; PMID **41560340**) is a “**Rare but relevant**” review/teaching article on **ibogaine cardiovascular complications**—specifically **prolonged QT/QTc** and **ventricular arrhythmias** including **Torsades de Pointes (TdP)**. It explains hERG (and related) channel mechanisms, notes that events can occur at **therapeutic doses** and even without known pre-existing cardiac disease, highlights **CYP2D6** interindividual variability as a risk amplifier, and argues future ibogaine-assisted treatment should occur **only under controlled medical supervision** with genotyping considerations and rigorous cardiovascular monitoring. This is cardiac YMYL teaching—**not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (58 words)
 
-Brunt’s 2026 Addiction review explains that ibogaine can prolong QTc and trigger ventricular arrhythmias, including torsades, even at therapeutic doses. CYP2D6 variability may raise risk in some people. Medical supervision and cardiac monitoring are mandatory. The article does not prove psychoactive IV ibogaine infusion efficacy. Ibogaine is not FDA-approved.
+Brunt’s 2026 Addiction review explains that ibogaine can prolong QTc and trigger ventricular arrhythmias, including torsades, even at therapeutic doses. CYP2D6 variability may raise risk in some people. Medical supervision and cardiac monitoring are mandatory. The article does not prove psychoactive IV ibogaine infusion efficacy. Ibogaine is not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -12082,7 +12082,7 @@ Deep dives: /blog/knuijver-2021-ibogaine-qtc-safety, /blog/knuijver-2024-ibogain
 | “Review proves efficacy” | **False** — cardiac teaching paper |
 | Cite as QTc/VT mechanism + monitoring mandate? | **Yes** |
 
-U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us).
+U.S. Schedule I / not approved (/blog/is-ibogaine-legal-us).
 
 
 ## Soft CTA
@@ -12113,13 +12113,13 @@ Author argues future treatment should be exclusively under controlled medical su
 ### Where should families start?
 /safety-and-screening.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I in the U.S.
 
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Brunt 2026 is cardiovascular complication teaching—not psychoactive IV ibogaine efficacy proof.
 
@@ -12143,11 +12143,11 @@ Brunt 2026 is cardiovascular complication teaching—not psychoactive IV ibogain
     content: `
 ## Definition box
 
-**Definition:** **Davis A.K., Averill L.A., Sepeda N.D., Barsuglia J.P., Amoroso T. (2020)** in *Chronic Stress* (doi: **10.1177/2470547020939564**) is a **retrospective observational survey** of U.S. **Special Operations Forces (SOF) veterans** who completed a Mexico clinical program (2017–2019) using **sequential** psychoactive dosing: a single **oral** dose of **ibogaine hydrochloride (10 mg/kg)** with continuous cardiac monitoring and IV fluids, then later **inhaled 5-MeO-DMT** (multi-dose session). Of 65 eligible completers, **n = 51** (78%) answered questions comparing the **30 days before** vs **30 days after** treatment. Authors reported large retrospective self-report reductions in PTSD, depression, anxiety, cognitive impairment, and suicidal ideation, plus increased psychological flexibility—and explicitly labeled findings **preliminary** (no randomization, no blinding, survey design). This paper is **oral ibogaine + sequential 5-MeO-DMT** program evaluation—**not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy, and **not** a cure claim. Ibogaine is U.S. Schedule I and not FDA-approved. QTc/cardiac risk remains central to any ibogaine discussion.
+**Definition:** **Davis A.K., Averill L.A., Sepeda N.D., Barsuglia J.P., Amoroso T. (2020)** in *Chronic Stress* (doi: **10.1177/2470547020939564**) is a **retrospective observational survey** of U.S. **Special Operations Forces (SOF) veterans** who completed a clinical program (2017–2019) using **sequential** psychoactive dosing: a single **oral** dose of **ibogaine hydrochloride (10 mg/kg)** with continuous cardiac monitoring and IV fluids, then later **inhaled 5-MeO-DMT** (multi-dose session). Of 65 eligible completers, **n = 51** (78%) answered questions comparing the **30 days before** vs **30 days after** treatment. Authors reported large retrospective self-report reductions in PTSD, depression, anxiety, cognitive impairment, and suicidal ideation, plus increased psychological flexibility—and explicitly labeled findings **preliminary** (no randomization, no blinding, survey design). This paper is **oral ibogaine + sequential 5-MeO-DMT** program evaluation—**not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy, and **not** a cure claim. Ibogaine is U.S. Schedule I and not approved for any indication. QTc/cardiac risk remains central to any ibogaine discussion.
 
 ## Quotable answer (58 words)
 
-Davis and colleagues’ 2020 Chronic Stress survey of 51 SOF veterans found large retrospective symptom reductions after oral ibogaine then inhaled 5-MeO-DMT in a Mexico program. Design limits—self-report, no randomization—make findings preliminary. It does not prove psychoactive IV ibogaine infusion efficacy. Screen for QTc risk first. Not FDA-approved.
+Davis and colleagues’ 2020 Chronic Stress survey of 51 SOF veterans found large retrospective symptom reductions after oral ibogaine then inhaled 5-MeO-DMT in a clinic program. Design limits—self-report, no randomization—make findings preliminary. It does not prove psychoactive IV ibogaine infusion efficacy. Screen for QTc risk first. not approved for any indication.
 
 
 ## Why this paper-spoke exists
@@ -12165,7 +12165,7 @@ That compression fails on attribution, route, design, and combination therapy. D
 |---------|----------------------|
 | Citation | Davis A.K., Averill L.A., Sepeda N.D., Barsuglia J.P., Amoroso T. Psychedelic treatment for trauma-related psychological and cognitive impairment among US Special Operations Forces veterans. *Chronic Stress*. 2020;4:2470547020939564. doi **10.1177/2470547020939564** |
 | Type | Retrospective observational survey / program evaluation |
-| Setting | Residential clinical program in Mexico (2017–2019) |
+| Setting | Residential clinical program (location named in the paper) (2017–2019) |
 | Population | U.S. SOF veterans (mean age ~40; ~96% male; largely OEF/OIF) |
 | Analytic N | 51 of 65 eligible completers (78% response) |
 | Psychoactive sequence | Day 1: **oral** ibogaine HCl **10 mg/kg** (reported 99% purity) with continuous cardiac monitoring + IV fluids; Day 2: integration; Day 3: **inhaled 5-MeO-DMT** (escalating multi-dose protocol as described by authors) |
@@ -12188,7 +12188,7 @@ Authors reported (all retrospective self-report; large effect sizes as published
 - Authors’ own framing: findings are **preliminary**; randomized, double-blind, placebo-controlled trials are warranted.  
 - The paper as published did **not** provide a full adverse-event incidence package comparable to a prospective safety RCT—do not invent one.
 
-**Honest reading:** large survey effect sizes in a motivated SOF cohort generate research interest; they do **not** equal FDA-grade efficacy, do not prove durability for every reader, and do not prove any specific clinic’s **IV** brand protocol.
+**Honest reading:** large survey effect sizes in a motivated SOF cohort generate research interest; they do **not** equal regulators-grade efficacy, do not prove durability for every reader, and do not prove any specific clinic’s **IV** brand protocol.
 
 A later related prospective open-label program-evaluation paper (Davis et al., *Am J Drug Alcohol Abuse* 2023; doi **10.1080/00952990.2023.2220874**) extends the same sequential model with follow-up timepoints—still **not** psychoactive IV proof and still not a cure claim. Keep citations distinct.
 
@@ -12238,12 +12238,12 @@ A veterans-marketing page that never mentions ECG/telemetry fails YMYL honesty.
 | Claim | Status |
 |-------|--------|
 | “Davis 2020 proved IV ibogaine for PTSD” | **False** — oral + sequential 5-MeO; survey design |
-| “SOF data = FDA approval / cure” | **False** |
+| “SOF data = regulatory approval / cure” | **False** |
 | “Large d = guaranteed personal outcome” | **False** |
 | “IV fluids during oral session = psychoactive IV” | **False** |
 | Cite as oral sequential observational signal with named confounders? | **Yes** |
 
-U.S. Schedule I / not FDA (/blog/is-ibogaine-legal-us). Veterans/Right-to-Try context is separate legal framing—not efficacy proof (/blog/ibogaine-right-to-try-veterans).
+U.S. Schedule I / not approved (/blog/is-ibogaine-legal-us). Veterans/Right-to-Try context is separate legal framing—not efficacy proof (/blog/ibogaine-right-to-try-veterans).
 
 
 ## Soft CTA
@@ -12254,7 +12254,7 @@ If you are a veteran or family member comparing medically supervised options, re
 ## FAQ
 
 ### What is the Davis 2020 paper?
-A retrospective survey in *Chronic Stress* of 51 U.S. SOF veterans after a Mexico program using oral ibogaine then inhaled 5-MeO-DMT (doi 10.1177/2470547020939564).
+A retrospective survey in *Chronic Stress* of 51 U.S. SOF veterans after a clinic program using oral ibogaine then inhaled 5-MeO-DMT (doi 10.1177/2470547020939564).
 
 ### Was the ibogaine oral or IV?
 **Oral** ibogaine HCl (~10 mg/kg). IV fluids and cardiac monitoring were supportive—not psychoactive IV ibogaine.
@@ -12274,13 +12274,13 @@ No. Self-report retrospective surveys can inflate apparent benefit; this site do
 ### Should cardiac screening still happen?
 Yes. Ibogaine can prolong QTc; ECG and medical screening remain essential (/safety-and-screening).
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I in the U.S.
 
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Davis 2020 is oral sequential observational survey literature—not psychoactive IV ibogaine efficacy proof and not a cure claim.
 
@@ -12288,7 +12288,7 @@ Davis 2020 is oral sequential observational survey literature—not psychoactive
 ## Sources (selected)
 
 1. Davis A.K., Averill L.A., Sepeda N.D., Barsuglia J.P., Amoroso T. Psychedelic treatment for trauma-related psychological and cognitive impairment among US Special Operations Forces veterans. *Chronic Stress*. 2020;4:2470547020939564. doi: **10.1177/2470547020939564**.  
-2. Davis A.K., Xin Y., Sepeda N., Averill L.A. Open-label study of consecutive ibogaine and 5-MeO-DMT assisted-therapy for trauma-exposed male Special Operations Forces Veterans: prospective data from a clinical program in Mexico. *Am J Drug Alcohol Abuse*. 2023;49(5):587–596. doi: **10.1080/00952990.2023.2220874**.  
+2. Davis A.K., Xin Y., Sepeda N., Averill L.A. Open-label study of consecutive ibogaine and 5-MeO-DMT assisted-therapy for trauma-exposed male Special Operations Forces Veterans: prospective data from a clinical program abroad. *Am J Drug Alcohol Abuse*. 2023;49(5):587–596. doi: **10.1080/00952990.2023.2220874**.  
 3. Cherian K.N. et al. *Nature Medicine*. 2024 — MISTIC oral ibogaine + IV magnesium (distinct protocol; not IV-psychoactive proof).  
 4. Knuijver T. et al. *Addiction*. 2021. doi: **10.1111/add.15448**.  
 5. 21 CFR 1308.11 — ibogaine Schedule I (United States).
@@ -12304,7 +12304,7 @@ Davis 2020 is oral sequential observational survey literature—not psychoactive
     content: `
 ## Definition box
 
-**Definition:** **Świeczkowski D., Kwaśny A., Sadko K., Cubała W.J. (2025)** in *Journal of Psychoactive Drugs* (doi: **10.1080/02791072.2025.2491385**; PMID **40251723**) is a **cross-sectional landscape analysis** titled *Not Losing Momentum: Cross-Sectional Insights into Ibogaine Clinical Trials*. Authors searched major registries (ClinicalTrials.gov, EU Clinical Trials / EU CTR, WHO ICTRP), deduplicated records, and analyzed **nine** ibogaine trials. They report **early-phase dominance**, **methodological variability** (fixed- vs ascending-dose designs, heterogeneous inclusion/exclusion and outcomes), emphasis on **pharmacokinetics**, **withdrawal** signals, and **safety monitoring**, and **inconsistent handling of cardiovascular risk**. Preliminary therapeutic interest is noted, but **absence of large late-phase trials** blocks definitive efficacy conclusions. A registry landscape map is **not** personal treatment access, **not** a cure claim, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy. Ibogaine is U.S. Schedule I and not FDA-approved. QTc/cardiac safety themes remain central.
+**Definition:** **Świeczkowski D., Kwaśny A., Sadko K., Cubała W.J. (2025)** in *Journal of Psychoactive Drugs* (doi: **10.1080/02791072.2025.2491385**; PMID **40251723**) is a **cross-sectional landscape analysis** titled *Not Losing Momentum: Cross-Sectional Insights into Ibogaine Clinical Trials*. Authors searched major registries (ClinicalTrials.gov, EU Clinical Trials / EU CTR, WHO ICTRP), deduplicated records, and analyzed **nine** ibogaine trials. They report **early-phase dominance**, **methodological variability** (fixed- vs ascending-dose designs, heterogeneous inclusion/exclusion and outcomes), emphasis on **pharmacokinetics**, **withdrawal** signals, and **safety monitoring**, and **inconsistent handling of cardiovascular risk**. Preliminary therapeutic interest is noted, but **absence of large late-phase trials** blocks definitive efficacy conclusions. A registry landscape map is **not** personal treatment access, **not** a cure claim, and **not** proof of physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine) efficacy. Ibogaine is U.S. Schedule I and not approved for any indication. QTc/cardiac safety themes remain central.
 
 ## Quotable answer (57 words)
 
@@ -12349,7 +12349,7 @@ Themes emphasized by the paper’s synthesis:
 - Preliminary signals of therapeutic interest exist in the broader literature the authors reference, but **lack of large late-phase trials** prevents definitive efficacy conclusions.  
 - Authors call for a **standardized clinical framework** and note that lessons from classical psychedelics and MDMA research (blinding, expectancy bias) could improve design quality.
 
-**Honest reading:** “Not losing momentum” describes research activity—not guaranteed consumer access, not FDA approval, and not a cure rate.
+**Honest reading:** “Not losing momentum” describes research activity—not guaranteed consumer access, not regulatory approval, and not a cure rate.
 
 
 ## Limits and confounders
@@ -12370,7 +12370,7 @@ Themes emphasized by the paper’s synthesis:
 Critical YMYL distinctions:
 
 1. **Seeing a ClinicalTrials.gov row ≠ enrollment tomorrow.** Geography, phase, sponsor, inclusion criteria, and cardiac screens block most readers.  
-2. **Research momentum ≠ product approval.** Ibogaine remains **Schedule I** in the U.S. and **not FDA-approved** for any indication (/blog/is-ibogaine-legal-us).  
+2. **Research momentum ≠ product approval.** Ibogaine remains **Schedule I** in the U.S. and **not approved for any indication** for any indication (/blog/is-ibogaine-legal-us).  
 3. **Observational clinic programs abroad ≠ registered late-phase RCTs.** Do not swap labels.  
 4. **State research bills / funding interest** (/blog/texas-ibogaine-clinical-trials) may expand future trials—they do not create a consumer “cure product” today.  
 5. Brand **IV ibogaine infusion** questions still require route honesty and medical screening—trial headlines do not waive ECG.
@@ -12430,8 +12430,8 @@ Inconsistent attention to **cardiovascular / QTc** risk monitoring across protoc
 ### Does this prove IV ibogaine infusion works?
 No. It maps trial design variability; it is not an efficacy RCT for psychoactive IV dosing.
 
-### Is ibogaine FDA-approved because trials exist?
-No. Schedule I in the U.S.; not FDA-approved for any indication.
+### Is ibogaine approved because trials exist?
+No. Schedule I in the U.S.; not approved for any indication.
 
 ### Should families still demand ECG/telemetry?
 Yes (/blog/ibogaine-ecg-pre-infusion-checklist, /safety-and-screening).
@@ -12442,7 +12442,7 @@ Yes (/blog/ibogaine-ecg-pre-infusion-checklist, /safety-and-screening).
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Świeczkowski et al. 2025 is a clinical-trial landscape cross-section—not personal access, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
 
@@ -12466,11 +12466,11 @@ Educational research synopsis only—not medical, psychiatric, or legal advice, 
     content: `
 ## Definition box
 
-**Definition:** **David L. Brody and Shan H. Siddiqi (2024)** published the *Nature Medicine* commentary *An ancient psychedelic for traumatic brain injury* (doi: **10.1038/s41591-023-02759-w**; *Nat Med* **30**, 342–343). It accompanies Cherian et al.’s open-label observational **MISTIC** report (magnesium–ibogaine therapy in Special Operations veterans with TBI; doi **10.1038/s41591-023-02705-w**). Brody and Siddiqi summarize dramatic apparent clinical improvements and a reported favorable safety profile **in that protocol**, then stress that **further studies with state-of-the-art safety monitoring** are crucial. MISTIC used **oral** ibogaine with **IV magnesium** support—not physician-supervised **psychoactive IV ibogaine infusion**. A companion commentary is not an efficacy RCT, not a cure claim, and not brand-IV proof. Ibogaine is U.S. Schedule I and not FDA-approved. QTc/cardiac risk remains central.
+**Definition:** **David L. Brody and Shan H. Siddiqi (2024)** published the *Nature Medicine* commentary *An ancient psychedelic for traumatic brain injury* (doi: **10.1038/s41591-023-02759-w**; *Nat Med* **30**, 342–343). It accompanies Cherian et al.’s open-label observational **MISTIC** report (magnesium–ibogaine therapy in Special Operations veterans with TBI; doi **10.1038/s41591-023-02705-w**). Brody and Siddiqi summarize dramatic apparent clinical improvements and a reported favorable safety profile **in that protocol**, then stress that **further studies with state-of-the-art safety monitoring** are crucial. MISTIC used **oral** ibogaine with **IV magnesium** support—not physician-supervised **psychoactive IV ibogaine infusion**. A companion commentary is not an efficacy RCT, not a cure claim, and not brand-IV proof. Ibogaine is U.S. Schedule I and not approved for any indication. QTc/cardiac risk remains central.
 
 ## Quotable answer (55 words)
 
-Brody and Siddiqi’s 2024 Nature Medicine commentary on Cherian’s MISTIC study notes striking open-label gains in veterans with TBI but urges controlled trials with rigorous cardiac monitoring. MISTIC used oral ibogaine plus IV magnesium—not psychoactive IV ibogaine infusion. Schedule I; not FDA-approved; screen for QTc risk first.
+Brody and Siddiqi’s 2024 Nature Medicine commentary on Cherian’s MISTIC study notes striking open-label gains in veterans with TBI but urges controlled trials with rigorous cardiac monitoring. MISTIC used oral ibogaine plus IV magnesium—not psychoactive IV ibogaine infusion. Schedule I; not approved for any indication; screen for QTc risk first.
 
 
 ## Why this paper-spoke exists
@@ -12494,7 +12494,7 @@ This spoke keeps the commentary honest: it is peer commentary on an oral + IV-Mg
 | Population in primary study | ~30 male Special Operations veterans with predominantly mild TBI |
 | Route in primary study | **Oral** ibogaine + **IV magnesium** (supportive), plus complementary modalities |
 | Commentary thrust | Dramatic open-label improvements noted; **further studies with state-of-the-art safety monitoring** essential |
-| What it is not | RCT; FDA approval; psychoactive **IV** brand efficacy proof; cure claim |
+| What it is not | RCT; regulatory approval; psychoactive **IV** brand efficacy proof; cure claim |
 
 
 ## Methods (plain language)
@@ -12548,14 +12548,14 @@ Magnesium support in MISTIC is a risk-mitigation hypothesis/protocol feature—n
 | Highly selected male SOF veteran sample | Not generalizable to unscreened civilian polypharmacy |
 | Safety conclusions limited to that protocol/setting | Cannot waive ECG for other clinics or routes |
 | Oral + IV Mg ≠ psychoactive IV brand | Route mismatch for brand claims |
-| Schedule I / not FDA-approved | Commentary ≠ legal consumer product |
+| Schedule I / not approved for any indication | Commentary ≠ legal consumer product |
 
 
 ## What this does NOT prove for IV ibogaine infusion brand
 
 | Claim | Status |
 |-------|--------|
-| “Nature Medicine commentary = FDA approval” | **False** |
+| “Nature Medicine commentary = regulatory approval” | **False** |
 | “Commentary proves psychoactive IV brand efficacy” | **False** |
 | “IV magnesium = IV ibogaine” | **Dangerously false** |
 | “Favorable open-label safety = no QTc risk anywhere” | **Dangerously false** |
@@ -12586,8 +12586,8 @@ No. Open-label signals require controlled confirmation; no cure claims.
 ### Why do Brody and Siddiqi emphasize safety monitoring?
 Because ibogaine’s cardiac/QTc risk profile demands rigorous monitoring even when open-label cohorts look encouraging.
 
-### Is ibogaine FDA-approved because Nature Medicine covered it?
-No. U.S. Schedule I; not FDA-approved for any indication.
+### Is ibogaine approved because Nature Medicine covered it?
+No. U.S. Schedule I; not approved for any indication.
 
 ### Can I skip ECG if magnesium is used?
 No. Magnesium adjunct ≠ cardiac clearance (/blog/magnesium-ibogaine-cardiac-protocol).
@@ -12598,7 +12598,7 @@ No. Magnesium adjunct ≠ cardiac clearance (/blog/magnesium-ibogaine-cardiac-pr
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Brody & Siddiqi 2024 is a commentary on oral magnesium–ibogaine observational work—not personal access, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
 
@@ -12622,7 +12622,7 @@ Brody & Siddiqi 2024 is a commentary on oral magnesium–ibogaine observational 
     content: `
 ## Definition box
 
-**Definition:** **Glue P., Lockhart M., Lam F., Hung N., Hung C.-T., Friedhoff L. (2015)** in *The Journal of Clinical Pharmacology* (doi: **10.1002/jcph.404**; PMID **25279818**; *J Clin Pharmacol* **55**(2):189–194) report a Phase I ascending single-dose, placebo-controlled, randomized, double-blind, parallel-group study of **oral noribogaine**—ibogaine’s primary metabolite—in **n=36** healthy drug-free male volunteers. Four cohorts (n=9 each) received **3, 10, 30, or 60 mg** or matching placebo, with intensive PK/safety assessments out to 216 hours plus mu-opioid–sensitive pharmacodynamic tests (pupillometry, cold-pressor). Authors reported rapid absorption (Tmax ~2–3 h), dose-linear AUC/Cmax, mean t½ ~**28–49 hours**, high apparent volume of distribution, **no identified safety/tolerability issues in these cohorts**, and **no mu-opioid agonist PD effects**. This is **oral noribogaine in healthy volunteers**, **not** psychoactive **IV ibogaine infusion**, **not** ibogaine HCl flood dosing, and **not** FDA approval. Later Glue 2016 work in opioid-dependent patients showed dose-related **QTc** signals at higher exposures—so “well tolerated at ≤60 mg in healthy men” must not be over-read as “cardiac risk solved.” Ibogaine remains U.S. Schedule I and not FDA-approved.
+**Definition:** **Glue P., Lockhart M., Lam F., Hung N., Hung C.-T., Friedhoff L. (2015)** in *The Journal of Clinical Pharmacology* (doi: **10.1002/jcph.404**; PMID **25279818**; *J Clin Pharmacol* **55**(2):189–194) report a Phase I ascending single-dose, placebo-controlled, randomized, double-blind, parallel-group study of **oral noribogaine**—ibogaine’s primary metabolite—in **n=36** healthy drug-free male volunteers. Four cohorts (n=9 each) received **3, 10, 30, or 60 mg** or matching placebo, with intensive PK/safety assessments out to 216 hours plus mu-opioid–sensitive pharmacodynamic tests (pupillometry, cold-pressor). Authors reported rapid absorption (Tmax ~2–3 h), dose-linear AUC/Cmax, mean t½ ~**28–49 hours**, high apparent volume of distribution, **no identified safety/tolerability issues in these cohorts**, and **no mu-opioid agonist PD effects**. This is **oral noribogaine in healthy volunteers**, **not** psychoactive **IV ibogaine infusion**, **not** ibogaine HCl flood dosing, and **not** regulatory approval. Later Glue 2016 work in opioid-dependent patients showed dose-related **QTc** signals at higher exposures—so “well tolerated at ≤60 mg in healthy men” must not be over-read as “cardiac risk solved.” Ibogaine remains U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (58 words)
 
@@ -12720,7 +12720,7 @@ Entity hub: /what-is-ibogaine-infusion. Oral≠IV: /blog/ibogaine-oral-vs-iv.
 | “No issues at ≤60 mg = no QTc at any dose” | **Dangerously false** (see Glue 2016) |
 | Cite as foundational oral noribogaine PK/tolerability in healthy men? | **Yes** |
 
-No cure claims. Schedule I / not FDA-approved.
+No cure claims. Schedule I / not approved for any indication.
 
 
 ## Soft CTA
@@ -12745,8 +12745,8 @@ No. Later patient work showed dose-related QTc prolongation at higher exposures.
 ### Does this prove addiction treatment works?
 No—this was healthy-volunteer PK/safety/PD, not an SUD efficacy RCT.
 
-### Is ibogaine FDA-approved?
-No. Schedule I in the U.S.; not FDA-approved for any indication.
+### Is ibogaine approved for medical use?
+No. Schedule I in the U.S.; not approved for any indication.
 
 ### Should families still demand ECG/telemetry for ibogaine-related care?
 Yes (/blog/ibogaine-ecg-pre-infusion-checklist, /safety-and-screening).
@@ -12757,7 +12757,7 @@ Yes (/blog/ibogaine-ecg-pre-infusion-checklist, /safety-and-screening).
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine and related compounds can prolong the QTc interval and have been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine and related compounds can prolong the QTc interval and have been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Glue 2015 is oral noribogaine healthy-volunteer Phase 1 science—not personal access, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
 
@@ -12781,7 +12781,7 @@ Glue 2015 is oral noribogaine healthy-volunteer Phase 1 science—not personal a
     content: `
 ## Definition box
 
-**Definition:** **Ruud P.W. Litjens and Tibor M. Brunt (2016)** published *How toxic is ibogaine?* in *Clinical Toxicology* (doi: **10.3109/15563650.2016.1138226**; PMID **26807959**; *Clin Toxicol* **54**(4):297–302). This is a **narrative pharmacological/toxicity review**—not a new dosing RCT. From PubMed literature on ibogaine/noribogaine they summarize pharmacokinetics (CYP2D6 → noribogaine), multi-receptor actions, **neurotoxicity** themes (rat cerebellar Purkinje injury via inferior olive pathways at higher exposures), and especially **cardiotoxicity** via **hERG** potassium-channel blockade leading to QT prolongation and risk of torsades/ventricular arrhythmia. They note noribogaine’s prolonged presence after parent clearance and discuss human toxicological case material. Label this piece a **review**. It does **not** prove efficacy, does **not** authorize unsupervised use, and does **not** validate psychoactive **IV ibogaine infusion**. Ibogaine is U.S. Schedule I and not FDA-approved. Cardiac risk is the central practical takeaway.
+**Definition:** **Ruud P.W. Litjens and Tibor M. Brunt (2016)** published *How toxic is ibogaine?* in *Clinical Toxicology* (doi: **10.3109/15563650.2016.1138226**; PMID **26807959**; *Clin Toxicol* **54**(4):297–302). This is a **narrative pharmacological/toxicity review**—not a new dosing RCT. From PubMed literature on ibogaine/noribogaine they summarize pharmacokinetics (CYP2D6 → noribogaine), multi-receptor actions, **neurotoxicity** themes (rat cerebellar Purkinje injury via inferior olive pathways at higher exposures), and especially **cardiotoxicity** via **hERG** potassium-channel blockade leading to QT prolongation and risk of torsades/ventricular arrhythmia. They note noribogaine’s prolonged presence after parent clearance and discuss human toxicological case material. Label this piece a **review**. It does **not** prove efficacy, does **not** authorize unsupervised use, and does **not** validate psychoactive **IV ibogaine infusion**. Ibogaine is U.S. Schedule I and not approved for any indication. Cardiac risk is the central practical takeaway.
 
 ## Quotable answer (54 words)
 
@@ -12802,7 +12802,7 @@ When families ask “is ibogaine poisonous?”, marketing sites either panic or 
 | Methods (as reported) | PubMed search on ibogaine/noribogaine across mechanism, PK/PD, toxicology, cardiac, neurotoxic, human/animal, addiction, death keywords; authors report **382** unique refs (**156** human-data related) and **14** detailed toxicological case reports highlighted |
 | Core domains | PK/PD; mechanisms; neurotoxicity; cardiotoxicity; clinical toxicity themes |
 | Route of evidence base | Mostly oral/clinic/case-report traditions; **not** a brand-IV trial |
-| What it is not | Efficacy meta-analysis; FDA approval; IV psychoactive proof |
+| What it is not | Efficacy meta-analysis; regulatory approval; IV psychoactive proof |
 
 
 ## Methods (plain language)
@@ -12903,8 +12903,8 @@ Yes—noribogaine can persist days after parent clearance.
 ### Does this prove IV ibogaine infusion is safe or effective?
 No on both counts.
 
-### Is ibogaine FDA-approved?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I; not approved for any indication.
 
 ### Should people with heart disease be extra careful?
 Yes—and even without known heart disease, QTc risk exists in the case literature (/blog/ibogaine-pre-existing-heart-conditions).
@@ -12915,7 +12915,7 @@ Yes—and even without known heart disease, QTc risk exists in the case literatu
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Litjens & Brunt 2016 is a toxicity review—not personal access, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
 
@@ -12939,7 +12939,7 @@ Litjens & Brunt 2016 is a toxicity review—not personal access, not a cure clai
     content: `
 ## Definition box
 
-**Definition:** **Leo J. Schep, Robin J. Slaughter, Susanna Galea, and David Newcombe (2016)** published *Ibogaine for treating drug dependence. What is a safe dose?* in *Drug and Alcohol Dependence* (doi: **10.1016/j.drugalcdep.2016.07.005**; PMID **27426011**; *Drug Alcohol Depend* **166**:1–5). This is a **toxicology-focused review/commentary** arguing that clinic doses used to produce intense psychoactive effects for dependence treatment sit far above a cautiously extrapolated human starting dose derived from limited animal NOAEL/lethality data and safety factors. Authors highlight case evidence of **ataxia**, gastrointestinal distress, **ventricular arrhythmias**, and **sudden unexplained deaths**, plus rodent cerebellar Purkinje injury themes at pharmacologically active animal doses. Their illustrative calculation yields an approximate initial human dose on the order of **0.87 mg/kg**—substantially lower than many reported treatment regimens—and warns that morbidities/mortalities will continue unless practitioners reconsider dosing in susceptible patients. Label **review/dose-safety commentary**—not an efficacy RCT, not a cure, and not proof of psychoactive **IV ibogaine infusion**. Ibogaine is U.S. Schedule I and not FDA-approved. QTc/cardiac risk remains central.
+**Definition:** **Leo J. Schep, Robin J. Slaughter, Susanna Galea, and David Newcombe (2016)** published *Ibogaine for treating drug dependence. What is a safe dose?* in *Drug and Alcohol Dependence* (doi: **10.1016/j.drugalcdep.2016.07.005**; PMID **27426011**; *Drug Alcohol Depend* **166**:1–5). This is a **toxicology-focused review/commentary** arguing that clinic doses used to produce intense psychoactive effects for dependence treatment sit far above a cautiously extrapolated human starting dose derived from limited animal NOAEL/lethality data and safety factors. Authors highlight case evidence of **ataxia**, gastrointestinal distress, **ventricular arrhythmias**, and **sudden unexplained deaths**, plus rodent cerebellar Purkinje injury themes at pharmacologically active animal doses. Their illustrative calculation yields an approximate initial human dose on the order of **0.87 mg/kg**—substantially lower than many reported treatment regimens—and warns that morbidities/mortalities will continue unless practitioners reconsider dosing in susceptible patients. Label **review/dose-safety commentary**—not an efficacy RCT, not a cure, and not proof of psychoactive **IV ibogaine infusion**. Ibogaine is U.S. Schedule I and not approved for any indication. QTc/cardiac risk remains central.
 
 ## Quotable answer (56 words)
 
@@ -12960,7 +12960,7 @@ Dose folklore online often treats “mg/kg flood” as tradition rather than tox
 | Focus | Human case toxicities; receptor pharmacology; animal neurotoxicity/lethality; HED/safety-factor logic |
 | Illustrative cautionary figure | ~**0.87 mg/kg** approximated initial human dose after safety factors (authors’ framing) |
 | Clinical harms emphasized | Ataxia, GI distress, ventricular arrhythmias, sudden unexplained deaths |
-| What it is not | New RCT; FDA label; IV brand efficacy proof; permission to DIY dose |
+| What it is not | New RCT; approved-product label; IV brand efficacy proof; permission to DIY dose |
 
 
 ## Methods (plain language)
@@ -13004,7 +13004,7 @@ Schep et al. discuss dependence-treatment dosing traditions that are typically *
 |-------|----------------|
 | Narrative toxicology synthesis | Not a prospective dose-finding RCT |
 | Sparse animal NOAEL data | Extrapolation uncertainty is large—authors acknowledge limited toxicology |
-| 0.87 mg/kg is illustrative caution | Not an FDA-validated therapeutic dose |
+| 0.87 mg/kg is illustrative caution | Not an regulators-validated therapeutic dose |
 | Case confounding | Adulterants, unknown purity, polypharmacy, delayed medical care |
 | 2016 evidence horizon | Co-read newer AE/CV reviews |
 | Not brand-IV stratified | Cannot validate IV psychoactive marketing |
@@ -13019,7 +13019,7 @@ Schep et al. discuss dependence-treatment dosing traditions that are typically *
 | “Lower calculated dose means no cardiac monitoring needed” | **Dangerously false** |
 | Cite as 2016 dose-safety warning against high traditional floods? | **Yes** |
 
-No cure claims. Schedule I / not FDA-approved.
+No cure claims. Schedule I / not approved for any indication.
 
 
 ## Soft CTA
@@ -13044,8 +13044,8 @@ An authors’ approximated cautious initial human dose after safety factors—no
 ### Does this prove IV ibogaine infusion works?
 No.
 
-### Is ibogaine FDA-approved?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I; not approved for any indication.
 
 ### Should cardiac screening still happen at “low” doses?
 Yes—risk is multifactorial; do not self-calibrate from a review figure alone.
@@ -13056,7 +13056,7 @@ Yes—risk is multifactorial; do not self-calibrate from a review figure alone.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Schep et al. 2016 is a dose-safety toxicity review—not personal access, not a cure claim, not dosing instructions, and not psychoactive IV ibogaine efficacy proof.
 
@@ -13080,7 +13080,7 @@ Schep et al. 2016 is a dose-safety toxicity review—not personal access, not a 
     content: `
 ## Definition box
 
-**Definition:** **Monica Patrícia Esperança, Nelson G.M. Gomes, and Maria Graça Campos (2026)** published the scoping review *Ibogaine: Therapeutic Potential, Cardiac Safety, and Translational Perspectives in the Treatment of Substance Use Disorders* in *Molecules* (doi: **10.3390/molecules31030545**; *Molecules* **31**(3):545). Authors synthesize preclinical and clinical literature on ibogaine for SUD with emphasis on withdrawal/craving signals, dose–response themes, and **cardiac adverse events**. They frame ibogaine’s multimodal neuropharmacology as scientifically interesting amid high global SUD burden, while stressing **fragmented heterogeneous evidence**, regulatory gaps, formulation/standardization limits, and **unresolved cardiac safety**—including **hERG/IKr** inhibition and QT/QTc prolongation involving ibogaine and long-lived **noribogaine**. This is a **scoping review**, not a late-phase efficacy proof, not a cure claim, and not validation of psychoactive **IV ibogaine infusion**. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Monica Patrícia Esperança, Nelson G.M. Gomes, and Maria Graça Campos (2026)** published the scoping review *Ibogaine: Therapeutic Potential, Cardiac Safety, and Translational Perspectives in the Treatment of Substance Use Disorders* in *Molecules* (doi: **10.3390/molecules31030545**; *Molecules* **31**(3):545). Authors synthesize preclinical and clinical literature on ibogaine for SUD with emphasis on withdrawal/craving signals, dose–response themes, and **cardiac adverse events**. They frame ibogaine’s multimodal neuropharmacology as scientifically interesting amid high global SUD burden, while stressing **fragmented heterogeneous evidence**, regulatory gaps, formulation/standardization limits, and **unresolved cardiac safety**—including **hERG/IKr** inhibition and QT/QTc prolongation involving ibogaine and long-lived **noribogaine**. This is a **scoping review**, not a late-phase efficacy proof, not a cure claim, and not validation of psychoactive **IV ibogaine infusion**. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (55 words)
 
@@ -13101,7 +13101,7 @@ Esperança and colleagues’ 2026 Molecules scoping review finds ibogaine scient
 | Focus domains | SUD therapeutic potential; withdrawal/craving; dose–response; cardiac AEs; translational constraints |
 | Cardiac mechanism emphasis | hERG/IKr → reduced repolarization reserve → QT/QTc → TdP substrate; noribogaine contribution |
 | Translational constraints named | Fragmented evidence; regulatory absence in many jurisdictions; phytochemical validation/standardization limits; cardiac safety unresolved |
-| What it is not | Pivotal RCT; FDA approval; psychoactive IV brand proof |
+| What it is not | Pivotal RCT; regulatory approval; psychoactive IV brand proof |
 
 
 ## Methods (plain language)
@@ -13200,8 +13200,8 @@ No—it scopes SUD literature that is not brand-IV proof.
 ### Are regulatory frameworks settled globally?
 No—authors highlight regulatory gaps and standardization limits.
 
-### Is ibogaine FDA-approved?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I; not approved for any indication.
 
 ### Should families still insist on ECG/telemetry?
 Yes.
@@ -13212,7 +13212,7 @@ Yes.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Esperança et al. 2026 is a scoping review—not personal access, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
 
@@ -13236,7 +13236,7 @@ Esperança et al. 2026 is a scoping review—not personal access, not a cure cla
     content: `
 ## Definition box
 
-**Definition:** **Pravesh Sharma, Jared Kendrick, Jennifer Schram, Sam M. Stumo, Averi Garscia, and Douglas B. Matthews (2026)** published *From monotherapy to sequential models: An updated scoping review on ibogaine’s role in treatment for psychiatric disorders* in *Journal of Psychopharmacology* (doi: **10.1177/02698811261443674**; *J Psychopharmacol* **40**(7):1103–1117). Searching human studies of ibogaine, noribogaine, or 5-MeO-DMT with clinical outcomes—and prioritizing RCTs, microdosing paradigms, and sequential protocols—they identify **only three RCTs**. Microdosing and escalating **sequential** protocols remain **experimental**, lack standardized definitions, and rest on preliminary observational data. Adverse effects include neurologic, psychiatric, and **cardiac** events (**QTc prolongation**); fatalities have occurred with medical/substance comorbidities. Authors conclude evidence is confined to case reports, observational analyses, and small early-phase/proof-of-concept studies; given **cardiotoxicity** and a **narrow therapeutic margin**, **clinical use cannot be recommended** without larger well-controlled trials. This scoping review is **not** a cure claim and **not** psychoactive **IV ibogaine infusion** proof. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** **Pravesh Sharma, Jared Kendrick, Jennifer Schram, Sam M. Stumo, Averi Garscia, and Douglas B. Matthews (2026)** published *From monotherapy to sequential models: An updated scoping review on ibogaine’s role in treatment for psychiatric disorders* in *Journal of Psychopharmacology* (doi: **10.1177/02698811261443674**; *J Psychopharmacol* **40**(7):1103–1117). Searching human studies of ibogaine, noribogaine, or 5-MeO-DMT with clinical outcomes—and prioritizing RCTs, microdosing paradigms, and sequential protocols—they identify **only three RCTs**. Microdosing and escalating **sequential** protocols remain **experimental**, lack standardized definitions, and rest on preliminary observational data. Adverse effects include neurologic, psychiatric, and **cardiac** events (**QTc prolongation**); fatalities have occurred with medical/substance comorbidities. Authors conclude evidence is confined to case reports, observational analyses, and small early-phase/proof-of-concept studies; given **cardiotoxicity** and a **narrow therapeutic margin**, **clinical use cannot be recommended** without larger well-controlled trials. This scoping review is **not** a cure claim and **not** psychoactive **IV ibogaine infusion** proof. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (58 words)
 
@@ -13365,8 +13365,8 @@ No.
 ### Is QTc risk mentioned?
 Yes—QTc prolongation and cardiac adverse events are explicit.
 
-### Is ibogaine FDA-approved?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I; not approved for any indication.
 
 ### Where should screening start?
 /safety-and-screening, then /apply if appropriate.
@@ -13374,7 +13374,7 @@ No. Schedule I; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Sharma et al. 2026 is a scoping review that does **not** recommend clinical use pending larger trials—not personal access, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
 
@@ -13398,7 +13398,7 @@ Sharma et al. 2026 is a scoping review that does **not** recommend clinical use 
     content: `
 ## Definition box
 
-**Definition:** This paper-spoke summarizes **preclinical/mechanistic** evidence that iboga alkaloids inhibit cardiac **hERG** (human Ether-à-go-go–Related Gene; Kv11.1) potassium channels that carry **IKr**, delaying ventricular repolarization—the cellular rationale linking ibogaine/noribogaine to **QT/QTc prolongation** and torsades risk. A primary citable human-cell electrophysiology report is **Alper K. et al., “hERG Blockade by Iboga Alkaloids,” *Cardiovascular Toxicology* (2016;16(1):14–22; doi: **10.1007/s12012-015-9311-5**; PMID **25636206**)**, measuring IKr IC50 values in the low-micromolar range for ibogaine and noribogaine (and related alkaloids), with discussion of delayed arrhythmia timing via long-lived noribogaine. Complementary **Koenig / Hilber** work (e.g., early hERG inhibition reports and *Toxicol Appl Pharmacol* ion-channel profiling) established concentration-dependent hERG block at exposures overlapping human plasma ranges after typical oral treatment doses. **LABEL: PRECLINICAL / MECHANISTIC.** These studies are **not** human efficacy RCTs, **not** cure evidence, and **not** proof of psychoactive **IV ibogaine infusion**. They explain *why* cardiac screening exists. Ibogaine is U.S. Schedule I and not FDA-approved.
+**Definition:** This paper-spoke summarizes **preclinical/mechanistic** evidence that iboga alkaloids inhibit cardiac **hERG** (human Ether-à-go-go–Related Gene; Kv11.1) potassium channels that carry **IKr**, delaying ventricular repolarization—the cellular rationale linking ibogaine/noribogaine to **QT/QTc prolongation** and torsades risk. A primary citable human-cell electrophysiology report is **Alper K. et al., “hERG Blockade by Iboga Alkaloids,” *Cardiovascular Toxicology* (2016;16(1):14–22; doi: **10.1007/s12012-015-9311-5**; PMID **25636206**)**, measuring IKr IC50 values in the low-micromolar range for ibogaine and noribogaine (and related alkaloids), with discussion of delayed arrhythmia timing via long-lived noribogaine. Complementary **Koenig / Hilber** work (e.g., early hERG inhibition reports and *Toxicol Appl Pharmacol* ion-channel profiling) established concentration-dependent hERG block at exposures overlapping human plasma ranges after typical oral treatment doses. **LABEL: PRECLINICAL / MECHANISTIC.** These studies are **not** human efficacy RCTs, **not** cure evidence, and **not** proof of psychoactive **IV ibogaine infusion**. They explain *why* cardiac screening exists. Ibogaine is U.S. Schedule I and not approved for any indication.
 
 ## Quotable answer (57 words)
 
@@ -13510,13 +13510,13 @@ It also blocks hERG and lasts longer—relevant to delayed QT risk.
 No.
 
 ### Are safer analogs approved therapies?
-No—research compounds/programs are not FDA-approved ibogaine replacements for consumers.
+No—research compounds/programs are not approved for any indication ibogaine replacements for consumers.
 
 ### Should families still demand ECG?
 Yes—mechanism is why (/blog/ibogaine-ecg-pre-infusion-checklist).
 
-### Is ibogaine FDA-approved?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I; not approved for any indication.
 
 ### Where should screening start?
 /safety-and-screening, then /apply if appropriate.
@@ -13524,7 +13524,7 @@ No. Schedule I; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Alper/Koenig hERG work is **preclinical/mechanistic**—not personal access, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
 
@@ -13548,7 +13548,7 @@ Alper/Koenig hERG work is **preclinical/mechanistic**—not personal access, not
     content: `
 ## Definition box
 
-**Definition:** **Lindsay P. Cameron, David E. Olson, and colleagues (published online 9 Dec 2020; *Nature* print 2021)** report *A non-hallucinogenic psychedelic analogue with therapeutic potential* (doi: **10.1038/s41586-020-3008-z**; *Nature* **589**:474–479). Using function-oriented synthesis, they engineered **tabernanthalog (TBG)**—a water-soluble, single-step-accessible analog inspired by iboga/ibogaine structural insights—aimed at retaining plasticity-related and anti-addictive-model signals while reducing liabilities that hinder ibogaine development (**toxicity, hallucinogenic potential, cardiac arrhythmia tendency** in the authors’ framing). In **rodents**, TBG promoted structural neural plasticity, reduced alcohol- and heroin-seeking behavior, and produced antidepressant-like effects in the assays reported. **LABEL: PRECLINICAL.** TBG is **not** an FDA-approved therapy, **not** a consumer substitute you can legally order as medicine in the U.S., and **not** proof that psychoactive **IV ibogaine infusion** is safe or curative. Careful contrast: analog research seeks to *mitigate* ibogaine’s cardiac-risk narrative—it does **not** erase QTc risk for **ibogaine itself**. Ibogaine remains Schedule I and not FDA-approved.
+**Definition:** **Lindsay P. Cameron, David E. Olson, and colleagues (published online 9 Dec 2020; *Nature* print 2021)** report *A non-hallucinogenic psychedelic analogue with therapeutic potential* (doi: **10.1038/s41586-020-3008-z**; *Nature* **589**:474–479). Using function-oriented synthesis, they engineered **tabernanthalog (TBG)**—a water-soluble, single-step-accessible analog inspired by iboga/ibogaine structural insights—aimed at retaining plasticity-related and anti-addictive-model signals while reducing liabilities that hinder ibogaine development (**toxicity, hallucinogenic potential, cardiac arrhythmia tendency** in the authors’ framing). In **rodents**, TBG promoted structural neural plasticity, reduced alcohol- and heroin-seeking behavior, and produced antidepressant-like effects in the assays reported. **LABEL: PRECLINICAL.** TBG is **not** an approved therapy, **not** a consumer substitute you can legally order as medicine in the U.S., and **not** proof that psychoactive **IV ibogaine infusion** is safe or curative. Careful contrast: analog research seeks to *mitigate* ibogaine’s cardiac-risk narrative—it does **not** erase QTc risk for **ibogaine itself**. Ibogaine remains Schedule I and not approved for any indication.
 
 ## Quotable answer (56 words)
 
@@ -13574,7 +13574,7 @@ Soft CTA: /safety-and-screening → /apply. Pair with hERG mechanism (/blog/alpe
 | Compound | **Tabernanthalog (TBG)** — engineered analog, not ibogaine HCl |
 | Design goal | Water-soluble, non-hallucinogenic (in rodent proxies), lower toxicity/arrhythmia liability vs ibogaine framing |
 | Key rodent themes | Structural neural plasticity; reduced alcohol- and heroin-seeking; antidepressant-like effects in reported assays |
-| What it is not | Human Phase 3; FDA-approved medicine; IV ibogaine brand proof |
+| What it is not | Human Phase 3; approved medicine; IV ibogaine brand proof |
 
 
 ## Methods (plain language)
@@ -13616,7 +13616,7 @@ Later TBG polydrug rodent work exists in the literature; it still does not conve
 | TBG was designed partly to address ibogaine’s arrhythmia/toxicity concerns | **Yes** (author framing) |
 | Therefore ibogaine no longer prolongs QTc | **No — dangerously false** |
 | TBG rodent data waive ECG for human ibogaine sessions | **No** |
-| Analog pipelines mean Schedule I ibogaine is FDA-approved | **No** |
+| Analog pipelines mean Schedule I ibogaine is approved | **No** |
 | Families considering **ibogaine** still need cardiac screening | **Yes** |
 
 Ibogaine hERG/QTc literature still stands (/blog/alper-herg-ibogaine-cardiac-mechanism, /blog/knuijver-2021-ibogaine-qtc-safety, /blog/litjens-brunt-2016-ibogaine-toxicity).
@@ -13660,7 +13660,7 @@ Inspired by analog headlines? Good—channel that into screening literacy for an
 ### What is tabernanthalog?
 A synthetic ibogaine-inspired analog (TBG) described by Cameron/Olson et al. in *Nature* (doi **10.1038/s41586-020-3008-z**).
 
-### Is TBG FDA-approved?
+### Is TBG approved?
 No. **Preclinical** research compound—not an approved therapy.
 
 ### Did they cure addiction in humans?
@@ -13676,7 +13676,7 @@ To pursue therapeutic-model signals while reducing ibogaine’s hallucinogenic/t
 Yes—treat clinical ibogaine cardiac literature as still binding.
 
 ### Is ibogaine Schedule I?
-Yes in the U.S.; not FDA-approved.
+Yes in the U.S.; not approved for any indication.
 
 ### Where should screening start?
 /safety-and-screening, then /apply if appropriate.
@@ -13684,7 +13684,7 @@ Yes in the U.S.; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Tabernanthalog is not an approved medicine. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Tabernanthalog is not an approved medicine. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Cameron et al. 2020/21 is **preclinical** analog science—not personal access, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
 
@@ -13708,11 +13708,11 @@ Cameron et al. 2020/21 is **preclinical** analog science—not personal access, 
     content: `
 ## Definition box
 
-**Definition:** **Brown T.K., Noller G.E., & Denenberg J.O. (2019)** published *Ibogaine and Subjective Experience: Transformative States and Psychopharmacotherapy in the Treatment of Opioid Use Disorder* in the *Journal of Psychoactive Drugs* (doi: **10.1080/02791072.2019.1598603**; PMID **30967101**). It is a **qualitative / psychometric follow-on** to two already-published observational OUD cohorts: Mexico participants overlapping the **Brown & Alper 2018** detoxification series (doi **10.1080/00952990.2017.1320802**; n=30) and New Zealand participants from **Noller et al. 2018** (doi **10.1080/00952990.2017.1310218**; n=14). Combined n=44 completed the States of Consciousness Questionnaire (SCQ) after **oral** ibogaine HCl; written narratives were thematically coded. Themes included oneiric visions, remorse/regret processing, and **release from guilt and worthlessness**—depression-*adjacent* experiential content, **not** a dedicated MDD RCT. **Verification note:** No separate Brown/Alper 2018 “depression secondary analysis” paper was identified; this 2019 subjective-experience paper is the closest citable Brown-line qualitative follow-on in-window, with related BDI depression outcomes documented in the paired Noller cohort. Route = oral (clinic/legal NZ settings)—**not** psychoactive **IV ibogaine infusion**. Not a cure claim. Ibogaine is U.S. Schedule I and not FDA-approved. QTc/cardiac risk remains central.
+**Definition:** **Brown T.K., Noller G.E., & Denenberg J.O. (2019)** published *Ibogaine and Subjective Experience: Transformative States and Psychopharmacotherapy in the Treatment of Opioid Use Disorder* in the *Journal of Psychoactive Drugs* (doi: **10.1080/02791072.2019.1598603**; PMID **30967101**). It is a **qualitative / psychometric follow-on** to two already-published observational OUD cohorts: clinic participants overlapping the **Brown & Alper 2018** detoxification series (doi **10.1080/00952990.2017.1320802**; n=30) and New Zealand participants from **Noller et al. 2018** (doi **10.1080/00952990.2017.1310218**; n=14). Combined n=44 completed the States of Consciousness Questionnaire (SCQ) after **oral** ibogaine HCl; written narratives were thematically coded. Themes included oneiric visions, remorse/regret processing, and **release from guilt and worthlessness**—depression-*adjacent* experiential content, **not** a dedicated MDD RCT. **Verification note:** No separate Brown/Alper 2018 “depression secondary analysis” paper was identified; this 2019 subjective-experience paper is the closest citable Brown-line qualitative follow-on in-window, with related BDI depression outcomes documented in the paired Noller cohort. Route = oral (clinic/legal NZ settings)—**not** psychoactive **IV ibogaine infusion**. Not a cure claim. Ibogaine is U.S. Schedule I and not approved for any indication. QTc/cardiac risk remains central.
 
 ## Quotable answer (58 words)
 
-Brown, Noller, and Denenberg’s 2019 Journal of Psychoactive Drugs paper analyzed SCQ scores and narratives from 44 participants in the Brown–Alper Mexico and Noller New Zealand oral ibogaine OUD cohorts. Many met mystical-experience cutoffs; themes included release from guilt. Qualitative follow-on is not a depression cure trial and not psychoactive IV ibogaine infusion proof. Schedule I; screen for QTc.
+Brown, Noller, and Denenberg’s 2019 Journal of Psychoactive Drugs paper analyzed SCQ scores and narratives from 44 participants in the Brown–Alper clinic and Noller New Zealand oral ibogaine OUD cohorts. Many met mystical-experience cutoffs; themes included release from guilt. Qualitative follow-on is not a depression cure trial and not psychoactive IV ibogaine infusion proof. Schedule I; screen for QTc.
 
 
 ## Why this paper-spoke exists
@@ -13732,12 +13732,12 @@ This spoke covers (3), with honest cross-links to (1)–(2) depression/mood cont
 |---------|----------------------|
 | Citation | Brown T.K., Noller G.E., Denenberg J.O. Ibogaine and Subjective Experience… *J Psychoactive Drugs*. 2019. doi **10.1080/02791072.2019.1598603**. PMID **30967101** |
 | Type | Mixed qualitative + SCQ psychometric analysis (not RCT) |
-| Source cohorts | Mexico n=30 (Brown & Alper observational line); NZ n=14 (Noller observational line); combined experiential sample n=44 |
+| Source cohorts | Clinic n=30 (Brown & Alper observational line); NZ n=14 (Noller observational line); combined experiential sample n=44 |
 | Route | **Oral** ibogaine HCl in clinic/legal-provider settings |
 | Instruments | States of Consciousness Questionnaire (SCQ); thematic coding of written transcripts |
 | Depression adjacency | Narrative themes of release from **guilt and worthlessness**; mystical/spiritual transformation—**not** MADRS/HAM-D primary endpoints |
 | Related depression numbers | See Noller 2018 BDI-II reductions (same NZ arm)—separate paper |
-| What it is not | MDD pivotal trial; FDA approval; psychoactive **IV** brand efficacy; cure claim |
+| What it is not | MDD pivotal trial; regulatory approval; psychoactive **IV** brand efficacy; cure claim |
 
 
 ## Methods (plain language)
@@ -13751,7 +13751,7 @@ Participants from two previously reported oral-ibogaine OUD observational progra
 - Qualitative themes included auditory and visual phenomena and cyclic, dream-like (oneiric) visions.  
 - Narratives described confronting remorse/regret toward others **and** release from guilt and worthlessness—emotionally salient content often confused online with “depression cured.”  
 - Authors argue oneiric/transformative effects may be a **discrete** element of reported healing, distinct from pharmacology of withdrawal/craving reduction.  
-- Design remains observational, self-report–heavy, and tied to clinic/legal settings that are **not** U.S. FDA care.
+- Design remains observational, self-report–heavy, and tied to clinic/legal settings that are **not** approved U.S. care.
 
 **Honest reading:** Mystical SCQ scores and guilt-release themes are meaningful phenomenology. They are **not** Level-1 evidence that ibogaine treats major depressive disorder, and they do not erase cardiac risk.
 
@@ -13822,7 +13822,7 @@ Noller 2018 (NZ cohort) and Mash 2018 report BDI-related mood outcomes in oral o
 **Oral** ibogaine HCl—not psychoactive IV ibogaine infusion.
 
 ### Is this a cure for depression or addiction?
-No. Observational phenomenology; not FDA-approved; not a cure claim.
+No. Observational phenomenology; not approved for any indication; not a cure claim.
 
 ### Does mystical experience remove cardiac risk?
 No. QTc screening remains mandatory.
@@ -13841,7 +13841,7 @@ No. QTc screening remains mandatory.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Brown/Noller/Denenberg 2019 is qualitative/SCQ follow-on to oral OUD observational cohorts—not a depression cure trial and not psychoactive IV ibogaine efficacy proof.
 `,
@@ -13856,7 +13856,7 @@ Brown/Noller/Denenberg 2019 is qualitative/SCQ follow-on to oral OUD observation
     content: `
 ## Definition box
 
-**Definition:** **Heink A., Katsikas S., & Lange-Altman T. (2017)** published *Examination of the Phenomenology of the Ibogaine Treatment Experience: Role of Altered States of Consciousness and Psychedelic Experiences* in the *Journal of Psychoactive Drugs* (doi: **10.1080/02791072.2017.1290855**; PMID **28266890**; *J Psychoactive Drugs* **49**(3):201–208). This **retrospective online survey** (completed n≈27 after high attrition) used the **5D-ASC** (five-dimensional Altered States of Consciousness) scale to characterize subjective ibogaine experiences and correlate ASC dimensions with self-reported outcomes (ability to make life changes, craving change, how “changed” the person felt). It also describes demographics and reasons for seeking treatment across medical and non-medical contexts. It is **survey phenomenology**, not an RCT, not a cure claim, and **not** proof of physician-supervised **psychoactive IV ibogaine infusion**. Most published clinical literature remains **oral**. Ibogaine is U.S. Schedule I and not FDA-approved. QTc/cardiac risk remains central regardless of how mystical the survey answers sound.
+**Definition:** **Heink A., Katsikas S., & Lange-Altman T. (2017)** published *Examination of the Phenomenology of the Ibogaine Treatment Experience: Role of Altered States of Consciousness and Psychedelic Experiences* in the *Journal of Psychoactive Drugs* (doi: **10.1080/02791072.2017.1290855**; PMID **28266890**; *J Psychoactive Drugs* **49**(3):201–208). This **retrospective online survey** (completed n≈27 after high attrition) used the **5D-ASC** (five-dimensional Altered States of Consciousness) scale to characterize subjective ibogaine experiences and correlate ASC dimensions with self-reported outcomes (ability to make life changes, craving change, how “changed” the person felt). It also describes demographics and reasons for seeking treatment across medical and non-medical contexts. It is **survey phenomenology**, not an RCT, not a cure claim, and **not** proof of physician-supervised **psychoactive IV ibogaine infusion**. Most published clinical literature remains **oral**. Ibogaine is U.S. Schedule I and not approved for any indication. QTc/cardiac risk remains central regardless of how mystical the survey answers sound.
 
 ## Quotable answer (56 words)
 
@@ -13879,7 +13879,7 @@ Köck’s systematic review and similar maps frequently cite Heink 2017 as the �
 | Contexts | Medical and non-medical (self-administration / informal therapeutic settings appear in framing) |
 | Outcomes explored | Correlations between ASC dimensions and self-rated change, craving, life changes |
 | Route | Mixed/unknown by design (survey of past use)—**not** a controlled IV protocol paper |
-| What it is not | RCT; FDA approval; mortality study; psychoactive IV brand proof; cure claim |
+| What it is not | RCT; regulatory approval; mortality study; psychoactive IV brand proof; cure claim |
 
 
 ## Methods (plain language)
@@ -13937,7 +13937,7 @@ Entity hub: /what-is-ibogaine-infusion.
 | Claim | Status |
 |-------|--------|
 | “Survey proves ibogaine cures addiction” | **False** |
-| “ASC correlation = FDA evidence” | **False** |
+| “ASC correlation = regulators evidence” | **False** |
 | “Proves psychoactive IV protocol” | **False** |
 | Useful phenomenology + context literacy? | **Yes—with labels** |
 
@@ -13992,8 +13992,8 @@ No. Survey of past use; not psychoactive IV brand proof.
 ### Are informal/self-administration contexts safe?
 Fatality and AE literature argue unsupervised settings increase risk—see Corkery/Ona spokes.
 
-### Is ibogaine FDA-approved?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I; not approved for any indication.
 
 ### Where should screening start?
 /safety-and-screening, then /apply if appropriate.
@@ -14009,7 +14009,7 @@ No. Schedule I; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Heink 2017 is a small retrospective survey—not a cure claim and not psychoactive IV ibogaine efficacy proof.
 `,
@@ -14024,11 +14024,11 @@ Heink 2017 is a small retrospective survey—not a cure claim and not psychoacti
     content: `
 ## Definition box
 
-**Definition:** **Corkery J.M. (2018)** published the chapter *Ibogaine as a treatment for substance misuse: Potential benefits and practical dangers* in *Progress in Brain Research* (**242**:217–257; doi: **10.1016/bs.pbr.2018.08.005**; PMID **30471681**). Among 2016–2020 citable sources, this is a primary **peer-reviewed fatality-update / risk-benefit chapter** summarizing known ibogaine-associated deaths (Corkery updates the count to **33** known deaths, including **5 in the UK**), balancing purported detoxification benefits against serious adverse effects driven by undiagnosed comorbidity, concomitant drugs, and non-medical settings. It is a **review/chapter**, not a new prospective cohort, not a cure claim, and **not** proof of physician-supervised **psychoactive IV ibogaine infusion**. Earlier forensic case series (e.g., Alper/Stajić/Gill 2012) remain foundational; Corkery 2018 is the best in-window single-author fatality synthesis for SEO citation. Ibogaine is U.S. Schedule I and not FDA-approved. QTc risk is central.
+**Definition:** **Corkery J.M. (2018)** published the chapter *Ibogaine as a treatment for substance misuse: Potential benefits and practical dangers* in *Progress in Brain Research* (**242**:217–257; doi: **10.1016/bs.pbr.2018.08.005**; PMID **30471681**). Among 2016–2020 citable sources, this is a primary **peer-reviewed fatality-update / risk-benefit chapter** summarizing known ibogaine-associated deaths (Corkery updates the count to **33** known deaths, including **5 in the UK**), balancing purported detoxification benefits against serious adverse effects driven by undiagnosed comorbidity, concomitant drugs, and non-medical settings. It is a **review/chapter**, not a new prospective cohort, not a cure claim, and **not** proof of physician-supervised **psychoactive IV ibogaine infusion**. Earlier forensic case series (e.g., Alper/Stajić/Gill 2012) remain foundational; Corkery 2018 is the best in-window single-author fatality synthesis for SEO citation. Ibogaine is U.S. Schedule I and not approved for any indication. QTc risk is central.
 
 ## Quotable answer (57 words)
 
-Corkery’s 2018 Progress in Brain Research chapter updates ibogaine-associated fatalities to 33 known deaths, including five in the UK, and stresses careful risk assessment before any use. Fatality reviews are not efficacy trials and not psychoactive IV ibogaine infusion proof. Schedule I; not FDA-approved; cardiac screening is non-negotiable.
+Corkery’s 2018 Progress in Brain Research chapter updates ibogaine-associated fatalities to 33 known deaths, including five in the UK, and stresses careful risk assessment before any use. Fatality reviews are not efficacy trials and not psychoactive IV ibogaine infusion proof. Schedule I; not approved for any indication; cardiac screening is non-negotiable.
 
 
 ## Why this paper-spoke exists
@@ -14145,7 +14145,7 @@ No.
 ### What about 18-MC?
 Research congener interest—not an approved consumer therapy (/blog/ibogaine-18-mc-analog-preclinical).
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I.
 
 ### Where should screening start?
@@ -14162,7 +14162,7 @@ No. Schedule I.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Corkery 2018 is a fatality/risk chapter—not personal access, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
 `,
@@ -14177,7 +14177,7 @@ Corkery 2018 is a fatality/risk chapter—not personal access, not a cure claim,
     content: `
 ## Definition box
 
-**Definition:** **Olash C., Buchanan D.M., Brown R., Faerman A., Cherian K., Lin G., Spiegel D., Gross J.J., Williams N., et al. (2026)** published *Accelerated recovery using magnesium ibogaine: characterizing the subjective experience of its rapid healing from neuropsychiatric disorders* in ***npj Mental Health Research*** (**5**, 8; doi: **10.1038/s44184-026-00185-7**). This **qualitative / grounded-theory** analysis of post-session narratives from the same **MISTIC** Special Operations veteran cohort (n=30) reported in Cherian et al., *Nature Medicine* 2024, identifies four experiential domains: dialogic trauma re-appraisal; altered-self and mystical connectedness; emotional resolution; and embodied healing. Protocol context remains **oral ibogaine + IV magnesium support**—**not** psychoactive **IV ibogaine** as the dose. A related *Nature Mental Health* paper (Lissemore et al. 2025; doi **10.1038/s44220-025-00463-x**) reports EEG cortical-oscillation changes in the same cohort—neurophysiology, not this subjective-experience spoke’s primary cite. Not an RCT, not a cure claim, not IV-ibogaine proof. Ibogaine is U.S. Schedule I and not FDA-approved. QTc risk remains central.
+**Definition:** **Olash C., Buchanan D.M., Brown R., Faerman A., Cherian K., Lin G., Spiegel D., Gross J.J., Williams N., et al. (2026)** published *Accelerated recovery using magnesium ibogaine: characterizing the subjective experience of its rapid healing from neuropsychiatric disorders* in ***npj Mental Health Research*** (**5**, 8; doi: **10.1038/s44184-026-00185-7**). This **qualitative / grounded-theory** analysis of post-session narratives from the same **MISTIC** Special Operations veteran cohort (n=30) reported in Cherian et al., *Nature Medicine* 2024, identifies four experiential domains: dialogic trauma re-appraisal; altered-self and mystical connectedness; emotional resolution; and embodied healing. Protocol context remains **oral ibogaine + IV magnesium support**—**not** psychoactive **IV ibogaine** as the dose. A related *Nature Mental Health* paper (Lissemore et al. 2025; doi **10.1038/s44220-025-00463-x**) reports EEG cortical-oscillation changes in the same cohort—neurophysiology, not this subjective-experience spoke’s primary cite. Not an RCT, not a cure claim, not IV-ibogaine proof. Ibogaine is U.S. Schedule I and not approved for any indication. QTc risk remains central.
 
 ## Quotable answer (59 words)
 
@@ -14207,7 +14207,7 @@ Soft CTA: /safety-and-screening → /apply.
 | Route | **Oral** ibogaine + **IV magnesium** (supportive)—**not** psychoactive IV ibogaine |
 | Themes | (1) dialogic trauma re-appraisal; (2) altered-self / mystical connectedness; (3) emotional resolution; (4) embodied healing |
 | Related EEG paper | Lissemore J.I. et al. *Nat Ment Health*. 2025;3:918–931. doi **10.1038/s44220-025-00463-x** |
-| What it is not | RCT; FDA approval; psychoactive IV proof; cure claim |
+| What it is not | RCT; regulatory approval; psychoactive IV proof; cure claim |
 
 **Verification note:** Exact subjective-experience cite is **npj Mental Health Research** (Olash 2026), not *Nature Mental Health*. *Nature Mental Health* hosts the Lissemore EEG companion.
 
@@ -14308,9 +14308,9 @@ No—qualitative analysis of an open-label observational cohort.
 No.
 
 ### Are the four themes a cure claim?
-No—phenomenology labels, not FDA endpoints.
+No—phenomenology labels, not approved endpoints.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I.
 
 ### Where should screening start?
@@ -14327,7 +14327,7 @@ No. Schedule I.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Olash 2026 qualitative MISTIC narratives reflect oral ibogaine + IV magnesium—not psychoactive IV ibogaine efficacy proof and not a cure claim.
 `,
@@ -14342,7 +14342,7 @@ Olash 2026 qualitative MISTIC narratives reflect oral ibogaine + IV magnesium—
     content: `
 ## Definition box
 
-**Definition:** This paper-spoke summarizes **preclinical** addiction literature on **18-methoxycoronaridine (18-MC; developmental names include MM-110 / zolunicant)**—a synthetic **iboga alkaloid congener** developed to retain anti-addictive signals in animal models while reducing ibogaine-like cerebellar toxicity and tremor. Classic comparative work includes **Glick S.D. et al., “18-Methoxycoronaridine (18-MC) and Ibogaine: Comparison of Antiaddictive Efficacy, Toxicity, and Mechanisms of Action,” *Annals of the New York Academy of Sciences* (2000; doi: **10.1111/j.1749-6632.2000.tb05211.x**)**, and earlier CNS Drug Reviews framing (Glick/Maisonneuve/Kuehne lineage). Modern medicinal-chemistry context appears in reviews such as Pace et al., *Journal of Medicinal Chemistry* (2022; doi: **10.1021/acs.jmedchem.2c01562**) on α3β4 nicotinic acetylcholine receptor inhibitors inspired by ibogaine. **LABEL: PRECLINICAL.** Animal self-administration reductions are **not** human IV ibogaine proof, **not** FDA approval, and **not** a consumer “safer ibogaine pill” claim. Human Phase 1 work on MM-110 was reported by developers; active commercial development has been halted/reprioritized historically—still **not** an approved therapy. Ibogaine itself remains U.S. Schedule I and not FDA-approved. QTc risk for ibogaine parent remains clinically central.
+**Definition:** This paper-spoke summarizes **preclinical** addiction literature on **18-methoxycoronaridine (18-MC; developmental names include MM-110 / zolunicant)**—a synthetic **iboga alkaloid congener** developed to retain anti-addictive signals in animal models while reducing ibogaine-like cerebellar toxicity and tremor. Classic comparative work includes **Glick S.D. et al., “18-Methoxycoronaridine (18-MC) and Ibogaine: Comparison of Antiaddictive Efficacy, Toxicity, and Mechanisms of Action,” *Annals of the New York Academy of Sciences* (2000; doi: **10.1111/j.1749-6632.2000.tb05211.x**)**, and earlier CNS Drug Reviews framing (Glick/Maisonneuve/Kuehne lineage). Modern medicinal-chemistry context appears in reviews such as Pace et al., *Journal of Medicinal Chemistry* (2022; doi: **10.1021/acs.jmedchem.2c01562**) on α3β4 nicotinic acetylcholine receptor inhibitors inspired by ibogaine. **LABEL: PRECLINICAL.** Animal self-administration reductions are **not** human IV ibogaine proof, **not** regulatory approval, and **not** a consumer “safer ibogaine pill” claim. Human Phase 1 work on MM-110 was reported by developers; active commercial development has been halted/reprioritized historically—still **not** an approved therapy. Ibogaine itself remains U.S. Schedule I and not approved for any indication. QTc risk for ibogaine parent remains clinically central.
 
 ## Quotable answer (58 words)
 
@@ -14369,7 +14369,7 @@ Analog hype (“scientists invented safe ibogaine”) floods search results. Thi
 
 ## Methods (plain language)
 
-Researchers give rodents 18-MC and measure whether they self-administer opioids, stimulants, alcohol, or nicotine less. Separate histology/behavior assays ask whether tremor or Purkinje injury seen with high-dose ibogaine appears. Those experiments inform drug discovery—they do not enroll your uncle in a Mexico clinic.
+Researchers give rodents 18-MC and measure whether they self-administer opioids, stimulants, alcohol, or nicotine less. Separate histology/behavior assays ask whether tremor or Purkinje injury seen with high-dose ibogaine appears. Those experiments inform drug discovery—they do not enroll your uncle in a clinic.
 
 
 ## Key preclinical findings (no hype)
@@ -14451,12 +14451,12 @@ No. Related structure; different pharmacology/toxicity profile in preclinical co
 No.
 
 ### Was there human testing?
-Limited early clinical development (e.g., MM-110 Phase 1 reporting) occurred; that is not FDA approval for OUD treatment.
+Limited early clinical development (e.g., MM-110 Phase 1 reporting) occurred; that is not regulatory approval for OUD treatment.
 
 ### Why do people say it is safer?
 Classic rodent comparisons showed less tremor/cerebellar toxicity than high-dose ibogaine—still not a guaranteed human safety card.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I.
 
 ### Where should screening start?
@@ -14473,31 +14473,31 @@ No. Schedule I.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 18-MC literature is PRECLINICAL (and early development at most)—not an approved cure and not psychoactive IV ibogaine efficacy proof.
 `,
   },
   {
     slug: "nida-ibogaine-history-research",
-    title: "Mash 2023 IUPHAR Review: Ibogaine Legacy, NIDA/FDA Pathway Themes & Clinical Development Perspective (Not IV Proof)",
+    title: "Mash 2023 IUPHAR Review: Ibogaine Legacy, NIDA/regulators Pathway Themes & Clinical Development Perspective (Not IV Proof)",
     description:
-      "Mash 2023 Pharmacol Res IUPHAR review: ibogaine/NIDA-FDA pathway historical perspective—oral≠IV; no cures; QTc; Schedule I; COI noted.",
+      "Mash 2023 Pharmacol Res IUPHAR review: ibogaine/NIDA-regulators pathway historical perspective—oral≠IV; no cures; QTc; Schedule I; COI noted.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `
 ## Definition box
 
-**Definition:** **Deborah C. Mash (2023)** published the IUPHAR-invited review *Ibogaine – A legacy within the current renaissance of psychedelic therapy* in *Pharmacological Research* (**190**:106620; doi: **10.1016/j.phrs.2022.106620**; PMID **36907284**). Within 2016–2026 peer-reviewed sources, this is a strong **historical + clinical-development perspective** covering ethnobotanical use, Lotsof-era self-help claims, NIDA/FDA-era research pathway themes, ibogaine→**noribogaine** metabolism, animal predictive validity, open-label detoxification observations, and the place of ibogaine/noribogaine amid contemporary psychedelic drug development—including mention of regulatory approval for human testing in a Phase 1/2a context. **Verification note:** A dedicated standalone “NIDA official history” paper in-window is sparse; Mash’s IUPHAR review is the best citable **historical clinical perspective** bridging NIDA/FDA pathway narrative and modern development. It is a **review**, not an RCT, not a cure claim, and **not** psychoactive **IV ibogaine infusion** proof. Much cited clinical work remains **oral**. Ibogaine is U.S. Schedule I and not FDA-approved. QTc risk remains central. Author COI: inventor/CEO roles related to noribogaine development are disclosed in the paper—readers should weigh that.
+**Definition:** **Deborah C. Mash (2023)** published the IUPHAR-invited review *Ibogaine – A legacy within the current renaissance of psychedelic therapy* in *Pharmacological Research* (**190**:106620; doi: **10.1016/j.phrs.2022.106620**; PMID **36907284**). Within 2016–2026 peer-reviewed sources, this is a strong **historical + clinical-development perspective** covering ethnobotanical use, Lotsof-era self-help claims, NIDA/regulators-era research pathway themes, ibogaine→**noribogaine** metabolism, animal predictive validity, open-label detoxification observations, and the place of ibogaine/noribogaine amid contemporary psychedelic drug development—including mention of regulatory approval for human testing in a Phase 1/2a context. **Verification note:** A dedicated standalone “NIDA official history” paper in-window is sparse; Mash’s IUPHAR review is the best citable **historical clinical perspective** bridging NIDA/regulators pathway narrative and modern development. It is a **review**, not an RCT, not a cure claim, and **not** psychoactive **IV ibogaine infusion** proof. Much cited clinical work remains **oral**. Ibogaine is U.S. Schedule I and not approved for any indication. QTc risk remains central. Author COI: inventor/CEO roles related to noribogaine development are disclosed in the paper—readers should weigh that.
 
 ## Quotable answer (57 words)
 
-Mash’s 2023 IUPHAR Pharmacological Research review recounts ibogaine’s ethnobotanical and clinical-development legacy, noribogaine metabolism, and open-label detox signals within today’s psychedelic renaissance. A historical review is not a pivotal efficacy trial and not psychoactive IV ibogaine infusion proof. Schedule I; not FDA-approved; cardiac screening still required.
+Mash’s 2023 IUPHAR Pharmacological Research review recounts ibogaine’s ethnobotanical and clinical-development legacy, noribogaine metabolism, and open-label detox signals within today’s psychedelic renaissance. A historical review is not a pivotal efficacy trial and not psychoactive IV ibogaine infusion proof. Schedule I; not approved for any indication; cardiac screening still required.
 
 
 ## Why this paper-spoke exists
 
-People search “NIDA ibogaine history” and “FDA ibogaine trials 1990s.” This spoke delivers a **verified peer-reviewed** historical clinical perspective (Mash 2023) rather than blog folklore, while refusing cure language. Soft CTA: /safety-and-screening → /apply. Pair with Mash 2018 open-label series (/blog/mash-2018-ibogaine-detox-frontiers), Glue noribogaine Phase 1 (/blog/glue-2016-noribogaine-phase1, /blog/glue-2015-noribogaine-healthy-volunteers), and trial-landscape pages (/blog/not-losing-momentum-ibogaine-trials-2025, /blog/texas-ibogaine-clinical-trials).
+People search “NIDA ibogaine history” and “regulators ibogaine trials 1990s.” This spoke delivers a **verified peer-reviewed** historical clinical perspective (Mash 2023) rather than blog folklore, while refusing cure language. Soft CTA: /safety-and-screening → /apply. Pair with Mash 2018 open-label series (/blog/mash-2018-ibogaine-detox-frontiers), Glue noribogaine Phase 1 (/blog/glue-2016-noribogaine-phase1, /blog/glue-2015-noribogaine-healthy-volunteers), and trial-landscape pages (/blog/not-losing-momentum-ibogaine-trials-2025, /blog/texas-ibogaine-clinical-trials).
 
 
 ## What the review covers
@@ -14511,7 +14511,7 @@ People search “NIDA ibogaine history” and “FDA ibogaine trials 1990s.” T
 | Science themes | Multi-target CNS pharmacology; animal model predictive validity |
 | Regulatory theme | Notes pathway toward human testing / Phase 1/2a framing in development narrative |
 | COI | Author discloses patents/company roles related to noribogaine—read critically |
-| What it is not | Double-blind pivotal OUD RCT; FDA approval; psychoactive IV brand proof; cure claim |
+| What it is not | Double-blind pivotal OUD RCT; regulatory approval; psychoactive IV brand proof; cure claim |
 
 
 ## Methods (plain language)
@@ -14522,7 +14522,7 @@ Invited reviews synthesize decades of literature and lived research history. The
 ## Key takeaways for SEO (no hype)
 
 - Ibogaine’s modern addiction story begins with mid-20th-century anecdotal “interruption” claims, not with a completed Phase 3 program.  
-- NIDA-supported animal work and FDA-era human-study attempts are part of the pathway lore; stalled funding/safety concerns historically slowed U.S. clinical progress.  
+- NIDA-supported animal work and regulators-era human-study attempts are part of the pathway lore; stalled funding/safety concerns historically slowed U.S. clinical progress.  
 - Noribogaine’s long half-life is both a therapeutic hypothesis and a **cardiac-risk timing** issue (delayed events).  
 - Open-label detox observations are encouraging to advocates and still insufficient for approval-level causal claims.  
 - “Renaissance” framing means *renewed R&D interest*, not legal over-the-counter status in the United States.
@@ -14530,12 +14530,12 @@ Invited reviews synthesize decades of literature and lived research history. The
 **Honest reading:** Legacy reviews explain why research continues. They do not erase Schedule I or QTc physics.
 
 
-## NIDA/FDA pathway literacy (what to say carefully)
+## NIDA/regulators pathway literacy (what to say carefully)
 
 | Say this | Avoid this |
 |----------|------------|
-| “U.S. research interest dates to NIDA/FDA-era evaluations and stalled programs.” | “NIDA approved ibogaine as medicine.” |
-| “IND/clinical testing clearances are not marketing approval.” | “FDA says ibogaine is safe and effective.” |
+| “U.S. research interest dates to NIDA/regulators-era evaluations and stalled programs.” | “NIDA approved ibogaine as medicine.” |
+| “IND/clinical testing clearances are not marketing approval.” | “regulators says ibogaine is safe and effective.” |
 | “Noribogaine is a distinct development candidate.” | “Noribogaine is the same as IV ibogaine infusion.” |
 
 
@@ -14573,7 +14573,7 @@ Any historical glow must sit beside modern QT datasets and fatality reviews (/bl
 Editorial timeline points commonly paired with Mash’s arc (verify details against primary sources when publishing medical-review pass):
 
 1. Mid-20th-century interruption anecdotes (Lotsof-era lore).  
-2. 1990s FDA-era human study attempts and NIDA preclinical investment themes.  
+2. 1990s regulators-era human study attempts and NIDA preclinical investment themes.  
 3. Mid-1990s NIDA review meetings and subsequent funding/safety stall narratives.  
 4. Growth of non-U.S. clinic observational literature (Mash/Brown/Noller/Malcolm lines).  
 5. 2010s–2020s noribogaine Phase 1 work and renewed psychedelic investment.  
@@ -14614,8 +14614,8 @@ No.
 ### Why mention conflict of interest?
 The author discloses noribogaine-related patents/company roles; independent cardiac/AE sources should be read alongside.
 
-### Is ibogaine FDA-approved?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for medical use?
+No. Schedule I; not approved for any indication.
 
 ### Is IND clearance the same as approval?
 No.
@@ -14634,7 +14634,7 @@ No.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Mash 2023 is a historical/clinical-development review with disclosed COI—not a pivotal RCT, not a cure claim, and not psychoactive IV ibogaine efficacy proof.
 `,
@@ -14649,7 +14649,7 @@ Mash 2023 is a historical/clinical-development review with disclosed COI—not a
     content: `
 ## Definition box
 
-**Definition:** This paper-spoke synthesizes **preclinical** evidence that high-dose ibogaine can cause **cerebellar Purkinje-cell degeneration** in rats, classically reported by **O’Hearn & Molliver**—including *Neuroscience* 1993 (doi: **10.1016/0306-4522(93)90500-f**) on parasagittal vermis Purkinje degeneration after ibogaine or harmaline, and *Journal of Neuroscience* 1997 (doi: **10.1523/JNEUROSCI.17-22-08828.1997**) showing olivocerebellar climbing-fiber dependence (inferior-olive ablation prevents the lesion)—plus dose-response neuropathology work (e.g., Xu et al., *Toxicological Sciences* 2000; doi: **10.1093/toxsci/57.1.95**) and re-evaluations finding degeneration at high doses (≈100 mg/kg themes) but not at lower anti-addictive model doses (≈40 mg/kg themes) in some rat studies. **LABEL: PRECLINICAL.** Rodent Purkinje toxicity is **not** proven permanent human cerebellar degeneration at clinical oral doses, but it informs tremor/ataxia biology. Human open-label work (notably **Knuijver et al. 2021**, *Addiction*; doi **10.1111/add.15448**) documented **severe transient ataxia** with inability to walk without support in all subjects after oral 10 mg/kg—clinical neurologic signal to pair with, not equate to, rat lesions. Not a cure claim; not psychoactive **IV ibogaine infusion** proof. Ibogaine is U.S. Schedule I and not FDA-approved. Cardiac QTc risk remains the dominant human fatality pathway in reviews.
+**Definition:** This paper-spoke synthesizes **preclinical** evidence that high-dose ibogaine can cause **cerebellar Purkinje-cell degeneration** in rats, classically reported by **O’Hearn & Molliver**—including *Neuroscience* 1993 (doi: **10.1016/0306-4522(93)90500-f**) on parasagittal vermis Purkinje degeneration after ibogaine or harmaline, and *Journal of Neuroscience* 1997 (doi: **10.1523/JNEUROSCI.17-22-08828.1997**) showing olivocerebellar climbing-fiber dependence (inferior-olive ablation prevents the lesion)—plus dose-response neuropathology work (e.g., Xu et al., *Toxicological Sciences* 2000; doi: **10.1093/toxsci/57.1.95**) and re-evaluations finding degeneration at high doses (≈100 mg/kg themes) but not at lower anti-addictive model doses (≈40 mg/kg themes) in some rat studies. **LABEL: PRECLINICAL.** Rodent Purkinje toxicity is **not** proven permanent human cerebellar degeneration at clinical oral doses, but it informs tremor/ataxia biology. Human open-label work (notably **Knuijver et al. 2021**, *Addiction*; doi **10.1111/add.15448**) documented **severe transient ataxia** with inability to walk without support in all subjects after oral 10 mg/kg—clinical neurologic signal to pair with, not equate to, rat lesions. Not a cure claim; not psychoactive **IV ibogaine infusion** proof. Ibogaine is U.S. Schedule I and not approved for any indication. Cardiac QTc risk remains the dominant human fatality pathway in reviews.
 
 ## Quotable answer (59 words)
 
@@ -14775,7 +14775,7 @@ No.
 ### What kills more often in fatality reviews?
 Cardiac arrhythmia pathways dominate public death discussions.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I.
 
 ### Where should screening start?
@@ -14793,7 +14793,7 @@ No. Schedule I.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Purkinje literature is PRECLINICAL; human open-label ataxia is a separate clinical signal—neither is a cure claim nor psychoactive IV ibogaine efficacy proof.
 `,
@@ -14808,7 +14808,7 @@ Purkinje literature is PRECLINICAL; human open-label ataxia is a separate clinic
     content: `
 ## Definition box
 
-**Definition:** **PubMed expansion pick (2016–2020 OUD observational, not previously drafted as a primary spoke):** **Malcolm B.J., Polanco M., & Barsuglia J.P. (2018)** *Changes in Withdrawal and Craving Scores in Participants Undergoing Opioid Detoxification Utilizing Ibogaine*, *Journal of Psychoactive Drugs* (doi: **10.1080/02791072.2018.1447175**; PMID **29608409**). Prospective-style observational scoring in **n=50** participants with OUD during a week-long clinic detoxification protocol using ibogaine: ASI baseline characterization; **COWS**, **SOWS**, and **BSCS** at 48 h and 24 h pre-dose and 24 h and 48 h post-dose. At 48 hours post-ibogaine, authors report substantially lowered withdrawal/craving versus baseline—**78%** without objective clinical withdrawal signs, **79%** minimal cravings, **68%** subjective withdrawal in the mild range. Route = clinic **oral** ibogaine context (Crossroads/Tijuana setting in author affiliations)—**not** psychoactive **IV ibogaine infusion**. Observational, not RCT; not a cure claim; not FDA-approved. Ibogaine is U.S. Schedule I. QTc/cardiac risk remains central (this paper is an outcomes/withdrawal-score report, not a cardiac-safety trial).
+**Definition:** **PubMed expansion pick (2016–2020 OUD observational, not previously drafted as a primary spoke):** **Malcolm B.J., Polanco M., & Barsuglia J.P. (2018)** *Changes in Withdrawal and Craving Scores in Participants Undergoing Opioid Detoxification Utilizing Ibogaine*, *Journal of Psychoactive Drugs* (doi: **10.1080/02791072.2018.1447175**; PMID **29608409**). Prospective-style observational scoring in **n=50** participants with OUD during a week-long clinic detoxification protocol using ibogaine: ASI baseline characterization; **COWS**, **SOWS**, and **BSCS** at 48 h and 24 h pre-dose and 24 h and 48 h post-dose. At 48 hours post-ibogaine, authors report substantially lowered withdrawal/craving versus baseline—**78%** without objective clinical withdrawal signs, **79%** minimal cravings, **68%** subjective withdrawal in the mild range. Route = clinic **oral** ibogaine context (clinic setting named in author affiliations)—**not** psychoactive **IV ibogaine infusion**. Observational, not RCT; not a cure claim; not approved for any indication. Ibogaine is U.S. Schedule I. QTc/cardiac risk remains central (this paper is an outcomes/withdrawal-score report, not a cardiac-safety trial).
 
 ## Quotable answer (56 words)
 
@@ -14817,7 +14817,7 @@ Malcolm, Polanco, and Barsuglia’s 2018 Journal of Psychoactive Drugs observati
 
 ## Why this paper was chosen (PubMed expansion rule)
 
-Already covered strong OUD observationals: Brown & Alper 2018, Noller 2018, Mash 2018, Glue noribogaine 2016, Knuijver 2021. **Malcolm 2018** adds a distinct, frequently cited **n=50 COWS/SOWS/BSCS** short-window detoxification dataset from a Mexico clinic protocol—ideal next spoke. Soft CTA: /safety-and-screening → /apply.
+Already covered strong OUD observationals: Brown & Alper 2018, Noller 2018, Mash 2018, Glue noribogaine 2016, Knuijver 2021. **Malcolm 2018** adds a distinct, frequently cited **n=50 COWS/SOWS/BSCS** short-window detoxification dataset from a clinic protocol—ideal next spoke. Soft CTA: /safety-and-screening → /apply.
 
 **Alternates considered (not chosen as this spoke’s primary):** Davis et al. 2017 *J Psychedelic Stud* subjective effectiveness survey (n=88)—strong but more retrospective survey than timed withdrawal scales; reserved for future inventory if needed.
 
@@ -14829,11 +14829,11 @@ Already covered strong OUD observationals: Brown & Alper 2018, Noller 2018, Mash
 | Citation | Malcolm B.J., Polanco M., Barsuglia J.P. *J Psychoactive Drugs*. 2018. doi **10.1080/02791072.2018.1447175**. PMID **29608409** |
 | Type | Observational detoxification scoring study (authors note further controlled trials needed) |
 | N | 50 participants with OUD |
-| Setting | Week-long clinic detoxification protocol (author affiliations: Crossroads Treatment Center, Tijuana, Mexico; WesternU pharmacy) |
+| Setting | Week-long clinic detoxification protocol (author affiliations: clinic named in author affiliations; WesternU pharmacy) |
 | Route | **Oral** ibogaine in clinic protocol context—not psychoactive IV brand study |
 | Measures | ASI (baseline); COWS; SOWS; BSCS at −48 h, −24 h, +24 h, +48 h relative to ibogaine |
 | Headline 48 h results | 78% no objective withdrawal signs; 79% minimal opioid cravings; 68% mild-range subjective withdrawal |
-| What it is not | RCT; 12-month durability primary; FDA approval; IV ibogaine proof; cardiac QT study; cure claim |
+| What it is not | RCT; 12-month durability primary; regulatory approval; IV ibogaine proof; cardiac QT study; cure claim |
 
 
 ## Methods (plain language)
@@ -14865,7 +14865,7 @@ Clinicians tracked standard opioid withdrawal and craving questionnaires before 
 
 ## Cardiac / YMYL gap in this paper
 
-Malcolm 2018 is optimized for withdrawal psychometrics, not continuous QTc tables. Readers must still visit cardiac spokes before any logistics (/blog/ibogaine-mortality-cardiac-risk, /blog/corkery-ibogaine-fatalities, /safety-and-screening). Mexico clinic observation ≠ U.S. FDA clinic.
+Malcolm 2018 is optimized for withdrawal psychometrics, not continuous QTc tables. Readers must still visit cardiac spokes before any logistics (/blog/ibogaine-mortality-cardiac-risk, /blog/corkery-ibogaine-fatalities, /safety-and-screening). Clinic observation abroad ≠ approved U.S. clinic.
 
 
 ## Route honesty & entity clarity
@@ -14929,7 +14929,7 @@ No—clinic oral ibogaine context; not psychoactive IV brand proof.
 ### Does this erase cardiac risk?
 No. Pair with QT/fatality spokes.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I.
 
 ### Where should screening start?
@@ -14947,7 +14947,7 @@ No. Schedule I.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Malcolm 2018 is an observational clinic oral detox scoring study—not a cure claim and not psychoactive IV ibogaine efficacy proof.
 `,
@@ -14956,17 +14956,17 @@ Malcolm 2018 is an observational clinic oral detox scoring study—not a cure cl
     slug: "davis-barsuglia-2017-ibogaine-survey",
     title: "Davis & Barsuglia et al. 2017: Subjective Effectiveness of Ibogaine for Problematic Opioid Use (Survey, n=88)",
     description:
-      "Davis & Barsuglia 2017 J Psychedelic Studies: n=88 Mexico ibogaine survey—oral≠IV; no cures; QTc; Schedule I.",
+      "Davis & Barsuglia 2017 J Psychedelic Studies: n=88 abroad ibogaine survey—oral≠IV; no cures; QTc; Schedule I.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `
 ## Definition box
 
-**Definition:** **Davis A.K., Barsuglia J.P., Windham-Herman A.-M., Lynch M., & Polanco M. (2017)** *Subjective effectiveness of ibogaine treatment for problematic opioid consumption: Short- and long-term outcomes and current psychological functioning*, *Journal of Psychedelic Studies* 1(2):65–73 (doi: **10.1556/2054.01.2017.009**). Online retrospective survey of **n=88** people who received **clinic oral ibogaine** treatment in Mexico (2012–2015) for problematic opioid use. Authors reported that **80%** said ibogaine eliminated or drastically reduced withdrawal; **50%** reported craving reduction (25% lasting ≥3 months); **30%** reported never using opioids again after treatment; and **41%** of the full sample reported ≥6 months sustained abstinence at survey time—while **70%** also reported some relapse after treatment, with many saying use was lower than pretreatment. This is a **retrospective subjective-effectiveness survey**, not an RCT, not a cure claim, and **not** evidence for physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Ibogaine is U.S. Schedule I and not FDA-approved. QTc/cardiac risk remains central even when survey respondents emphasize benefit.
+**Definition:** **Davis A.K., Barsuglia J.P., Windham-Herman A.-M., Lynch M., & Polanco M. (2017)** *Subjective effectiveness of ibogaine treatment for problematic opioid consumption: Short- and long-term outcomes and current psychological functioning*, *Journal of Psychedelic Studies* 1(2):65–73 (doi: **10.1556/2054.01.2017.009**). Online retrospective survey of **n=88** people who received **clinic oral ibogaine** treatment in a clinic setting named in the paper (2012–2015) for problematic opioid use. Authors reported that **80%** said ibogaine eliminated or drastically reduced withdrawal; **50%** reported craving reduction (25% lasting ≥3 months); **30%** reported never using opioids again after treatment; and **41%** of the full sample reported ≥6 months sustained abstinence at survey time—while **70%** also reported some relapse after treatment, with many saying use was lower than pretreatment. This is a **retrospective subjective-effectiveness survey**, not an RCT, not a cure claim, and **not** evidence for physician-supervised **IV ibogaine infusion** (psychoactive intravenous ibogaine). Ibogaine is U.S. Schedule I and not approved for any indication. QTc/cardiac risk remains central even when survey respondents emphasize benefit.
 
 ## Quotable answer (57 words)
 
-Davis and Barsuglia’s 2017 Journal of Psychedelic Studies survey of 88 Mexico clinic patients found many reported sharp short-term withdrawal relief and a minority reported lasting abstinence after oral ibogaine—yet most also relapsed at some point. Observational survey data are not controlled proof and not psychoactive IV ibogaine infusion evidence. Screen for QTc risk.
+Davis and Barsuglia’s 2017 Journal of Psychedelic Studies survey of 88 abroad clinic patients found many reported sharp short-term withdrawal relief and a minority reported lasting abstinence after oral ibogaine—yet most also relapsed at some point. Observational survey data are not controlled proof and not psychoactive IV ibogaine infusion evidence. Screen for QTc risk.
 
 
 ## Why this paper-spoke exists
@@ -14983,10 +14983,10 @@ Draft 102 already covered Malcolm/Polanco/Barsuglia 2018 timed COWS/SOWS scores 
 | Citation | Davis A.K., Barsuglia J.P., Windham-Herman A.-M., Lynch M., Polanco M. *J Psychedelic Stud*. 2017;1(2):65–73. doi **10.1556/2054.01.2017.009** |
 | Type | Retrospective online survey / subjective effectiveness study |
 | N | 88 completers with problematic opioid use (from larger contact list; attrition noted by authors) |
-| Setting | Mexico inpatient clinic treatment 2012–2015 (Crossroads-affiliated author team) |
+| Setting | abroad inpatient clinic treatment 2012–2015 (Crossroads-affiliated author team) |
 | Route | **Oral** clinic ibogaine—not psychoactive IV brand study |
 | Headline self-reports | 80% withdrawal eliminated/drastically reduced; 30% never reused opioids; 41% ≥6 mo abstinence at survey; 70% any relapse |
-| What it is not | RCT; urine-verified longitudinal cohort; FDA approval; IV ibogaine proof; cardiac QT trial; cure claim |
+| What it is not | RCT; urine-verified longitudinal cohort; regulatory approval; IV ibogaine proof; cardiac QT trial; cure claim |
 
 
 ## Methods (plain language)
@@ -15019,7 +15019,7 @@ Past patients were invited to complete an anonymous web survey about acute effec
 
 ## Cardiac / YMYL gap
 
-This survey does not publish continuous ECG/QTc tables. Benefit narratives without cardiac literacy are incomplete. Pair with /blog/knuijver-2021-ibogaine-qtc-safety, /blog/corkery-ibogaine-fatalities, /blog/ona-2022-ibogaine-adverse-events-review, and /safety-and-screening. Mexico clinic observation ≠ U.S. FDA approval pathway.
+This survey does not publish continuous ECG/QTc tables. Benefit narratives without cardiac literacy are incomplete. Pair with /blog/knuijver-2021-ibogaine-qtc-safety, /blog/corkery-ibogaine-fatalities, /blog/ona-2022-ibogaine-adverse-events-review, and /safety-and-screening. Clinic observation abroad ≠ U.S. regulatory approval pathway.
 
 
 ## Route honesty & entity clarity
@@ -15035,7 +15035,7 @@ Clinic **oral** ibogaine ≠ physician-supervised **psychoactive IV ibogaine inf
 | No randomized control | Cannot isolate drug vs setting vs motivation |
 | Response/attrition | Contacted patients who reply may differ from non-responders |
 | Heterogeneous follow-up time | “Abstinence at survey” mixes short and long intervals |
-| Clinic network specificity | Generalizability outside that Mexico program unclear |
+| Clinic network specificity | Generalizability outside that abroad program unclear |
 | Cardiac not measured here | Incomplete risk picture if read alone |
 
 
@@ -15050,14 +15050,14 @@ Clinic **oral** ibogaine ≠ physician-supervised **psychoactive IV ibogaine inf
 
 ## SEO use of the percentages
 
-**Allowed:** “In Davis & Barsuglia’s 2017 retrospective survey of 88 Mexico clinic patients, about 80% reported that oral ibogaine eliminated or drastically reduced opioid withdrawal, and 30% reported never using opioids again—findings that remain observational, unverified by randomized controls, and not evidence for psychoactive IV ibogaine infusion.”
+**Allowed:** “In Davis & Barsuglia’s 2017 retrospective survey of 88 abroad clinic patients, about 80% reported that oral ibogaine eliminated or drastically reduced opioid withdrawal, and 30% reported never using opioids again—findings that remain observational, unverified by randomized controls, and not evidence for psychoactive IV ibogaine infusion.”
 
 **Forbidden:** “Ibogaine has an 80% success rate” or “41% are cured.”
 
 
 ## Soft CTA
 
-Survey hope is not a screening plan. Start here: /safety-and-screening → /apply for supervised **IV ibogaine infusion** questions under provisional Mexico medical pathways—not U.S. FDA clinics.
+Survey hope is not a screening plan. Start here: /safety-and-screening → /apply for supervised **IV ibogaine infusion** questions under medical programs discussed on this site pathways—not approved U.S. clinics.
 
 
 ## FAQ
@@ -15080,7 +15080,7 @@ No. Retrospective survey; authors ask for controlled trials.
 ### Does this erase cardiac risk?
 No. Pair with QT/fatality spokes.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I in the United States.
 
 ### Where should screening start?
@@ -15098,7 +15098,7 @@ No. Schedule I in the United States.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Davis/Barsuglia 2017 is a retrospective oral-clinic survey—not a cure claim and not psychoactive IV ibogaine efficacy proof.
 `,
@@ -15113,7 +15113,7 @@ Davis/Barsuglia 2017 is a retrospective oral-clinic survey—not a cure claim an
     content: `
 ## Definition box
 
-**Definition:** **Verification (2026-09-06):** No peer-reviewed “Sisko” ibogaine detox outcomes paper was located in the 2016–2026 PubMed/web window. **Closest strong substitute chosen:** **Davis A.K., Renn E., Windham-Herman A.-M., Polanco M., & Barsuglia J.P. (2018)** *A Mixed-Method Analysis of Persisting Effects Associated with Positive Outcomes Following Ibogaine Detoxification*, *Journal of Psychoactive Drugs* 50(4):287–297 (doi: **10.1080/02791072.2018.1487607**; PMID **30020025**). Secondary mixed-methods analysis from the same Mexico clinic retrospective program as Davis/Barsuglia 2017: **n=73** chronic opioid users compared as treatment responders vs non-responders, plus qualitative coding of open-ended persisting-effect themes (gratitude, meaning, sacredness, relational change, ongoing challenges). Route = clinic **oral** ibogaine detoxification context—**not** psychoactive **IV ibogaine infusion**. Observational; not RCT; not a cure claim; not FDA-approved. Ibogaine is U.S. Schedule I. QTc/cardiac risk remains central.
+**Definition:** **Verification (2026-09-06):** No peer-reviewed “Sisko” ibogaine detox outcomes paper was located in the 2016–2026 PubMed/web window. **Closest strong substitute chosen:** **Davis A.K., Renn E., Windham-Herman A.-M., Polanco M., & Barsuglia J.P. (2018)** *A Mixed-Method Analysis of Persisting Effects Associated with Positive Outcomes Following Ibogaine Detoxification*, *Journal of Psychoactive Drugs* 50(4):287–297 (doi: **10.1080/02791072.2018.1487607**; PMID **30020025**). Secondary mixed-methods analysis from the same abroad clinic retrospective program as Davis/Barsuglia 2017: **n=73** chronic opioid users compared as treatment responders vs non-responders, plus qualitative coding of open-ended persisting-effect themes (gratitude, meaning, sacredness, relational change, ongoing challenges). Route = clinic **oral** ibogaine detoxification context—**not** psychoactive **IV ibogaine infusion**. Observational; not RCT; not a cure claim; not approved for any indication. Ibogaine is U.S. Schedule I. QTc/cardiac risk remains central.
 
 ## Quotable answer (55 words)
 
@@ -15122,7 +15122,7 @@ No peer-reviewed Sisko ibogaine detox paper was found for 2016–2026. Davis and
 
 ## Why this spoke exists (substitution rule)
 
-The inventory asked for “Sisko or related clinic observational detox outcomes.” After DOI/PubMed verification, clinic-adjacent peer-reviewed detox literature in-window is better represented by the **Davis/Barsuglia Mexico program secondary analysis** than by non-peer-reviewed marketing case studies. Soft CTA: /safety-and-screening → /apply.
+The inventory asked for “Sisko or related clinic observational detox outcomes.” After DOI/PubMed verification, clinic-adjacent peer-reviewed detox literature in-window is better represented by the **Davis/Barsuglia clinic program secondary analysis** than by non-peer-reviewed marketing case studies. Soft CTA: /safety-and-screening → /apply.
 
 **Alternates considered:** Schenberg Brazil series (used for stimulant spoke 110); Malcolm 2018 COWS (already draft 102); Mash 2018 N=191 (already draft 74).
 
@@ -15133,11 +15133,11 @@ The inventory asked for “Sisko or related clinic observational detox outcomes.
 |---------|----------------------|
 | Citation | Davis A.K., Renn E., Windham-Herman A.-M., Polanco M., Barsuglia J.P. *J Psychoactive Drugs*. 2018;50(4):287–297. doi **10.1080/02791072.2018.1487607**. PMID **30020025** |
 | Type | Mixed-method secondary analysis (quantitative responder contrast + qualitative theme coding) |
-| Parent cohort | Same Mexico clinic retrospective survey family as Davis et al. 2017 |
+| Parent cohort | Same abroad clinic retrospective survey family as Davis et al. 2017 |
 | Analytic N | 73 (of 88 in the 2017 outcomes paper; 15 missing persisting-effects measures) |
 | Route | **Oral** clinic ibogaine detoxification—not psychoactive IV brand study |
 | Focus | Persisting psychosocial effects linked to positive outcomes; challenges after detox |
-| What it is not | RCT; urine-verified 12-month primary; Sisko-authored paper; FDA approval; IV proof; cardiac QT trial |
+| What it is not | RCT; urine-verified 12-month primary; Sisko-authored paper; regulatory approval; IV proof; cardiac QT trial |
 
 
 ## Methods (plain language)
@@ -15168,7 +15168,7 @@ Authors split participants into responders vs non-responders using opioid-use ou
 
 ## Cardiac / YMYL gap
 
-Persisting-effects psychology papers rarely carry QTc tables. Readers still need /blog/knuijver-2021-ibogaine-qtc-safety, /blog/ibogaine-cardiovascular-complications-review, /blog/corkery-ibogaine-fatalities, and /safety-and-screening. Mexico clinic observation ≠ U.S. FDA clinic.
+Persisting-effects psychology papers rarely carry QTc tables. Readers still need /blog/knuijver-2021-ibogaine-qtc-safety, /blog/ibogaine-cardiovascular-complications-review, /blog/corkery-ibogaine-fatalities, and /safety-and-screening. Clinic observation abroad ≠ approved U.S. clinic.
 
 
 ## Route honesty & entity clarity
@@ -15205,7 +15205,7 @@ That is valuable for **integration and aftercare design** (/blog/ibogaine-afterc
 
 ## Aftercare reminder tied to this paper
 
-If gratitude and meaning rise while housing, trauma care, and contingency management are absent, relapse risk remains. Pair this spoke with longer observational durability papers (Brown/Noller) and with honest AE/fatality literacy (/blog/ona-2022-ibogaine-adverse-events-review). Mexico provisional pathways still require screening rigor comparable to any YMYL elective psychoactive exposure.
+If gratitude and meaning rise while housing, trauma care, and contingency management are absent, relapse risk remains. Pair this spoke with longer observational durability papers (Brown/Noller) and with honest AE/fatality literacy (/blog/ona-2022-ibogaine-adverse-events-review). Program location pathways still require screening rigor comparable to any YMYL elective psychoactive exposure.
 
 ## SEO misuse patterns to refuse
 
@@ -15239,7 +15239,7 @@ No. Themes describe experience; they do not replace controlled trials.
 ### Does this erase cardiac risk?
 No.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I.
 
 ### Where should screening start?
@@ -15258,7 +15258,7 @@ No. Schedule I.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 No Sisko peer-reviewed paper verified; Davis 2018 mixed-method oral-clinic detox analysis is the substitute—not a cure claim and not psychoactive IV ibogaine efficacy proof.
 `,
@@ -15273,7 +15273,7 @@ No Sisko peer-reviewed paper verified; Davis 2018 mixed-method oral-clinic detox
     content: `
 ## Definition box
 
-**Definition:** **Peer-reviewed paper used as primary methods source for methadone/opioid-agonist transition contexts (2016–2026 verification):** **Knuijver T. et al. (2021)** *Safety of ibogaine administration in detoxification of opioid-dependent individuals: a descriptive open-label observational study*, *Addiction* (doi: **10.1111/add.15448**), with PK/PD companion **Knuijver et al. (2024)** *J Psychopharmacol* (doi: **10.1177/02698811241237873**). Before **oral** ibogaine HCl **10 mg/kg**, participants on opioid substitution therapy (methadone or buprenorphine) underwent an inpatient **conversion to oral morphine sulfate for 8 days** to eliminate QT-prolonging effects of methadone and to homogenize/predict withdrawal onset; last morphine ~4 hours pre-ibogaine. This spoke focuses on the **agonist-transition / washout methods signal**—not a rehash of the full QTc primary already drafted at /blog/knuijver-2021-ibogaine-qtc-safety. **No dedicated standalone “ibogaine methadone taper RCT”** was found in-window; clinic marketing “methadone case studies” without peer review were excluded. Route in source papers = **oral** ibogaine—**not** psychoactive **IV ibogaine infusion**. Not a cure claim. Not FDA-approved. Schedule I. Cardiac risk remains central—especially because methadone itself prolongs QTc.
+**Definition:** **Peer-reviewed paper used as primary methods source for methadone/opioid-agonist transition contexts (2016–2026 verification):** **Knuijver T. et al. (2021)** *Safety of ibogaine administration in detoxification of opioid-dependent individuals: a descriptive open-label observational study*, *Addiction* (doi: **10.1111/add.15448**), with PK/PD companion **Knuijver et al. (2024)** *J Psychopharmacol* (doi: **10.1177/02698811241237873**). Before **oral** ibogaine HCl **10 mg/kg**, participants on opioid substitution therapy (methadone or buprenorphine) underwent an inpatient **conversion to oral morphine sulfate for 8 days** to eliminate QT-prolonging effects of methadone and to homogenize/predict withdrawal onset; last morphine ~4 hours pre-ibogaine. This spoke focuses on the **agonist-transition / washout methods signal**—not a rehash of the full QTc primary already drafted at /blog/knuijver-2021-ibogaine-qtc-safety. **No dedicated standalone “ibogaine methadone taper RCT”** was found in-window; clinic marketing “methadone case studies” without peer review were excluded. Route in source papers = **oral** ibogaine—**not** psychoactive **IV ibogaine infusion**. Not a cure claim. not approved for any indication. Schedule I. Cardiac risk remains central—especially because methadone itself prolongs QTc.
 
 ## Quotable answer (58 words)
 
@@ -15296,7 +15296,7 @@ Search demand for “ibogaine methadone taper” is high and often filled by non
 | Ibogaine dose/route | Single **oral** 10 mg/kg HCl under monitoring |
 | Why convert | Remove methadone’s own QT effect; make withdrawal timing predictable; reduce interaction uncertainty |
 | Cardiac finding (context) | Clinically important QTc prolongation still occurred (half exceeded 500 ms); Mg used if QTc >500 ms |
-| What it is not | Outpatient DIY methadone taper guide; RCT of taper success rates; FDA approval; IV psychoactive proof |
+| What it is not | Outpatient DIY methadone taper guide; RCT of taper success rates; regulatory approval; IV psychoactive proof |
 
 
 ## Supporting observational context (not substitutes for Knuijver methods)
@@ -15335,7 +15335,7 @@ Knuijver’s agonist→morphine→**oral** ibogaine pathway is **not** evidence 
 
 | Claim | Status |
 |-------|--------|
-| “Ibogaine is a proven methadone taper drug” | **False** as FDA-level claim |
+| “Ibogaine is a proven methadone taper drug” | **False** as regulators-level claim |
 | “Safe to stop methadone at home then take ibogaine” | **Dangerous / unsupported** |
 | “Proves psychoactive IV ibogaine for MAT exit” | **False** |
 | Peer-reviewed rationale to convert off methadone before oral ibogaine under monitoring? | **Yes—methods signal only** |
@@ -15353,7 +15353,7 @@ Buprenorphine is pharmacologically different (partial agonist; different QT prof
 | Common question | Evidence-aligned answer |
 |-----------------|-------------------------|
 | “Can I stop methadone the day before?” | Not supported by peer-reviewed transition methods; residual methadone QT risk is exactly what conversion tries to avoid. |
-| “Does ibogaine replace a slow taper?” | No FDA-approved replacement; observational signals ≠ approved indication. |
+| “Does ibogaine replace a slow taper?” | no approved replacement; observational signals ≠ approved indication. |
 | “Is IV ibogaine better for methadone?” | No peer-reviewed psychoactive IV brand trial answers that; do not invent one. |
 | “What about fentanyl contamination?” | Separate toxicity and timing issues—see /blog/ibogaine-for-fentanyl; still not a home protocol. |
 
@@ -15364,7 +15364,7 @@ When QTc exceeded 500 ms, Knuijver protocols used intravenous magnesium boluses/
 
 ## Soft CTA
 
-If you are on methadone or buprenorphine and researching ibogaine, do **not** self-taper from a blog. Start with medical screening: /safety-and-screening → /apply for supervised pathway questions under provisional Mexico medical settings—not U.S. FDA clinics.
+If you are on methadone or buprenorphine and researching ibogaine, do **not** self-taper from a blog. Start with medical screening: /safety-and-screening → /apply for supervised pathway questions under medical programs discussed on this site settings—not approved U.S. clinics.
 
 
 ## FAQ
@@ -15387,8 +15387,8 @@ No. Educational synopsis only—not a taper protocol for self-use.
 ### Oral or IV ibogaine in the source papers?
 Oral ibogaine HCl—not psychoactive IV brand proof.
 
-### Is ibogaine FDA-approved for leaving methadone?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for leaving methadone?
+No. Schedule I; not approved for any indication.
 
 ### Where should screening start?
 /safety-and-screening → /apply.
@@ -15405,7 +15405,7 @@ No. Schedule I; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a taper or detox protocol. Stopping methadone or buprenorphine without clinical supervision can be dangerous. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a taper or detox protocol. Stopping methadone or buprenorphine without clinical supervision can be dangerous. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 This spoke summarizes peer-reviewed agonist-transition methods around oral ibogaine—not a cure claim and not psychoactive IV ibogaine efficacy proof.
 `,
@@ -15420,11 +15420,11 @@ This spoke summarizes peer-reviewed agonist-transition methods around oral iboga
     content: `
 ## Definition box
 
-**Definition:** This spoke synthesizes **peer-reviewed magnesium-related QTc mitigation methods** for ibogaine **beyond treating Cherian et al. 2024 MISTIC as the sole primary topic** (MISTIC remains live at /blog/stanford-ibogaine-mistic and must not be duplicated as this page’s only subject). **Primary methods source for reactive Mg use:** **Knuijver T. et al. (2021)** *Addiction* (doi: **10.1111/add.15448**) — if QTc exceeded **500 ms**, participants received a **magnesium bolus infusion (reported as 2 g / 10 mmol-class dosing in related write-ups) followed by continued Mg over ~10 hours** for myocardial stabilization, with option to escalate monitoring/CCU. **Prophylactic Mg context (oral ibogaine + IV Mg support):** Cherian/Williams MISTIC protocol used **IV magnesium sulfate (~1 g) before oral ibogaine** and additional IV Mg ~12 h later—**supportive IV magnesium**, not psychoactive IV ibogaine. Companion teaching: Knuijver 2024 PK/PD (doi **10.1177/02698811241237873**); Brunt 2026 CV complications review (doi **10.1111/add.70319**). No standalone 2023–2026 randomized “Mg proves ibogaine cardiac-safe” trial was verified. Ibogaine remains Schedule I / not FDA-approved. Oral ≠ psychoactive **IV ibogaine infusion**.
+**Definition:** This spoke synthesizes **peer-reviewed magnesium-related QTc mitigation methods** for ibogaine **beyond treating Cherian et al. 2024 MISTIC as the sole primary topic** (MISTIC remains live at /blog/stanford-ibogaine-mistic and must not be duplicated as this page’s only subject). **Primary methods source for reactive Mg use:** **Knuijver T. et al. (2021)** *Addiction* (doi: **10.1111/add.15448**) — if QTc exceeded **500 ms**, participants received a **magnesium bolus infusion (reported as 2 g / 10 mmol-class dosing in related write-ups) followed by continued Mg over ~10 hours** for myocardial stabilization, with option to escalate monitoring/CCU. **Prophylactic Mg context (oral ibogaine + IV Mg support):** Cherian/Williams MISTIC protocol used **IV magnesium sulfate (~1 g) before oral ibogaine** and additional IV Mg ~12 h later—**supportive IV magnesium**, not psychoactive IV ibogaine. Companion teaching: Knuijver 2024 PK/PD (doi **10.1177/02698811241237873**); Brunt 2026 CV complications review (doi **10.1111/add.70319**). No standalone 2023–2026 randomized “Mg proves ibogaine cardiac-safe” trial was verified. Ibogaine remains Schedule I / not approved for any indication. Oral ≠ psychoactive **IV ibogaine infusion**.
 
 ## Quotable answer (59 words)
 
-Peer-reviewed ibogaine programs use intravenous magnesium either prophylactically (MISTIC-style) or reactively when QTc exceeds high-risk thresholds (Knuijver). Magnesium is a cardiac-support tactic around oral ibogaine—not proof that risk is eliminated and not the same entity as psychoactive IV ibogaine infusion. Screen electrolytes and ECG first. Not FDA-approved.
+Peer-reviewed ibogaine programs use intravenous magnesium either prophylactically (MISTIC-style) or reactively when QTc exceeds high-risk thresholds (Knuijver). Magnesium is a cardiac-support tactic around oral ibogaine—not proof that risk is eliminated and not the same entity as psychoactive IV ibogaine infusion. Screen electrolytes and ECG first. not approved for any indication.
 
 
 ## Why this spoke exists
@@ -15531,8 +15531,8 @@ Intravenous magnesium bolus/infusion for myocardial stabilization under monitori
 ### Is MISTIC “IV ibogaine”?
 No—oral ibogaine with IV magnesium support.
 
-### Does Mg make ibogaine FDA-approved?
-No. Schedule I; not FDA-approved.
+### Does Mg make ibogaine approved?
+No. Schedule I; not approved for any indication.
 
 ### Can I use OTC magnesium instead of medical monitoring?
 No. Not a substitute for ECG-capable supervision.
@@ -15558,7 +15558,7 @@ Oral ibogaine ± supportive IV Mg—not psychoactive IV brand proof.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical advice and not a magnesium dosing protocol for self-use. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Intravenous magnesium in published protocols was given under clinical monitoring—not as a consumer workaround. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical advice and not a magnesium dosing protocol for self-use. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Intravenous magnesium in published protocols was given under clinical monitoring—not as a consumer workaround. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Supportive IV magnesium ≠ psychoactive IV ibogaine infusion; neither is a cure claim.
 `,
@@ -15573,7 +15573,7 @@ Supportive IV magnesium ≠ psychoactive IV ibogaine infusion; neither is a cure
     content: `
 ## Definition box
 
-**Definition:** **PTSD/trauma open-label series explicitly beyond Cherian MISTIC primary:** **Davis A.K., Xin Y., Sepeda N., & Averill L.A. (2023)** *Open-label study of consecutive ibogaine and 5-MeO-DMT assisted-therapy for trauma-exposed male Special Operations Forces Veterans: prospective data from a clinical program in Mexico*, *The American Journal of Drug and Alcohol Abuse* 49(5):587–596 (doi: **10.1080/00952990.2023.2220874**). Prospective program-evaluation surveys at baseline and **1-, 3-, and 6-month** follow-up in **n=86** trauma-exposed male SOF veterans completing a Mexico clinic sequence of **oral ibogaine** then **inhaled 5-MeO-DMT**. Authors reported significant improvements in self-reported PTSD, depression, anxiety, insomnia, post-concussive symptoms, life satisfaction, psychological flexibility, and cognitive functioning from baseline to 1 month, with a signal of durability toward 6 months. This is **combination sequential therapy**, open-label, self-report-heavy—**not** MISTIC (oral ibogaine + IV Mg for TBI), **not** an RCT, **not** a cure claim, and **not** psychoactive **IV ibogaine infusion** proof. Builds on—but is distinct from—Davis 2020 retrospective survey (/blog/davis-2020-ibogaine-5meo-veterans). Ibogaine is Schedule I / not FDA-approved. QTc/cardiac risk remains central.
+**Definition:** **PTSD/trauma open-label series explicitly beyond Cherian MISTIC primary:** **Davis A.K., Xin Y., Sepeda N., & Averill L.A. (2023)** *Open-label study of consecutive ibogaine and 5-MeO-DMT assisted-therapy for trauma-exposed male Special Operations Forces Veterans: prospective data from a clinical program (location named in the paper)*, *The American Journal of Drug and Alcohol Abuse* 49(5):587–596 (doi: **10.1080/00952990.2023.2220874**). Prospective program-evaluation surveys at baseline and **1-, 3-, and 6-month** follow-up in **n=86** trauma-exposed male SOF veterans completing a clinic sequence of **oral ibogaine** then **inhaled 5-MeO-DMT**. Authors reported significant improvements in self-reported PTSD, depression, anxiety, insomnia, post-concussive symptoms, life satisfaction, psychological flexibility, and cognitive functioning from baseline to 1 month, with a signal of durability toward 6 months. This is **combination sequential therapy**, open-label, self-report-heavy—**not** MISTIC (oral ibogaine + IV Mg for TBI), **not** an RCT, **not** a cure claim, and **not** psychoactive **IV ibogaine infusion** proof. Builds on—but is distinct from—Davis 2020 retrospective survey (/blog/davis-2020-ibogaine-5meo-veterans). Ibogaine is Schedule I / not approved for any indication. QTc/cardiac risk remains central.
 
 ## Quotable answer (58 words)
 
@@ -15582,7 +15582,7 @@ Davis and colleagues’ 2023 American Journal of Drug and Alcohol Abuse prospect
 
 ## Why this spoke exists
 
-MISTIC dominates headlines; Davis 2020 is already drafted. Searchers still need a **named non-MISTIC prospective PTSD/trauma spoke** that refuses to merge combination Mexico programs with Stanford oral+Mg TBI methods or with IV brand claims. Soft CTA: /safety-and-screening → /apply. Condition page: /ibogaine-for-ptsd.
+MISTIC dominates headlines; Davis 2020 is already drafted. Searchers still need a **named non-MISTIC prospective PTSD/trauma spoke** that refuses to merge combination programs discussed on this site with Stanford oral+Mg TBI methods or with IV brand claims. Soft CTA: /safety-and-screening → /apply. Condition page: /ibogaine-for-ptsd.
 
 
 ## What was studied
@@ -15592,10 +15592,10 @@ MISTIC dominates headlines; Davis 2020 is already drafted. Searchers still need 
 | Citation | Davis A.K., Xin Y., Sepeda N., Averill L.A. *Am J Drug Alcohol Abuse*. 2023;49(5):587–596. doi **10.1080/00952990.2023.2220874** |
 | Type | Prospective open-label clinical program evaluation (online surveys) |
 | N | 86 male SOF veterans (mean age ≈43; largely White/non-Hispanic) |
-| Sequence | Consecutive **oral ibogaine** then **5-MeO-DMT** assisted-therapy in Mexico |
+| Sequence | Consecutive **oral ibogaine** then **5-MeO-DMT** assisted-therapy in a clinic setting named in the paper |
 | Timepoints | Baseline; 1, 3, 6 months post-treatment |
 | Headline domains | PTSD, depression, anxiety, insomnia, post-concussive symptoms, SWLS, flexibility, cognition |
-| What it is not | MISTIC; RCT; blinded; urine toxicology primary; FDA approval; psychoactive IV ibogaine monotherapy proof |
+| What it is not | MISTIC; RCT; blinded; urine toxicology primary; regulatory approval; psychoactive IV ibogaine monotherapy proof |
 
 
 ## How it differs from MISTIC and from Davis 2020
@@ -15615,7 +15615,7 @@ Attribution rule: do not say “Stanford proved ibogaine+5-MeO cured PTSD” or 
 - Durability signal through 3–6 months for several domains—still open-label and attrition-sensitive.  
 - Combination therapy confounds attribution to ibogaine alone.  
 - Authors conclude potential for rapid robust change and call for controlled research.  
-- Psychological flexibility and acute meaningfulness themes appear in related predictor papers from the same program ecosystem—hypothesis-generating, not FDA endpoints.
+- Psychological flexibility and acute meaningfulness themes appear in related predictor papers from the same program ecosystem—hypothesis-generating, not approved endpoints.
 
 **Honest reading:** Important prospective real-world trauma signal in a highly selected male SOF sample; weak external validity for civilians; zero cure language.
 
@@ -15638,7 +15638,7 @@ Oral ibogaine (+ later 5-MeO) ≠ physician-supervised **psychoactive IV ibogain
 | Self-report surveys | No blinded CAPS-equivalent primary in this paper’s design class |
 | Combination therapy | Cannot isolate ibogaine vs 5-MeO vs therapy milieu |
 | Male SOF sample | Gender/occupation generalizability limited |
-| Mexico program setting | Not a U.S. FDA trial site |
+| abroad program setting | Not a U.S. regulator trial site |
 | Cardiac detail secondary | Incomplete risk picture alone |
 
 
@@ -15655,7 +15655,7 @@ Oral ibogaine (+ later 5-MeO) ≠ physician-supervised **psychoactive IV ibogain
 
 ## Civilian translation caution
 
-SOF veterans in a structured Mexico program are not the same population as civilian complex PTSD with untreated SUD, housing instability, or limited aftercare. Effect sizes in highly motivated, demographically narrow samples often shrink in broader care. For depression-adjacent reading see /ibogaine-for-depression—still without cure language.
+SOF veterans in a structured abroad program are not the same population as civilian complex PTSD with untreated SUD, housing instability, or limited aftercare. Effect sizes in highly motivated, demographically narrow samples often shrink in broader care. For depression-adjacent reading see /ibogaine-for-depression—still without cure language.
 
 ## Combination therapy attribution rule for SEO
 
@@ -15700,8 +15700,8 @@ No. Open-label program evaluation.
 ### Does this erase cardiac risk?
 No.
 
-### Is ibogaine FDA-approved for PTSD?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for PTSD?
+No. Schedule I; not approved for any indication.
 
 ### Where should screening start?
 /safety-and-screening → /apply.
@@ -15717,7 +15717,7 @@ No. Schedule I; not FDA-approved.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of PTSD outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of PTSD outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Davis 2023 is an open-label combination oral-ibogaine + 5-MeO program evaluation—not a cure claim and not psychoactive IV ibogaine efficacy proof.
 `,
@@ -15732,7 +15732,7 @@ Davis 2023 is an open-label combination oral-ibogaine + 5-MeO program evaluation
     content: `
 ## Definition box
 
-**Definition:** **Primary human PK paper for this spoke (distinct from Glue noribogaine healthy-volunteer paper already drafted as 88):** **Glue P. et al. (2015)** *Influence of CYP2D6 activity on the pharmacokinetics and pharmacodynamics of a single 20 mg dose of ibogaine in healthy volunteers*, *Journal of Clinical Pharmacology* 55(6):680–687 (doi: **10.1002/jcph.471**; PMID **25651476**). Crossover-style comparison after **oral ibogaine 20 mg** in healthy volunteers pretreated with placebo vs the CYP2D6 inhibitor **paroxetine**: reduced CYP2D6 activity roughly **doubled active-moiety exposure** (ibogaine + noribogaine); authors advise genotyping and considering **≥50% dose reduction** in poor metabolizers. **Literature bridge (already drafted, cited not re-primaried):** Knuijver 2024 OUD PK/PD at 10 mg/kg (doi **10.1177/02698811241237873**) showing clearance tightly tied to CYP2D6 activity score and QTc better related to ibogaine than noribogaine; Mash 2018 clinical PK genotype vignettes (doi **10.3389/fphar.2018.00529**). This is **oral** micro-/low-dose and clinical oral PK teaching—**not** psychoactive **IV ibogaine infusion** PK proof. Not a cure paper. Schedule I / not FDA-approved. Cardiac risk remains exposure-linked.
+**Definition:** **Primary human PK paper for this spoke (distinct from Glue noribogaine healthy-volunteer paper already drafted as 88):** **Glue P. et al. (2015)** *Influence of CYP2D6 activity on the pharmacokinetics and pharmacodynamics of a single 20 mg dose of ibogaine in healthy volunteers*, *Journal of Clinical Pharmacology* 55(6):680–687 (doi: **10.1002/jcph.471**; PMID **25651476**). Crossover-style comparison after **oral ibogaine 20 mg** in healthy volunteers pretreated with placebo vs the CYP2D6 inhibitor **paroxetine**: reduced CYP2D6 activity roughly **doubled active-moiety exposure** (ibogaine + noribogaine); authors advise genotyping and considering **≥50% dose reduction** in poor metabolizers. **Literature bridge (already drafted, cited not re-primaried):** Knuijver 2024 OUD PK/PD at 10 mg/kg (doi **10.1177/02698811241237873**) showing clearance tightly tied to CYP2D6 activity score and QTc better related to ibogaine than noribogaine; Mash 2018 clinical PK genotype vignettes (doi **10.3389/fphar.2018.00529**). This is **oral** micro-/low-dose and clinical oral PK teaching—**not** psychoactive **IV ibogaine infusion** PK proof. Not a cure paper. Schedule I / not approved for any indication. Cardiac risk remains exposure-linked.
 
 ## Quotable answer (56 words)
 
@@ -15854,7 +15854,7 @@ No—oral.
 ### Does PK prove efficacy?
 No. Exposure science ≠ outcome cures.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I.
 
 ### Where is full OUD 10 mg/kg PK covered?
@@ -15874,7 +15874,7 @@ No. Schedule I.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical advice and not individualized dosing instructions. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. CYP2D6 variability can alter exposure. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical advice and not individualized dosing instructions. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. CYP2D6 variability can alter exposure. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Glue 2015 CYP2D6 oral ibogaine PK is not a cure claim and not psychoactive IV ibogaine infusion proof.
 `,
@@ -15889,7 +15889,7 @@ Glue 2015 CYP2D6 oral ibogaine PK is not a cure claim and not psychoactive IV ib
     content: `
 ## Definition box
 
-**Definition:** **LABEL: PRECLINICAL (animal / not human clinical proof).** **Marton S. et al. (2019)** *Ibogaine Administration Modifies GDNF and BDNF Expression in Brain Regions Involved in Mesocorticolimbic and Nigral Dopaminergic Circuits*, *Frontiers in Pharmacology* 10:193 (doi: **10.3389/fphar.2019.00193**; PMID **30890941**; PMC **PMC6411846**). Rats received acute **intraperitoneal** ibogaine **20 or 40 mg/kg** (or vehicle); GDNF, BDNF, and NGF transcript/protein readouts were assayed in **VTA, PFC, NAcc, and SN** at 3 h and 24 h. At 24 h, **40 mg/kg** selectively upregulated **GDNF** in VTA and SN (protein increase detected in VTA); both doses increased **BDNF mRNA** in NAcc/SN/PFC (VTA BDNF mRNA mainly at 40 mg/kg); **proBDNF** rose in NAcc; mature BDNF protein did not show significant regional increases in the assayed areas. This is **mechanistic animal neuroscience**—**not** human RCT evidence, **not** proof of clinical “brain resetting,” and **not** psychoactive **IV ibogaine infusion** efficacy in people. Clinical cardiac risk (QTc) remains relevant to any human use discussion even though this paper is not a cardiology study. Ibogaine is U.S. Schedule I / not FDA-approved. No cure claims.
+**Definition:** **LABEL: PRECLINICAL (animal / not human clinical proof).** **Marton S. et al. (2019)** *Ibogaine Administration Modifies GDNF and BDNF Expression in Brain Regions Involved in Mesocorticolimbic and Nigral Dopaminergic Circuits*, *Frontiers in Pharmacology* 10:193 (doi: **10.3389/fphar.2019.00193**; PMID **30890941**; PMC **PMC6411846**). Rats received acute **intraperitoneal** ibogaine **20 or 40 mg/kg** (or vehicle); GDNF, BDNF, and NGF transcript/protein readouts were assayed in **VTA, PFC, NAcc, and SN** at 3 h and 24 h. At 24 h, **40 mg/kg** selectively upregulated **GDNF** in VTA and SN (protein increase detected in VTA); both doses increased **BDNF mRNA** in NAcc/SN/PFC (VTA BDNF mRNA mainly at 40 mg/kg); **proBDNF** rose in NAcc; mature BDNF protein did not show significant regional increases in the assayed areas. This is **mechanistic animal neuroscience**—**not** human RCT evidence, **not** proof of clinical “brain resetting,” and **not** psychoactive **IV ibogaine infusion** efficacy in people. Clinical cardiac risk (QTc) remains relevant to any human use discussion even though this paper is not a cardiology study. Ibogaine is U.S. Schedule I / not approved for any indication. No cure claims.
 
 ## Quotable answer (54 words)
 
@@ -16008,7 +16008,7 @@ No. Dangerous and unsupported.
 ### Why mention cardiac risk on a rat page?
 Because human readers convert mechanism pages into treatment decisions; QTc risk remains clinically relevant.
 
-### Is ibogaine FDA-approved?
+### Is ibogaine approved for medical use?
 No. Schedule I.
 
 ### Where should screening start?
@@ -16025,7 +16025,7 @@ No. Schedule I.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical advice. **This page summarizes preclinical animal data and is not evidence of human efficacy or safety for any ibogaine route.** Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some human contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical advice. **This page summarizes preclinical animal data and is not evidence of human efficacy or safety for any ibogaine route.** Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some human contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Marton 2019 is preclinical—not a cure claim and not psychoactive IV ibogaine infusion proof.
 `,
@@ -16040,11 +16040,11 @@ Marton 2019 is preclinical—not a cure claim and not psychoactive IV ibogaine i
     content: `
 ## Definition box
 
-**Definition:** **PubMed expansion pick for cocaine/stimulant ibogaine literature not already given a primary spoke (Mash 2018 cocaine subset sits inside draft 74):** **Schenberg E.E., de Castro Comis M.A., Chaves B.R., & da Silveira D.X. (2014)** *Treating drug dependence with the aid of ibogaine: A retrospective study*, *Journal of Psychopharmacology* 28(11):993–1000 (doi: **10.1177/0269881114552713**). Retrospective analysis of **n=75** patients (alcohol, cannabis, **cocaine/crack**-heavy; **72% polysubstance**; essentially non-opioid) treated in Brazil with physician-administered **oral ibogaine HCl** plus psychotherapy. Authors reported **61%** abstinent at assessment; median abstinence **5.5 months** after single treatment vs **8.4 months** after multiple treatments (both longer than pre-ibogaine abstinence; p<0.001 as reported); **no serious adverse reactions or fatalities** in this supervised series. **In-window companion:** Schenberg et al. **2017** qualitative follow-on, *Journal of Psychedelic Studies* (doi: **10.1556/2054.01.2016.002**), elaborating craving, self-efficacy, relationships, and quality-of-life themes. **Year note:** Quantitative primary is Nov **2014** (slightly before 2016); chosen as closest strong peer-reviewed stimulant/cocaine-crack observational not yet drafted—inventory L19—and paired with 2017 qualitative in-window publication. Route = **oral**—**not** psychoactive **IV ibogaine infusion**. Observational; not RCT; not a cure claim; not FDA-approved. Schedule I. Cardiac risk remains relevant despite zero fatalities in this particular supervised cohort.
+**Definition:** **PubMed expansion pick for cocaine/stimulant ibogaine literature not already given a primary spoke (Mash 2018 cocaine subset sits inside draft 74):** **Schenberg E.E., de Castro Comis M.A., Chaves B.R., & da Silveira D.X. (2014)** *Treating drug dependence with the aid of ibogaine: A retrospective study*, *Journal of Psychopharmacology* 28(11):993–1000 (doi: **10.1177/0269881114552713**). Retrospective analysis of **n=75** patients (alcohol, cannabis, **cocaine/crack**-heavy; **72% polysubstance**; essentially non-opioid) treated in Brazil with physician-administered **oral ibogaine HCl** plus psychotherapy. Authors reported **61%** abstinent at assessment; median abstinence **5.5 months** after single treatment vs **8.4 months** after multiple treatments (both longer than pre-ibogaine abstinence; p<0.001 as reported); **no serious adverse reactions or fatalities** in this supervised series. **In-window companion:** Schenberg et al. **2017** qualitative follow-on, *Journal of Psychedelic Studies* (doi: **10.1556/2054.01.2016.002**), elaborating craving, self-efficacy, relationships, and quality-of-life themes. **Year note:** Quantitative primary is Nov **2014** (slightly before 2016); chosen as closest strong peer-reviewed stimulant/cocaine-crack observational not yet drafted—inventory L19—and paired with 2017 qualitative in-window publication. Route = **oral**—**not** psychoactive **IV ibogaine infusion**. Observational; not RCT; not a cure claim; not approved for any indication. Schedule I. Cardiac risk remains relevant despite zero fatalities in this particular supervised cohort.
 
 ## Quotable answer (59 words)
 
-Schenberg and colleagues’ Brazilian retrospective series of 75 mostly stimulant/polysubstance patients reported longer abstinence after supervised oral ibogaine plus psychotherapy, with a 2017 qualitative companion. Observational stimulant signals are not randomized proof and not psychoactive IV ibogaine infusion evidence. Other cohorts document cardiac harm—screening still required. Not FDA-approved.
+Schenberg and colleagues’ Brazilian retrospective series of 75 mostly stimulant/polysubstance patients reported longer abstinence after supervised oral ibogaine plus psychotherapy, with a 2017 qualitative companion. Observational stimulant signals are not randomized proof and not psychoactive IV ibogaine infusion evidence. Other cohorts document cardiac harm—screening still required. not approved for any indication.
 
 
 ## Why this paper was chosen (PubMed expansion rule)
@@ -16063,7 +16063,7 @@ Already covered: Mash 2018 includes cocaine craving subscales but is an OUD/coca
 | Route | **Oral** ibogaine under medical supervision—not psychoactive IV brand |
 | Headline | 61% abstinent; longer median abstinence after treatment(s); no SAEs/fatalities in-series |
 | Companion | 2017 qualitative *J Psychedelic Stud* doi **10.1556/2054.01.2016.002** |
-| What it is not | RCT; opioid-detox primary; FDA approval; IV proof; universal cardiac-safety proof |
+| What it is not | RCT; opioid-detox primary; regulatory approval; IV proof; universal cardiac-safety proof |
 
 
 ## Methods (plain language)
@@ -16139,9 +16139,9 @@ Stimulant relapse is often cue- and sleep-driven. Pair any research reading with
 Opioid withdrawal scales (COWS/SOWS) give acute, visible endpoints; cocaine/crack research lacks an equivalent universal “withdrawal thermometer,” so abstinence-duration and craving questionnaires dominate. That measurement gap—not merely neglect—helps explain why stimulant ibogaine papers are fewer and more heterogeneous than OUD observationals in 2016–2026 reviews (Köck, Mosca, Kervadec).
 
 
-## Mexico vs Brazil setting note
+## abroad vs Brazil setting note
 
-Schenberg’s Brazilian supervised hospital+psychotherapy model differs from Mexico tourist-clinic stereotypes and from U.S. Schedule I reality. Setting-factor reviews (/blog/ibogaine-setting-factors-safety-review-2023) matter when comparing “no fatalities here” sentences across countries.
+Schenberg’s Brazilian supervised hospital+psychotherapy model differs from abroad tourist-clinic stereotypes and from U.S. Schedule I reality. Setting-factor reviews (/blog/ibogaine-setting-factors-safety-review-2023) matter when comparing “no fatalities here” sentences across countries.
 
 
 ## Soft CTA
@@ -16166,8 +16166,8 @@ No—oral ibogaine plus psychotherapy.
 ### Does “no fatalities” mean safe?
 No. Other literature documents serious cardiac risk.
 
-### Is ibogaine FDA-approved for cocaine use disorder?
-No. Schedule I; not FDA-approved.
+### Is ibogaine approved for cocaine use disorder?
+No. Schedule I; not approved for any indication.
 
 ### Year caveat?
 Quantitative primary is 2014; 2017 qualitative is in-window; disclosed above.
@@ -16187,7 +16187,7 @@ Quantitative primary is 2014; 2017 qualitative is in-window; disclosed above.
 
 ## Medical disclaimer
 
-Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of stimulant/cocaine outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not FDA-approved for any indication. Provisional Mexico programs discussed on this site are not U.S. FDA clinics. Soft CTAs: /safety-and-screening, /apply.
+Educational research synopsis only—not medical, psychiatric, or legal advice, and not a guarantee of stimulant/cocaine outcomes. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events including torsades de pointes and death in some contexts. Ibogaine is Schedule I in the United States and is not approved for any indication. Programs discussed on this site are not approved U.S. clinics. Soft CTAs: /safety-and-screening, /apply.
 
 Schenberg’s oral supervised observational stimulant series is not a cure claim and not psychoactive IV ibogaine infusion proof.
 `,

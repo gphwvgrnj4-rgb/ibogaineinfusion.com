@@ -38,12 +38,12 @@ export function Footer() {
             </a>
           </p>
           <p className="mt-4 max-w-md text-sm leading-relaxed text-cream/70">
-            Physician-supervised IV ibogaine infusion programs discussed here are{" "}
-            <strong className="font-semibold text-cream">provisionally available in Mexico</strong> —
-            not an FDA-approved U.S. clinic treatment. Journey shape may resemble infusion-clinic care
+            Physician-supervised IV ibogaine infusion programs discussed here share the{" "}
+            <strong className="font-semibold text-cream">treatment location after screening</strong> —
+            not an approved U.S. clinic treatment. Journey shape may resemble infusion-clinic care
             (consult → screen → monitored infusion → integration); that is{" "}
             <em>not</em> ketamine legal, evidence, or risk equivalence. Screening-first; Schedule I /
-            not FDA-approved in the U.S. Educational only — not legal or medical advice.
+            not approved for any indication in the U.S. Educational only — not legal or medical advice.
           </p>
           <p className="mt-4 text-xs leading-relaxed text-cream/55">
             Educational and inquiry content only. No cure claims. Ibogaine involves
@@ -95,7 +95,7 @@ export function Footer() {
       <div className="relative border-t border-cream/10">
         <Container className="flex flex-col gap-2 py-5 text-xs text-cream/55 sm:flex-row sm:justify-between">
           <p>© {new Date().getFullYear()} Ibogaine Infusion. All rights reserved.</p>
-          <p>www.ibogaineinfusion.com — screening-first · provisional Mexico availability</p>
+          <p>www.ibogaineinfusion.com — screening-first · treatment location shared after screening</p>
         </Container>
       </div>
     </footer>

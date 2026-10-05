@@ -43,7 +43,7 @@ export function medicalWebPage(opts: {
         "@type": "MedicalEntity",
         name: "IV ibogaine infusion",
         description:
-          "Intravenous psychoactive ibogaine under physician supervision with cardiac screening and monitoring. Not FDA-approved.",
+          "Intravenous psychoactive ibogaine under physician supervision with cardiac screening and monitoring. not approved for any indication.",
       },
     },
   ];

@@ -11,7 +11,7 @@ import { faqPage, organizationAndWebsite } from "@/lib/schema";
 export const metadata: Metadata = {
   title: "IV Ibogaine Infusion | Physician-Supervised Medical Care",
   description:
-    "Intravenous ibogaine infusion under physician supervision—with cardiac screening and monitoring. Provisional Mexico availability. Honest education on evidence gaps, safety, and next steps.",
+    "Intravenous ibogaine infusion under physician supervision—with cardiac screening and monitoring. Treatment location shared after screening. Honest education on evidence gaps, safety, and next steps.",
   alternates: { canonical: "/" },
 };
 
@@ -21,16 +21,16 @@ const homeFaqs = [
     a: "Intravenous delivery of ibogaine as the psychoactive treatment under physician supervision in a medical infusion setting, with cardiac screening, continuous monitoring, and integration afterward.",
   },
   {
-    q: "Are programs available in Mexico?",
-    a: "Physician-supervised IV ibogaine infusion programs discussed on this site are provisionally available in Mexico. That is not the same as FDA-approved care in the United States. Ibogaine remains Schedule I federally and is not FDA-approved. Foreign availability is not legal advice, not a guarantee you will qualify, and not a prediction of benefit or safety. See /safety-and-screening and /blog/is-ibogaine-legal-us (educational only).",
+    q: "Where is treatment offered?",
+    a: "Physician-supervised IV ibogaine infusion programs discussed on this site share the treatment location after screening. That is not the same as approved care in the United States. Ibogaine remains Schedule I federally and is not approved for any indication. Foreign availability is not legal advice, not a guarantee you will qualify, and not a prediction of benefit or safety. See /safety-and-screening and /blog/is-ibogaine-legal-us (educational only).",
   },
   {
     q: "Is published research mostly oral?",
     a: "Yes. Landmark examples include Knuijver et al. (Addiction, 2021; oral HCl, QTc) and Cherian et al. (Nature Medicine, 2024; oral ibogaine + IV magnesium). Controlled IV-psychoactive evidence is sparse.",
   },
   {
-    q: "Is ibogaine FDA-approved?",
-    a: "No. It is not FDA-approved for any indication and is Schedule I in the United States.",
+    q: "Is ibogaine approved for medical use?",
+    a: "No. It is not approved for any indication and is Schedule I in the United States.",
   },
   {
     q: "Is cardiac screening required?",
@@ -153,7 +153,7 @@ export default function HomePage() {
               <em>Nature Medicine</em> 2024 — describes <strong>oral</strong> ibogaine HCl, often with{" "}
               <strong>IV magnesium</strong> support, not IV ibogaine as the psychoactive dose. Controlled
               evidence for psychoactive IV ibogaine remains sparse. Ibogaine is U.S. Schedule I and not
-              FDA-approved.
+              approved.
             </p>
             <p>
               On this site, “infusion” is not a spa label for oral dosing with a saline lock.{" "}
@@ -202,9 +202,9 @@ export default function HomePage() {
               <p className="mt-5 text-base leading-relaxed text-cream/85">
                 White-coat medical care — not a hotel spa. Physician oversight, continuous cardiac
                 monitoring, and a true psychoactive IV ibogaine infusion pathway in a clinical
-                setting. Programs discussed on this site are{" "}
-                <strong className="text-cream">provisionally available in Mexico</strong> — not an
-                FDA-approved U.S. clinic pathway.
+                setting. Treatment location is{" "}
+                <strong className="text-cream">shared after screening</strong> — not an approved U.S.
+                clinic pathway.
               </p>
               <ul className="mt-6 space-y-2.5 text-sm text-cream/80">
                 <li>• Continuous cardiac monitoring during the high-risk window</li>

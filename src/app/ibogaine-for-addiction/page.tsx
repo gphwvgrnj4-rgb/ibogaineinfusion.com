@@ -45,9 +45,9 @@ export default function AddictionPage() {
           </p>
           <Disclaimer className="mt-8" />
           <p className="mt-6 text-sm leading-relaxed text-ink/75">
-            Programs discussed on this site for physician-supervised IV ibogaine infusion are{" "}
-            <strong className="text-ink">provisionally available in Mexico</strong> — not an
-            FDA-approved U.S. clinic treatment. Educational only; not legal advice.
+            Programs discussed on this site for physician-supervised IV ibogaine infusion share the{" "}
+            <strong className="text-ink">treatment location after screening</strong> — not an
+            approved U.S. clinic treatment. Educational only; not legal advice.
           </p>
         </Container>
       </section>
@@ -58,7 +58,7 @@ export default function AddictionPage() {
           <p>
             Some open-label and observational reports — <strong>predominantly oral-route</strong> —
             describe meaningful short-term reductions in withdrawal severity or opioid use for{" "}
-            <em>some</em> participants. That is not a proven, FDA-approved treatment for opioid use
+            <em>some</em> participants. That is not a proven, approved treatment for opioid use
             disorder (OUD), and it is not automatic proof that a psychoactive{" "}
             <strong>IV</strong> protocol will match those outcomes.
           </p>
@@ -135,7 +135,7 @@ export default function AddictionPage() {
                 <tr className="border-b border-forest/10">
                   <td className="px-3 py-2 text-ink/80">IV ibogaine infusion (investigational interest)</td>
                   <td className="px-3 py-2 text-ink/80">Acute interrupt curiosity under medical monitoring</td>
-                  <td className="px-3 py-2 text-ink/80">Not FDA-approved; sparse IV controlled data</td>
+                  <td className="px-3 py-2 text-ink/80">not approved for any indication; sparse IV controlled data</td>
                 </tr>
               </tbody>
             </table>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "/safety-and-screening" },
   title: "Safety and Screening — Cardiac Risk & QTc",
   description:
-    "Ibogaine can prolong QTc and raise arrhythmia risk. Cardiac screening, ECG, electrolytes, continuous monitoring for IV ibogaine infusion. Provisional Mexico availability; not a U.S. FDA-approved clinic.",
+    "Ibogaine can prolong QTc and raise arrhythmia risk. Cardiac screening, ECG, electrolytes, continuous monitoring for IV ibogaine infusion. Treatment location shared after screening; Not an approved U.S. clinic.",
 };
 
 export default function SafetyPage() {

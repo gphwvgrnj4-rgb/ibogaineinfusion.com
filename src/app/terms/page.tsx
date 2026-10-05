@@ -5,7 +5,7 @@ import { Container } from "@/components/Container";
 export const metadata: Metadata = {
   title: "Terms of Use",
   description:
-    "Terms of use for the Ibogaine Infusion educational website: no medical advice, provisional Mexico programs, liability limits, and inquiry data.",
+    "Terms of use for the Ibogaine Infusion educational website: no medical advice, program availability, liability limits, and inquiry data.",
 };
 
 export default function TermsPage() {
@@ -50,15 +50,15 @@ export default function TermsPage() {
           disclosing accurate history if you submit an application.
         </p>
 
-        <h2>5. Provisional Mexico programs; U.S. status</h2>
+        <h2>5. Program availability; U.S. status</h2>
         <p>
           Physician-supervised IV ibogaine infusion programs <strong>discussed on this Site</strong>{" "}
-          are described as <strong>provisionally available in Mexico</strong>. That is{" "}
-          <strong>not</strong> an FDA-approved U.S. clinic pathway. Ibogaine remains{" "}
-          <strong>Schedule I</strong> under U.S. federal law and is <strong>not FDA-approved</strong>{" "}
-          for any indication. Foreign availability is not legal advice, not immigration or travel
-          advice, and not a guarantee you will qualify or that any program will operate for you on
-          any date. Local rules, staffing, and logistics can change.
+          share the <strong>treatment location after screening</strong>. That is{" "}
+          <strong>not</strong> an approved U.S. clinic pathway. Ibogaine remains{" "}
+          <strong>Schedule I</strong> under U.S. federal law and is{" "}
+          <strong>not approved for any indication</strong>. Foreign availability is not legal advice,
+          not immigration or travel advice, and not a guarantee you will qualify or that any program
+          will operate for you on any date. Local rules, staffing, and logistics can change.
         </p>
 
         <h2>6. Inquiry and application data</h2>
@@ -89,7 +89,7 @@ export default function TermsPage() {
         <h2>9. Third-party links and partners</h2>
         <p>
           The Site may link to third-party resources or refer inquiries to clinical partners (which
-          may be located in Mexico or elsewhere). We do not control third-party sites or practices
+          may be located in various jurisdictions). We do not control third-party sites or practices
           and are not responsible for their content, services, or privacy practices.
         </p>
 

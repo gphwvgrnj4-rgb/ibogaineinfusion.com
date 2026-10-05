@@ -220,7 +220,6 @@ type FormState = {
   anythingElse: string;
   consentToContact: boolean;
   medicalAccuracy: boolean;
-  mexicoAcknowledgment: boolean;
   // honeypot
   website: string;
 };
@@ -277,7 +276,6 @@ const initialState = (): FormState => ({
   anythingElse: "",
   consentToContact: false,
   medicalAccuracy: false,
-  mexicoAcknowledgment: false,
   website: "",
 });
 
@@ -357,7 +355,6 @@ function buildPayload(f: FormState) {
     consent: {
       consentToContact: f.consentToContact,
       medicalAccuracy: f.medicalAccuracy,
-      mexicoAcknowledgment: f.mexicoAcknowledgment,
     },
     website: f.website,
   };
@@ -384,8 +381,8 @@ export function ApplicationForm() {
       if (!form.phone.trim()) return "Please enter a phone number.";
     }
     if (index === STEPS.length - 1) {
-      if (!form.consentToContact || !form.medicalAccuracy || !form.mexicoAcknowledgment) {
-        return "Please confirm consent, accuracy, and Mexico provisional acknowledgment to submit.";
+      if (!form.consentToContact || !form.medicalAccuracy) {
+        return "Please confirm consent and medical accuracy to submit.";
       }
     }
     return null;
@@ -462,8 +459,8 @@ export function ApplicationForm() {
           </li>
           <li>
             <strong className="text-forest">3. Screening</strong> — Cardiac/medical diligence and
-            go/no-go precede any treatment discussion. Treatment is available provisionally in Mexico;
-            ibogaine is not U.S. FDA-approved.
+            go/no-go precede any treatment discussion. Treatment location is shared after screening;
+            ibogaine is not approved for any indication.
           </li>
         </ol>
         <p className="mt-6 text-xs text-ink/55">
@@ -1039,26 +1036,7 @@ export function ApplicationForm() {
                 <RequiredMark />
               </span>
             </label>
-            <label className="flex items-start gap-3 text-sm leading-relaxed text-ink/85">
-              <input
-                type="checkbox"
-                checked={form.mexicoAcknowledgment}
-                onChange={(e) => set("mexicoAcknowledgment", e.target.checked)}
-                className="mt-1 h-4 w-4 rounded border-forest/30 text-forest focus:ring-accent"
-                required
-              />
-              <span>
-                I understand this educational inquiry is{" "}
-                <strong className="text-forest">not a guarantee of treatment eligibility</strong>;
-                that physician-supervised IV ibogaine programs discussed here are available{" "}
-                <strong className="text-forest">provisionally in Mexico</strong> and are{" "}
-                <strong className="text-forest">not</strong> an FDA-approved U.S. clinic pathway;
-                that ibogaine involves <strong className="text-forest">serious cardiac risk</strong>{" "}
-                (including QTc / arrhythmia concerns); and that this is not a promise of legality,
-                travel clearance, cure, or clinical outcome. Medical screening remains mandatory.
-                <RequiredMark />
-              </span>
-            </label>
+
           </div>
         </div>
       )}

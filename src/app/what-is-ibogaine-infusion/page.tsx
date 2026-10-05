@@ -62,7 +62,7 @@ export default function WhatIsPage() {
             describes <strong>oral</strong> ibogaine HCl, often with <strong>IV magnesium</strong>{" "}
             or other IV support for cardiac risk mitigation, <strong>not</strong> IV ibogaine as the
             psychoactive dose. Controlled evidence for psychoactive IV ibogaine remains sparse.
-            Ibogaine is a U.S. Schedule I substance and is not FDA-approved for any indication.
+            Ibogaine is a U.S. Schedule I substance and is not approved for any indication.
           </p>
 
           <h2>The ketamine parallel — delivery route, not equivalence</h2>
@@ -140,12 +140,12 @@ export default function WhatIsPage() {
           <ul>
             <li>
               <strong>United States:</strong> Ibogaine is Schedule I (21 CFR 1308.11) and not
-              FDA-approved for detoxification, depression, PTSD, or any other indication.
+              approved for detoxification, depression, PTSD, or any other indication.
             </li>
             <li>
               Physician-supervised IV ibogaine infusion programs{" "}
               <strong>discussed on this site</strong> are{" "}
-              <strong>provisionally available in Mexico</strong>. That is not FDA-approved U.S.
+              <strong>treatment location shared after screening</strong>. That is not approved U.S.
               clinic care. “Available abroad” ≠ approved medicine, uniform specialty regulation, or
               a guarantee of suitability or outcome. Not legal advice.
             </li>

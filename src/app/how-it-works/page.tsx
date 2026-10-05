@@ -56,8 +56,8 @@ const faqs = [
     a: "Ibogaine can prolong QTc and raise arrhythmia risk. Oral observational cardiac findings still justify telemetry for any medical exposure, including IV infusion.",
   },
   {
-    q: "Is ibogaine FDA-approved?",
-    a: "No. It is Schedule I in the U.S. and not FDA-approved for any indication.",
+    q: "Is ibogaine approved for medical use?",
+    a: "No. It is Schedule I in the U.S. and not approved for any indication.",
   },
 ];
 
@@ -124,8 +124,8 @@ export default function HowItWorksPage() {
               often with IV support — not IV psychoactive RCTs.
             </p>
             <p>
-              Programs discussed here are <strong>provisionally available in Mexico</strong> — not an
-              FDA-approved U.S. clinic pathway. Journey shape may resemble infusion-clinic care; that
+              Programs discussed here share the <strong>treatment location after screening</strong> — not an
+              approved U.S. clinic pathway. Journey shape may resemble infusion-clinic care; that
               is not legal, evidence, or risk equivalence with ketamine. Screening-first; educational
               only.
             </p>

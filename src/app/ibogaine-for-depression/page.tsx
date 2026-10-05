@@ -40,14 +40,14 @@ export default function DepressionPage() {
             interventional psychiatry, and more. People sometimes ask whether{" "}
             <strong className="text-ink">IV ibogaine infusion</strong> might help mood symptoms.
             Evidence for mood benefit is limited; much public conversation extrapolates from
-            addiction studies or oral-route observational work. Ibogaine is not FDA-approved for
+            addiction studies or oral-route observational work. Ibogaine is not approved for any indication for
             depression.
           </p>
           <Disclaimer className="mt-8" />
           <p className="mt-6 text-sm leading-relaxed text-ink/75">
-            Programs discussed on this site for physician-supervised IV ibogaine infusion are{" "}
-            <strong className="text-ink">provisionally available in Mexico</strong> — not an
-            FDA-approved U.S. clinic treatment. Educational only; not legal advice.
+            Programs discussed on this site for physician-supervised IV ibogaine infusion share the{" "}
+            <strong className="text-ink">treatment location after screening</strong> — not an
+            approved U.S. clinic treatment. Educational only; not legal advice.
           </p>
         </Container>
       </section>
@@ -77,7 +77,7 @@ export default function DepressionPage() {
             </li>
           </ul>
           <p>
-            <strong>Cannot say:</strong> FDA-approved antidepressant; guaranteed remission;
+            <strong>Cannot say:</strong> approved antidepressant; guaranteed remission;
             “proven by Nature Medicine as IV therapy” (Cherian 2024 is oral ibogaine + IV
             magnesium, open-label); equivalent evidence maturity to ketamine clinic protocols.
           </p>
@@ -101,7 +101,7 @@ export default function DepressionPage() {
                 <tr className="border-b border-forest/10">
                   <td className="px-3 py-2 text-ink/80">U.S. regulatory posture</td>
                   <td className="px-3 py-2 text-ink/80">Approved anesthetic; esketamine labeled pathway</td>
-                  <td className="px-3 py-2 text-ink/80">Schedule I; not FDA-approved</td>
+                  <td className="px-3 py-2 text-ink/80">Schedule I; not approved for any indication</td>
                 </tr>
                 <tr className="border-b border-forest/10">
                   <td className="px-3 py-2 text-ink/80">Dominant risk narrative</td>
