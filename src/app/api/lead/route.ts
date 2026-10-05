@@ -199,12 +199,18 @@ export async function POST(request: Request) {
       const successOk = successField === true || successField === "true";
       // FormSubmit ajax returns JSON {success:"true"}; other webhooks may omit success.
       if (status < 200 || status >= 300 || (isFormSubmit && !successOk)) {
+        const webhookMessage =
+          typeof webhookBody?.message === "string" ? webhookBody.message : null;
         console.error(
           "[lead:webhook-fail]",
-          JSON.stringify({ status, successField, message: webhookBody?.message ?? null }),
+          JSON.stringify({ status, successField, message: webhookMessage }),
         );
         return NextResponse.json(
-          { ok: false, error: "Webhook rejected the submission." },
+          {
+            ok: false,
+            error: webhookMessage || "Webhook rejected the submission.",
+            formsubmitSuccess: successField ?? null,
+          },
           { status: 502 },
         );
       }
