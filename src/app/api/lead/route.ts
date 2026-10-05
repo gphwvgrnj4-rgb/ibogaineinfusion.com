@@ -165,10 +165,10 @@ export async function POST(request: Request) {
   };
 
   // Prefer env; fall back to FormSubmit ajax so /apply leaves demo mode without paid Formspark.
-  // Activate once via email link sent to Benny.friedmann@pm.me if FormSubmit asks.
+  // Activate once via email link sent to hello@ibogaineinfusion.com (ImprovMX → Benny) if FormSubmit asks.
   const webhook =
     process.env.FORM_WEBHOOK_URL ||
-    "https://formsubmit.co/ajax/Benny.friedmann@pm.me";
+    "https://formsubmit.co/ajax/hello@ibogaineinfusion.com";
 
   if (webhook) {
     try {
