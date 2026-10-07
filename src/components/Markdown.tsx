@@ -24,7 +24,7 @@ export function Markdown({ content }: { content: string }) {
             <div key={i} className="my-6 overflow-x-auto">
               <table className="w-full min-w-[28rem] border-collapse text-left text-sm">
                 <thead>
-                  <tr className="border-b border-forest/20 bg-sage/30">
+                  <tr className="border-b border-[var(--line)] bg-stone/50">
                     {headers.map((h) => (
                       <th key={h} className="px-3 py-2 font-semibold text-forest">
                         {h}
@@ -34,7 +34,7 @@ export function Markdown({ content }: { content: string }) {
                 </thead>
                 <tbody>
                   {rows.map((row, ri) => (
-                    <tr key={ri} className="border-b border-forest/10">
+                    <tr key={ri} className="border-b border-[var(--line)]">
                       {row.map((cell, ci) => (
                         <td key={ci} className="px-3 py-2 text-ink/80">
                           {cell}

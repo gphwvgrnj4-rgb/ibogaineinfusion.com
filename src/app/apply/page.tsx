@@ -5,6 +5,7 @@ import { Container } from "@/components/Container";
 import { Disclaimer } from "@/components/Disclaimer";
 import { JsonLd } from "@/components/JsonLd";
 import { JurisdictionNote } from "@/components/JurisdictionNote";
+import { PageHero } from "@/components/PageHero";
 import { breadcrumbList, faqPage } from "@/lib/schema";
 import { siteConfig } from "@/lib/site";
 
@@ -60,86 +61,68 @@ export default function ApplyPage() {
   return (
     <>
       <JsonLd data={jsonLd} />
-      <section className="py-14">
-        <Container className="grid gap-10 lg:grid-cols-[minmax(0,0.9fr)_minmax(0,1.1fr)] lg:items-start">
-          <div>
-            <p className="text-sm font-semibold uppercase tracking-widest text-accent">
-              Confidential application
-            </p>
-            <h1 className="mt-3 font-serif text-4xl font-medium text-forest">
-              Thorough screening application for IV ibogaine infusion
-            </h1>
-            <p className="mt-4 leading-relaxed text-ink/75">
-              This is a deeper intake — not a short inquiry. Fill out as much as you are comfortable
-              with. The path is confidential intake → medical/psych readiness review → discovery call.
-              We discuss{" "}
-              <strong className="text-ink">true psychoactive intravenous ibogaine</strong> under
-              physician supervision (consult → cardiac screen → monitored IV infusion → integration).
-            </p>
-            <JurisdictionNote variant="card" context="apply" className="mt-6" />
-            <Disclaimer className="mt-6" />
+      <PageHero label="Apply & align" title="Request a private consultation">
+        A confidential multi-step application — not a short inquiry. Intake → readiness review →
+        discovery call. We discuss true psychoactive intravenous ibogaine under physician supervision.
+      </PageHero>
 
-            <h2 className="mt-8 font-serif text-2xl text-forest">What this application covers</h2>
-            <ol className="mt-4 space-y-2 text-sm text-ink/75">
-              <li>
-                <strong className="text-ink">1. Contact</strong> — how we reach you confidentially
-              </li>
-              <li>
-                <strong className="text-ink">2. Interest</strong> — why IV ibogaine, concern, travel window
-              </li>
-              <li>
-                <strong className="text-ink">3. General health</strong> — meds, conditions, EKG history
-                (file optional later)
-              </li>
-              <li>
-                <strong className="text-ink">4. Substance history</strong> — current/past patterns
-              </li>
-              <li>
-                <strong className="text-ink">5. Eating &amp; sleep</strong> — patterns and supports
-              </li>
-              <li>
-                <strong className="text-ink">6. Personal &amp; family</strong> — support, stressors,
-                optional trauma detail
-              </li>
-              <li>
-                <strong className="text-ink">7. Intentions &amp; consent</strong> — goals and consent
-                provisional acknowledgment
-              </li>
+      <section className="bg-cream py-16 sm:py-20">
+        <Container className="grid gap-12 lg:grid-cols-[minmax(0,0.85fr)_minmax(0,1.15fr)] lg:items-start lg:gap-16">
+          <div>
+            <JurisdictionNote variant="card" context="apply" />
+            <Disclaimer tone="light" className="mt-6" />
+
+            <h2 className="mt-12 font-serif text-3xl text-forest">What this application covers</h2>
+            <ol className="mt-6 space-y-0 text-sm text-muted">
+              {[
+                ["1. Contact", "how we reach you confidentially"],
+                ["2. Interest", "why IV ibogaine, concern, travel window"],
+                ["3. General health", "meds, conditions, EKG history (file optional later)"],
+                ["4. Substance history", "current/past patterns"],
+                ["5. Eating & sleep", "patterns and supports"],
+                ["6. Personal & family", "support, stressors, optional trauma detail"],
+                ["7. Intentions & consent", "goals and consent provisional acknowledgment"],
+              ].map(([title, body]) => (
+                <li key={title} className="border-b border-[var(--line)] py-4 first:border-t">
+                  <strong className="font-medium text-ink">{title}</strong>
+                  <span className="mt-1 block">{body}</span>
+                </li>
+              ))}
             </ol>
 
-            <h2 className="mt-8 font-serif text-2xl text-forest">Trust bullets</h2>
-            <ul className="mt-4 space-y-2 text-sm text-ink/75">
+            <h2 className="mt-12 font-serif text-3xl text-forest">Trust</h2>
+            <ul className="mt-6 space-y-4 text-sm text-muted">
               <li>
-                • <strong>Cardiac-first.</strong> Expect ECG/electrolyte discussion.{" "}
-                <Link href="/safety-and-screening" className="text-forest-mid underline">
+                <strong className="text-ink">Cardiac-first.</strong> Expect ECG/electrolyte discussion.{" "}
+                <Link href="/safety-and-screening" className="text-forest-mid underline underline-offset-3">
                   Safety
                 </Link>
               </li>
               <li>
-                • <strong>Route honesty.</strong> Psychoactive IV, not oral flood marketed as “infusion.”{" "}
-                <Link href="/blog/ibogaine-oral-vs-iv" className="text-forest-mid underline">
+                <strong className="text-ink">Route honesty.</strong> Psychoactive IV, not oral flood marketed as “infusion.”{" "}
+                <Link href="/blog/ibogaine-oral-vs-iv" className="text-forest-mid underline underline-offset-3">
                   Oral vs IV
                 </Link>
               </li>
               <li>
-                • <strong>No cure claims</strong> for addiction, depression, or PTSD.
+                <strong className="text-ink">No cure claims</strong> for addiction, depression, or PTSD.
               </li>
               <li>
-                • <strong>Treatment location shared after screening.</strong> Not an approved U.S. clinic; screening required.
+                <strong className="text-ink">Treatment location shared after screening.</strong> Not an approved U.S. clinic; screening required.
               </li>
             </ul>
 
-            <p className="mt-6 text-sm text-ink/75">
+            <p className="mt-8 text-sm text-muted">
               Prefer to read first?{" "}
-              <Link href="/what-is-ibogaine-infusion" className="text-forest-mid underline">
-                Definition
+              <Link href="/what-is-ibogaine-infusion" className="text-forest-mid underline underline-offset-3">
+                Approach
               </Link>{" "}
               ·{" "}
-              <Link href="/how-it-works" className="text-forest-mid underline">
-                How it works
+              <Link href="/how-it-works" className="text-forest-mid underline underline-offset-3">
+                Journey
               </Link>{" "}
               ·{" "}
-              <Link href="/faq" className="text-forest-mid underline">
+              <Link href="/faq" className="text-forest-mid underline underline-offset-3">
                 FAQ
               </Link>
               . If you are in crisis, contact local emergency or crisis services now.

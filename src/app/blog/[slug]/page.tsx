@@ -107,46 +107,50 @@ export default async function BlogPostPage({ params }: Props) {
   return (
     <>
       <JsonLd data={jsonLd} />
-      <article className="py-14">
-        <Container className="max-w-3xl">
-          <p className="text-sm font-medium text-accent">
-            <Link href="/blog" className="hover:underline">
-              Blog
-            </Link>{" "}
-            · {post.date} · {post.readTime}
-          </p>
-          <h1 className="mt-3 font-serif text-4xl font-medium text-forest sm:text-5xl">
-            {post.title}
-          </h1>
-          <p className="mt-4 text-lg leading-relaxed text-ink/75">{post.description}</p>
-          <Disclaimer className="mt-8" />
+      <article>
+        <header className="border-b border-[var(--line)] bg-forest-deep py-16 text-cream sm:py-20">
+          <Container className="max-w-3xl">
+            <p className="text-[0.65rem] font-medium uppercase tracking-[0.18em] text-accent">
+              <Link href="/blog" className="hover:text-cream">
+                Blog
+              </Link>{" "}
+              · {post.date} · {post.readTime}
+            </p>
+            <h1 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl lg:text-[3.25rem]">
+              {post.title}
+            </h1>
+            <p className="mt-6 text-lg leading-relaxed text-cream/70">{post.description}</p>
+          </Container>
+        </header>
+        <Container className="max-w-3xl py-14 sm:py-16">
+          <Disclaimer tone="light" />
           {up ? (
-            <p className="mt-6 rounded-lg border border-forest/10 bg-sage/20 px-4 py-3 text-sm text-ink/80">
+            <p className="mt-8 rounded-2xl border border-[var(--line)] bg-stone/40 px-5 py-4 text-sm text-muted">
               Canonical overview:{" "}
-              <Link href={up.href} className="font-semibold text-forest-mid hover:underline">
+              <Link href={up.href} className="font-medium text-forest-mid hover:underline">
                 {up.label}
               </Link>
               {" · "}
-              <Link href="/safety-and-screening" className="font-semibold text-forest-mid hover:underline">
+              <Link href="/safety-and-screening" className="font-medium text-forest-mid hover:underline">
                 Safety &amp; screening
               </Link>
               {" · "}
-              <Link href="/apply" className="font-semibold text-forest-mid hover:underline">
+              <Link href="/apply" className="font-medium text-forest-mid hover:underline">
                 Apply
               </Link>
             </p>
           ) : (
-            <p className="mt-6 text-sm text-ink/70">
-              <Link href="/safety-and-screening" className="font-semibold text-forest-mid hover:underline">
+            <p className="mt-8 text-sm text-muted">
+              <Link href="/safety-and-screening" className="font-medium text-forest-mid hover:underline">
                 Safety &amp; screening
               </Link>
               {" · "}
-              <Link href="/apply" className="font-semibold text-forest-mid hover:underline">
+              <Link href="/apply" className="font-medium text-forest-mid hover:underline">
                 Apply
               </Link>
             </p>
           )}
-          <div className="mt-10">
+          <div className="mt-12">
             <Markdown content={post.content} />
           </div>
         </Container>

@@ -4,6 +4,8 @@ import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
 import { JsonLd } from "@/components/JsonLd";
+import { PageHero } from "@/components/PageHero";
+import { Reveal } from "@/components/Reveal";
 import { breadcrumbList, faqPage } from "@/lib/schema";
 import { siteConfig } from "@/lib/site";
 
@@ -33,12 +35,31 @@ const steps = [
   {
     step: "04",
     title: "Recovery observation",
-    body: "Ongoing telemetry, hydration/electrolytes, ataxia precautions, psychiatric check-ins, and clear escalation criteria. Luxury amenities never replace observation standards.",
+    body: "Ongoing telemetry, hydration/electrolytes, ataxia precautions, psychiatric check-ins, and clear escalation criteria. Amenities never replace observation standards.",
   },
   {
     step: "05",
     title: "Integration and aftercare",
     body: "Relapse-prevention or continuing SUD care, therapy continuity for mood/PTSD goals, medication plans with outpatient clinicians, and honest expectation-setting: observational signals ≠ guaranteed remission.",
+  },
+];
+
+const trustGrid = [
+  {
+    title: "Board-level diligence",
+    body: "Physician oversight for go/no-go and infusion — not coordinator clearance.",
+  },
+  {
+    title: "Continuous telemetry",
+    body: "Cardiac monitoring during the high-risk window is a clinical non-negotiable.",
+  },
+  {
+    title: "Route honesty",
+    body: "Psychoactive IV named as such. Support IV never sold as the treatment.",
+  },
+  {
+    title: "Integration is required",
+    body: "Preparation before, monitoring during, and structured planning afterward.",
   },
 ];
 
@@ -69,7 +90,8 @@ export default function HowItWorksPage() {
         "@type": "MedicalWebPage",
         name: "How IV Ibogaine Infusion Works",
         url: `${siteConfig.url}/how-it-works`,
-        description: 'How IV ibogaine infusion works: consult, cardiac screening, monitored intravenous ibogaine, recovery observation, and integration—plus oral-evidence honesty.',
+        description:
+          "How IV ibogaine infusion works: consult, cardiac screening, monitored intravenous ibogaine, recovery observation, and integration—plus oral-evidence honesty.",
       },
       {
         "@type": "HowTo",
@@ -94,24 +116,16 @@ export default function HowItWorksPage() {
   return (
     <>
       <JsonLd data={jsonLd} />
-      <section className="border-b border-forest/10 bg-white py-14">
-        <Container className="max-w-3xl">
-          <h1 className="font-serif text-4xl font-medium text-forest sm:text-5xl">
-            How IV ibogaine infusion works
-          </h1>
-          <p className="mt-4 text-lg leading-relaxed text-ink/75">
-            A physician-supervised medical journey in which{" "}
-            <strong className="text-ink">psychoactive ibogaine is delivered intravenously</strong> — not
-            merely an oral dose with a support IV: consult → cardiac screening → monitored IV infusion →
-            recovery → integration.
-          </p>
-          <Disclaimer className="mt-8" />
-        </Container>
-      </section>
+      <PageHero label="The journey" title="From preparation to integration">
+        A physician-supervised medical path in which{" "}
+        <strong className="font-medium text-cream">psychoactive ibogaine is delivered intravenously</strong> —
+        consult → cardiac screening → monitored IV infusion → recovery → integration.
+      </PageHero>
 
-      <section className="py-14">
-        <Container className="max-w-3xl space-y-6">
-          <div className="prose-clinical">
+      <section className="bg-cream py-16 sm:py-20">
+        <Container className="max-w-3xl">
+          <Disclaimer tone="light" />
+          <div className="prose-clinical mt-10">
             <p>
               Ketamine infusion clinics popularized the consult→screen→infusion→follow-up arc. That{" "}
               <em>shape</em> helps diligence questions — it does not make ibogaine interchangeable with
@@ -125,24 +139,57 @@ export default function HowItWorksPage() {
             </p>
             <p>
               Programs discussed here share the <strong>treatment location after screening</strong> — not an
-              approved U.S. clinic pathway. Journey shape may resemble infusion-clinic care; that
-              is not legal, evidence, or risk equivalence with ketamine. Screening-first; educational
-              only.
+              approved U.S. clinic pathway. Screening-first; educational only.
             </p>
           </div>
+        </Container>
+      </section>
 
-          {steps.map((item) => (
-            <article
-              key={item.step}
-              className="rounded-xl border border-forest/10 bg-white p-6 shadow-sm"
-            >
-              <p className="text-xs font-semibold tracking-[0.2em] text-accent">{item.step}</p>
-              <h2 className="mt-2 font-serif text-2xl text-forest">{item.title}</h2>
-              <p className="mt-3 text-sm leading-relaxed text-ink/75">{item.body}</p>
-            </article>
-          ))}
+      <section className="bg-paper py-24 sm:py-28">
+        <Container>
+          <Reveal>
+            <p className="section-label">Step by step</p>
+            <h2 className="mt-4 font-serif text-4xl tracking-tight text-forest sm:text-5xl">
+              The medical sequence
+            </h2>
+          </Reveal>
+          <ol className="mt-14 space-y-0">
+            {steps.map((item, i) => (
+              <Reveal key={item.step} delayMs={i * 50}>
+                <li className="grid gap-4 border-t border-[var(--line)] py-10 last:border-b md:grid-cols-[6rem_1fr] md:gap-10">
+                  <p className="font-serif text-3xl text-accent/70">{item.step}</p>
+                  <div>
+                    <h3 className="font-serif text-2xl text-forest sm:text-3xl">{item.title}</h3>
+                    <p className="mt-3 max-w-2xl text-sm leading-relaxed text-muted sm:text-base">
+                      {item.body}
+                    </p>
+                  </div>
+                </li>
+              </Reveal>
+            ))}
+          </ol>
+        </Container>
+      </section>
 
-          <div className="prose-clinical">
+      <section className="bg-cream py-24 sm:py-28">
+        <Container>
+          <Reveal className="max-w-2xl">
+            <p className="section-label">Held standards</p>
+            <h2 className="mt-4 font-serif text-4xl tracking-tight text-forest sm:text-5xl">
+              Diligence over décor
+            </h2>
+          </Reveal>
+          <div className="mt-14 grid gap-5 sm:grid-cols-2">
+            {trustGrid.map((item, i) => (
+              <Reveal key={item.title} delayMs={i * 60}>
+                <div className="rounded-[1.5rem] border border-[var(--line)] bg-paper p-8">
+                  <h3 className="font-serif text-2xl text-forest">{item.title}</h3>
+                  <p className="mt-4 text-sm leading-relaxed text-muted">{item.body}</p>
+                </div>
+              </Reveal>
+            ))}
+          </div>
+          <div className="prose-clinical mx-auto mt-16 max-w-3xl">
             <h2>Support IV vs psychoactive IV</h2>
             <ul>
               <li>
@@ -162,7 +209,8 @@ export default function HowItWorksPage() {
           </div>
         </Container>
       </section>
-      <CTASection title="Begin with a confidential screening consult" />
+
+      <CTASection title="Request a private consultation" />
     </>
   );
 }
