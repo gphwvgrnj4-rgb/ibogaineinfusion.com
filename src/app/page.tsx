@@ -112,7 +112,7 @@ export default function HomePage() {
       <section className="relative flex min-h-[100svh] items-end overflow-hidden bg-forest-deep text-cream sm:items-center">
         <Image
           src="/brand/hero-cinematic.webp"
-          alt="Cinematic still-life of a quiet private infusion suite at dusk — soft side light, IV line, deep forest and gold tones"
+          alt="Cinematic still-life of a calm private infusion suite at dusk — soft side light, IV line, deep forest and gold tones"
           fill
           priority
           sizes="100vw"
@@ -120,7 +120,7 @@ export default function HomePage() {
         />
         <Image
           src="/brand/hero-cinematic-mobile.webp"
-          alt="Cinematic still-life of a quiet private infusion suite at dusk — soft side light, IV line, deep forest and gold tones"
+          alt="Cinematic still-life of a calm private infusion suite at dusk — soft side light, IV line, deep forest and gold tones"
           fill
           priority
           sizes="100vw"
@@ -131,7 +131,7 @@ export default function HomePage() {
           <div className="mx-auto max-w-4xl text-center sm:mx-0 sm:max-w-3xl sm:text-left">
             <div className="mx-auto divider-gold sm:mx-0" />
             <h1 className="mt-10 font-serif text-[3.1rem] leading-[0.98] tracking-[-0.04em] sm:text-6xl md:text-7xl lg:text-[5.25rem]">
-              Quiet. Monitored.
+              Calm. Monitored.
               <br />
               Exact.
             </h1>
@@ -164,7 +164,7 @@ export default function HomePage() {
             <div className="mx-auto divider-gold" />
             <p className="section-label mt-8">The ecosystem</p>
             <h2 className="mt-5 font-serif text-4xl tracking-tight text-forest sm:text-5xl lg:text-[3.4rem]">
-              A complete path — not a spa label
+              A complete path — not a lifestyle label
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-muted">
               Four disciplines held together: medical screening, route honesty, monitored infusion,
@@ -276,7 +276,7 @@ export default function HomePage() {
               Crafted for <em className="italic font-normal">calm</em>
             </h2>
             <p className="mt-6 text-base leading-relaxed text-cream/70 sm:text-lg">
-              White-coat medical care — not a hotel spa. A monitored medical infusion setting where
+              White-coat medical care — not hospitality theater. A monitored medical infusion setting where
               continuous telemetry is non-negotiable. Treatment location is shared after screening.
             </p>
             <Link href="/how-it-works" className="btn-ghost mt-10 !inline-flex">
