@@ -65,6 +65,12 @@ export function organizationAndWebsite() {
         url: siteConfig.url,
         description: siteConfig.description,
         email: siteConfig.email,
+        logo: {
+          "@type": "ImageObject",
+          url: `${siteConfig.url}/brand/logo-monoline-512.png`,
+          width: 512,
+          height: 512,
+        },
       },
       {
         "@type": "WebSite",
