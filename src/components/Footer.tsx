@@ -43,11 +43,11 @@ export function Footer() {
           <div className="md:col-span-5">
             <div className="flex items-center gap-3">
               <Image
-                src="/brand/logo-infinity-iboga.png"
-                alt="Ibogaine Infusion logo: differentiated infinity symbol"
-                width={72}
-                height={48}
-                className="h-8 w-auto rounded-md bg-cream/95 p-0.5"
+                src="/brand/logo-monoline-mark.svg"
+                alt="Ibogaine Infusion logo: gold monoline infinity symbol"
+                width={98}
+                height={50}
+                className="h-[1.4rem] w-auto"
               />
               <p className="font-serif text-2xl tracking-tight">
                 Ibogaine <span className="text-accent">Infusion</span>

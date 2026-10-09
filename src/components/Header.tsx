@@ -41,11 +41,11 @@ export function Header() {
           onClick={() => setOpen(false)}
         >
           <Image
-            src="/brand/logo-infinity-iboga.png"
-            alt="Ibogaine Infusion logo: differentiated infinity symbol"
-            width={96}
-            height={64}
-            className="h-8 w-auto rounded-sm bg-cream/95 p-0.5 sm:h-9"
+            src="/brand/logo-monoline-mark.svg"
+            alt="Ibogaine Infusion logo: gold monoline infinity symbol"
+            width={98}
+            height={50}
+            className="h-[1.15rem] w-auto sm:h-[1.3rem]"
             priority
           />
           <span className="font-serif text-[1.15rem] text-cream sm:text-xl">
