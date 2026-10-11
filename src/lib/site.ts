@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Ibogaine Infusion",
   domain: "ibogaineinfusion.com",
-  url: "https://ibogaineinfusion.com",
+  url: "https://www.ibogaineinfusion.com",
   oneLiner:
     "Screening-first inquiry into true psychoactive IV ibogaine infusion — physician-supervised, monitored; treatment location shared after screening.",
   description:
@@ -22,3 +22,14 @@ export const siteConfig = {
 } as const;
 
 export type NavItem = (typeof siteConfig.nav)[number];
+
+/**
+ * Search engine ownership verification tokens.
+ * Leave empty until a real token is issued; set via Vercel env vars
+ * (GOOGLE_SITE_VERIFICATION, BING_SITE_VERIFICATION) or paste the token here.
+ * Empty values render no meta tag.
+ */
+export const siteVerification = {
+  google: process.env.GOOGLE_SITE_VERIFICATION ?? "",
+  bing: process.env.BING_SITE_VERIFICATION ?? "",
+} as const;

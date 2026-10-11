@@ -6,6 +6,7 @@ import { Reveal } from "@/components/Reveal";
 import { blogPosts } from "@/lib/blog";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/blog" },
   title: "Blog",
   description:
     "Educational articles on IV ibogaine infusion, screening, cost honesty, and how to evaluate clinics — without cure claims.",

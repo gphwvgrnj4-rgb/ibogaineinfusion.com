@@ -1,3 +1,6 @@
+import Link from "next/link";
+import { internalPaths } from "@/lib/routes";
+
 /** Minimal markdown-ish renderer for trusted blog content (headings, paragraphs, lists, tables, bold). */
 export function Markdown({ content }: { content: string }) {
   const blocks = content.trim().split(/\n\n+/);
@@ -79,10 +82,35 @@ function RichText({ text }: { text: string }) {
     <>
       {parts.map((part, i) => {
         if (part.startsWith("**") && part.endsWith("**")) {
-          return <strong key={i}>{part.slice(2, -2)}</strong>;
+          return <strong key={i}>{linkify(part.slice(2, -2), `b${i}`)}</strong>;
         }
-        return <span key={i}>{part}</span>;
+        return <span key={i}>{linkify(part, `t${i}`)}</span>;
       })}
     </>
   );
+}
+
+/** Turns plain-text internal paths (e.g. "/safety-and-screening", "/blog/slug") into links when the path exists. */
+const PATH_RE = /(^|[\s(\[])(\/(?:blog\/)?[a-z0-9]+(?:-[a-z0-9]+)*)(?=$|[\s).,;:\]·])/g;
+
+function linkify(text: string, keyPrefix: string) {
+  const nodes: React.ReactNode[] = [];
+  let last = 0;
+  let m: RegExpExecArray | null;
+  PATH_RE.lastIndex = 0;
+  while ((m = PATH_RE.exec(text))) {
+    const path = m[2];
+    if (!internalPaths.has(path)) continue;
+    const start = m.index + m[1].length;
+    if (start > last) nodes.push(text.slice(last, start));
+    nodes.push(
+      <Link key={`${keyPrefix}-${start}`} href={path} className="font-medium text-forest-mid hover:underline">
+        {path}
+      </Link>,
+    );
+    last = start + path.length;
+  }
+  if (last === 0) return text;
+  if (last < text.length) nodes.push(text.slice(last));
+  return nodes;
 }

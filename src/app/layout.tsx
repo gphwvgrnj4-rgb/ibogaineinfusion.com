@@ -5,7 +5,7 @@ import { Header } from "@/components/Header";
 import { StickyMobileCTA } from "@/components/StickyMobileCTA";
 import { Analytics } from "@vercel/analytics/next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
-import { siteConfig } from "@/lib/site";
+import { siteConfig, siteVerification } from "@/lib/site";
 import "./globals.css";
 
 const sans = Instrument_Sans({
@@ -45,6 +45,14 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  ...(siteVerification.google || siteVerification.bing
+    ? {
+        verification: {
+          ...(siteVerification.google ? { google: siteVerification.google } : {}),
+          ...(siteVerification.bing ? { other: { "msvalidate.01": siteVerification.bing } } : {}),
+        },
+      }
+    : {}),
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

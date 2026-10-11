@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/privacy" },
   title: "Privacy Policy",
   description:
     "Privacy policy for Ibogaine Infusion: application form data (contact and health/substance answers), screening purpose, retention, clinical partners, and international transfer.",

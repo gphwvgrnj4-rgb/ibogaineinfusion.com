@@ -1,21 +1,7 @@
 import type { MetadataRoute } from "next";
 import { blogPosts } from "@/lib/blog";
+import { staticRoutes } from "@/lib/routes";
 import { siteConfig } from "@/lib/site";
-
-const staticRoutes = [
-  "",
-  "/ibogaine-for-addiction",
-  "/ibogaine-for-depression",
-  "/ibogaine-for-ptsd",
-  "/what-is-ibogaine-infusion",
-  "/how-it-works",
-  "/safety-and-screening",
-  "/faq",
-  "/apply",
-  "/blog",
-  "/privacy",
-  "/terms",
-];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();

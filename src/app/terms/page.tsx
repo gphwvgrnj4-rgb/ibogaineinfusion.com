@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Container } from "@/components/Container";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "/terms" },
   title: "Terms of Use",
   description:
     "Terms of use for the Ibogaine Infusion educational website: no medical advice, program availability, liability limits, and inquiry data.",

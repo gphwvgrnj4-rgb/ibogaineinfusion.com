@@ -73,6 +73,16 @@ const nextConfig: NextConfig = {
         destination: "/blog/ibogaine-ind-explained",
         permanent: true,
       },
+      {
+        source: "/blog/ibogaine-cure-rate-claims",
+        destination: "/blog/ibogaine-success-rate-claims",
+        permanent: true,
+      },
+      {
+        source: "/blog/ibogaine-cure-rate-claims/",
+        destination: "/blog/ibogaine-success-rate-claims",
+        permanent: true,
+      },
     ];
   },
 };

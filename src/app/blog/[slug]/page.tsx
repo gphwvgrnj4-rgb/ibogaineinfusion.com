@@ -7,6 +7,7 @@ import { Disclaimer } from "@/components/Disclaimer";
 import { JsonLd } from "@/components/JsonLd";
 import { Markdown } from "@/components/Markdown";
 import { blogPosts, getPost } from "@/lib/blog";
+import { getEnhancement } from "@/lib/blog-enhancements";
 import { breadcrumbList, faqPage } from "@/lib/schema";
 import { siteConfig } from "@/lib/site";
 
@@ -83,7 +84,9 @@ export default async function BlogPostPage({ params }: Props) {
   const post = getPost(slug);
   if (!post) notFound();
 
-  const faqs = extractFaqs(post.content);
+  const enhancement = getEnhancement(slug);
+  // Structured FAQ (visible below) takes precedence for FAQPage schema.
+  const faqs = enhancement ? enhancement.faqs : extractFaqs(post.content);
   const up = canonicalUp[slug];
   const jsonLd = {
     "@context": "https://schema.org",
@@ -153,6 +156,54 @@ export default async function BlogPostPage({ params }: Props) {
           <div className="mt-12">
             <Markdown content={post.content} />
           </div>
+          {enhancement ? (
+            <>
+              <section aria-labelledby="quick-answers" className="mt-14 border-t border-[var(--line)] pt-10">
+                <h2 id="quick-answers" className="font-serif text-3xl tracking-tight text-forest">
+                  Quick answers
+                </h2>
+                <dl className="mt-6 space-y-6">
+                  {enhancement.faqs.map((item) => (
+                    <div key={item.q}>
+                      <dt className="font-medium text-ink">{item.q}</dt>
+                      <dd className="mt-2 leading-relaxed text-ink/80">{item.a}</dd>
+                    </div>
+                  ))}
+                </dl>
+              </section>
+              <nav aria-labelledby="related-reading" className="mt-12">
+                <h2 id="related-reading" className="font-serif text-2xl tracking-tight text-forest">
+                  Related reading
+                </h2>
+                <ul className="mt-4 space-y-2">
+                  {enhancement.related.map((link) => (
+                    <li key={link.href}>
+                      <Link href={link.href} className="font-medium text-forest-mid hover:underline">
+                        {link.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </nav>
+              <aside className="mt-12 rounded-2xl border border-[var(--line)] bg-stone/40 px-6 py-6">
+                <p className="font-serif text-2xl tracking-tight text-forest">Considering IV ibogaine infusion?</p>
+                <p className="mt-3 leading-relaxed text-ink/80">
+                  Start by reading{" "}
+                  <Link href="/safety-and-screening" className="font-medium text-forest-mid hover:underline">
+                    safety &amp; screening
+                  </Link>
+                  . If it still fits your situation, submit a confidential application. A physician reviews
+                  your history before anything else happens.
+                </p>
+                <Link
+                  href="/apply"
+                  className="mt-5 inline-block rounded-full bg-forest px-6 py-3 text-sm font-medium text-cream hover:bg-forest-mid"
+                >
+                  Start a confidential application
+                </Link>
+              </aside>
+            </>
+          ) : null}
         </Container>
       </article>
       <CTASection />
