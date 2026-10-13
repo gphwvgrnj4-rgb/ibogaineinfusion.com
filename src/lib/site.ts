@@ -31,5 +31,5 @@ export type NavItem = (typeof siteConfig.nav)[number];
  */
 export const siteVerification = {
   google: process.env.GOOGLE_SITE_VERIFICATION ?? "",
-  bing: process.env.BING_SITE_VERIFICATION ?? "",
+  bing: process.env.BING_SITE_VERIFICATION || "A0CFFFB9635CA674EF63EC8806F5044B",
 } as const;
