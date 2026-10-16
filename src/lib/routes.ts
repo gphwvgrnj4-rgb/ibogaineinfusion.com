@@ -8,6 +8,7 @@ export const staticRoutes = [
   "/ibogaine-for-ptsd",
   "/what-is-ibogaine-infusion",
   "/how-it-works",
+  "/iv-vs-oral",
   "/safety-and-screening",
   "/faq",
   "/apply",

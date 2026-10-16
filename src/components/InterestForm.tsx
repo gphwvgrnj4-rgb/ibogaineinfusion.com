@@ -57,13 +57,14 @@ export function InterestForm({ source }: { source: string }) {
         method: "POST",
         headers: { "Content-Type": "application/json", Accept: "application/json" },
         body: JSON.stringify({
-          type: "interest",
+          type: "waitlist",
+          lead_tag: "waitlist",
           name: name.trim(),
           email: email.trim(),
           whatsapp: whatsapp.trim(),
           source,
           ...meta,
-          _subject: `Ibogaine Infusion INTEREST: ${name.trim()}`,
+          _subject: `Ibogaine Infusion WAITLIST: ${name.trim()}`,
           _template: "table",
           _replyto: email.trim(),
         }),
@@ -82,11 +83,11 @@ export function InterestForm({ source }: { source: string }) {
   if (status === "done") {
     return (
       <div className="rounded-2xl border border-[#B8956A]/40 bg-[#071C16]/70 p-6 text-cream" role="status" data-interest="success">
-        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#B8956A]">Interest registered</p>
-        <p className="mt-3 font-serif text-2xl">Thank you, {name.trim().split(/\s+/)[0]}.</p>
+        <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[#B8956A]">Waitlist confirmed</p>
+        <p className="mt-3 font-serif text-2xl">You’re on the list.</p>
         <p className="mt-2 text-sm leading-relaxed text-cream/70">
-          We’ll reach out confidentially by email or WhatsApp. Registering is not admission to treatment; a
-          physician reviews your history first.
+          We’ll contact you on WhatsApp before public intake opens. Joining the waitlist is not admission to
+          treatment; a physician reviews your history and cardiac screening first.
         </p>
         <Link
           href={`/apply?from=${encodeURIComponent(source)}`}
@@ -99,7 +100,7 @@ export function InterestForm({ source }: { source: string }) {
   }
 
   return (
-    <form onSubmit={onSubmit} noValidate className="relative space-y-3" aria-label="Register interest">
+    <form onSubmit={onSubmit} noValidate className="relative space-y-3" aria-label="Join the waitlist">
       <div className="grid gap-3 sm:grid-cols-3">
         <label className="sr-only" htmlFor={`ii-name-${source}`}>Name</label>
         <input id={`ii-name-${source}`} className={input} placeholder="Name" autoComplete="name" value={name} onChange={(e) => setName(e.target.value)} />
@@ -119,13 +120,13 @@ export function InterestForm({ source }: { source: string }) {
         disabled={status === "loading"}
         className="inline-flex min-h-12 w-full items-center justify-center rounded-full bg-cream px-8 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-ink hover:bg-white disabled:opacity-60 sm:w-auto"
       >
-        {status === "loading" ? "Sending…" : "Register interest"}
+        {status === "loading" ? "Sending…" : "Join the waitlist"}
       </button>
       {error ? <p className="text-sm text-[#F2C9A0]" role="alert">{error}</p> : null}
       {status === "error" ? (
         <p className="text-sm text-[#F2C9A0]" role="alert">
           We couldn’t send that just now. Please email{" "}
-          <a className="underline" href={`mailto:hello@ibogaineinfusion.com?subject=Interest&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\nWhatsApp: ${whatsapp}`)}`}>
+          <a className="underline" href={`mailto:hello@ibogaineinfusion.com?subject=Waitlist&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\nWhatsApp: ${whatsapp}`)}`}>
             hello@ibogaineinfusion.com
           </a>{" "}
           or try again.

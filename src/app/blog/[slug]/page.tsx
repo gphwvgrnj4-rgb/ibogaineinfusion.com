@@ -214,8 +214,9 @@ export default async function BlogPostPage({ params }: Props) {
               Considering IV ibogaine infusion?
             </h2>
             <p className="mx-auto mt-4 max-w-lg leading-relaxed text-cream/70">
-              Register your interest with just your name, email and WhatsApp. We reply confidentially —
-              screening first, no obligation, no outcome promises.
+              Join the waitlist with just your name, email and WhatsApp. Intake opens in small, physician-screened cohorts. We reply confidentially —
+              screening first, no obligation, no outcome promises.{" "}
+              <Link href="/iv-vs-oral" className="text-accent underline-offset-4 hover:underline">Why IV, not oral?</Link>
             </p>
             <div className="mx-auto mt-8 max-w-xl text-left">
               <InterestForm source={`blog:${post.slug}`} />

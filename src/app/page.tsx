@@ -6,17 +6,22 @@ import { InterestForm } from "@/components/InterestForm";
 import { JsonLd } from "@/components/JsonLd";
 import { JurisdictionNote } from "@/components/JurisdictionNote";
 import { Reveal } from "@/components/Reveal";
+import { RouteComparison } from "@/components/RouteComparison";
 import { blogPosts } from "@/lib/blog";
 import { faqPage, organizationAndWebsite } from "@/lib/schema";
 
 export const metadata: Metadata = {
   title: "IV Ibogaine Infusion | Physician-Supervised Medical Care",
   description:
-    "Intravenous ibogaine infusion under physician supervision—with cardiac screening and monitoring. Treatment location shared after screening. Honest education on evidence gaps, safety, and next steps.",
+    "A clinic dedicated exclusively to intravenous (IV) ibogaine therapy—physician-supervised, with cardiac screening and monitoring. Treatment location shared after screening. Honest education on evidence gaps, safety, and next steps.",
   alternates: { canonical: "/" },
 };
 
 const homeFaqs = [
+  {
+    q: "How does IV compare with oral or intranasal ibogaine?",
+    a: "IV lets clinicians titrate the dose in small increments and slow or stop the infusion, under continuous ECG/QTc monitoring. Oral is the most studied route but cannot be reversed once swallowed. Intranasal has very little clinical data. IV ibogaine is still being researched and every route carries serious cardiac risk. See /iv-vs-oral.",
+  },
   {
     q: "What is IV ibogaine infusion?",
     a: "Intravenous delivery of ibogaine as the psychoactive treatment under physician supervision in a medical infusion setting, with cardiac screening, continuous monitoring, and integration afterward.",
@@ -132,12 +137,15 @@ export default function HomePage() {
               <br />
               Exact.
             </h1>
-            <p className="mx-auto mt-8 max-w-xl text-base leading-relaxed text-cream/70 sm:mx-0 sm:text-lg">
+            <p className="mx-auto mt-8 max-w-xl border-l-0 font-serif text-xl italic leading-snug text-accent sm:mx-0 sm:border-l sm:border-accent/60 sm:pl-5 sm:text-2xl" data-positioning>
+              A clinic dedicated exclusively to intravenous (IV) ibogaine therapy.
+            </p>
+            <p className="mx-auto mt-6 max-w-xl text-base leading-relaxed text-cream/70 sm:mx-0 sm:text-lg">
               Physician-supervised IV ibogaine infusion — screening first, continuous cardiac
               monitoring, structured integration afterward.
             </p>
             <div className="mt-10 max-w-2xl" id="register-interest">
-              <p className="mb-3 text-[0.72rem] font-medium uppercase tracking-[0.2em] text-accent">Register your interest</p>
+              <p className="mb-3 text-[0.72rem] font-medium uppercase tracking-[0.2em] text-accent">Join the waitlist · Early access</p>
               <InterestForm source="home-hero" />
               <p className="mt-4 text-sm text-cream/60">
                 Ready for more?{" "}
@@ -152,6 +160,38 @@ export default function HomePage() {
 
       {/* Jurisdiction — below fold, not in hero */}
       <JurisdictionNote context="home" />
+
+      <RouteComparison source="home-routes" />
+
+      {/* Waitlist band */}
+      <section className="bg-forest-deep py-24 text-cream sm:py-32" id="waitlist" data-waitlist-band>
+        <Container className="grid gap-14 lg:grid-cols-[1fr_1.1fr] lg:items-start">
+          <Reveal>
+            <div className="divider-gold" />
+            <p className="section-label mt-8 text-accent">Request early access</p>
+            <h2 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl">Intake opens in small, physician-screened cohorts</h2>
+            <div className="mt-8 space-y-0 border-t border-accent/30">
+              {[
+                ["Small cohorts", "Every infusion runs with one-to-one continuous cardiac monitoring, so places in each cohort are limited."],
+                ["Screening first", "A physician reviews your history and ECG before any place is offered. Joining is not admission."],
+                ["First access", "Waitlist members are contacted first for screening and the intake date, on WhatsApp."],
+              ].map(([t, b]) => (
+                <div key={t} className="grid gap-2 border-b border-accent/30 py-5 sm:grid-cols-[10rem_1fr]">
+                  <p className="font-serif text-xl text-accent">{t}</p>
+                  <p className="text-sm leading-relaxed text-cream/70">{b}</p>
+                </div>
+              ))}
+            </div>
+          </Reveal>
+          <Reveal delayMs={80}>
+            <div className="rounded-[2rem] border border-accent/40 p-7 sm:p-10">
+              <p className="mb-4 text-[0.72rem] font-medium uppercase tracking-[0.2em] text-accent">Join the waitlist</p>
+              <InterestForm source="home-waitlist" />
+            </div>
+          </Reveal>
+        </Container>
+      </section>
+
 
       {/* 2. Ecosystem pillars */}
       <section className="bg-cream py-28 sm:py-36">
