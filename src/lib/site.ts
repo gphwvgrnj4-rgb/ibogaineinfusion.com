@@ -3,9 +3,9 @@ export const siteConfig = {
   domain: "ibogaineinfusion.com",
   url: "https://www.ibogaineinfusion.com",
   oneLiner:
-    "Screening-first inquiry into true psychoactive IV ibogaine infusion — physician-supervised, monitored; treatment location shared after screening.",
+    "Screening-first inquiry into true psychoactive IV ibogaine infusion — physician-supervised, monitored; waitlist intakes for Mexico and Gabon.",
   description:
-    "A clinic dedicated exclusively to intravenous (IV) ibogaine therapy. Educational inquiry into medically screened, true IV ibogaine infusion (intravenous psychoactive ibogaine — not oral dosing with supportive IV fluids). Treatment location shared after screening; not an approved U.S. clinic. Not a treatment guarantee or medical advice.",
+    "A clinic dedicated exclusively to intravenous (IV) ibogaine therapy. Educational inquiry into medically screened, true IV ibogaine infusion (intravenous psychoactive ibogaine — not oral dosing with supportive IV fluids). Waitlist intakes for two locations: Mexico and Gabon; not an approved U.S. clinic. Not a treatment guarantee or medical advice.",
   email: "hello@ibogaineinfusion.com",
   phoneDisplay: "Confidential inquiry form",
   nav: [

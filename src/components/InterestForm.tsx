@@ -35,6 +35,7 @@ export function InterestForm({ source }: { source: string }) {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [whatsapp, setWhatsapp] = useState("");
+  const [location, setLocation] = useState("");
   const [website, setWebsite] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "done" | "error">("idle");
   const [error, setError] = useState("");
@@ -46,6 +47,7 @@ export function InterestForm({ source }: { source: string }) {
     if (!name.trim()) return setError("Please enter your name.");
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.trim())) return setError("Please enter a valid email.");
     if (whatsapp.replace(/\D/g, "").length < 7) return setError("Please enter your WhatsApp number with country code.");
+    if (!location) return setError("Please choose a preferred location.");
     setError("");
     setStatus("loading");
     if (website.trim()) {
@@ -62,6 +64,7 @@ export function InterestForm({ source }: { source: string }) {
           name: name.trim(),
           email: email.trim(),
           whatsapp: whatsapp.trim(),
+          preferred_location: location,
           source,
           ...meta,
           _subject: `Ibogaine Infusion WAITLIST: ${name.trim()}`,
@@ -109,6 +112,15 @@ export function InterestForm({ source }: { source: string }) {
         <label className="sr-only" htmlFor={`ii-wa-${source}`}>WhatsApp number</label>
         <input id={`ii-wa-${source}`} className={input} type="tel" placeholder="WhatsApp (+country)" autoComplete="tel" value={whatsapp} onChange={(e) => setWhatsapp(e.target.value)} />
       </div>
+      <fieldset className="flex flex-wrap items-center gap-2 text-sm text-cream/80" data-location-field>
+        <legend className="mb-2 w-full text-xs uppercase tracking-[0.18em] text-cream/60">Preferred location</legend>
+        {["Mexico", "Gabon", "Either"].map((o) => (
+          <label key={o} className={`cursor-pointer rounded-full border px-4 py-2 ${location === o ? "border-[#B8956A] bg-[#B8956A]/20 text-cream" : "border-[#B8956A]/40"}`}>
+            <input type="radio" name={`ii-loc-${source}`} value={o} checked={location === o} onChange={() => setLocation(o)} className="sr-only" />
+            {o}
+          </label>
+        ))}
+      </fieldset>
       <div className="absolute -left-[9999px] h-0 w-0 overflow-hidden" aria-hidden="true">
         <label>
           Website
@@ -126,7 +138,7 @@ export function InterestForm({ source }: { source: string }) {
       {status === "error" ? (
         <p className="text-sm text-[#F2C9A0]" role="alert">
           We couldn’t send that just now. Please email{" "}
-          <a className="underline" href={`mailto:hello@ibogaineinfusion.com?subject=Waitlist&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\nWhatsApp: ${whatsapp}`)}`}>
+          <a className="underline" href={`mailto:hello@ibogaineinfusion.com?subject=Waitlist&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\nWhatsApp: ${whatsapp}\nPreferred location: ${location}`)}`}>
             hello@ibogaineinfusion.com
           </a>{" "}
           or try again.

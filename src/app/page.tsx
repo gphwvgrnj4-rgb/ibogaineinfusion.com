@@ -146,6 +146,7 @@ export default function HomePage() {
             </p>
             <div className="mt-10 max-w-2xl" id="register-interest">
               <p className="mb-3 text-[0.72rem] font-medium uppercase tracking-[0.2em] text-accent">Join the waitlist · Early access</p>
+              <p className="mb-4 text-sm text-cream/80" data-locations>Now accepting waitlist intakes for two locations: Mexico and Gabon.</p>
               <InterestForm source="home-hero" />
               <p className="mt-4 text-sm text-cream/60">
                 Ready for more?{" "}
@@ -170,6 +171,7 @@ export default function HomePage() {
             <div className="divider-gold" />
             <p className="section-label mt-8 text-accent">Request early access</p>
             <h2 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl">Intake opens in small, physician-screened cohorts</h2>
+            <p className="mt-5 font-serif text-xl text-accent" data-locations>Now accepting waitlist intakes for two locations: Mexico and Gabon.</p>
             <div className="mt-8 space-y-0 border-t border-accent/30">
               {[
                 ["Small cohorts", "Every infusion runs with one-to-one continuous cardiac monitoring, so places in each cohort are limited."],

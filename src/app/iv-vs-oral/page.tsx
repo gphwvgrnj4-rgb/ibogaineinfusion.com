@@ -43,6 +43,7 @@ export default function IvVsOralPage() {
             Intake opens in small, physician-screened cohorts. Places are limited because every infusion has
             one-to-one cardiac monitoring. Waitlist members get first access to screening and the intake date.
           </p>
+          <p className="mt-4 font-serif text-xl text-accent" data-locations>Now accepting waitlist intakes for two locations: Mexico and Gabon.</p>
           <div className="mt-8"><InterestForm source="iv-vs-oral" /></div>
         </Container>
       </section>

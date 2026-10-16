@@ -124,7 +124,7 @@ export function Footer() {
       <div className="relative border-t border-cream/10">
         <Container className="flex flex-col gap-2 py-6 text-[0.68rem] uppercase tracking-[0.16em] text-cream/35 sm:flex-row sm:justify-between">
           <p>© {new Date().getFullYear()} Ibogaine Infusion</p>
-          <p>Screening-first · location shared after screening</p>
+          <p data-locations>Now accepting waitlist intakes for two locations: Mexico and Gabon. Screening-first.</p>
         </Container>
       </div>
     </footer>
