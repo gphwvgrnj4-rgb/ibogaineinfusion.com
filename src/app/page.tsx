@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { Container } from "@/components/Container";
+import { InterestForm } from "@/components/InterestForm";
 import { JsonLd } from "@/components/JsonLd";
 import { JurisdictionNote } from "@/components/JurisdictionNote";
 import { Reveal } from "@/components/Reveal";
@@ -56,7 +57,7 @@ const pillars = [
   {
     num: "03",
     title: "Monitored sanctuary",
-    body: "Physician oversight, continuous telemetry, and a calm clinical setting designed for dignity.",
+    body: "Physician oversight, continuous telemetry, and a medical setting designed for dignity.",
   },
   {
     num: "04",
@@ -110,28 +111,24 @@ export default function HomePage() {
 
       {/* 1. Hero — Eleusis-style full viewport */}
       <section className="relative flex min-h-[100svh] items-end overflow-hidden bg-forest-deep text-cream sm:items-center">
-        <Image
-          src="/brand/hero-cinematic.webp"
-          alt="Cinematic still-life of a calm private infusion suite at dusk — soft side light, IV line, deep forest and gold tones"
-          fill
-          priority
-          sizes="100vw"
-          className="hidden object-cover object-center sm:block"
-        />
-        <Image
-          src="/brand/hero-cinematic-mobile.webp"
-          alt="Cinematic still-life of a calm private infusion suite at dusk — soft side light, IV line, deep forest and gold tones"
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover object-[center_30%] sm:hidden"
-        />
+        <div className="pointer-events-none absolute inset-0 flex items-start justify-center pt-20 sm:items-center sm:justify-end sm:pt-0" aria-hidden="false">
+          <Image
+            src="/brand/hero-art.svg"
+            alt="Gold line-art illustration: an IV drip line flowing toward a human brain beside a Tabernanthe iboga branch with opposite leaves and small orange fruit"
+            width={1200}
+            height={900}
+            priority
+            unoptimized
+            className="h-auto w-[115%] max-w-none opacity-35 sm:w-[62%] sm:max-w-[60rem] sm:opacity-90"
+            data-hero-art
+          />
+        </div>
         <div className="hero-overlay absolute inset-0" aria-hidden="true" />
         <Container className="relative w-full pb-20 pt-32 sm:pb-28 sm:pt-36">
           <div className="mx-auto max-w-4xl text-center sm:mx-0 sm:max-w-3xl sm:text-left">
             <div className="mx-auto divider-gold sm:mx-0" />
             <h1 className="mt-10 font-serif text-[3.1rem] leading-[0.98] tracking-[-0.04em] sm:text-6xl md:text-7xl lg:text-[5.25rem]">
-              Calm. Monitored.
+              Medical. Monitored.
               <br />
               Exact.
             </h1>
@@ -139,16 +136,15 @@ export default function HomePage() {
               Physician-supervised IV ibogaine infusion — screening first, continuous cardiac
               monitoring, structured integration afterward.
             </p>
-            <div className="mt-12 flex flex-col items-center gap-3 sm:flex-row sm:items-center">
-              <Link
-                href="/apply"
-                className="inline-flex min-h-12 items-center rounded-full bg-cream px-8 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-ink hover:bg-white"
-              >
-                Apply now
-              </Link>
-              <Link href="/apply?intent=call" className="btn-ghost">
-                Free confidential call
-              </Link>
+            <div className="mt-10 max-w-2xl" id="register-interest">
+              <p className="mb-3 text-[0.72rem] font-medium uppercase tracking-[0.2em] text-accent">Register your interest</p>
+              <InterestForm source="home-hero" />
+              <p className="mt-4 text-sm text-cream/60">
+                Ready for more?{" "}
+                <Link href="/apply" className="text-accent underline-offset-4 hover:underline">Full application</Link>
+                {" · "}
+                <Link href="/apply?intent=call" className="text-accent underline-offset-4 hover:underline">Free confidential call</Link>
+              </p>
             </div>
           </div>
         </Container>
@@ -250,16 +246,8 @@ export default function HomePage() {
         </Container>
       </section>
 
-      {/* 4. Crafted for calm — abstract field (no photography) */}
+      {/* 4. Crafted for medical care — no photography */}
       <section className="relative mt-6 min-h-[70vh] overflow-hidden bg-forest-deep text-cream sm:mt-10 sm:min-h-[80vh]">
-        <Image
-          src="/brand/hero-cinematic.webp"
-          alt=""
-          fill
-          sizes="100vw"
-          className="object-cover object-center opacity-55"
-          aria-hidden="true"
-        />
         <div
           className="absolute inset-0"
           aria-hidden="true"
@@ -273,7 +261,7 @@ export default function HomePage() {
             <div className="divider-gold" />
             <p className="section-label mt-8 text-accent">The setting</p>
             <h2 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl lg:text-[3.5rem]">
-              Crafted for <em className="italic font-normal">calm</em>
+              Crafted for <em className="italic font-normal">medical care</em>
             </h2>
             <p className="mt-6 text-base leading-relaxed text-cream/70 sm:text-lg">
               White-coat medical care — not hospitality theater. A monitored medical infusion setting where

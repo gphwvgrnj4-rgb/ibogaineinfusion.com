@@ -8,6 +8,8 @@ import { JsonLd } from "@/components/JsonLd";
 import { Markdown } from "@/components/Markdown";
 import { blogPosts, getPost, relatedPosts } from "@/lib/blog";
 import { getEnhancement } from "@/lib/blog-enhancements";
+import { blogExpansions } from "@/lib/blog-expansions";
+import { InterestForm } from "@/components/InterestForm";
 import { breadcrumbList, faqPage } from "@/lib/schema";
 import { siteConfig } from "@/lib/site";
 
@@ -86,7 +88,9 @@ export default async function BlogPostPage({ params }: Props) {
 
   const enhancement = getEnhancement(slug);
   // Structured FAQ (visible below) takes precedence for FAQPage schema.
-  const faqs = enhancement ? enhancement.faqs : extractFaqs(post.content);
+  const expansion = blogExpansions[slug];
+  const quickAnswers = [...(enhancement?.faqs ?? []), ...(expansion?.faqs ?? [])];
+  const faqs = enhancement || expansion ? [...(enhancement ? [] : extractFaqs(post.content)), ...quickAnswers] : extractFaqs(post.content);
   const up = canonicalUp[slug];
   const related = enhancement?.related?.length
     ? enhancement.related.slice(0, 3)
@@ -159,13 +163,18 @@ export default async function BlogPostPage({ params }: Props) {
           <div className="mt-12">
             <Markdown content={post.content} />
           </div>
-          {enhancement ? (
+          {expansion ? (
+            <div className="mt-10" data-expansion="oct16">
+              <Markdown content={expansion.content} />
+            </div>
+          ) : null}
+          {quickAnswers.length ? (
             <section aria-labelledby="quick-answers" className="mt-14 border-t border-[var(--line)] pt-10">
               <h2 id="quick-answers" className="font-serif text-3xl tracking-tight text-forest">
                 Quick answers
               </h2>
               <dl className="mt-6 space-y-6">
-                {enhancement.faqs.map((item) => (
+                {quickAnswers.map((item) => (
                   <div key={item.q}>
                     <dt className="font-medium text-ink">{item.q}</dt>
                     <dd className="mt-2 leading-relaxed text-ink/80">{item.a}</dd>
@@ -205,20 +214,22 @@ export default async function BlogPostPage({ params }: Props) {
               Considering IV ibogaine infusion?
             </h2>
             <p className="mx-auto mt-4 max-w-lg leading-relaxed text-cream/70">
-              Apply in under a minute. A physician reviews your history before anything else happens —
+              Register your interest with just your name, email and WhatsApp. We reply confidentially —
               screening first, no obligation, no outcome promises.
             </p>
-            <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
-              <Link
-                href={`/apply?from=${post.slug}`}
-                className="inline-flex min-h-12 items-center rounded-full bg-cream px-8 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-ink hover:bg-white"
-              >
+            <div className="mx-auto mt-8 max-w-xl text-left">
+              <InterestForm source={`blog:${post.slug}`} />
+            </div>
+            <p className="mt-6 text-sm text-cream/60">
+              Prefer the full application?{" "}
+              <Link href={`/apply?from=${post.slug}`} className="text-accent underline-offset-4 hover:underline">
                 Apply now
-              </Link>
-              <Link href={`/apply?intent=call&from=${post.slug}`} className="btn-ghost !min-h-12">
+              </Link>{" "}
+              ·{" "}
+              <Link href={`/apply?intent=call&from=${post.slug}`} className="text-accent underline-offset-4 hover:underline">
                 Free confidential call
               </Link>
-            </div>
+            </p>
           </aside>
         </Container>
       </article>

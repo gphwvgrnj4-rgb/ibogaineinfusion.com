@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="t">
+<title id="t">Gold line art: an IV drip whose line flows toward a human brain, beside a Tabernanthe iboga branch with opposite leaves and small orange fruit</title>
+<g fill="none" stroke="#B8956A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<g id="iv">
+<path d="M150 80 h40 v24 h-40 z"/><path d="M170 60 v20"/><circle cx="170" cy="52" r="8"/>
+<path d="M120 104 h100 q14 0 14 14 v150 q0 40 -40 52 l-12 4 h-24 l-12 -4 q-40 -12 -40 -52 v-150 q0 -14 14 -14 z"/>
+<path d="M132 170 h76" opacity=".5"/><path d="M132 200 h50" opacity=".35"/><path d="M132 230 h64" opacity=".35"/>
+<path d="M160 324 h20 v28 h-20 z"/>
+<path d="M166 352 v18 h8 v-18" />
+<path d="M164 370 h12 v34 h-12 z" opacity=".8"/><circle cx="170" cy="392" r="2.4" fill="#B8956A" stroke="none"/>
+<path d="M170 404 C170 520 230 600 330 610 C450 620 540 520 592 448"/>
+</g>
+<g id="brain" transform="translate(470 150)">
+<path d="M120 300 C60 300 20 262 22 214 C-6 196 -6 146 24 128 C18 84 52 46 96 50 C110 18 156 6 186 26 C214 4 266 10 282 44 C324 40 360 76 352 118 C384 136 386 188 356 206 C362 254 320 292 270 286 C252 310 212 316 190 300 C172 314 140 314 120 300 Z"/>
+<path d="M188 28 C176 70 200 100 190 140 C182 176 204 210 192 250 C186 272 190 290 190 300"/>
+<path d="M60 120 C90 110 110 130 100 160 C92 186 120 200 140 186" opacity=".75"/>
+<path d="M40 210 C70 196 96 216 120 206 C144 196 150 224 170 230" opacity=".75"/>
+<path d="M96 52 C108 78 140 80 150 100" opacity=".75"/>
+<path d="M282 46 C262 76 236 80 230 108" opacity=".75"/>
+<path d="M330 130 C300 124 280 142 290 170 C298 192 270 206 248 196" opacity=".75"/>
+<path d="M350 206 C320 200 300 220 276 214 C254 208 246 236 226 240" opacity=".75"/>
+<path d="M270 286 C262 262 236 258 222 266" opacity=".75"/>
+<path d="M120 300 C126 276 150 268 166 274" opacity=".75"/>
+<path d="M180 300 C184 330 176 350 166 372"/>
+</g>
+<g id="iboga">
+<path d="M1080 860 C1040 760 990 700 930 640 C880 590 850 560 820 520"/>
+<path transform="translate(1060 812) rotate(-187)" d="M0 0 C37.440000000000005 -24.0 93.60000000000001 -24.0 124.80000000000001 0 C93.60000000000001 24.0 37.440000000000005 24.0 0 0 Z M2 0 H120.80000000000001"/>
+<path transform="translate(1060 812) rotate(-63)" d="M0 0 C37.440000000000005 -24.0 93.60000000000001 -24.0 124.80000000000001 0 C93.60000000000001 24.0 37.440000000000005 24.0 0 0 Z M2 0 H120.80000000000001"/>
+<path transform="translate(1030 750) rotate(-183)" d="M0 0 C31.2 -20.0 78.0 -20.0 104.0 0 C78.0 20.0 31.2 20.0 0 0 Z M2 0 H100.0"/>
+<path transform="translate(1030 750) rotate(-59)" d="M0 0 C31.2 -20.0 78.0 -20.0 104.0 0 C78.0 20.0 31.2 20.0 0 0 Z M2 0 H100.0"/>
+<path transform="translate(990 700) rotate(-179)" d="M0 0 C26.52 -17.0 66.30000000000001 -17.0 88.4 0 C66.30000000000001 17.0 26.52 17.0 0 0 Z M2 0 H84.4"/>
+<path transform="translate(990 700) rotate(-55)" d="M0 0 C26.52 -17.0 66.30000000000001 -17.0 88.4 0 C66.30000000000001 17.0 26.52 17.0 0 0 Z M2 0 H84.4"/>
+<path transform="translate(945 655) rotate(-175)" d="M0 0 C23.4 -15.0 58.5 -15.0 78.0 0 C58.5 15.0 23.4 15.0 0 0 Z M2 0 H74.0"/>
+<path transform="translate(945 655) rotate(-51)" d="M0 0 C23.4 -15.0 58.5 -15.0 78.0 0 C58.5 15.0 23.4 15.0 0 0 Z M2 0 H74.0"/>
+<path transform="translate(895 605) rotate(-171)" d="M0 0 C20.28 -13.0 50.7 -13.0 67.60000000000001 0 C50.7 13.0 20.28 13.0 0 0 Z M2 0 H63.60000000000001"/>
+<path transform="translate(895 605) rotate(-47)" d="M0 0 C20.28 -13.0 50.7 -13.0 67.60000000000001 0 C50.7 13.0 20.28 13.0 0 0 Z M2 0 H63.60000000000001"/>
+<path transform="translate(850 560) rotate(-167)" d="M0 0 C17.16 -11.0 42.900000000000006 -11.0 57.2 0 C42.900000000000006 11.0 17.16 11.0 0 0 Z M2 0 H53.2"/>
+<path transform="translate(850 560) rotate(-43)" d="M0 0 C17.16 -11.0 42.900000000000006 -11.0 57.2 0 C42.900000000000006 11.0 17.16 11.0 0 0 Z M2 0 H53.2"/>
+<path d="M1000 712 C1030 716 1052 730 1064 748"/>
+<ellipse cx="1070" cy="766" rx="11" ry="16" transform="rotate(0 1070 766)" fill="#D9782D" fill-opacity=".85" stroke="#D9782D"/>
+<ellipse cx="1088" cy="790" rx="11" ry="16" transform="rotate(-12 1088 790)" fill="#D9782D" fill-opacity=".85" stroke="#D9782D"/>
+<ellipse cx="1058" cy="792" rx="11" ry="16" transform="rotate(10 1058 792)" fill="#D9782D" fill-opacity=".85" stroke="#D9782D"/>
+<path d="M1064 748 L1070 750 M1064 748 L1088 774 M1064 748 L1058 776" opacity=".8"/>
+</g>
+<path d="M636 522 C660 640 760 700 900 640" opacity=".45" stroke-dasharray="2 10"/>
+</g></svg>
