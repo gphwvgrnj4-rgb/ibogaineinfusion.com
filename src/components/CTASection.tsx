@@ -24,10 +24,10 @@ export function CTASection({
             href="/apply"
             className="inline-flex min-h-12 items-center rounded-full bg-cream px-7 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-ink hover:bg-white"
           >
-            Apply Now
+            Apply now
           </Link>
-          <Link href="/safety-and-screening" className="btn-ghost">
-            Review safety
+          <Link href="/apply?intent=call" className="btn-ghost">
+            Free confidential call
           </Link>
         </div>
       </Container>

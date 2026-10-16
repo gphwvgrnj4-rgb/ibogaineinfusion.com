@@ -31,10 +31,10 @@ export function Footer() {
               href="/apply"
               className="inline-flex min-h-12 items-center rounded-full bg-cream px-7 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-ink hover:bg-white"
             >
-              Request a private consultation
+              Apply now
             </Link>
-            <Link href="/how-it-works" className="btn-ghost !min-h-12">
-              Explore the journey
+            <Link href="/apply?intent=call" className="btn-ghost !min-h-12">
+              Free confidential call
             </Link>
           </div>
         </div>

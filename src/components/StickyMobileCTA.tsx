@@ -7,7 +7,7 @@ export function StickyMobileCTA() {
         href="/apply"
         className="flex min-h-12 w-full items-center justify-center rounded-full bg-ink text-[0.7rem] font-medium uppercase tracking-[0.16em] text-cream"
       >
-        Request a private consultation
+        Apply now
       </Link>
     </div>
   );

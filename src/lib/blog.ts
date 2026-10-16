@@ -25,7 +25,7 @@ IV ibogaine infusion is intravenous delivery of ibogaine as a psychoactive treat
 
 ## Why this definition matters
 
-Searchers comparing **ketamine infusion clinics** with ibogaine programs often ask whether “infusion” means the psychoactive drug runs through an IV. On ibogaineinfusion.com, the answer is **yes**: **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision—not a spa label for oral dosing with a saline lock.
+Searchers comparing **ketamine infusion clinics** with ibogaine programs often ask whether “infusion” means the psychoactive drug runs through an IV. On ibogaineinfusion.com, the answer is **yes**: **IV ibogaine infusion** means **intravenous psychoactive ibogaine** under physician supervision—not a marketing label for oral dosing with a saline lock.
 
 That clarity matters for two reasons:
 
@@ -128,7 +128,7 @@ Deep dives: /blog/ibogaine-vs-ketamine-for-addiction, /blog/ibogaine-vs-ayahuasc
 1. **“Infusion always means oral pills plus a saline IV.”** — That describes many programs and much literature; it is **not** what this site means by IV ibogaine infusion.  
 2. **“Nature Medicine 2024 proved IV ibogaine.”** — Cherian et al. reported an open-label magnesium–ibogaine protocol with **oral** ibogaine and **IV magnesium** in veterans—not an IV-psychoactive ibogaine RCT.  
 3. **“If oral observational reports look good, IV is automatically better/safer.”** — Route changes pharmacokinetics; do not invent equivalence.  
-4. **“Luxury retreat = medical adequacy.”** — Telemetry and physician oversight matter more than décor.  
+4. **“Comfortable setting = medical adequacy.”** — Telemetry and physician oversight matter more than the facility’s look.  
 5. **“Ibogaine cures addiction/PTSD/depression.”** — No cure claims; evidence limited.
 
 ## Next steps
@@ -724,7 +724,7 @@ Use this as the centerpiece. Ask every vendor—in writing—before deposit. Sco
 | 4 | **Pre-care ECG + labs** | ECG/EKG, electrolytes, med review required before dosing | Optional ECG “if you want” |
 | 5 | **Continuous ECG/telemetry** | Telemetry planned for the high-risk window; duration stated | Spot checks only / no telemetry |
 | 6 | **QTc / cardiac protocol** | Written criteria for delay/cancel; QT-prolonging drug screen | “We’ve never had a problem” |
-| 7 | **Emergency readiness** | ACLS-capable staffing, crash cart, transfer plan to hospital | Spa amenities, no transfer MOU |
+| 7 | **Emergency readiness** | ACLS-capable staffing, crash cart, transfer plan to hospital | Hospitality focus, no written hospital transfer agreement |
 | 8 | **Electrolyte management** | Pre/post Mg–K plan; IV access for support as needed | No electrolyte protocol |
 | 9 | **Medication & substance history** | Structured intake for opioids, benzos, antidepressants, QT drugs | Generic “health form” |
 | 10 | **Evidence honesty** | Distinguishes oral lit vs their IV (or oral) protocol; no fake IV RCTs | “Clinically proven IV cure” |
@@ -743,7 +743,7 @@ Treat these as commercial and safety signals—not personality clashes:
 2. **No ECG / no telemetry** — or monitoring described as “optional comfort.”  
 3. **“Contact for price” only** — no ranges, no inclusions, no screening-fail refund policy (contrast /blog/cost-of-ibogaine-treatment).  
 4. **Cure / “100% detox” claims** — especially for opioids, depression, or PTSD.  
-5. **Spa-without-MD** — massage, pools, and gourmet food standing in for physician oversight.  
+5. **Hospitality without a physician** — comfort services standing in for physician oversight.  
 6. **Ceremony sold as medical care** — ayahuasca-lodge aesthetics + “iboga night” without telemetry or route paperwork (/blog/ibogaine-vs-ayahuasca).  
 7. **Fake IV trial citations** — invented DOIs or oral papers reframed as IV efficacy proof.  
 8. **Deposit before screening** — money first, cardiac clearance later.  
@@ -823,7 +823,7 @@ Soft next step for physician-supervised interest: request a confidential consult
 Ask whether the **psychoactive** dose is **intravenous ibogaine** or **oral** ibogaine HCl with support IV only—and get that answer in writing. Route opacity is a primary red flag.
 
 ### Does “best ibogaine clinic” mean the most luxurious facility?
-No. For medical-intent travelers, “best” tracks physician oversight, continuous cardiac monitoring, emergency readiness, evidence honesty, and aftercare—not spa amenities alone.
+No. For medical-intent travelers, “best” tracks physician oversight, continuous cardiac monitoring, emergency readiness, evidence honesty, and aftercare—not hospitality features alone.
 
 ### Are published studies proof that IV psychoactive ibogaine works?
 No. Much cited clinical literature (including Cherian/MISTIC 2024 and Knuijver 2021) reflects **oral** ibogaine (± IV magnesium/support). That is an evidence gap, not a marketing inconvenience.
@@ -1682,7 +1682,7 @@ Detail: /blog/ibogaine-ecg-checklist.
 | Pre-ECG + electrolytes | Yes | Non-negotiable diligence |
 | Continuous telemetry | Yes | Spot checks insufficient |
 | Physician oversight | Yes | “Wellness team only” is a red flag |
-| Emergency transfer plan | Yes | Spa without acute pathway = risk |
+| Emergency transfer plan | Yes | No acute care pathway = risk |
 | Airport pickup / luxury suite | Optional | Never substitutes for telemetry |
 | Unlimited “healer” sessions | Optional / scrutinize | Do not replace medical staffing |
 | “Guaranteed opioid freedom” | Disallowed | Cure claims mislead patients |
@@ -16200,4 +16200,34 @@ export function getPost(slug: string): BlogPost | undefined {
 
 export function getAllSlugs(): string[] {
   return blogPosts.map((p) => p.slug);
+}
+
+const STOP = new Set(
+  "ibogaine iv infusion the a an and or of for to in is vs what how does do with on your you are it can".split(" "),
+);
+function terms(p: BlogPost): Set<string> {
+  return new Set(
+    `${p.title} ${p.slug.replace(/-/g, " ")}`
+      .toLowerCase()
+      .replace(/[^a-z0-9 ]/g, " ")
+      .split(/\s+/)
+      .filter((w) => w.length > 2 && !STOP.has(w)),
+  );
+}
+
+/** 2–3 related posts by title/slug term overlap, falling back to neighbours. */
+export function relatedPosts(slug: string, count = 3): BlogPost[] {
+  const idx = blogPosts.findIndex((p) => p.slug === slug);
+  if (idx < 0) return [];
+  const base = terms(blogPosts[idx]);
+  const scored = blogPosts
+    .map((p, i) => {
+      if (i === idx) return null;
+      let score = 0;
+      for (const t of terms(p)) if (base.has(t)) score += 1;
+      return { p, score, dist: Math.abs(i - idx) };
+    })
+    .filter((x): x is { p: BlogPost; score: number; dist: number } => x !== null)
+    .sort((a, b) => b.score - a.score || a.dist - b.dist);
+  return scored.slice(0, count).map((x) => x.p);
 }

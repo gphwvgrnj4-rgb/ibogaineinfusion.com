@@ -360,9 +360,19 @@ function buildPayload(f: FormState) {
   };
 }
 
-export function ApplicationForm() {
+export type ApplicationPrefill = Partial<
+  Pick<FormState, "firstName" | "lastName" | "email" | "phone" | "preferredContact" | "primaryConcern">
+>;
+
+export function ApplicationForm({
+  prefill,
+  meta,
+}: {
+  prefill?: ApplicationPrefill;
+  meta?: Record<string, string>;
+} = {}) {
   const [step, setStep] = useState(0);
-  const [form, setForm] = useState<FormState>(initialState);
+  const [form, setForm] = useState<FormState>(() => ({ ...initialState(), ...(prefill || {}) }));
   const [status, setStatus] = useState<Status>("idle");
   const [message, setMessage] = useState("");
   const [fieldError, setFieldError] = useState("");
@@ -378,7 +388,8 @@ export function ApplicationForm() {
       if (!form.firstName.trim() || !form.lastName.trim()) return "Please enter your first and last name.";
       if (!form.email.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.email.trim()))
         return "Please enter a valid email.";
-      if (!form.phone.trim()) return "Please enter a phone number.";
+      if (form.preferredContact !== "email" && !form.phone.trim())
+        return "Please enter a phone number for your preferred contact method.";
     }
     if (index === STEPS.length - 1) {
       if (!form.consentToContact || !form.medicalAccuracy) {
@@ -434,7 +445,8 @@ export function ApplicationForm() {
         },
         body: JSON.stringify({
           ...application,
-          _subject: `Ibogaine Infusion ${application.type}: ${application.name}`,
+          ...(meta ? { tracking: meta } : {}),
+          _subject: `Ibogaine Infusion ${application.type} (step 2 detail): ${application.name}`,
           _template: "table",
           _replyto: application.email,
         }),
@@ -572,7 +584,7 @@ export function ApplicationForm() {
               required
             />
           </Field>
-          <Field id="phone" label="Phone" required>
+          <Field id="phone" label="Phone" required={form.preferredContact !== "email"}>
             <TextInput
               id="phone"
               type="tel"
