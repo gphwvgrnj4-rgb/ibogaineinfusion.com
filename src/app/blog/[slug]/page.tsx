@@ -6,7 +6,7 @@ import { CTASection } from "@/components/CTASection";
 import { Disclaimer } from "@/components/Disclaimer";
 import { JsonLd } from "@/components/JsonLd";
 import { Markdown } from "@/components/Markdown";
-import { blogPosts, getPost } from "@/lib/blog";
+import { blogPosts, getPost, relatedPosts } from "@/lib/blog";
 import { getEnhancement } from "@/lib/blog-enhancements";
 import { breadcrumbList, faqPage } from "@/lib/schema";
 import { siteConfig } from "@/lib/site";
@@ -88,6 +88,9 @@ export default async function BlogPostPage({ params }: Props) {
   // Structured FAQ (visible below) takes precedence for FAQPage schema.
   const faqs = enhancement ? enhancement.faqs : extractFaqs(post.content);
   const up = canonicalUp[slug];
+  const related = enhancement?.related?.length
+    ? enhancement.related.slice(0, 3)
+    : relatedPosts(slug, 3).map((p) => ({ href: `/blog/${p.slug}`, label: p.title }));
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -157,53 +160,66 @@ export default async function BlogPostPage({ params }: Props) {
             <Markdown content={post.content} />
           </div>
           {enhancement ? (
-            <>
-              <section aria-labelledby="quick-answers" className="mt-14 border-t border-[var(--line)] pt-10">
-                <h2 id="quick-answers" className="font-serif text-3xl tracking-tight text-forest">
-                  Quick answers
-                </h2>
-                <dl className="mt-6 space-y-6">
-                  {enhancement.faqs.map((item) => (
-                    <div key={item.q}>
-                      <dt className="font-medium text-ink">{item.q}</dt>
-                      <dd className="mt-2 leading-relaxed text-ink/80">{item.a}</dd>
-                    </div>
-                  ))}
-                </dl>
-              </section>
-              <nav aria-labelledby="related-reading" className="mt-12">
-                <h2 id="related-reading" className="font-serif text-2xl tracking-tight text-forest">
-                  Related reading
-                </h2>
-                <ul className="mt-4 space-y-2">
-                  {enhancement.related.map((link) => (
-                    <li key={link.href}>
-                      <Link href={link.href} className="font-medium text-forest-mid hover:underline">
-                        {link.label}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </nav>
-              <aside className="mt-12 rounded-2xl border border-[var(--line)] bg-stone/40 px-6 py-6">
-                <p className="font-serif text-2xl tracking-tight text-forest">Considering IV ibogaine infusion?</p>
-                <p className="mt-3 leading-relaxed text-ink/80">
-                  Start by reading{" "}
-                  <Link href="/safety-and-screening" className="font-medium text-forest-mid hover:underline">
-                    safety &amp; screening
-                  </Link>
-                  . If it still fits your situation, submit a confidential application. A physician reviews
-                  your history before anything else happens.
-                </p>
-                <Link
-                  href="/apply"
-                  className="mt-5 inline-block rounded-full bg-forest px-6 py-3 text-sm font-medium text-cream hover:bg-forest-mid"
-                >
-                  Start a confidential application
-                </Link>
-              </aside>
-            </>
+            <section aria-labelledby="quick-answers" className="mt-14 border-t border-[var(--line)] pt-10">
+              <h2 id="quick-answers" className="font-serif text-3xl tracking-tight text-forest">
+                Quick answers
+              </h2>
+              <dl className="mt-6 space-y-6">
+                {enhancement.faqs.map((item) => (
+                  <div key={item.q}>
+                    <dt className="font-medium text-ink">{item.q}</dt>
+                    <dd className="mt-2 leading-relaxed text-ink/80">{item.a}</dd>
+                  </div>
+                ))}
+              </dl>
+            </section>
           ) : null}
+          {related.length ? (
+            <nav aria-labelledby="related-reading" className="mt-12 border-t border-[var(--line)] pt-10">
+              <p className="section-label">Keep reading</p>
+              <h2 id="related-reading" className="mt-3 font-serif text-2xl tracking-tight text-forest">
+                Related reading
+              </h2>
+              <ul className="mt-5 divide-y divide-[var(--line)] border-y border-[var(--line)]">
+                {related.map((link) => (
+                  <li key={link.href}>
+                    <Link
+                      href={link.href}
+                      className="flex items-center justify-between gap-4 py-4 font-medium text-forest-mid hover:text-forest"
+                    >
+                      <span>{link.label}</span>
+                      <span aria-hidden="true" className="text-accent">→</span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          ) : null}
+          <aside
+            aria-labelledby="post-apply"
+            className="relative mt-12 overflow-hidden rounded-2xl bg-forest-deep px-6 py-10 text-center text-cream sm:px-10"
+          >
+            <div className="mx-auto h-px w-16 bg-accent/80" aria-hidden="true" />
+            <p className="section-label mt-6 text-accent">Next step</p>
+            <h2 id="post-apply" className="mt-4 font-serif text-3xl tracking-tight sm:text-4xl">
+              Considering IV ibogaine infusion?
+            </h2>
+            <p className="mx-auto mt-4 max-w-lg leading-relaxed text-cream/70">
+              Apply in under a minute. A physician reviews your history before anything else happens —
+              screening first, no obligation, no outcome promises.
+            </p>
+            <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
+              <Link
+                href={`/apply?from=${post.slug}`}
+                className="inline-flex min-h-12 items-center rounded-full bg-cream px-8 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-ink hover:bg-white"
+              >
+                Apply now
+              </Link>
+              <Link href={`/apply?intent=call&from=${post.slug}`} className="btn-ghost !min-h-12">
+                Free confidential call
+              </Link>
+            </div>
+          </aside>
         </Container>
       </article>
       <CTASection />

@@ -67,7 +67,7 @@ export function Header() {
             href="/apply"
             className="inline-flex min-h-10 items-center rounded-full bg-ink px-5 text-[0.68rem] font-medium uppercase tracking-[0.18em] text-cream hover:bg-forest"
           >
-            Apply Now
+            Apply now
           </Link>
         </nav>
 
@@ -107,7 +107,7 @@ export function Header() {
               className="mt-3 inline-flex min-h-12 items-center justify-center rounded-full bg-ink px-5 text-[0.7rem] font-medium uppercase tracking-[0.18em] text-cream"
               onClick={() => setOpen(false)}
             >
-              Apply Now
+              Apply now
             </Link>
           </Container>
         </div>

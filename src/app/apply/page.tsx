@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ApplicationForm } from "@/components/ApplicationForm";
+import { QuickApply } from "@/components/QuickApply";
 import { Container } from "@/components/Container";
 import { Disclaimer } from "@/components/Disclaimer";
 import { JsonLd } from "@/components/JsonLd";
@@ -62,8 +62,8 @@ export default function ApplyPage() {
     <>
       <JsonLd data={jsonLd} />
       <PageHero label="Apply & align" title="Request a private consultation">
-        A confidential multi-step application — not a short inquiry. Intake → readiness review →
-        discovery call. We discuss true psychoactive intravenous ibogaine under physician supervision.
+        Step 1 takes under a minute: name, email, what it’s for, and how to reach you. A detailed
+        screening is optional as step 2. Prefer to talk first? Choose a free, confidential call.
       </PageHero>
 
       <section className="bg-cream py-16 sm:py-20">
@@ -72,7 +72,7 @@ export default function ApplyPage() {
             <JurisdictionNote variant="card" context="apply" />
             <Disclaimer tone="light" className="mt-6" />
 
-            <h2 className="mt-12 font-serif text-3xl text-forest">What this application covers</h2>
+            <h2 className="mt-12 font-serif text-3xl text-forest">What the optional step 2 screening covers</h2>
             <ol className="mt-6 space-y-0 text-sm text-muted">
               {[
                 ["1. Contact", "how we reach you confidentially"],
@@ -128,7 +128,7 @@ export default function ApplyPage() {
               . If you are in crisis, contact local emergency or crisis services now.
             </p>
           </div>
-          <ApplicationForm />
+          <div className="order-first lg:order-none"><QuickApply /></div>
         </Container>
       </section>
     </>
