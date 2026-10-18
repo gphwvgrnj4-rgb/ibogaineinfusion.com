@@ -2036,9 +2036,9 @@ Educational consumer-protection style guide only—not a blacklist of named clin
   },
   {
     slug: "ibogaine-side-effects",
-    title: "Ibogaine Side Effects: Cardiac, GI, Neurological & Monitoring Context",
+    title: "Ibogaine Side Effects: Heart, Nausea, Ataxia & What to Expect",
     description:
-      "Ibogaine side effects include QTc prolongation/arrhythmia risk, nausea, ataxia, and prolonged intensity. IV infusion still needs monitoring; literature is mostly oral.",
+      "Ibogaine side effects explained: QTc and arrhythmia risk, nausea, loss of coordination, long intense sessions, and how medical monitoring reduces risk.",
     date: "2026-07-13",
     readTime: "10 min",
     content: `## Definition
@@ -2328,9 +2328,9 @@ Educational content only—not medical, legal, or treatment advice. Ibogaine is 
   },
   {
     slug: "ibogaine-vs-methadone",
-    title: "Ibogaine vs Methadone: An Honest Comparison for Opioid Use Disorder",
+    title: "Ibogaine vs Methadone: Risks, Switching & Rapid Detox",
     description:
-      "Ibogaine vs methadone compared honestly: MOUD evidence vs investigational IV ibogaine infusion, QTc risk, oral-literature gap, Schedule I status—no cure claims.",
+      "Ibogaine and methadone compared: why switching is risky, QTc heart overlap, rapid detox vs ibogaine, and how IV infusion screening works. Not approved.",
     date: "2026-07-27",
     readTime: "10 min",
     content: `## Definition
@@ -3106,9 +3106,9 @@ Educational content only—not psychiatric or medical advice. If you are in cris
   },
   {
     slug: "ibogaine-program-duration",
-    title: "Ibogaine Treatment Duration: How Long Does an IV Ibogaine Program Last?",
+    title: "How Long Is Ibogaine Treatment? IV Program Timeline",
     description:
-      "Ibogaine treatment duration explained: how long a physician-supervised IV ibogaine infusion program lasts, monitoring windows, oral-evidence gap, and aftercare—not a cure timeline.",
+      "How long does ibogaine treatment take? Day-by-day IV infusion program timeline: screening, monitored session, recovery days and aftercare. Not approved.",
     date: "2026-09-03",
     readTime: "9 min",
     content: `## Definition
@@ -5438,9 +5438,9 @@ Educational process map only—not a medical protocol, clearance algorithm, outc
   },
   {
     slug: "ibogaine-and-benzodiazepines",
-    title: "Ibogaine and Benzodiazepines: Safety Warnings to Discuss With a Physician",
+    title: "Ibogaine and Benzodiazepines: Seizure & Safety Warnings",
     description:
-      "Ibogaine and benzodiazepines: educational taper/warning themes, seizure risk, physician-owned decisions, QTc screening. No DIY. not approved for any indication.",
+      "On Xanax, Klonopin or Valium? Why benzo withdrawal seizure risk matters before ibogaine, why tapers must be doctor-led, and what QTc screening checks.",
     date: "2026-09-06",
     readTime: "9 min",
     content: `
@@ -10696,9 +10696,9 @@ Glue 2016 is oral noribogaine Phase 1 literature—not psychoactive IV ibogaine 
   },
   {
     slug: "knuijver-2021-ibogaine-qtc-safety",
-    title: "Knuijver et al. 2021: Oral Ibogaine QTc Safety Study—What Addiction Published",
+    title: "Ibogaine QTc Study: Heart Effects in 14 Patients (2021)",
     description:
-      "Knuijver et al. Addiction 2021: oral ibogaine 10 mg/kg n=14; mean QTc +95 ms; 50% >500 ms; severe ataxia; no TdP in sample—serious cardiac teaching, not IV proof.",
+      "Knuijver 2021 gave oral ibogaine to 14 patients: mean QTc rose 95 ms and half passed 500 ms. What that means for cardiac screening and monitoring.",
     date: "2026-09-06",
     readTime: "11 min",
     content: `
@@ -11992,9 +11992,9 @@ Rocha 2023 is setting-safety literature—not psychoactive IV ibogaine efficacy 
   },
   {
     slug: "ibogaine-cardiovascular-complications-review",
-    title: "Brunt 2026: Rare but Relevant—Ibogaine Cardiovascular Complications (QTc & Ventricular Arrhythmias)",
+    title: "Ibogaine Heart Risks: QTc & Arrhythmia Review (Brunt 2026)",
     description:
-      "Brunt Addiction review: rare but relevant ibogaine QTc prolongation & ventricular arrhythmias/TdP; CYP2D6; medical supervision—not IV proof.",
+      "How dangerous is ibogaine for the heart? A plain-English summary of the Brunt 2026 review: QTc prolongation, arrhythmias, CYP2D6 and who should screen.",
     date: "2026-09-06",
     readTime: "9 min",
     content: `
@@ -12296,9 +12296,9 @@ Davis 2020 is oral sequential observational survey literature—not psychoactive
   },
   {
     slug: "not-losing-momentum-ibogaine-trials-2025",
-    title: "Świeczkowski et al. 2025: “Not Losing Momentum”—Cross-Sectional Insights into Ibogaine Clinical Trials",
+    title: "Ibogaine Clinical Trials in 2025: What's Registered",
     description:
-      "Świeczkowski et al. J Psychoactive Drugs 2025: cross-section of 9 early ibogaine trials—landscape ≠ personal access; cardiac safety; not IV proof.",
+      "Which ibogaine clinical trials exist? A 2025 review of 9 registered, early-phase trials: designs, withdrawal and safety focus, and gaps in heart monitoring.",
     date: "2026-09-06",
     readTime: "11 min",
     content: `
@@ -14954,9 +14954,9 @@ Malcolm 2018 is an observational clinic oral detox scoring study—not a cure cl
   },
   {
     slug: "davis-barsuglia-2017-ibogaine-survey",
-    title: "Davis & Barsuglia et al. 2017: Subjective Effectiveness of Ibogaine for Problematic Opioid Use (Survey, n=88)",
+    title: "Ibogaine for Opioids: 88-Person Survey Explained (2017)",
     description:
-      "Davis & Barsuglia 2017 J Psychedelic Studies: n=88 abroad ibogaine survey—oral≠IV; no cures; QTc; Schedule I.",
+      "What 88 people reported after ibogaine for opioid use (Davis & Barsuglia 2017): withdrawal, cravings and limits of a self-report survey. Oral, not IV.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `
