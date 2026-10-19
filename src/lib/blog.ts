@@ -338,17 +338,17 @@ Educational comparison only—not medical advice. Neither this page nor ketamine
 
 ## Short answer
 
-IV ibogaine infusion requires rigorous cardiac screening because ibogaine can prolong QTc and increase torsades risk. Open-label research documented clinically relevant QTc prolongation after oral ibogaine HCl; controlled evidence for psychoactive IV ibogaine remains sparse. Continuous monitoring, electrolyte optimization, and medication review are essential. Ibogaine is not approved for any indication; unsupervised use is dangerous. For the mechanism behind these warnings, see our [review of ibogaine heart risks, QTc and arrhythmia](/blog/ibogaine-cardiovascular-complications-review). The clearest measured data come from the [Knuijver 2021 ibogaine QTc study](/blog/knuijver-2021-ibogaine-qtc-safety), where half of 14 patients passed 500 ms.
+IV ibogaine infusion requires rigorous cardiac screening because ibogaine can prolong QTc and increase torsades risk. Open-label research documented clinically relevant QTc prolongation after oral ibogaine HCl; controlled evidence for psychoactive IV ibogaine remains sparse. Continuous monitoring, electrolyte optimization, and medication review are essential. Ibogaine is not approved for any indication; unsupervised use is dangerous.
 
 ## The risk you cannot market away
 
-Deaths associated with ibogaine in non-medical and medical-adjacent settings have been reported in the literature and media, with cardiac mechanisms—particularly arrhythmias preceded by QT prolongation—frequently discussed. Reviews of adverse events highlight cardiac, gastrointestinal, and neurological harms in heterogeneous real-world conditions.
+Deaths associated with ibogaine in non-medical and medical-adjacent settings have been reported in the literature and media, with cardiac mechanisms—particularly arrhythmias preceded by QT prolongation—frequently discussed. Reviews of adverse events highlight cardiac, gastrointestinal, and neurological harms in heterogeneous real-world conditions. For the mechanism behind these warnings, see our [review of ibogaine heart risks, QTc and arrhythmia](/blog/ibogaine-cardiovascular-complications-review).
 
 This pillar is the trust home for every commercial and condition page on ibogaineinfusion.com.
 
 ## QTc prolongation in plain language
 
-The QT interval on an ECG reflects ventricular recovery. Corrected for heart rate (**QTc**), excessive prolongation raises risk for **torsades de pointes**, a polymorphic ventricular tachycardia that can degenerate to fatal arrhythmia.
+The QT interval on an ECG reflects ventricular recovery. Corrected for heart rate (**QTc**), excessive prolongation raises risk for **torsades de pointes**, a polymorphic ventricular tachycardia that can degenerate to fatal arrhythmia. The clearest measured data come from the [Knuijver 2021 ibogaine QTc study](/blog/knuijver-2021-ibogaine-qtc-safety), where half of 14 patients passed 500 ms.
 
 Ibogaine and related pharmacology have been associated with **hERG potassium channel** effects that delay repolarization. Clinical observation confirms this is not theoretical only.
 
@@ -573,7 +573,7 @@ Blurred oral/IV language is a competitive failure mode—and a patient hazard.
 
 ## Cost shape vs ketamine clinics
 
-Ketamine clinic series are often outpatient and priced per session or package with a different legal/evidence context. Ibogaine medical programs are typically **multi-day** with higher acute monitoring burden—hence different total bands. Comparison: /blog/ibogaine-vs-ketamine-for-addiction. For a day-by-day breakdown, see [how long ibogaine treatment takes](/blog/ibogaine-program-duration).
+Ketamine clinic series are often outpatient and priced per session or package with a different legal/evidence context. Ibogaine medical programs are typically **multi-day** with higher acute monitoring burden—hence different total bands. Comparison: /blog/ibogaine-vs-ketamine-for-addiction.
 
 ## Condition length and commercial intent
 
@@ -618,7 +618,7 @@ Ethical programs can still require deposits; the red flag is **medical diligence
 
 Subject: Screening + inclusions questions before deposit
 
-Please confirm in writing: (1) psychoactive route is intravenous ibogaine; (2) continuous telemetry duration; (3) supervising physician credentials; (4) included labs/ECG; (5) support IV medications typically used; (6) emergency transfer plan; (7) cancel/refund rules if screening fails; (8) itemized inclusions for the quoted tier.
+Please confirm in writing: (1) psychoactive route is intravenous ibogaine; (2) continuous telemetry duration; (3) supervising physician credentials; (4) included labs/ECG; (5) support IV medications typically used; (6) emergency transfer plan; (7) cancel/refund rules if screening fails; (8) itemized inclusions for the quoted tier. For a day-by-day breakdown, see [how long ibogaine treatment takes](/blog/ibogaine-program-duration).
 
 ## Comparing quotes apples-to-apples
 
@@ -699,7 +699,7 @@ When choosing an ibogaine clinic, require written confirmation that psychoactive
 
 Commercial searchers type **how to choose an ibogaine clinic** or **best ibogaine clinic** expecting a ranking. The safety reality is different: ibogaine programs vary from physician-supervised medical infusion settings to retreat-style tourism that borrows ketamine-clinic language without ketamine-clinic infrastructure.
 
-This guide is a **vetting framework**, not a league table. It assumes you may be evaluating **IV ibogaine infusion** as defined on this site—psychoactive intravenous delivery under physician supervision—and that you will also encounter vendors who mean something else when they say “infusion.” Start with the overview /what-is-ibogaine-infusion and the safety home /safety-and-screening before you compare brochures. Know what to expect first: [common and serious ibogaine side effects](/blog/ibogaine-side-effects).
+This guide is a **vetting framework**, not a league table. It assumes you may be evaluating **IV ibogaine infusion** as defined on this site—psychoactive intravenous delivery under physician supervision—and that you will also encounter vendors who mean something else when they say “infusion.” Start with the overview /what-is-ibogaine-infusion and the safety home /safety-and-screening before you compare brochures.
 
 ## Route clarity: the first filter (support IV ≠ psychoactive IV)
 
@@ -780,7 +780,7 @@ Send these as an email checklist (copy/paste). Next steps: /apply and /safety-an
 9. Please send an **itemized inclusions list** and medical-cancel / refund policy.  
 10. What **integration** hours are included, and what aftercare do you recommend at home?
 
-If answers arrive only as marketing PDFs with no route sentence, treat that as a fail on checklist item 1.
+If answers arrive only as marketing PDFs with no route sentence, treat that as a fail on checklist item 1. Know what to expect first: [common and serious ibogaine side effects](/blog/ibogaine-side-effects).
 
 ## Cost transparency pointers
 
@@ -878,7 +878,7 @@ IV ibogaine infusion and ayahuasca are not substitutes. Ibogaine programs emphas
 - Using oral observational ibogaine papers as if they proved IV protocols—or ceremonial safety  
 - Booking a hybrid “iboga + ayahuasca week” without emergency ownership  
 
-Definition: /what-is-ibogaine-infusion. Safety home: /safety-and-screening. Journey shape: /how-it-works. For a full list, see [ibogaine side effects and how long they last](/blog/ibogaine-side-effects).
+Definition: /what-is-ibogaine-infusion. Safety home: /safety-and-screening. Journey shape: /how-it-works.
 
 ## Chemistry at a glance
 
@@ -952,7 +952,7 @@ Ayahuasca and iboga traditions have cultural contexts that commercial tourism ca
 
 ## Hybrid tourism risks
 
-Some operators advertise “iboga + ayahuasca week” packages. Stacking intensive psychoactive exposures without medical rationale multiplies uncertainty: drug–drug effects, exhaustion, and unclear emergency ownership. Hybrid marketing is not evidence of synergistic healing.
+Some operators advertise “iboga + ayahuasca week” packages. Stacking intensive psychoactive exposures without medical rationale multiplies uncertainty: drug–drug effects, exhaustion, and unclear emergency ownership. Hybrid marketing is not evidence of synergistic healing. For a full list, see [ibogaine side effects and how long they last](/blog/ibogaine-side-effects).
 
 ## Shared diligence questions (both paths)
 
@@ -1315,11 +1315,11 @@ Educational only—**not legal advice, not medical advice, not travel advice**. 
 
 ## Short answer
 
-Ibogaine ECG requirements typically include a pre-care ECG with QTc review, electrolyte labs, medication screening for QT-prolonging drugs, and continuous cardiac monitoring during IV ibogaine infusion under physician supervision. Much published QTc evidence reflects oral ibogaine HCl, often with support IV such as magnesium—not automatic proof that psychoactive IV dosing is equivalent. It is not approved for any indication. To see why the threshold matters, read [how much ibogaine prolongs QTc in a monitored study](/blog/knuijver-2021-ibogaine-qtc-safety).
+Ibogaine ECG requirements typically include a pre-care ECG with QTc review, electrolyte labs, medication screening for QT-prolonging drugs, and continuous cardiac monitoring during IV ibogaine infusion under physician supervision. Much published QTc evidence reflects oral ibogaine HCl, often with support IV such as magnesium—not automatic proof that psychoactive IV dosing is equivalent. It is not approved for any indication.
 
 ## Why ECG is the centerpiece of ibogaine safety education
 
-Searchers looking for **ibogaine ECG requirements** are usually trying to answer a practical question: *What cardiac workup should exist before anyone receives ibogaine?* On this site, that question sits under true **IV ibogaine infusion** care—not spa branding.
+Searchers looking for **ibogaine ECG requirements** are usually trying to answer a practical question: *What cardiac workup should exist before anyone receives ibogaine?* On this site, that question sits under true **IV ibogaine infusion** care—not spa branding. To see why the threshold matters, read [how much ibogaine prolongs QTc in a monitored study](/blog/knuijver-2021-ibogaine-qtc-safety).
 
 Cardiac risk is not theoretical marketing. Observational oral-route work (Knuijver et al., *Addiction*, 2021) reported clinically relevant QTc prolongation after oral ibogaine HCl in opioid-dependent participants. That study did not observe torsades in its small sample, but the safety implication is clear: **screen, monitor, be ready to stop**.
 
@@ -1487,7 +1487,7 @@ This site’s entity is **IV ibogaine infusion**, not “anti-rehab ideology.”
 | U.S. regulatory posture | Schedule I; not approved for any indication | Many components are standard regulated care |
 | What it cannot claim | Cure; rehab replacement; guaranteed abstinence | Guaranteed abstinence either—but should not be dismissed as “just talk” wholesale |
 
-Deep safety: /safety-and-screening. Cost context: /blog/cost-of-ibogaine-treatment. Compare that with [how many days an ibogaine program lasts](/blog/ibogaine-program-duration).
+Deep safety: /safety-and-screening. Cost context: /blog/cost-of-ibogaine-treatment.
 
 ## What “traditional rehab” usually includes (compressed)
 
@@ -1531,6 +1531,8 @@ Oral vs IV honesty: /blog/ibogaine-oral-vs-iv. Ketamine comparison: /blog/ibogai
 ## Cardiac risk is a differentiator rehab shoppers may underweight
 
 People comparing brochure lengths sometimes underweight arrhythmia risk. Ibogaine’s QTc narrative means ECG requirements and telemetry are part of the comparison itself (/blog/ibogaine-ecg-checklist, /blog/is-ibogaine-safe-screening-cardiac-risk). A 30-day residential program and a multi-day infusion program are not competing on the same risk axes.
+
+Compare that with [how many days an ibogaine program lasts](/blog/ibogaine-program-duration).
 
 ## Who may be comparing these options (personas, not prescriptions)
 
@@ -2216,7 +2218,9 @@ Those stories do not create regulatory approval. Fentanyl-era physiology can inc
 - Electrolyte depletion, dehydration, and sleep loss that raise cardiac risk during any intense detox attempt  
 - Elevated overdose risk if tolerance falls and relapse occurs without naloxone planning  
 
-A medical infusion setting must treat those realities as **screening and monitoring problems**, not marketing opportunities. Start with /safety-and-screening and the addiction condition page /ibogaine-for-addiction. If benzodiazepines are also involved, read [ibogaine and benzodiazepine seizure risks](/blog/ibogaine-and-benzodiazepines) before changing anything.
+If benzodiazepines are also involved, read [ibogaine and benzodiazepine seizure risks](/blog/ibogaine-and-benzodiazepines) before changing anything.
+
+A medical infusion setting must treat those realities as **screening and monitoring problems**, not marketing opportunities. Start with /safety-and-screening and the addiction condition page /ibogaine-for-addiction.
 
 ## What the evidence can and cannot say
 
@@ -3401,7 +3405,7 @@ Educational pharmacology context only—not medical, dosing, or legal advice. Do
 
 ## Short answer
 
-Texas ibogaine clinical trials, as reported in 2026 news coverage of SB 2308 and UTHealth Houston / UTMB research plans, describe a state-backed research landscape—not walk-in treatment access. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published evidence remains oral-route. Research funding does not equal regulatory approval or erase QTc risk. For the wider picture, see [which ibogaine clinical trials are registered in 2025](/blog/not-losing-momentum-ibogaine-trials-2025).
+Texas ibogaine clinical trials, as reported in 2026 news coverage of SB 2308 and UTHealth Houston / UTMB research plans, describe a state-backed research landscape—not walk-in treatment access. IV ibogaine infusion means physician-supervised intravenous psychoactive ibogaine with cardiac monitoring; most published evidence remains oral-route. Research funding does not equal regulatory approval or erase QTc risk.
 
 ## Why this search spiked in 2026
 
@@ -3411,6 +3415,8 @@ People type **texas ibogaine clinical trials** after headlines about state psych
 2. "Universities selected" → "approved ibogaine."  
 3. “Infusion clinics abroad” → “Same as the Texas program.”  
 4. “Stanford / Nature Medicine” → “IV ibogaine is proven.”
+
+For the wider picture, see [which ibogaine clinical trials are registered in 2025](/blog/not-losing-momentum-ibogaine-trials-2025).
 
 This page separates **news landscape**, **research access**, **cardiac reality**, and this site’s **IV psychoactive entity**—without inventing enrollment portals or fake DOIs.
 
@@ -3718,6 +3724,8 @@ Cherian et al. (*Nature Medicine* 2024, MISTIC): on the order of **~30** special
 ### 4) Lost-to-follow-up bias
 Clinic testimonials often track people who stay in touch and feel good—not everyone who relapsed and stopped answering.
 
+A worked example is the [Davis and Barsuglia 2017 survey of 88 ibogaine patients](/blog/davis-barsuglia-2017-ibogaine-survey), where 80% withdrawal relief sat alongside 70% reporting some relapse.
+
 ### 5) Route laundry
 Oral observational outcomes get pasted onto **IV** ads. Support IV (fluids/Mg) gets sold as psychoactive IV proof. See /blog/ibogaine-oral-vs-iv · /blog/stanford-ibogaine-mistic · /blog/electrolytes-support-iv-vs-psychoactive-iv.
 
@@ -3732,7 +3740,7 @@ Cure-rate ads often bury the medical story. Ibogaine can prolong **QTc** and has
 
 A clinic promising “80% cured” while treating ECG as optional is not evidence-based marketing—it is a **safety red flag**.
 
-Read: /safety-and-screening · /blog/ibogaine-ecg-checklist · /blog/is-ibogaine-safe-screening-cardiac-risk · /blog/ibogaine-side-effects · /blog/ibogaine-contraindications. A worked example is the [Davis and Barsuglia 2017 survey of 88 ibogaine patients](/blog/davis-barsuglia-2017-ibogaine-survey), where 80% withdrawal relief sat alongside 70% reporting some relapse.
+Read: /safety-and-screening · /blog/ibogaine-ecg-checklist · /blog/is-ibogaine-safe-screening-cardiac-risk · /blog/ibogaine-side-effects · /blog/ibogaine-contraindications.
 
 **No DIY dosing.** Unsupervised use is dangerous regardless of Instagram percentages.
 
@@ -4016,7 +4024,7 @@ Educational geography/model comparison only—not medical, legal, travel, or imm
 
 ## Short answer
 
-Noribogaine clinical trial news concerns investigational metabolite/oral product pathways—not approved for any indication ibogaine and not IV ibogaine infusion. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring. Most published ibogaine observations remain oral-route. QTc risk still matters. Trial headlines are not personal treatment access or cure rates. A registry overview is in [the 2025 review of nine ibogaine clinical trials](/blog/not-losing-momentum-ibogaine-trials-2025).
+Noribogaine clinical trial news concerns investigational metabolite/oral product pathways—not approved for any indication ibogaine and not IV ibogaine infusion. IV ibogaine infusion is physician-supervised intravenous psychoactive ibogaine with cardiac monitoring. Most published ibogaine observations remain oral-route. QTc risk still matters. Trial headlines are not personal treatment access or cure rates.
 
 ## Why this comparison page exists
 
@@ -4039,7 +4047,7 @@ Metabolite explainer: /blog/noribogaine-explained · Entity: /what-is-ibogaine-i
 | Proves IV infusion outcomes? | **No** | N/A — do not cite noribogaine IND as IV efficacy RCT |
 | Cardiac story | Still requires scientific humility; do not assume “metabolite = zero QTc concern” without data literacy | QTc monitoring culture central |
 
-Company press releases are landscape—not your personal enrollment ticket and not the protocol described on this site.
+Company press releases are landscape—not your personal enrollment ticket and not the protocol described on this site. A registry overview is in [the 2025 review of nine ibogaine clinical trials](/blog/not-losing-momentum-ibogaine-trials-2025).
 
 ## What 2026 noribogaine headlines are (careful framing)
 
@@ -4987,7 +4995,7 @@ Key literacy:
 - Knuijver et al., *Addiction* 2021 — **oral** ibogaine HCl; clinically relevant QTc signals  
 - Cherian et al., *Nature Medicine* 2024 — **oral** ibogaine + **IV magnesium** support in an open-label veteran cohort; not psychoactive-IV anxiety proof  
 
-Safety hub: /safety-and-screening · ECG questions: /blog/ibogaine-ecg-checklist · Side effects: /blog/ibogaine-side-effects · Contraindications: /blog/ibogaine-contraindications. Never stop an anti-anxiety benzo on your own; see [why benzo withdrawal matters before ibogaine](/blog/ibogaine-and-benzodiazepines).
+Safety hub: /safety-and-screening · ECG questions: /blog/ibogaine-ecg-checklist · Side effects: /blog/ibogaine-side-effects · Contraindications: /blog/ibogaine-contraindications.
 
 **True IV infusion does not erase cardiac risk.**
 
@@ -5010,6 +5018,8 @@ Anxiety searches often co-travel with PTSD, treatment-resistant depression, alco
 - Trauma memory processing during a session is not the same as completed trauma therapy.  
 - Stopping benzodiazepines or other prescribed meds against advice can be dangerous.  
 - Suicidal ideation or panic with chest symptoms needs urgent medical triage—not forum dosing advice.
+
+Never stop an anti-anxiety benzo on your own; see [why benzo withdrawal matters before ibogaine](/blog/ibogaine-and-benzodiazepines).
 
 Related articles (no cures): /ibogaine-for-ptsd · /ibogaine-for-depression · /blog/ibogaine-treatment-resistant-depression · /ibogaine-for-addiction · /blog/ibogaine-for-alcohol-use-disorder · /blog/ibogaine-for-nicotine.
 
@@ -5632,7 +5642,7 @@ Educational warning summary only—not a taper protocol, medical advice, prescri
 
 ## Short answer
 
-Ibogaine drug interactions center on QTc-prolonging medications, electrolyte threats, and CYP2D6 inhibitors that can raise exposure. IV ibogaine infusion still requires physician supervision and cardiac monitoring; most published human data reflect oral dosing. Unsupervised polypharmacy with ibogaine is dangerous. not approved for any indication. Not medical advice. Ibogaine's own QTc effect is measured in the [Knuijver 2021 QTc safety study](/blog/knuijver-2021-ibogaine-qtc-safety).
+Ibogaine drug interactions center on QTc-prolonging medications, electrolyte threats, and CYP2D6 inhibitors that can raise exposure. IV ibogaine infusion still requires physician supervision and cardiac monitoring; most published human data reflect oral dosing. Unsupervised polypharmacy with ibogaine is dangerous. not approved for any indication. Not medical advice.
 
 
 ## How to use this page (and how not to)
@@ -5647,6 +5657,8 @@ Safety: /safety-and-screening · CYP2D6 deep dive: /blog/ibogaine-cyp2d6-metabol
 
 ### 1) Additive QTc / arrhythmia risk
 Ibogaine (and related clinical conversation around parent/metabolite effects) is associated with **QTc prolongation**. Combining with other QT-prolonging drugs can reduce repolarization reserve.
+
+Ibogaine's own QTc effect is measured in the [Knuijver 2021 QTc safety study](/blog/knuijver-2021-ibogaine-qtc-safety).
 
 Educational theme examples clinicians often review (non-exhaustive, not a ban list you should self-apply):
 
@@ -5936,7 +5948,7 @@ Families evaluating ibogaine should demand cardiac screening, continuous monitor
 
 You are probably scared, hopeful, exhausted—or all three. Marketing sites exploit that mix. This guide is designed to slow the decision down to medical questions.
 
-Primary safety pillar: /safety-and-screening. Soft next step after screening literacy: /apply. What the medicine is: /what-is-ibogaine-infusion · Process: /how-it-works · FAQ: /faq. Families planning time off can use our [IV ibogaine program timeline](/blog/ibogaine-program-duration).
+Primary safety pillar: /safety-and-screening. Soft next step after screening literacy: /apply. What the medicine is: /what-is-ibogaine-infusion · Process: /how-it-works · FAQ: /faq.
 
 
 ## Five truths families need early
@@ -6014,7 +6026,7 @@ Prep article: /blog/preparing-for-ibogaine-screening. Side effects literacy: /bl
 
 ## Emotional reality after treatment
 
-Some people report profound shifts. Some feel flat, grieving, or destabilized. Some return to use. Families who expect a cinematic “new person on day three” set everyone up for shame.
+Some people report profound shifts. Some feel flat, grieving, or destabilized. Some return to use. Families who expect a cinematic “new person on day three” set everyone up for shame. Families planning time off can use our [IV ibogaine program timeline](/blog/ibogaine-program-duration).
 
 Plan for:
 
@@ -6113,7 +6125,7 @@ Educational family guidance only—not medical advice and not a substitute for p
 
 ## Short answer
 
-Ibogaine can prolong QTc and has been linked to serious cardiac events and deaths in adverse-event literature. IV ibogaine infusion requires physician supervision and continuous monitoring; much published research remains oral. Small open-label series without torsades do not equal zero risk. Unsupervised use is dangerous. Screening, electrolytes, and emergency readiness are ethical requirements—not optional upgrades. How hERG blockade leads to torsades is explained in our [ibogaine cardiovascular complications review](/blog/ibogaine-cardiovascular-complications-review).
+Ibogaine can prolong QTc and has been linked to serious cardiac events and deaths in adverse-event literature. IV ibogaine infusion requires physician supervision and continuous monitoring; much published research remains oral. Small open-label series without torsades do not equal zero risk. Unsupervised use is dangerous. Screening, electrolytes, and emergency readiness are ethical requirements—not optional upgrades.
 
 
 ## What “mortality risk” means without panic theater
@@ -6130,7 +6142,7 @@ This is why /safety-and-screening is the trust home of this site.
 
 ## QTc in plain language
 
-The QT interval on ECG reflects ventricular recovery time. Corrected for heart rate (**QTc**), excessive prolongation raises risk for **torsades de pointes**, which can degenerate to fatal arrhythmia.
+The QT interval on ECG reflects ventricular recovery time. Corrected for heart rate (**QTc**), excessive prolongation raises risk for **torsades de pointes**, which can degenerate to fatal arrhythmia. How hERG blockade leads to torsades is explained in our [ibogaine cardiovascular complications review](/blog/ibogaine-cardiovascular-complications-review).
 
 Ibogaine pharmacology has been associated with **hERG potassium channel** effects that delay repolarization. This is a primary reason ethical programs treat cardiac screening as a gate—not a formality.
 
@@ -6313,7 +6325,7 @@ Public internet threads often overstate tidy “serotonin syndrome checklists”
 ### 4) Route confusion
 Oral papers (including MISTIC oral + IV Mg) are not interaction manuals for psychoactive IV ibogaine. Label route every time: /blog/stanford-ibogaine-mistic.
 
-Safety pillar: /safety-and-screening · Mortality/cardiac: /blog/ibogaine-mortality-cardiac-risk · Telemetry: /blog/ibogaine-telemetry-acls-monitoring · Side effects: /blog/ibogaine-side-effects. Benzodiazepines need their own plan; see [ibogaine with Xanax, Klonopin or Valium](/blog/ibogaine-and-benzodiazepines).
+Safety pillar: /safety-and-screening · Mortality/cardiac: /blog/ibogaine-mortality-cardiac-risk · Telemetry: /blog/ibogaine-telemetry-acls-monitoring · Side effects: /blog/ibogaine-side-effects.
 
 
 ## Categories often reviewed in screening (names only—not instructions)
@@ -6329,6 +6341,8 @@ Educational awareness list. Presence on this list ≠ automatic exclusion or aut
 - Opioid agonists/antagonists and MOUD agents (separate clinical conversation)  
 - Antihistamines, antiemetics, antibiotics, and other QT-active non-psych meds  
 - Supplements (e.g., high-dose stimulants, unregulated “detox” stacks)
+
+Benzodiazepines need their own plan; see [ibogaine with Xanax, Klonopin or Valium](/blog/ibogaine-and-benzodiazepines).
 
 **Rule:** full disclosure beats clever omission. Hiding meds to “get accepted” can kill.
 
@@ -7266,7 +7280,7 @@ Educational terminology labeling only—not a dosing protocol, medical advice, o
 
 ## Short answer
 
-Magnesium in ibogaine cardiac protocols is usually support for electrolyte and QTc-related risk management—not the psychoactive treatment itself. IV ibogaine infusion means intravenous psychoactive ibogaine under physician supervision with continuous monitoring. Most published clinical literature still uses oral ibogaine plus support IV such as magnesium. The two must not be blurred. For QTc numbers after oral ibogaine, see [Knuijver 2021: ibogaine heart effects in 14 patients](/blog/knuijver-2021-ibogaine-qtc-safety).
+Magnesium in ibogaine cardiac protocols is usually support for electrolyte and QTc-related risk management—not the psychoactive treatment itself. IV ibogaine infusion means intravenous psychoactive ibogaine under physician supervision with continuous monitoring. Most published clinical literature still uses oral ibogaine plus support IV such as magnesium. The two must not be blurred.
 
 
 ## The confusion this page exists to kill
@@ -7288,6 +7302,8 @@ Clinical observation links ibogaine with **QTc prolongation** and arrhythmia ris
 - Correction of deficiencies when clinically indicated  
 - Continuous monitoring during the high-risk window  
 - Emergency preparedness  
+
+For QTc numbers after oral ibogaine, see [Knuijver 2021: ibogaine heart effects in 14 patients](/blog/knuijver-2021-ibogaine-qtc-safety).
 
 That is **risk mitigation literacy**, not a guarantee that magnesium “makes ibogaine safe,” and not a license to DIY Epsom salts with internet bark.
 
@@ -7467,7 +7483,7 @@ Public conversation sometimes references historical U.S. research interest and o
 | “Noribogaine IND news means IV ibogaine is approved” | Different product/candidate; still not approval |
 | “State funding bill = regulatory approval” | State research policy ≠ federal marketing approval |
 
-State bills / Texas landscape: /blog/ibogaine-state-research-bills-2026 · /blog/texas-ibogaine-clinical-trials · veterans/Right-to-Try framing: /blog/ibogaine-right-to-try-veterans. To see what is actually registered, read [ibogaine clinical trials in 2025](/blog/not-losing-momentum-ibogaine-trials-2025).
+State bills / Texas landscape: /blog/ibogaine-state-research-bills-2026 · /blog/texas-ibogaine-clinical-trials · veterans/Right-to-Try framing: /blog/ibogaine-right-to-try-veterans.
 
 
 ## Oral literature gap still rules evidence talk
@@ -7528,7 +7544,7 @@ After any supervised session, integration still matters: /blog/ibogaine-aftercar
 
 ## IND, IRB, and “I saw a trial on the internet”
 
-ClinicalTrials.gov registrations and press releases can be real without being an invitation to self-refer into a tourism package. Ask: Is enrollment open? What are inclusion/exclusion criteria? Is cardiac monitoring specified? Is the product oral, IV support only, or IV psychoactive? If a clinic answers trial questions with a deposit link, you are not in a research consent process.
+ClinicalTrials.gov registrations and press releases can be real without being an invitation to self-refer into a tourism package. Ask: Is enrollment open? What are inclusion/exclusion criteria? Is cardiac monitoring specified? Is the product oral, IV support only, or IV psychoactive? If a clinic answers trial questions with a deposit link, you are not in a research consent process. To see what is actually registered, read [ibogaine clinical trials in 2025](/blog/not-losing-momentum-ibogaine-trials-2025).
 
 ## Manufacturing and product identity (why IND talk gets fuzzy)
 
@@ -8458,7 +8474,7 @@ Educational only—not medical or legal advice, not a detox protocol, and not a 
 
 ## Why this page exists (intent honesty)
 
-“Near me” pages often fake local storefronts. This page does the opposite: it answers the **near-me question** with **accurate geography, legality, and safety information** so travelers are not misled into believing they are booking a regulator-approved infusion center. Before booking travel, check [how long an ibogaine stay usually is](/blog/ibogaine-program-duration).
+“Near me” pages often fake local storefronts. This page does the opposite: it answers the **near-me question** with **accurate geography, legality, and safety information** so travelers are not misled into believing they are booking a regulator-approved infusion center.
 
 If a site answers “near me” with a U.S. city landing page while dosing Schedule I ibogaine as if it were ketamine-clinic retail, treat that as a trust failure.
 
@@ -8503,7 +8519,7 @@ Ketamine-clinic journey shape (consult → screen → monitor → integrate) can
 
 ## Cardiac screening still beats proximity
 
-The nearest unethical provider is worse than a farther ethical one. Ibogaine can prolong **QTc** and raise arrhythmia risk. Open-label oral observations (Knuijver et al., *Addiction*, 2021) discipline monitoring culture for any serious protocol—including **psychoactive IV** pathways. Support IV magnesium does not erase risk.
+The nearest unethical provider is worse than a farther ethical one. Ibogaine can prolong **QTc** and raise arrhythmia risk. Open-label oral observations (Knuijver et al., *Addiction*, 2021) discipline monitoring culture for any serious protocol—including **psychoactive IV** pathways. Support IV magnesium does not erase risk. Before booking travel, check [how long an ibogaine stay usually is](/blog/ibogaine-program-duration).
 
 Before asking “how close,” ask:
 
@@ -9270,7 +9286,7 @@ Educational only—not hepatology or cardiology advice, not a lab interpretation
 
 ## Short answer
 
-Pre-existing heart conditions often contraindicate or heavily restrict ibogaine exposure because ibogaine can prolong QTc and increase arrhythmia risk. IV ibogaine infusion requires physician supervision and continuous cardiac monitoring. Most published QTc observations still reflect oral ibogaine HCl. It is not approved for any indication. Unsupervised use is dangerous; individual clearance belongs to clinicians. Events have also been reported in people with no known heart disease; see [ibogaine heart risks in people without known cardiac disease](/blog/ibogaine-cardiovascular-complications-review).
+Pre-existing heart conditions often contraindicate or heavily restrict ibogaine exposure because ibogaine can prolong QTc and increase arrhythmia risk. IV ibogaine infusion requires physician supervision and continuous cardiac monitoring. Most published QTc observations still reflect oral ibogaine HCl. It is not approved for any indication. Unsupervised use is dangerous; individual clearance belongs to clinicians.
 
 
 ## The non-negotiable frame
@@ -9286,7 +9302,7 @@ Canonical safety home: /safety-and-screening · Broader exclusions: /blog/ibogai
 
 ## What QTc prolongation means in plain language
 
-The QT interval on an ECG reflects ventricular recovery. Corrected for heart rate (**QTc**), excessive prolongation increases risk for **torsades de pointes**, which can degenerate into fatal arrhythmia. Ibogaine-related pharmacology has been discussed in connection with delayed repolarization (including hERG-related mechanisms in scientific conversation).
+The QT interval on an ECG reflects ventricular recovery. Corrected for heart rate (**QTc**), excessive prolongation increases risk for **torsades de pointes**, which can degenerate into fatal arrhythmia. Ibogaine-related pharmacology has been discussed in connection with delayed repolarization (including hERG-related mechanisms in scientific conversation). Events have also been reported in people with no known heart disease; see [ibogaine heart risks in people without known cardiac disease](/blog/ibogaine-cardiovascular-complications-review).
 
 ### Oral-route teaching signal (label every time)
 
@@ -9758,7 +9774,7 @@ Educational consent literacy only—not medical advice, legal advice, or a perso
 
 ## Short answer
 
-IV ibogaine infusion requires continuous cardiac telemetry and ACLS-ready emergency planning because ibogaine can prolong QTc and precipitate life-threatening arrhythmias. Much published research remains oral, yet monitoring obligations still apply to psychoactive IV models. Spa staffing is not a substitute. Unsupervised use is dangerous. Screening can—and should—exclude high-risk candidates. Why monitoring must cover a delayed window is covered in our [ibogaine QTc and arrhythmia risk review](/blog/ibogaine-cardiovascular-complications-review).
+IV ibogaine infusion requires continuous cardiac telemetry and ACLS-ready emergency planning because ibogaine can prolong QTc and precipitate life-threatening arrhythmias. Much published research remains oral, yet monitoring obligations still apply to psychoactive IV models. Spa staffing is not a substitute. Unsupervised use is dangerous. Screening can—and should—exclude high-risk candidates.
 
 
 ## Why this page exists
@@ -9851,7 +9867,7 @@ Monitoring reduces unmanaged risk. It does not invent certainty.
 
 Many cardiac events are not convenient daytime problems. Ask who is physically present overnight, how alarms escalate, and whether the “doctor on call” is minutes or hours away. A WhatsApp concierge is not telemetry. If vomiting depletes potassium at 3 a.m., the team needs labs, repletion capability, and rhythm surveillance—not aromatherapy. Document answers before deposit. Cross-check with /blog/preparing-for-ibogaine-screening and /blog/family-guide-ibogaine-treatment.
 
-Also confirm who interprets live QTc changes: a physician competent in arrhythmia risk, not solely a hospitality manager reading a consumer watch app. Continuous monitoring without clinical interpretation is theater.
+Also confirm who interprets live QTc changes: a physician competent in arrhythmia risk, not solely a hospitality manager reading a consumer watch app. Continuous monitoring without clinical interpretation is theater. Why monitoring must cover a delayed window is covered in our [ibogaine QTc and arrhythmia risk review](/blog/ibogaine-cardiovascular-complications-review).
 
 ## Next steps
 
@@ -10070,7 +10086,7 @@ Cherian/MISTIC 12-month follow-up is open-label oral ibogaine + IV magnesium dur
 
 ## Short answer
 
-Brown and Alper’s 2018 observational study of 30 people with opioid dependence found oral ibogaine HCl associated with reduced withdrawal scores and 50% reporting no opioid use in the prior 30 days at one month—not an RCT and not evidence for psychoactive IV ibogaine infusion. Cardiac QTc risk still matters. Ibogaine is not approved for any indication. For a retrospective comparison, see the [88-person ibogaine opioid outcomes survey](/blog/davis-barsuglia-2017-ibogaine-survey).
+Brown and Alper’s 2018 observational study of 30 people with opioid dependence found oral ibogaine HCl associated with reduced withdrawal scores and 50% reporting no opioid use in the prior 30 days at one month—not an RCT and not evidence for psychoactive IV ibogaine infusion. Cardiac QTc risk still matters. Ibogaine is not approved for any indication.
 
 
 ## Why this paper matters
@@ -10104,6 +10120,8 @@ Plain-language implications:
 - Self-report of abstinence can overstate success without biochemical verification in every case.  
 - Attrition and missing long-term data can bias optimistic narratives.  
 - Interindividual dose and response variability was large (note the ±920 mg SD).
+
+For a retrospective comparison, see the [88-person ibogaine opioid outcomes survey](/blog/davis-barsuglia-2017-ibogaine-survey).
 
 
 ## Key findings (no hype)
@@ -10222,7 +10240,7 @@ Brown & Alper 2018 is oral observational OUD literature—not psychoactive IV ib
 
 ## Short answer
 
-Noller and colleagues’ 2018 New Zealand observational study of 14 people treated with oral ibogaine for opioid dependence reported 12-month ASI and depression improvements in completers—and one death during treatment. It is not an RCT and not evidence for psychoactive IV ibogaine infusion. Cardiac risk and monitoring culture still matter. Ibogaine is not approved for any indication. Compare with the [Davis 2017 self-report survey on ibogaine for opioids](/blog/davis-barsuglia-2017-ibogaine-survey).
+Noller and colleagues’ 2018 New Zealand observational study of 14 people treated with oral ibogaine for opioid dependence reported 12-month ASI and depression improvements in completers—and one death during treatment. It is not an RCT and not evidence for psychoactive IV ibogaine infusion. Cardiac risk and monitoring culture still matter. Ibogaine is not approved for any indication.
 
 
 ## Why this paper matters
@@ -10251,7 +10269,7 @@ Readers should open the primary paper for exact composites, provider context, co
 
 ## Methods (plain language)
 
-Adults seeking legal ibogaine treatment for opioid dependence in New Zealand were followed observationally after a single ibogaine treatment episode delivered by either of two providers. Researchers scored addiction severity with ASI-Lite across baseline and scheduled follow-ups through 12 months, tracked depression with BDI-II, and measured acute withdrawal with SOWS before and immediately after treatment.
+Adults seeking legal ibogaine treatment for opioid dependence in New Zealand were followed observationally after a single ibogaine treatment episode delivered by either of two providers. Researchers scored addiction severity with ASI-Lite across baseline and scheduled follow-ups through 12 months, tracked depression with BDI-II, and measured acute withdrawal with SOWS before and immediately after treatment. Compare with the [Davis 2017 self-report survey on ibogaine for opioids](/blog/davis-barsuglia-2017-ibogaine-survey).
 
 Plain-language design features:
 
@@ -10724,7 +10742,7 @@ Glue 2016 is oral noribogaine Phase 1 literature—not psychoactive IV ibogaine 
 
 ## Short answer
 
-Knuijver and colleagues’ 2021 Addiction study gave oral ibogaine 10 mg/kg to 14 opioid-dependent patients and found mean QTc prolongation near 95 milliseconds, with half exceeding 500 milliseconds, plus severe ataxia. No torsades occurred in that small sample, yet risk remains serious. This oral safety study does not prove psychoactive IV ibogaine infusion. Other acute effects are covered in [ibogaine side effects: nausea, ataxia and heart risk](/blog/ibogaine-side-effects).
+Knuijver and colleagues’ 2021 Addiction study gave oral ibogaine 10 mg/kg to 14 opioid-dependent patients and found mean QTc prolongation near 95 milliseconds, with half exceeding 500 milliseconds, plus severe ataxia. No torsades occurred in that small sample, yet risk remains serious. This oral safety study does not prove psychoactive IV ibogaine infusion.
 
 
 ## Why this paper matters
@@ -10748,6 +10766,8 @@ Knuijver 2021 is among the clearest **monitored university** measurements of ora
 ## Methods (plain language)
 
 Patients hoping for abstinence after unsuccessful standard care were converted to morphine, then given one weight-based oral ibogaine dose in hospital. Staff repeatedly measured heart rhythm intervals (QTc), vital signs, walking/coordination (ataxia), and psychoactive/delirium-observation scores for at least a day. The study’s purpose was **safety description**, not a pivotal efficacy RCT.
+
+Other acute effects are covered in [ibogaine side effects: nausea, ataxia and heart risk](/blog/ibogaine-side-effects).
 
 
 ## Key findings (no hype)
@@ -10887,7 +10907,7 @@ Knuijver 2021 is oral QTc/ataxia safety literature—not psychoactive IV ibogain
 
 ## Short answer
 
-Köck and colleagues’ 2022 systematic review of 24 studies in 705 people found ibogaine associated with withdrawal and craving reductions but also severe cardiac complications and deaths. Most evidence is non-randomized and largely oral-route. It does not prove psychoactive IV ibogaine infusion. Rigorous medical settings and RCTs are still required. For registered trials since then, see [the Not Losing Momentum ibogaine trials review](/blog/not-losing-momentum-ibogaine-trials-2025).
+Köck and colleagues’ 2022 systematic review of 24 studies in 705 people found ibogaine associated with withdrawal and craving reductions but also severe cardiac complications and deaths. Most evidence is non-randomized and largely oral-route. It does not prove psychoactive IV ibogaine infusion. Rigorous medical settings and RCTs are still required.
 
 
 ## Why this paper matters
@@ -10981,7 +11001,7 @@ For outcome-paper deep dives, see /blog/brown-alper-2018-ibogaine-oud, /blog/mas
 | Case reports | Useful for rare harms; useless as cure rates |
 | Surveys | Self-selection bias risk |
 
-This distribution is why responsible pages say **signals exist** and **RCTs are still needed**—not “clinically proven for everyone.”
+This distribution is why responsible pages say **signals exist** and **RCTs are still needed**—not “clinically proven for everyone.” For registered trials since then, see [the Not Losing Momentum ibogaine trials review](/blog/not-losing-momentum-ibogaine-trials-2025).
 
 ## Next steps
 
@@ -12967,7 +12987,7 @@ Litjens & Brunt 2016 is a toxicity review—not personal access, not a cure clai
 
 ## Short answer
 
-Schep and colleagues’ 2016 Drug and Alcohol Dependence paper warns that common ibogaine treatment doses dwarf a cautiously extrapolated ~0.87 mg/kg starting estimate and catalogs ataxia, arrhythmias, and deaths. It is a toxicity dose-safety review—not proof that psychoactive IV ibogaine infusion works. Schedule I; cardiac screening first; no cure claims. For a plain-language overview, see [ibogaine side effects explained](/blog/ibogaine-side-effects).
+Schep and colleagues’ 2016 Drug and Alcohol Dependence paper warns that common ibogaine treatment doses dwarf a cautiously extrapolated ~0.87 mg/kg starting estimate and catalogs ataxia, arrhythmias, and deaths. It is a toxicity dose-safety review—not proof that psychoactive IV ibogaine infusion works. Schedule I; cardiac screening first; no cure claims.
 
 
 ## Why this paper matters
@@ -13001,6 +13021,8 @@ Authors synthesize published toxicology and treatment-context reports, then appl
 - Limited oral lethality data in rodents (authors discuss approximate oral LD themes near **263 mg/kg** in that literature) still require large safety margins before human starting-dose thinking.  
 - After safety-factor application, authors approximate an initial human dose around **0.87 mg/kg**—far below many clinic flood traditions.  
 - Bottom-line warning: morbidities and mortalities will continue unless dosing is reconsidered for susceptible patients.
+
+For a plain-language overview, see [ibogaine side effects explained](/blog/ibogaine-side-effects).
 
 **Honest reading:** “What is a safe dose?” is partly rhetorical—the paper’s thrust is that **common doses may not be safe**, not that a consumer product dose has been approved.
 
@@ -13884,7 +13906,7 @@ Brown/Noller/Denenberg 2019 is qualitative/SCQ follow-on to oral OUD observation
 
 ## Short answer
 
-Heink, Katsikas, and Lange-Altman’s 2017 Journal of Psychoactive Drugs survey used the 5D-ASC scale in a small retrospective sample of people who had taken ibogaine, finding ASC dimensions correlated with self-reported life change and craving outcomes. Survey phenomenology is not controlled efficacy and not psychoactive IV ibogaine infusion proof. Schedule I; screen for QTc first. A separate opioid-focused survey is explained in [Davis and Barsuglia 2017 ibogaine survey results](/blog/davis-barsuglia-2017-ibogaine-survey).
+Heink, Katsikas, and Lange-Altman’s 2017 Journal of Psychoactive Drugs survey used the 5D-ASC scale in a small retrospective sample of people who had taken ibogaine, finding ASC dimensions correlated with self-reported life change and craving outcomes. Survey phenomenology is not controlled efficacy and not psychoactive IV ibogaine infusion proof. Schedule I; screen for QTc first.
 
 
 ## Why this paper matters
@@ -13908,7 +13930,7 @@ Köck’s systematic review and similar maps frequently cite Heink 2017 as the �
 
 ## Methods (plain language)
 
-Researchers recruited people who had previously used ibogaine and asked them to complete validated ASC questionnaires plus questions about why they sought treatment, what the course looked like, and how they rated outcomes afterward. Retrospective internet surveys are vulnerable to selection bias (people with dramatic stories answer; people who died cannot).
+Researchers recruited people who had previously used ibogaine and asked them to complete validated ASC questionnaires plus questions about why they sought treatment, what the course looked like, and how they rated outcomes afterward. Retrospective internet surveys are vulnerable to selection bias (people with dramatic stories answer; people who died cannot). A separate opioid-focused survey is explained in [Davis and Barsuglia 2017 ibogaine survey results](/blog/davis-barsuglia-2017-ibogaine-survey).
 
 
 ## Key findings (no hype)
