@@ -93,7 +93,34 @@ function RichText({ text }: { text: string }) {
 /** Turns plain-text internal paths (e.g. "/safety-and-screening", "/blog/slug") into links when the path exists. */
 const PATH_RE = /(^|[\s(\[])(\/(?:blog\/)?[a-z0-9]+(?:-[a-z0-9]+)*)(?=$|[\s).,;:\]·])/g;
 
-function linkify(text: string, keyPrefix: string) {
+const MD_LINK_RE = /\[([^\]]+)\]\((\/(?:blog\/)?[a-z0-9]+(?:-[a-z0-9]+)*)\)/g;
+
+/** Supports descriptive-anchor internal links: [anchor text](/blog/slug). Unknown paths fall back to plain text. */
+function linkify(text: string, keyPrefix: string): React.ReactNode {
+  if (!text.includes("](/")) return linkifyPaths(text, keyPrefix);
+  const nodes: React.ReactNode[] = [];
+  let last = 0;
+  let m: RegExpExecArray | null;
+  MD_LINK_RE.lastIndex = 0;
+  while ((m = MD_LINK_RE.exec(text))) {
+    if (m.index > last) nodes.push(linkifyPaths(text.slice(last, m.index), `${keyPrefix}-p${last}`));
+    const [, label, path] = m;
+    nodes.push(
+      internalPaths.has(path) ? (
+        <Link key={`${keyPrefix}-m${m.index}`} href={path} className="font-medium text-forest-mid hover:underline">
+          {label}
+        </Link>
+      ) : (
+        label
+      ),
+    );
+    last = m.index + m[0].length;
+  }
+  if (last < text.length) nodes.push(linkifyPaths(text.slice(last), `${keyPrefix}-p${last}`));
+  return nodes;
+}
+
+function linkifyPaths(text: string, keyPrefix: string) {
   const nodes: React.ReactNode[] = [];
   let last = 0;
   let m: RegExpExecArray | null;
