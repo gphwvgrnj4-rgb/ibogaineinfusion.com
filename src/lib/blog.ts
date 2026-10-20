@@ -906,7 +906,7 @@ Definition: /what-is-ibogaine-infusion. Safety home: /safety-and-screening. Jour
 | Published evidence landscape | Limited; much human ibogaine data still **oral** observational | Growing research interest; heterogeneous real-world practice |
 | Dominant medical risk themes | QTc / arrhythmia; ataxia; prolonged intensity | MAOI interactions; psychological crisis; variable medical backup |
 | Addiction-detox observational history | Stronger historical association with opioid interrupt narratives (mostly oral lit) | Different tradition; not a drop-in OUD medical protocol |
-| regulatory approval | Not approved; Schedule I (US) | Not an approved drug product in this framing |
+| Regulatory approval | Not approved; Schedule I (US) | Not an approved drug product in this framing |
 | “Luxury” that matters | Telemetry, ACLS readiness, electrolytes, MD presence | Facilitator training, consent culture, medical backup—not décor alone |
 
 ## Addiction narratives
@@ -2367,7 +2367,7 @@ People search **ibogaine vs methadone** when they feel stuck on clinic schedules
 | Typical setting | Regulated opioid treatment programs / clinics | Medical infusion setting with telemetry (if rigorous) |
 | Session shape | Daily or program-structured dosing | Consult → screen → monitored IV infusion → integration |
 | Cardiac theme | QT prolongation is a known methadone counseling topic at higher doses / risk factors | Ibogaine QTc risk is a central screening/monitoring theme (see oral open-label cardiac data) |
-| Legal / approval (U.S.) | approved for OUD in regulated frameworks | Schedule I; not approved for any indication |
+| Legal / approval (U.S.) | Approved for OUD in regulated frameworks | Schedule I; not approved for any indication |
 | Relapse / overdose planning | Ongoing engagement is part of the model | Critical after any intensive detox attempt if tolerance falls |
 
 This table educates; it does not rank “winners.”
@@ -2503,7 +2503,7 @@ Empathy does not require cure marketing. Suboxone (buprenorphine/naloxone) remai
 | Typical use pattern | Induction then maintenance / structured taper when appropriate | Intensive monitored session + multi-day observation / integration |
 | Setting | Outpatient/office-based or specialty addiction care (jurisdiction-dependent) | Physician-supervised medical infusion setting with telemetry if rigorous |
 | Cardiac theme | Generally different risk profile than ibogaine’s QTc narrative (individual factors still matter) | QTc prolongation risk is central; continuous monitoring emphasized |
-| U.S. status | approved products for OUD when used as labeled | Schedule I substance; not approved for any indication |
+| U.S. status | Approved products for OUD when used as labeled | Schedule I substance; not approved for any indication |
 | “Getting off opioids” framing | Maintenance often *is* successful treatment; taper is clinical, not mandatory | One session ≠ proven cure; relapse/overdose planning essential |
 
 ## Evidence landscape (route-honest)
@@ -2891,7 +2891,7 @@ That reality is separate from whether a physician-supervised medical model is ap
 
 | Barrier | Plain-language meaning |
 |---------|------------------------|
-| not approved for any indication | No approved ibogaine product/indication for insurers to build standard policies around |
+| Not approved for any indication | No approved ibogaine product/indication for insurers to build standard policies around |
 | Schedule I (U.S.) | Federal controlled-substance status constrains domestic clinical pathways (not legal advice) |
 | Evidence posture | Sparse controlled evidence for psychoactive **IV**; oral observational series dominate published landscape |
 | Setting | Many programs operate outside typical U.S. in-network hospital/clinic contracts |
@@ -3622,9 +3622,9 @@ Mosca et al. (*Current Neuropharmacology*) summarize therapeutic interest, limit
 
 | Pathway | What it is | What it is not |
 |---------|------------|----------------|
-| U.S. research / proposed Right-to-Try operationalization | Investigational, eligibility-bound, agency-dependent | approved standard care |
+| U.S. research / proposed Right-to-Try operationalization | Investigational, eligibility-bound, agency-dependent | Approved standard care |
 | Texas / state research landscapes | Funding & consortium announcements (fluid) | Walk-in veteran clinics |
-| Our IV ibogaine programs in Mexico and Gabon | Physician-supervised models under local rules (provisional availability) | approved U.S. clinics; legal advice; insurance entitlement |
+| Our IV ibogaine programs in Mexico and Gabon | Physician-supervised models under local rules (provisional availability) | Approved U.S. clinics; legal advice; insurance entitlement |
 
 Our IV ibogaine programs in Mexico and Gabon are in waitlist intake—not approved U.S. clinics. Travel and controlled-substance questions require personal legal counsel. Medical screening still applies: /blog/medical-ibogaine-programs-vs-tourism · /blog/how-to-choose-an-ibogaine-clinic.
 
@@ -3889,7 +3889,7 @@ For Ibogaine Infusion's own IV program:
 | Statement | Status |
 |-----------|--------|
 | Intake locations named publicly (Mexico and Gabon) | Yes |
-| approved U.S. clinic product | **No** |
+| Approved U.S. clinic product | **No** |
 | Schedule I erased for U.S. residents by flying | **No** — not legal advice |
 | Oral papers prove IV infusion efficacy | **No** |
 | Cure guaranteed because "medical abroad" | **No** |
@@ -4042,7 +4042,7 @@ Metabolite explainer: /blog/noribogaine-explained · Entity: /what-is-ibogaine-i
 |---------|-------------------------------------------|-------------------------------------------|
 | What it is | Investigational interest in noribogaine (ibogaine’s metabolite), often framed as oral product development | Psychoactive **intravenous** ibogaine under physician supervision |
 | Typical news hook | IND acceptance / early clinical development for a specific indication (e.g., AUD interest in company releases) | Medical infusion-model education; treatment at our Mexico and Gabon intake locations |
-| approved therapy? | **No** (investigational headlines ≠ approval) | **No** — ibogaine not approved for any indication |
+| Approved therapy? | **No** (investigational headlines ≠ approval) | **No** — ibogaine not approved for any indication |
 | Same as parent ibogaine flood? | **No** — metabolite/product strategy may differ in psychoactivity and dosing goals | Parent psychoactive ibogaine by IV route |
 | Proves IV infusion outcomes? | **No** | N/A — do not cite noribogaine IND as IV efficacy RCT |
 | Cardiac story | Still requires scientific humility; do not assume “metabolite = zero QTc concern” without data literacy | QTc monitoring culture central |
@@ -6520,7 +6520,7 @@ Telemetry: /blog/ibogaine-telemetry-acls-monitoring · Mortality/cardiac: /blog/
 | It means | It does not mean |
 |----------|------------------|
 | Acute contraindications were not obvious on review | Zero cardiac risk |
-| Monitoring plan is acceptable to the team | regulatory approval |
+| Monitoring plan is acceptable to the team | Regulatory approval |
 | You understood route and consent | Guaranteed addiction/PTSD/depression cure |
 | Support IV may be used | Support IV is the medicine |
 
@@ -6819,7 +6819,7 @@ That binary is false. Relapse can occur after either path. Aftercare matters eit
 | Axis | Naltrexone (typical medical use) | IV ibogaine infusion (this entity) |
 |------|----------------------------------|-------------------------------------|
 | Drug class role | Opioid receptor antagonist | Psychoactive iboga alkaloid (experimental use conversation) |
-| U.S. regulatory | approved products/indications in labeled contexts | Schedule I; not approved for any indication |
+| U.S. regulatory | Approved products/indications in labeled contexts | Schedule I; not approved for any indication |
 | Evidence maturity | Decades of clinical use literature for labeled pathways | Limited; oral observational dominates; sparse IV RCTs |
 | Delivery | Oral or extended-release injection per clinician | **Intravenous psychoactive ibogaine** in monitored setting |
 | Signature risk themes | Precipitated withdrawal if opioids still onboard; adherence; overdose risk if antagonist stops and opioid tolerance is lost—clinician counseling required | **QTc / arrhythmia**; prolonged observation; medication interactions |
@@ -8489,7 +8489,7 @@ Entity: /what-is-ibogaine-infusion · Legality education: /blog/is-ibogaine-lega
 | “Legal in my state” | State bill = personal dosing | Research bills ≠ personal access (/blog/ibogaine-state-research-bills-2026) |
 | Veteran local VA drip | Right-to-Try headlines | Pathway news ≠ walk-in VA IV (/blog/ibogaine-right-to-try-veterans) |
 | Cheap nearby flood | Price-first tourism | Red-flag territory (/blog/cheap-ibogaine-clinic-red-flags) |
-| Supervised medical program abroad | Travel + screening | our IV ibogaine programs in Mexico and Gabon—cardiac still first |
+| Supervised medical program abroad | Travel + screening | Our IV ibogaine programs in Mexico and Gabon—cardiac still first |
 
 
 ## U.S. legal snapshot for near-me searchers (not legal advice)
@@ -8636,7 +8636,7 @@ Paired myth page: /blog/ibogaine-success-rate-claims · Addiction/PTSD/depressio
 | A program’s customer-service tone | Cardiac safety for you |
 | Short-term abstinence or score change | Lifelong cure |
 | Motivation to research further | Route-specific IV RCTs |
-| The need for better trials | regulatory approval |
+| The need for better trials | Regulatory approval |
 
 Cherian et al. 2024 remains **open-label oral + IV Mg**—even peer-reviewed signals need RCT follow-through and must not be rewritten as “my cousin’s IV cured TBI.” Deep dive: /blog/stanford-ibogaine-mistic · TBI article: /blog/ibogaine-for-tbi-veterans.
 
@@ -15033,7 +15033,7 @@ Malcolm/Polanco/Barsuglia 2018 (/blog/ibogaine-oud-case-series-2016-2020) report
 | Citation | Davis A.K., Barsuglia J.P., Windham-Herman A.-M., Lynch M., Polanco M. *J Psychedelic Stud*. 2017;1(2):65–73. doi **10.1556/2054.01.2017.009** |
 | Type | Retrospective online survey / subjective effectiveness study |
 | N | 88 completers with problematic opioid use (from larger contact list; attrition noted by authors) |
-| Setting | abroad inpatient clinic treatment 2012–2015 (Crossroads-affiliated author team) |
+| Setting | Abroad inpatient clinic treatment 2012–2015 (Crossroads-affiliated author team) |
 | Route | **Oral** clinic ibogaine—not psychoactive IV infusion study |
 | Headline self-reports | 80% withdrawal eliminated/drastically reduced; 30% never reused opioids; 41% ≥6 mo abstinence at survey; 70% any relapse |
 | What it is not | RCT; urine-verified longitudinal cohort; regulatory approval; IV ibogaine proof; cardiac QT trial; cure claim |
@@ -15403,7 +15403,7 @@ Buprenorphine is pharmacologically different (partial agonist; different QT prof
 | Common question | Evidence-aligned answer |
 |-----------------|-------------------------|
 | “Can I stop methadone the day before?” | Not supported by peer-reviewed transition methods; residual methadone QT risk is exactly what conversion tries to avoid. |
-| “Does ibogaine replace a slow taper?” | no approved replacement; observational signals ≠ approved indication. |
+| “Does ibogaine replace a slow taper?” | No approved replacement; observational signals ≠ approved indication. |
 | “Is IV ibogaine better for methadone?” | No peer-reviewed psychoactive IV infusion trial answers that; do not invent one. |
 | “What about fentanyl contamination?” | Separate toxicity and timing issues—see /blog/ibogaine-for-fentanyl; still not a home protocol. |
 
@@ -15688,7 +15688,7 @@ Oral ibogaine (+ later 5-MeO) ≠ physician-supervised **psychoactive IV ibogain
 | Self-report surveys | No blinded CAPS-equivalent primary in this paper’s design class |
 | Combination therapy | Cannot isolate ibogaine vs 5-MeO vs therapy milieu |
 | Male SOF sample | Gender/occupation generalizability limited |
-| abroad program setting | Not a U.S. regulator trial site |
+| Abroad program setting | Not a U.S. regulator trial site |
 | Cardiac detail secondary | Incomplete risk picture alone |
 
 

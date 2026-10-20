@@ -1,6 +1,9 @@
 import Link from "next/link";
 import { internalPaths } from "@/lib/routes";
 
+/** Markdown table separator row, e.g. "| --- | --- |" or "|------|------|" (optional colons for alignment). */
+const TABLE_SEPARATOR_RE = /^\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)*\|?$/;
+
 /** Minimal markdown-ish renderer for trusted blog content (headings, paragraphs, lists, tables, bold). */
 export function Markdown({ content }: { content: string }) {
   const blocks = content.trim().split(/\n\n+/);
@@ -17,8 +20,9 @@ export function Markdown({ content }: { content: string }) {
           return <h3 key={i}>{trimmed.slice(4)}</h3>;
         }
 
-        if (trimmed.includes("| ---")) {
-          const lines = trimmed.split("\n").filter(Boolean);
+        const tableLines = trimmed.split("\n").filter(Boolean);
+        if (tableLines.length >= 2 && TABLE_SEPARATOR_RE.test(tableLines[1].trim())) {
+          const lines = tableLines;
           const headers = lines[0].split("|").map((c) => c.trim()).filter(Boolean);
           const rows = lines.slice(2).map((line) =>
             line.split("|").map((c) => c.trim()).filter(Boolean),
