@@ -497,7 +497,7 @@ export function ApplicationForm({
           </li>
           <li>
             <strong className="text-forest">3. Screening</strong> — Cardiac/medical diligence and
-            go/no-go precede any treatment discussion. Treatment location is shared after screening;
+            go/no-go precede any treatment discussion. Intakes are in Mexico and Gabon;
             ibogaine is not approved for any indication.
           </li>
         </ol>

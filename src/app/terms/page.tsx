@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "/terms" },
   title: "Terms of Use",
   description:
-    "Terms of use for the Ibogaine Infusion educational website: no medical advice, program availability, liability limits, and inquiry data.",
+    "Terms of use for the Ibogaine Infusion website: no medical advice, program availability, liability limits, and application data.",
 };
 
 export default function TermsPage() {
@@ -22,12 +22,12 @@ export default function TermsPage() {
         <p>
           By accessing ibogaineinfusion.com (the “Site”), you agree to these Terms of Use. If you do
           not agree, do not use the Site. These Terms apply to educational content and confidential
-          inquiry / application submissions. They do not create a physician–patient relationship.
+          waitlist / application submissions. They do not create a physician–patient relationship.
         </p>
 
         <h2>2. Educational purpose — not medical advice</h2>
         <p>
-          Content on the Site is for <strong>education and confidential inquiry only</strong>. It is
+          Content on the Site is for <strong>education and confidential applications only</strong>. It is
           not medical advice, diagnosis, treatment, prescribing, or a clinical protocol. Nothing on
           the Site is a promise of eligibility, admission, legality for any traveler, or clinical
           outcome. Always seek qualified, independent medical and legal advice for your situation.
@@ -53,8 +53,8 @@ export default function TermsPage() {
 
         <h2>5. Program availability; U.S. status</h2>
         <p>
-          Physician-supervised IV ibogaine infusion programs <strong>discussed on this Site</strong>{" "}
-          share the <strong>treatment location after screening</strong>. That is{" "}
+          Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine
+          therapy, with waitlist intakes at <strong>two locations: Mexico and Gabon</strong>. That is{" "}
           <strong>not</strong> an approved U.S. clinic pathway. Ibogaine remains{" "}
           <strong>Schedule I</strong> under U.S. federal law and is{" "}
           <strong>not approved for any indication</strong>. Foreign availability is not legal advice,
@@ -62,12 +62,12 @@ export default function TermsPage() {
           will operate for you on any date. Local rules, staffing, and logistics can change.
         </p>
 
-        <h2>6. Inquiry and application data</h2>
+        <h2>6. Waitlist and application data</h2>
         <p>
-          If you submit the confidential application or other inquiry forms, you represent that
+          If you submit the confidential application or waitlist forms, you represent that
           information is accurate to the best of your knowledge and that you have authority to
           provide it. Submissions may include contact details and sensitive health- or
-          substance-related answers used for screening and inquiry follow-up. See our{" "}
+          substance-related answers used for screening and application follow-up. See our{" "}
           <Link href="/privacy">Privacy Policy</Link>. Submitting a form is not admission to
           treatment and does not obligate either party to proceed.
         </p>
@@ -89,8 +89,8 @@ export default function TermsPage() {
 
         <h2>9. Third-party links and partners</h2>
         <p>
-          The Site may link to third-party resources or refer inquiries to clinical partners (which
-          may be located in various jurisdictions). We do not control third-party sites or practices
+          The Site may link to third-party resources, and applications may be handled by our clinical
+          teams and contracted providers at our intake locations (which are in other jurisdictions). We do not control third-party sites or practices
           and are not responsible for their content, services, or privacy practices.
         </p>
 
@@ -108,7 +108,7 @@ export default function TermsPage() {
           CONTRACTORS, AND CONTENT PROVIDERS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
           SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, PROFITS, OR
           GOODWILL, ARISING FROM YOUR USE OF (OR INABILITY TO USE) THE SITE, RELIANCE ON CONTENT,
-          OR SUBMISSION OF INQUIRY DATA — EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. TO THE
+          OR SUBMISSION OF APPLICATION DATA — EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. TO THE
           MAXIMUM EXTENT PERMITTED BY LAW, OUR AGGREGATE LIABILITY FOR CLAIMS RELATING TO THE SITE
           WILL NOT EXCEED ONE HUNDRED U.S. DOLLARS (USD $100) OR THE AMOUNT YOU PAID US (IF ANY) FOR
           SITE ACCESS IN THE TWELVE MONTHS BEFORE THE CLAIM, WHICHEVER IS GREATER. SOME

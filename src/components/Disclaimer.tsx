@@ -18,7 +18,7 @@ export function Disclaimer({
       <strong className={`font-medium ${isDark ? "text-accent" : "text-forest"}`}>
         Educational notice:
       </strong>{" "}
-      Information on this site is for inquiry and education only. It is not medical
+      Information on this site is educational. It is not medical
       advice, a diagnosis, or a promise of cure or benefit. Ibogaine involves serious
       medical risks, including cardiac risk. Medical screening is essential. Always
       consult qualified clinicians. Not an approved U.S. clinic pathway.

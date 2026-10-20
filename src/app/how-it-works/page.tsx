@@ -138,8 +138,8 @@ export default function HowItWorksPage() {
               often with IV support — not IV psychoactive RCTs.
             </p>
             <p>
-              Programs discussed here share the <strong>treatment location after screening</strong> — not an
-              approved U.S. clinic pathway. Screening-first; educational only.
+              Infusions take place at our <strong>Mexico and Gabon intake locations</strong> — not an
+              approved U.S. clinic pathway. Every patient is screened by a physician first.
             </p>
           </div>
         </Container>

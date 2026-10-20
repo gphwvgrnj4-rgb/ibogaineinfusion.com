@@ -3,8 +3,9 @@ import Link from "next/link";
 const blurbs = {
   home: (
     <>
-      Physician-supervised IV ibogaine infusion programs discussed on this site share the{" "}
-      <strong className="font-semibold text-ink">treatment location after screening</strong>{" "}
+      Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine
+      therapy, with waitlist intakes at two locations:{" "}
+      <strong className="font-semibold text-ink">Mexico and Gabon</strong>{" "}
       (not an approved U.S. clinic treatment). Ibogaine remains{" "}
       <strong className="font-semibold text-ink">Schedule I</strong> in the United States and is{" "}
       <strong className="font-semibold text-ink">not approved for any indication</strong>.
@@ -15,8 +16,8 @@ const blurbs = {
   ),
   safety: (
     <>
-      Programs discussed here for physician-supervised IV ibogaine infusion share the{" "}
-      <strong className="font-semibold text-ink">treatment location after screening</strong>, and
+      Our physician-supervised IV ibogaine infusions take place at our{" "}
+      <strong className="font-semibold text-ink">Mexico and Gabon intake locations</strong>, and
       are not an approved U.S. treatment. Traveling for care does{" "}
       <strong className="font-semibold text-ink">not</strong> reduce QTc / arrhythmia risk and does{" "}
       <strong className="font-semibold text-ink">not</strong> replace pre-infusion ECG,
@@ -30,8 +31,8 @@ const blurbs = {
     <>
       Submitting this form requests a{" "}
       <strong className="font-semibold text-ink">confidential screening conversation</strong>{" "}
-      about physician-supervised IV ibogaine infusion programs. Treatment location is{" "}
-      <strong className="font-semibold text-ink">shared after screening</strong>. This is{" "}
+      about physician-supervised IV ibogaine infusion at our clinic. Waitlist intakes are open for{" "}
+      <strong className="font-semibold text-ink">Mexico and Gabon</strong>. This is{" "}
       <strong className="font-semibold text-ink">not</strong> an approved U.S. clinic pathway,{" "}
       <strong className="font-semibold text-ink">not</strong> automatic admission, and{" "}
       <strong className="font-semibold text-ink">not</strong> a promise of legality, travel
@@ -42,8 +43,9 @@ const blurbs = {
   ),
   generic: (
     <>
-      Physician-supervised IV ibogaine infusion programs discussed on this site share the{" "}
-      <strong className="font-semibold text-ink">treatment location after screening</strong> — not
+      Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine
+      therapy, with intakes in{" "}
+      <strong className="font-semibold text-ink">Mexico and Gabon</strong> — not
       an approved U.S. clinic treatment. Ibogaine is Schedule I in the U.S. and not approved for any
       indication. Availability abroad is not a guarantee of suitability, legality, or outcome.
       Educational only; not legal or medical advice.

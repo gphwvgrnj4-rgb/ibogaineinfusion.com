@@ -11,7 +11,7 @@ import { siteConfig } from "@/lib/site";
 export const metadata: Metadata = {
   title: "IV Ibogaine Infusion FAQ: Safety, Legality, Cost, Evidence",
   description:
-    "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, treatment location (shared after screening), cost, conditions, and how to apply.",
+    "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, intake locations (Mexico and Gabon), cost, conditions, and how to apply.",
   alternates: { canonical: "/faq" },
 };
 
@@ -66,11 +66,11 @@ const faqs = [
   },
   {
     q: "Where is treatment offered?",
-    a: "Physician-supervised IV ibogaine infusion programs discussed on this site share the treatment location after screening. That is not the same as approved care in the United States. Ibogaine remains Schedule I federally and is not approved for any indication. Foreign availability is not legal advice, not a guarantee you will qualify, and not a prediction of benefit or safety. See /safety-and-screening and /blog/is-ibogaine-legal-us (educational only).",
+    a: "Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine therapy, with waitlist intakes at two locations: Mexico and Gabon. That is not the same as approved care in the United States. Ibogaine remains Schedule I federally and is not approved for any indication. Foreign availability is not legal advice, not a guarantee you will qualify, and not a prediction of benefit or safety. See /safety-and-screening and /blog/is-ibogaine-legal-us (educational only).",
   },
   {
-    q: "What does “treatment location shared after screening” mean?",
-    a: "It means physician-supervised IV ibogaine infusion programs discussed here may be offered now, while logistics, staffing, and program details can still evolve. The specific treatment location is shared after screening. That is not U.S. regulatory approval, not a guarantee of admission or legality for any traveler, and not a prediction of benefit or safety. A confidential application and medical screening are the correct next steps for current facts.",
+    q: "What does “waitlist intake” for Mexico and Gabon mean?",
+    a: "It means our clinic is accepting waitlist applications for IV ibogaine infusion at two locations, Mexico and Gabon, and admits patients in small, physician-screened groups. You can state a preferred location when you apply; logistics, staffing, and program details can still evolve. That is not U.S. regulatory approval, not a guarantee of admission or legality for any traveler, and not a prediction of benefit or safety. A confidential application and medical screening are the correct next steps for current facts.",
   },
   {
     q: "Does ibogaine cure addiction?",
@@ -110,7 +110,7 @@ export default function FaqPage() {
         "@type": "MedicalWebPage",
         name: "IV Ibogaine Infusion FAQ",
         url: `${siteConfig.url}/faq`,
-        description: "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, treatment location (shared after screening), cost, conditions, and how to apply.",
+        description: "FAQ on IV ibogaine infusion: definition, oral-vs-IV evidence gap, QTc/cardiac screening, legality, intake locations (Mexico and Gabon), cost, conditions, and how to apply.",
       },
       faqPage(faqs),
       breadcrumbList([

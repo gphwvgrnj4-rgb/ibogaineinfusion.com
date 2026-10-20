@@ -45,9 +45,9 @@ export default function PtsdPage() {
           </p>
           <Disclaimer className="mt-8" />
           <p className="mt-6 text-sm leading-relaxed text-ink/75">
-            Programs discussed on this site for physician-supervised IV ibogaine infusion share the{" "}
-            <strong className="text-ink">treatment location after screening</strong> — not an
-            approved U.S. clinic treatment. Educational only; not legal advice.
+            Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine
+            therapy, with intakes in <strong className="text-ink">Mexico and Gabon</strong> — not an
+            approved U.S. clinic treatment. Educational information; not legal advice.
           </p>
         </Container>
       </section>
@@ -146,18 +146,18 @@ export default function PtsdPage() {
           <h2>If you are in crisis</h2>
           <p>
             If you are in immediate danger or acute psychiatric crisis, contact local emergency
-            services or crisis resources. A marketing site inquiry form is not crisis care.
+            services or crisis resources. A website application form is not crisis care.
           </p>
 
           <p>
             Continue with <Link href="/how-it-works">how it works</Link>,{" "}
             <Link href="/ibogaine-for-depression">depression overlap</Link>,{" "}
             <Link href="/ibogaine-for-addiction">addiction co-occurrence</Link>, and{" "}
-            <Link href="/apply">confidential inquiry</Link>.
+            <Link href="/apply">confidential application</Link>.
           </p>
         </Container>
       </section>
-      <CTASection title="Confidential PTSD-related inquiry" />
+      <CTASection title="Confidential PTSD-related application" />
     </>
   );
 }

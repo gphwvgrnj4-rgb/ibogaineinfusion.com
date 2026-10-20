@@ -45,9 +45,9 @@ export default function AddictionPage() {
           </p>
           <Disclaimer className="mt-8" />
           <p className="mt-6 text-sm leading-relaxed text-ink/75">
-            Programs discussed on this site for physician-supervised IV ibogaine infusion share the{" "}
-            <strong className="text-ink">treatment location after screening</strong> — not an
-            approved U.S. clinic treatment. Educational only; not legal advice.
+            Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine
+            therapy, with intakes in <strong className="text-ink">Mexico and Gabon</strong> — not an
+            approved U.S. clinic treatment. Educational information; not legal advice.
           </p>
         </Container>
       </section>
@@ -155,11 +155,11 @@ export default function AddictionPage() {
             <Link href="/what-is-ibogaine-infusion">what infusion means</Link>, compare cost
             transparency on{" "}
             <Link href="/blog/cost-of-ibogaine-treatment">cost of treatment</Link>, then{" "}
-            <Link href="/apply">submit a confidential inquiry</Link>.
+            <Link href="/apply">start a confidential application</Link>.
           </p>
         </Container>
       </section>
-      <CTASection title="Inquire about addiction-focused screening" />
+      <CTASection title="Apply for addiction-focused screening" />
     </>
   );
 }

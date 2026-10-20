@@ -68,9 +68,9 @@ export default function DepressionPage() {
           </p>
           <Disclaimer className="mt-8" />
           <p className="mt-6 text-sm leading-relaxed text-ink/75">
-            Programs discussed on this site for physician-supervised IV ibogaine infusion share the{" "}
-            <strong className="text-ink">treatment location after screening</strong> — not an
-            approved U.S. clinic treatment. Educational only; not legal advice.
+            Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine
+            therapy, with intakes in <strong className="text-ink">Mexico and Gabon</strong> — not an
+            approved U.S. clinic treatment. Educational information; not legal advice.
           </p>
         </Container>
       </section>
@@ -82,7 +82,7 @@ export default function DepressionPage() {
             If you are living with depression, continuity with qualified clinicians comes first.
             Exploring ibogaine as an educational topic should not interrupt medications abruptly or
             replace urgent mental-health care. Active suicidal crisis requires emergency and
-            psychiatric pathways — not an inquiry form.
+            psychiatric pathways — not a waitlist form.
           </p>
 
           <h2>What we can responsibly say</h2>
@@ -173,9 +173,9 @@ export default function DepressionPage() {
 
           <h2>Where IV ibogaine infusion programs take place</h2>
           <p>
-            Because ibogaine is Schedule I in the U.S., physician-supervised programs are run outside
-            the country. Intake locations named by programs include <strong>Mexico</strong> and{" "}
-            <strong>Gabon</strong>, and the exact location is shared after screening. Location does
+            Because ibogaine is Schedule I in the U.S., our physician-supervised infusions take place
+            outside the country, with waitlist intakes at two locations: <strong>Mexico</strong> and{" "}
+            <strong>Gabon</strong>. You choose a preferred location when you apply. Location does
             not change the medical rules: cardiac screening, continuous ECG monitoring, emergency
             capability and an aftercare plan with your home clinicians should all be in place. See{" "}
             <Link href="/blog/how-to-choose-an-ibogaine-clinic">how to choose an ibogaine clinic</Link>{" "}
@@ -188,7 +188,7 @@ export default function DepressionPage() {
             That early shift is not the same as lasting remission, and the research cannot yet say how
             often it lasts or for whom. Integration matters: keep your therapist, keep your
             psychiatrist informed, and have a safety plan. If you are in crisis or thinking about
-            suicide, contact emergency services or a crisis line now. An inquiry form is not the right
+            suicide, contact emergency services or a crisis line now. A waitlist form is not the right
             place.
           </p>
 
@@ -270,7 +270,7 @@ export default function DepressionPage() {
           <p>
             Continue with <Link href="/safety-and-screening">safety &amp; screening</Link>,{" "}
             <Link href="/what-is-ibogaine-infusion">what infusion means</Link>, and{" "}
-            <Link href="/apply">confidential inquiry</Link>.
+            <Link href="/apply">confidential application</Link>.
           </p>
         </Container>
       </section>

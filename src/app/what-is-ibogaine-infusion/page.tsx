@@ -143,9 +143,8 @@ export default function WhatIsPage() {
               approved for detoxification, depression, PTSD, or any other indication.
             </li>
             <li>
-              Physician-supervised IV ibogaine infusion programs{" "}
-              <strong>discussed on this site</strong> are{" "}
-              <strong>treatment location shared after screening</strong>. That is not approved U.S.
+              Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine
+              therapy, with intakes at <strong>two locations: Mexico and Gabon</strong>. That is not approved U.S.
               clinic care. “Available abroad” ≠ approved medicine, uniform specialty regulation, or
               a guarantee of suitability or outcome. Not legal advice.
             </li>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "/safety-and-screening" },
   title: "Safety and Screening — Cardiac Risk & QTc",
   description:
-    "Ibogaine can prolong QTc and raise arrhythmia risk. Cardiac screening, ECG, electrolytes, continuous monitoring for IV ibogaine infusion. Treatment location shared after screening; Not an approved U.S. clinic.",
+    "Ibogaine can prolong QTc and raise arrhythmia risk. Cardiac screening, ECG, electrolytes, continuous monitoring for IV ibogaine infusion. Intakes in Mexico and Gabon; not an approved U.S. clinic.",
 };
 
 export default function SafetyPage() {
@@ -56,7 +56,7 @@ export default function SafetyPage() {
             Deaths associated with ibogaine in non-medical and medical-adjacent settings have been
             reported, with cardiac mechanisms — particularly arrhythmias preceded by QT prolongation —
             frequently discussed. This page is the trust home for safety questions across condition pages
-            and inquiry conversations on this site.
+            and every application to our clinic.
           </p>
           <p>
             <strong>Evidence gap:</strong> Much of the best-known QTc literature (e.g., Knuijver et
@@ -154,7 +154,7 @@ export default function SafetyPage() {
           </ul>
         </Container>
       </section>
-      <CTASection title="Request a screening-first conversation" />
+      <CTASection title="Request a physician screening conversation" />
     </>
   );
 }

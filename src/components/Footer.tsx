@@ -23,7 +23,7 @@ export function Footer() {
             Screening first. Conversation after.
           </h2>
           <p className="mx-auto mt-6 max-w-xl text-base leading-relaxed text-cream/60 sm:text-lg">
-            Begin with a confidential application. Treatment location is shared after screening —
+            Begin with a confidential application. Waitlist intakes in Mexico and Gabon —
             not an approved U.S. clinic pathway.
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">
@@ -65,10 +65,10 @@ export function Footer() {
               </a>
             </p>
             <p className="mt-8 max-w-md text-xs leading-relaxed text-cream/40">
-              Educational and inquiry content only. No cure claims. Ibogaine involves significant
-              medical risk, including cardiac risk. Screening is required. Physician-supervised IV
-              ibogaine infusion programs discussed here share the treatment location after screening —
-              not an approved U.S. clinic treatment. Schedule I / not approved for any indication in
+              A clinic dedicated exclusively to intravenous (IV) ibogaine therapy. Site content is
+              educational, not medical advice. No cure claims. Ibogaine involves significant medical
+              risk, including cardiac risk. Every patient is screened by a physician first. Intakes in
+              Mexico and Gabon — not an approved U.S. clinic treatment. Schedule I / not approved for any indication in
               the U.S. Not legal or medical advice.
             </p>
           </div>
@@ -124,7 +124,7 @@ export function Footer() {
       <div className="relative border-t border-cream/10">
         <Container className="flex flex-col gap-2 py-6 text-[0.68rem] uppercase tracking-[0.16em] text-cream/35 sm:flex-row sm:justify-between">
           <p>© {new Date().getFullYear()} Ibogaine Infusion</p>
-          <p data-locations>Now accepting waitlist intakes for two locations: Mexico and Gabon. Screening-first.</p>
+          <p data-locations>Now accepting waitlist intakes for two locations: Mexico and Gabon. Physician screening first.</p>
         </Container>
       </div>
     </footer>

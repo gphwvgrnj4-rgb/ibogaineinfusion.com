@@ -12,7 +12,7 @@ import { siteConfig } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Confidential Application | IV Ibogaine Infusion Screening",
   description:
-    "Start a confidential multi-step application for physician-supervised IV ibogaine infusion screening. Medical intake, readiness review, and discovery — treatment location shared after screening.",
+    "Apply to Ibogaine Infusion, a clinic dedicated exclusively to IV ibogaine therapy. Confidential physician screening, medical intake and readiness review; waitlist intakes in Mexico and Gabon.",
   alternates: { canonical: "/apply" },
 };
 
@@ -35,7 +35,7 @@ const faqs = [
   },
   {
     q: "Where is treatment available?",
-    a: "Physician-supervised IV ibogaine infusion programs discussed on this site share the treatment location after screening. This is not an approved U.S. clinic pathway, not automatic admission, and not a promise of legality, travel clearance, or outcome. Ibogaine is Schedule I in the United States. Screening and cardiac monitoring remain mandatory.",
+    a: "Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine therapy, with waitlist intakes at two locations: Mexico and Gabon. You choose a preferred location when you apply. This is not an approved U.S. clinic pathway, not automatic admission, and not a promise of legality, travel clearance, or outcome. Ibogaine is Schedule I in the United States. Screening and cardiac monitoring remain mandatory.",
   },
 ];
 
@@ -48,7 +48,7 @@ export default function ApplyPage() {
         name: "Confidential Application | IV Ibogaine Infusion Screening",
         url: `${siteConfig.url}/apply`,
         description:
-          "Start a confidential multi-step application for physician-supervised IV ibogaine infusion screening. Medical intake, readiness review, and discovery — treatment location shared after screening.",
+          "Apply to Ibogaine Infusion, a clinic dedicated exclusively to IV ibogaine therapy. Confidential physician screening, medical intake and readiness review; waitlist intakes in Mexico and Gabon.",
       },
       faqPage(faqs),
       breadcrumbList([
@@ -108,7 +108,7 @@ export default function ApplyPage() {
                 <strong className="text-ink">No cure claims</strong> for addiction, depression, or PTSD.
               </li>
               <li>
-                <strong className="text-ink">Treatment location shared after screening.</strong> Not an approved U.S. clinic; screening required.
+                <strong className="text-ink">Intakes in Mexico and Gabon.</strong> Not an approved U.S. clinic; physician screening required.
               </li>
             </ul>
 

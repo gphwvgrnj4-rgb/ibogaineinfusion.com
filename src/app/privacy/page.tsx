@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "/privacy" },
   title: "Privacy Policy",
   description:
-    "Privacy policy for Ibogaine Infusion: application form data (contact and health/substance answers), screening purpose, retention, clinical partners, and international transfer.",
+    "Privacy policy for Ibogaine Infusion: application form data (contact and health/substance answers), screening purpose, retention, clinical teams and contracted providers, and international transfer.",
 };
 
 export default function PrivacyPage() {
@@ -21,8 +21,8 @@ export default function PrivacyPage() {
         <h2>1. Overview</h2>
         <p>
           This Privacy Policy describes how ibogaineinfusion.com (the “Site”) handles information
-          when you browse the Site or submit a confidential inquiry / multi-step application. The
-          Site is educational and inquiry-oriented. <strong>It does not provide medical advice</strong>,
+          when you browse the Site or submit a confidential waitlist form / multi-step application. The
+          Site is the website of a clinic dedicated exclusively to IV ibogaine therapy; its content is educational. <strong>It does not provide medical advice</strong>,
           diagnosis, or treatment, and submitting a form does not create a physician–patient
           relationship or guarantee eligibility.
         </p>
@@ -66,9 +66,9 @@ export default function PrivacyPage() {
         <h2>3. Purpose of processing</h2>
         <p>We use this information to:</p>
         <ul>
-          <li>Respond to confidential screening / inquiry requests</li>
+          <li>Respond to confidential screening / waitlist requests</li>
           <li>Assess medical and readiness signals for a possible discovery conversation</li>
-          <li>Coordinate follow-up and, if appropriate, clinical partner screening</li>
+          <li>Coordinate follow-up and, if appropriate, physician screening with our clinical team</li>
           <li>Improve Site operations, prevent spam/abuse, and meet legal obligations</li>
         </ul>
         <p>
@@ -76,11 +76,11 @@ export default function PrivacyPage() {
           promise treatment outcomes.
         </p>
 
-        <h2>4. Sharing with clinical partners</h2>
+        <h2>4. Sharing with our clinical teams and providers</h2>
         <p>
-          Physician-supervised IV ibogaine infusion programs discussed on this Site share the{" "}
-          <strong>treatment location after screening</strong>. If you inquire about care, we may share
-          relevant application information with <strong>clinical partners or medical programs</strong>{" "}
+          Our physician-supervised IV ibogaine infusions take place at our{" "}
+          <strong>Mexico and Gabon intake locations</strong>. If you apply for care, we may share
+          relevant application information with <strong>our clinical teams at those locations and contracted medical providers</strong>{" "}
           (and their support vendors under contract) for screening and coordination — only as needed
           for that purpose. We do not sell your personal information.
         </p>
@@ -88,14 +88,14 @@ export default function PrivacyPage() {
         <h2>5. International transfers</h2>
         <p>
           Submitting an application may involve <strong>international transfer</strong> of contact
-          and health-related data to partners, processors, or systems in various countries. Those
+          and health-related data to our clinical teams, contracted providers, processors, or systems in various countries. Those
           jurisdictions may have different data-protection laws than your home country. By submitting
-          the form, you acknowledge this transfer may occur for screening and inquiry follow-up.
+          the form, you acknowledge this transfer may occur for screening and application follow-up.
         </p>
 
         <h2>6. Retention</h2>
         <p>
-          We retain inquiry and application records for as long as reasonably necessary to complete
+          We retain waitlist and application records for as long as reasonably necessary to complete
           screening follow-up, maintain operational records, resolve disputes, and meet legal or
           security requirements, then delete or de-identify them when no longer needed — unless a
           longer period is required by law or a legitimate clinical-coordination need. Exact
@@ -128,14 +128,14 @@ export default function PrivacyPage() {
         <h2>10. Children</h2>
         <p>
           The Site is not directed to children under 18 (and not to anyone under 21 for
-          treatment-related inquiry). Do not submit application data for a minor except where a
-          lawful guardian process is explicitly offered and required by a clinical partner.
+          treatment-related applications). Do not submit application data for a minor except where a
+          lawful guardian process is explicitly offered and required by our clinic.
         </p>
 
         <h2>11. Security</h2>
         <p>
           We use reasonable administrative and technical measures appropriate to the sensitivity of
-          inquiry data. No method of transmission or storage is perfectly secure.
+          application data. No method of transmission or storage is perfectly secure.
         </p>
 
         <h2>12. Not medical advice</h2>

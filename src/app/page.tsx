@@ -13,7 +13,7 @@ import { faqPage, organizationAndWebsite } from "@/lib/schema";
 export const metadata: Metadata = {
   title: "IV Ibogaine Infusion | Physician-Supervised Medical Care",
   description:
-    "A clinic dedicated exclusively to intravenous (IV) ibogaine therapy—physician-supervised, with cardiac screening and monitoring. Treatment location shared after screening. Honest education on evidence gaps, safety, and next steps.",
+    "A clinic dedicated exclusively to intravenous (IV) ibogaine therapy—physician-supervised, with cardiac screening and monitoring. Waitlist intakes in Mexico and Gabon. Honest education on evidence gaps, safety, and next steps.",
   alternates: { canonical: "/" },
 };
 
@@ -28,7 +28,7 @@ const homeFaqs = [
   },
   {
     q: "Where is treatment offered?",
-    a: "Physician-supervised IV ibogaine infusion programs discussed on this site share the treatment location after screening. That is not the same as approved care in the United States. Ibogaine remains Schedule I federally and is not approved for any indication. Foreign availability is not legal advice, not a guarantee you will qualify, and not a prediction of benefit or safety. See /safety-and-screening and /blog/is-ibogaine-legal-us (educational only).",
+    a: "Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine therapy, with waitlist intakes at two locations: Mexico and Gabon. That is not the same as approved care in the United States. Ibogaine remains Schedule I federally and is not approved for any indication. Foreign availability is not legal advice, not a guarantee you will qualify, and not a prediction of benefit or safety. See /safety-and-screening and /blog/is-ibogaine-legal-us (educational only).",
   },
   {
     q: "Is published research mostly oral?",
@@ -84,7 +84,7 @@ const funnel = [
   },
   {
     title: "Screen",
-    body: "ECG, labs as indicated, medication review, and physician go/no-go. Treatment location is shared only after screening.",
+    body: "ECG, labs as indicated, medication review, and physician go/no-go. Intakes are in Mexico and Gabon.",
     href: "/safety-and-screening",
   },
   {
@@ -307,7 +307,7 @@ export default function HomePage() {
             </h2>
             <p className="mt-6 text-base leading-relaxed text-cream/70 sm:text-lg">
               White-coat medical care — not hospitality theater. A monitored medical infusion setting where
-              continuous telemetry is non-negotiable. Treatment location is shared after screening.
+              continuous telemetry is non-negotiable. Intakes in Mexico and Gabon.
             </p>
             <Link href="/how-it-works" className="btn-ghost mt-10 !inline-flex">
               How the journey works
@@ -442,7 +442,7 @@ export default function HomePage() {
             <div className="divider-gold" />
             <p className="section-label mt-8 text-accent">The path</p>
             <h2 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl lg:text-[3.4rem]">
-              From inquiry to integration
+              From application to integration
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-cream/60">
               Each step is curated for safety and clarity — not urgency.
@@ -476,7 +476,7 @@ export default function HomePage() {
       <section className="border-y border-[var(--line)] bg-stone/40 py-10">
         <Container className="max-w-3xl text-center text-sm leading-relaxed text-muted">
           <strong className="font-medium text-forest">Educational notice:</strong> Information on this
-          site is for inquiry and education only. It is not medical advice, a diagnosis, or a promise
+          site is educational. It is not medical advice, a diagnosis, or a promise
           of cure or benefit. Ibogaine involves serious medical risks, including cardiac risk. Medical
           screening is essential. Always consult qualified clinicians. Not an approved U.S. clinic
           pathway.

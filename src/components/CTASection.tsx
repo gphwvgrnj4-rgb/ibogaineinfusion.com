@@ -3,7 +3,7 @@ import { Container } from "./Container";
 
 export function CTASection({
   title = "Request a private consultation",
-  body = "Screening comes before any treatment conversation. Treatment location is shared after screening. Not an approved U.S. clinic.",
+  body = "Every patient is screened by a physician before any treatment conversation. Waitlist intakes in Mexico and Gabon. Not an approved U.S. clinic.",
 }: {
   title?: string;
   body?: string;

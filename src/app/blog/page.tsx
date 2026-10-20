@@ -18,7 +18,7 @@ export default function BlogIndexPage() {
   return (
     <>
       <PageHero label="Journal" title="Insights">
-        Screening-first explainers for people comparing serious options — not psychedelic tourism content.
+        Evidence-first explainers from a clinic dedicated exclusively to IV ibogaine, for people comparing serious options — not psychedelic tourism content.
       </PageHero>
 
       <section className="bg-cream py-16 sm:py-20">
