@@ -569,7 +569,7 @@ Because ibogaine is not approved for any indication and is Schedule I in the U.S
 - Skip ECG if you “feel healthy”  
 - Bundled mystery substances  
 
-Blurred oral/IV language is a competitive failure mode—and a patient hazard.
+Blurred oral/IV language is a competitive failure mode—and a patient hazard. For a line-by-line look at what the intravenous route adds to a quote, see [IV vs oral ibogaine cost](/blog/iv-vs-oral-ibogaine-cost).
 
 ## Cost shape vs ketamine clinics
 
@@ -1080,7 +1080,7 @@ Changing from oral to intravenous delivery alters absorption timing, peak exposu
 2. **Refuse** “oral series → therefore IV works better/safer” leaps.  
 3. Treat **support IV** (especially magnesium) as a separate medical intervention from **psychoactive IV**.
 
-If a clinic cannot put those three points in writing, treat that as an evidence-honesty red flag (/blog/cheap-ibogaine-clinic-red-flags, /blog/how-to-choose-an-ibogaine-clinic).
+If a clinic cannot put those three points in writing, treat that as an evidence-honesty red flag (/blog/cheap-ibogaine-clinic-red-flags, /blog/how-to-choose-an-ibogaine-clinic). Route also changes what a program costs to run; see [what you're paying for with IV vs oral ibogaine](/blog/iv-vs-oral-ibogaine-cost).
 
 ## How a medical IV infusion journey is structured (entity, not literature claim)
 
@@ -1394,7 +1394,7 @@ If a vendor says ECG is “optional if you feel healthy,” treat that as a red 
 | Cherian et al., *Nature Medicine* 2024 | **Oral** ibogaine + **IV Mg** | Support electrolytes in a monitored protocol ≠ IV-ibogaine RCT |
 | Mosca et al. systematic review | Mixed / limited RCTs | Cardiotoxicity concerns recur across the clinical literature |
 
-**Bottom line:** Sparse controlled IV-psychoactive evidence is **not** a reason to skip ECG. It is a reason to be more conservative and transparent.
+**Bottom line:** Sparse controlled IV-psychoactive evidence is **not** a reason to skip ECG. It is a reason to be more conservative and transparent. To see how the ECG is used once an infusion starts, read [IV ibogaine safety and cardiac monitoring](/blog/iv-ibogaine-safety-cardiac-monitoring).
 
 ## Non-cardiac items that still belong beside the ECG checklist
 
@@ -2263,7 +2263,7 @@ Continuous ECG/telemetry, physician oversight, emergency preparedness, and writt
 | Naloxone / overdose education | Harm reduction | Essential regardless of pathway |
 | IV ibogaine infusion (this site’s entity) | Investigational interest under physician supervision | Sparse controlled IV psychoactive evidence; Schedule I / not approved for any indication |
 
-Ibogaine is **not** an approved methadone or Suboxone substitute. Decisions about pausing or tapering MOUD belong with qualified clinicians—not blog copy. Comparisons: /blog/ibogaine-vs-methadone and /blog/ibogaine-vs-suboxone.
+Ibogaine is **not** an approved methadone or Suboxone substitute. Decisions about pausing or tapering MOUD belong with qualified clinicians—not blog copy. Our guide to [IV ibogaine for opioid and fentanyl detox](/blog/iv-ibogaine-opioid-fentanyl-detox) explains the screening and physician-managed transition steps. Comparisons: /blog/ibogaine-vs-methadone and /blog/ibogaine-vs-suboxone.
 
 ## What a physician-supervised IV journey looks like (education, not a promise)
 
@@ -3894,7 +3894,7 @@ For Ibogaine Infusion's own IV program:
 | Oral papers prove IV infusion efficacy | **No** |
 | Cure guaranteed because "medical abroad" | **No** |
 
-Travel raises separate legal, immigration, insurance, and emergency-care questions this page does not advise on. Consult qualified counsel for personal legal questions.
+Travel raises separate legal, immigration, insurance, and emergency-care questions this page does not advise on. Consult qualified counsel for personal legal questions. For how our own process works, see [how waitlist intake works for IV ibogaine in Mexico and Gabon](/blog/iv-ibogaine-mexico-gabon-intake).
 
 ## Medical IV program signals (educational checklist)
 
@@ -5141,7 +5141,7 @@ Aftercare honesty: /blog/ibogaine-aftercare-integration · Medical vs tourism: /
 
 ## Cardiac reality does not respect gate numbers
 
-Ibogaine’s dominant medical risk narrative is **QTc prolongation** / arrhythmia concern. Continuous monitoring during the high-risk dosing window is necessary—but discharge planning still matters.
+Ibogaine’s dominant medical risk narrative is **QTc prolongation** / arrhythmia concern. Continuous monitoring during the high-risk dosing window is necessary—but discharge planning still matters. If you are planning travel to one of our intake locations, read [how IV ibogaine waitlist intake works in Mexico and Gabon](/blog/iv-ibogaine-mexico-gabon-intake) before booking flights.
 
 Before you fly, ask in writing:
 
@@ -8376,7 +8376,7 @@ Even when acute withdrawal symptoms lessen, **opioid use disorder** (and other s
 
 ## Precipitated withdrawal and medication transitions (caution)
 
-People on methadone or buprenorphine sometimes ask whether to stop abruptly to “qualify” for ibogaine. Abrupt transitions can be medically dangerous. Timing, precipitated withdrawal risk, and cardiac medication interactions belong with licensed clinicians—not forum schedules. This page provides **no** transition protocol.
+People on methadone or buprenorphine sometimes ask whether to stop abruptly to “qualify” for ibogaine. Abrupt transitions can be medically dangerous. See [screening, transition and risks for opioid and fentanyl users](/blog/iv-ibogaine-opioid-fentanyl-detox) for why that step must be physician-planned. Timing, precipitated withdrawal risk, and cardiac medication interactions belong with licensed clinicians—not forum schedules. This page provides **no** transition protocol.
 
 
 ## Alcohol and stimulant withdrawal note
@@ -9795,7 +9795,7 @@ Pillar: /safety-and-screening · Mortality context: /blog/ibogaine-mortality-car
 - What QTc threshold triggers hold, treat, or transfer decisions  
 - How electrolytes are rechecked if vomiting persists  
 
-A brochure saying “medical supervision” without telemetry duration is incomplete.
+A brochure saying “medical supervision” without telemetry duration is incomplete. For a plain-language walkthrough of what happens before, during and after dosing, see [how cardiac monitoring works during an IV ibogaine infusion](/blog/iv-ibogaine-safety-cardiac-monitoring).
 
 
 ## ACLS readiness: the minutes that matter
@@ -16241,7 +16241,402 @@ Educational research synopsis only—not medical, psychiatric, or legal advice, 
 
 Schenberg’s oral supervised observational stimulant series is not a cure claim and not psychoactive IV ibogaine infusion proof.
 `,
-  }
+  },
+  {
+    slug: "iv-ibogaine-safety-cardiac-monitoring",
+    title: "IV Ibogaine Safety: How Cardiac Monitoring Works During an Infusion",
+    description:
+      "How cardiac monitoring works during IV ibogaine: baseline ECG, continuous telemetry, titration and stop rules. QTc risk explained; no controlled IV trials yet.",
+    date: "2026-10-24",
+    readTime: "6 min",
+    content: `
+## Definition
+
+**Definition:** **Cardiac monitoring during an IV ibogaine infusion** means continuous, physician-supervised ECG observation (telemetry) from before the psychoactive dose starts until well after it ends, with trained staff, emergency equipment and written stop rules in the room. Ibogaine Infusion is a clinic dedicated exclusively to IV ibogaine therapy, so monitoring is not an add-on here; it is the reason the route exists. **Evidence gap:** Most published ibogaine research used **oral** ibogaine HCl, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine can prolong the QTc interval. It is a U.S. Schedule I substance and is not approved for any indication.
+
+## Short answer
+
+Ibogaine can delay the heart's electrical recovery (QTc prolongation), which can trigger dangerous arrhythmias such as torsades de pointes. During an IV infusion, a baseline 12-lead ECG, continuous telemetry, electrolyte checks and a physician watching the trace allow the dose to be given in small increments and slowed or stopped. That control does not remove cardiac risk, and IV safety has not been tested in controlled trials.
+
+## Why the heart is the central safety question
+
+The QT interval on an ECG reflects how long the heart's ventricles take to recover between beats. Corrected for heart rate, it is called **QTc**. When QTc stretches too far, the risk of **torsades de pointes**, a fast and unstable rhythm that can become fatal, rises.
+
+Ibogaine's effect on cardiac potassium channels (hERG) is the mechanism most often discussed for this delay. It is not theoretical. In the [Knuijver 2021 QTc study](/blog/knuijver-2021-ibogaine-qtc-safety), an open-label observational study of **oral** ibogaine in 14 opioid-dependent patients, half reached a QTc above 500 ms during observation. Deaths linked to ibogaine have been reported in non-medical and medical-adjacent settings, with arrhythmia frequently discussed as the mechanism. See our [review of ibogaine heart risks](/blog/ibogaine-cardiovascular-complications-review).
+
+That is why cardiac screening decides who can be treated, and why monitoring is never negotiable once treatment begins.
+
+## Before the infusion: screening that sets the baseline
+
+Monitoring works when the team knows what "normal" looks like for you. Screening themes on our [safety and screening](/safety-and-screening) page include:
+
+- A **baseline 12-lead ECG** with QTc read by a physician
+- **Electrolytes** such as potassium and magnesium, and kidney and liver labs as indicated
+- A **full medication and supplement list**, because many common drugs also prolong QTc (see [ibogaine drug interactions](/blog/ibogaine-drug-interactions-qtc))
+- Personal or family history of sudden death, fainting, long QT or cardiomyopathy
+- **Substance-use timing**, because withdrawal itself stresses the body
+- A psychiatric risk assessment and observation plan
+
+Some people are declined at this stage. That is the system working, not failing. Our [contraindications guide](/blog/ibogaine-contraindications) explains common reasons.
+
+## During the infusion: what monitoring actually looks like
+
+On this site, "IV ibogaine infusion" means the **psychoactive dose itself** is delivered intravenously, not oral ibogaine with a saline line. The [IV vs oral comparison](/iv-vs-oral) explains the difference in detail. In practical terms, a monitored infusion involves:
+
+1. **Continuous telemetry.** The ECG trace runs for the whole session, not as spot checks.
+2. **Physician supervision.** A physician, not a coordinator, owns go and no-go decisions and watches the QTc trend.
+3. **Small, titrated increments.** The dose is delivered gradually, guided by the ECG and clinical response.
+4. **Stop rules written in advance.** The team agrees beforehand what changes on the trace mean slowing, pausing or stopping.
+5. **Support IV, labeled separately.** Fluids, magnesium, potassium or anti-nausea medicine may run through the line as support. Support IV is not the treatment. See [support IV vs psychoactive IV](/blog/electrolytes-support-iv-vs-psychoactive-iv).
+6. **Emergency readiness.** Staff trained in advanced cardiac life support, a defibrillator, emergency medicines and a written transfer plan. See [telemetry and ACLS standards](/blog/ibogaine-telemetry-acls-monitoring).
+
+Our waitlist cohorts are small because every infusion has one-to-one cardiac monitoring.
+
+## Why IV allows more control, and what it does not prove
+
+Once an oral dose is swallowed, it cannot be taken back or reduced. Absorption also varies with the gut and with CYP2D6 metabolism, which differs from person to person (see [CYP2D6 and ibogaine](/blog/ibogaine-cyp2d6-metabolism)). An IV infusion can be slowed or stopped at any point while clinicians watch the ECG.
+
+That is a real practical difference. It is **not** evidence that IV ibogaine is safer overall. No controlled trial has compared cardiac outcomes between IV and oral ibogaine. The landmark papers people cite, including Knuijver 2021 and the Stanford-affiliated MISTIC study (Cherian et al., *Nature Medicine*, 2024), used oral ibogaine, in MISTIC's case alongside IV magnesium as support. Anyone who tells you IV ibogaine is "proven safe" is overstating the evidence.
+
+## After the infusion: why monitoring continues
+
+Cardiac risk does not end when the infusion stops. Ibogaine is metabolized in part to **noribogaine**, an active metabolite that remains in the body longer than the parent drug. Because of that, the heart rhythm is watched into recovery rather than switched off when dosing ends. Recovery observation usually includes:
+
+- Ongoing telemetry and repeat ECG review
+- Hydration and electrolyte management
+- Precautions for ataxia (unsteadiness) and falls
+- Psychiatric check-ins and clear criteria for escalating care
+
+Ask any program how long telemetry continues after dosing, and get the answer in writing.
+
+## Questions to ask about cardiac monitoring
+
+- Who reads my ECG, and what QTc findings would exclude me?
+- Is telemetry continuous for the whole session and recovery, and for how long?
+- Is a physician on site during the infusion?
+- Are ACLS-trained staff, a defibrillator and emergency medicines in the room?
+- What are the written stop rules for slowing or stopping the infusion?
+- What is the hospital transfer plan if something goes wrong?
+
+A program that cannot answer these clearly is not ready to give you a QTc-prolonging drug. More detail: [the ibogaine ECG checklist](/blog/ibogaine-ecg-checklist) and [what to expect from an IV ibogaine session](/blog/what-to-expect-iv-ibogaine-session). For how the route is defined, see [what IV ibogaine infusion is](/what-is-ibogaine-infusion).
+
+## FAQ
+
+### Is IV ibogaine safer for the heart than oral ibogaine?
+It has not been shown to be. IV delivery lets clinicians give the dose gradually and stop it while watching the ECG, but no controlled trial has compared cardiac safety between IV and oral ibogaine. Most published research used oral dosing.
+
+### What does cardiac monitoring during an ibogaine infusion involve?
+A baseline 12-lead ECG, continuous telemetry throughout the infusion and recovery, electrolyte checks, physician supervision, written stop rules, and ACLS-trained staff with a defibrillator and emergency medicines on hand.
+
+### Why does monitoring continue after the infusion ends?
+Ibogaine's active metabolite, noribogaine, stays in the body longer than ibogaine itself, so cardiac risk is not assumed to end with dosing. Observation and telemetry continue into recovery for that reason.
+
+### Can I be turned away because of my ECG?
+Yes. A prolonged QTc, certain heart conditions, interacting medications or electrolyte problems can make treatment unsafe. Being declined after screening protects you.
+
+## Medical disclaimer
+
+This is educational content, not medical or legal advice and not a promise of any outcome. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including torsades de pointes and death. Most published research used oral ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine is Schedule I in the United States and is not approved for any indication. Our IV ibogaine programs at our Mexico and Gabon intake locations are not approved U.S. clinics.
+
+## Next step
+
+Read [safety and screening](/safety-and-screening) to see what the cardiac work-up covers, then [apply confidentially](/apply) to start physician screening.
+`,
+  },
+  {
+    slug: "iv-vs-oral-ibogaine-cost",
+    title: "IV vs Oral Ibogaine Cost: What You're Paying For",
+    description:
+      "IV vs oral ibogaine cost: what drives the price (screening, telemetry, nursing, IV equipment), what not to pay extra for, and questions for an itemized quote.",
+    date: "2026-10-24",
+    readTime: "6 min",
+    content: `
+## Definition
+
+**Definition:** **IV vs oral ibogaine cost** compares what you are paying for in a program that delivers the psychoactive ibogaine dose intravenously with one that gives it by mouth. The ibogaine itself is usually a small part of either bill. Most of the cost is medical infrastructure: physician time, cardiac screening, continuous monitoring, nursing, emergency readiness and days of observation. Ibogaine Infusion is a clinic dedicated exclusively to IV ibogaine therapy. **Evidence gap:** Most published research used **oral** ibogaine, and there are no controlled trials of psychoactive IV ibogaine, so a higher price does not buy proven better outcomes. Ibogaine can prolong the QTc interval. It is Schedule I in the United States and is not approved for any indication.
+
+## Short answer
+
+IV ibogaine programs generally cost more to run than oral ones because they need IV equipment, infusion pumps, more nursing time and a physician actively titrating the dose against the ECG. What you are paying for is control and monitoring, not a proven better result. Compare programs line by line, and treat any low price that skips telemetry as a safety red flag.
+
+## Why the drug is not the main cost
+
+People often assume ibogaine pricing is about the substance. In medical programs it is mostly about people and equipment. A responsible program, whatever the route, pays for:
+
+- **Screening before arrival:** a 12-lead ECG with QTc, electrolytes, liver and kidney labs as indicated, a medication review and psychiatric history
+- **Physician oversight:** a physician who makes the go or no-go decision and is present during dosing
+- **Continuous cardiac telemetry** during dosing and recovery
+- **Emergency readiness:** ACLS-trained staff, a defibrillator, emergency medicines and a written hospital transfer plan
+- **Several days of stay:** stabilization, the session and recovery observation, plus lodging and meals
+- **Aftercare and integration planning** with clinicians at home
+
+Our [guide to the cost of ibogaine treatment](/blog/cost-of-ibogaine-treatment) covers these drivers in depth, including market-reported price bands. Those bands are educational context, not a quote from us.
+
+## What IV adds to the bill
+
+An IV infusion protocol needs things an oral protocol does not:
+
+| Cost line | IV infusion | Oral dosing |
+|-----------|-------------|-------------|
+| Psychoactive dose delivery | Prepared for intravenous use and given by infusion pump | Capsules or measured doses by mouth |
+| Clinical time during dosing | Physician and nurse titrating in small increments against the ECG | Observation after a dose that cannot be taken back |
+| Equipment | IV lines, pumps, consumables | Fewer dosing supplies |
+| Ability to adjust | Infusion can be slowed or stopped at any time | Once swallowed, the dose cannot be reduced |
+| Monitoring | Continuous telemetry required | Continuous telemetry should also be required |
+| Support IV | Fluids, magnesium or anti-nausea medicine as needed, labeled separately | Often used too, which is why "IV" in a brochure needs checking |
+
+The [IV vs oral comparison](/iv-vs-oral) explains the clinical reasoning behind these differences. The short version: IV gives clinicians more control while they watch the heart. It has not been shown in controlled trials to produce better or safer outcomes than oral dosing.
+
+## What you should not be paying extra for
+
+Some cost differences are not about medicine at all:
+
+- **Luxury amenities.** A villa or a spa menu does not shorten QTc risk. See [luxury retreat red flags](/blog/ibogaine-luxury-retreat-red-flags).
+- **"IV" that is really support IV.** Many programs give oral ibogaine and run fluids or magnesium through a line. That is support IV, not psychoactive IV. If a quote says "IV," ask in writing whether the psychoactive dose itself is intravenous. See [support IV vs psychoactive IV](/blog/electrolytes-support-iv-vs-psychoactive-iv).
+- **Outcome promises.** No price buys a guaranteed result. Programs quoting "success rates" are selling marketing, not medicine. See [how to read success rate claims](/blog/ibogaine-success-rate-claims).
+
+## Why a cheaper oral program can cost more
+
+A low price often means something was removed, and the lines most often removed are the expensive safety ones: the physician on site, continuous telemetry, staff ratios, or days of observation. With a drug that can prolong QTc, those are the layers that matter most. Our [cheap clinic red flags guide](/blog/cheap-ibogaine-clinic-red-flags) lists the patterns to watch for.
+
+The reverse is also true. A high price without written monitoring standards is not a safety guarantee. Price should track staffing and monitoring, not décor.
+
+## Insurance and hidden costs
+
+Because ibogaine is Schedule I in the United States and not approved for any indication, health insurance generally does not cover it, whichever route is used. Some parts of a work-up, such as an ECG ordered by your own doctor, may be billable separately. See [does insurance cover ibogaine](/blog/does-insurance-cover-ibogaine).
+
+Budget also for costs outside the program fee:
+
+- Travel to and from the intake location, including a companion if advised
+- Pre-arrival tests at home
+- Extra nights if you need longer observation
+- Integration therapy and follow-up care after you return (see [flying home after ibogaine](/blog/flying-home-after-ibogaine))
+
+## Questions to ask for an itemized quote
+
+1. Is the psychoactive dose delivered intravenously, or is IV used just for support alongside oral dosing?
+2. What exactly is included: screening tests, ECGs, telemetry hours, nights, meals, aftercare?
+3. Who supervises the infusion, and is a physician on site throughout?
+4. How long does continuous telemetry run after dosing?
+5. What happens to fees if screening finds you are not medically eligible?
+6. Is there a written emergency transfer plan, and who pays if it is used?
+
+See also [what a medical treatment package should include](/blog/ibogaine-treatment-package) and [what IV ibogaine infusion means](/what-is-ibogaine-infusion).
+
+## FAQ
+
+### Is IV ibogaine more expensive than oral ibogaine?
+Usually, because IV infusion needs pumps, IV supplies, more nursing time and a physician titrating the dose against the ECG. The added cost pays for control and monitoring, not for a proven better outcome.
+
+### Does a higher price mean better results?
+No. There are no controlled trials of psychoactive IV ibogaine, and no price buys a guaranteed outcome. Compare what is included, especially screening, telemetry and physician presence.
+
+### How can I tell if a program's "IV" is real?
+Ask in writing whether the psychoactive ibogaine dose is delivered intravenously. Many programs give oral ibogaine and use IV lines for fluids or magnesium, which is support IV, not IV ibogaine.
+
+### Does insurance cover IV or oral ibogaine?
+Generally no, for either route. Ibogaine is Schedule I in the United States and not approved for any indication. Some separate tests ordered by your own doctor may be billable.
+
+## Medical disclaimer
+
+This is educational content, not medical, financial or legal advice, and not a quote or a promise of any outcome. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including torsades de pointes and death. Most published research used oral ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine is Schedule I in the United States and is not approved for any indication. Our IV ibogaine programs at our Mexico and Gabon intake locations are not approved U.S. clinics.
+
+## Next step
+
+Read [safety and screening](/safety-and-screening) to understand what the medical work-up covers, then [apply confidentially](/apply) to start screening and receive program details for your situation.
+`,
+  },
+  {
+    slug: "iv-ibogaine-opioid-fentanyl-detox",
+    title: "IV Ibogaine for Opioid and Fentanyl Detox: Screening, Transition and Risks",
+    description:
+      "IV ibogaine for opioid and fentanyl detox: screening, physician-managed transition, QTc and overdose risks, and aftercare. Evidence is oral and observational.",
+    date: "2026-10-24",
+    readTime: "6 min",
+    content: `
+## Definition
+
+**Definition:** **IV ibogaine for opioid and fentanyl detox** refers to physician-supervised intravenous delivery of psychoactive ibogaine to people with opioid dependence, including fentanyl, after cardiac and medical screening and a planned transition off longer-acting opioids. Ibogaine Infusion is a clinic dedicated exclusively to IV ibogaine therapy. **Evidence gap:** The observational reports people cite on opioid withdrawal, such as Knuijver 2021, Mash 2018 and Brown and Alper 2018, used **oral** ibogaine. There are no controlled trials of psychoactive IV ibogaine for opioid or fentanyl use disorder. Ibogaine can prolong the QTc interval. It is Schedule I in the United States and is not approved for any indication.
+
+## Short answer
+
+Interest in ibogaine for opioid withdrawal comes from oral observational studies, not controlled IV trials. For fentanyl users, the hard parts are screening, a supervised transition off opioids that also affect the heart or linger in the body, continuous cardiac monitoring, and an aftercare plan for the high overdose risk that follows lost tolerance. Ibogaine is not a shortcut out of opioid use disorder.
+
+## Why fentanyl changed the conversation
+
+Fentanyl and its analogues made opioid withdrawal harder to predict and overdose far more common. People who have already tried detox, methadone or buprenorphine often search for ibogaine after hearing "reset" stories. Those stories are worth taking seriously as a sign of real distress, but they are not evidence.
+
+What the research actually contains:
+
+- **Open-label and observational series** using oral ibogaine HCl, such as the [Knuijver 2021 QTc study](/blog/knuijver-2021-ibogaine-qtc-safety), the [Mash 2018 detox series](/blog/mash-2018-ibogaine-detox-frontiers) and [Brown and Alper 2018](/blog/brown-alper-2018-ibogaine-oud), report reductions in withdrawal or use for some participants.
+- **No randomized controlled trials** of IV ibogaine for opioid or fentanyl dependence exist.
+- **Cardiac harm is documented.** In Knuijver 2021, half of 14 opioid-dependent patients on oral ibogaine reached a QTc above 500 ms.
+
+For more background, see our [ibogaine for fentanyl guide](/blog/ibogaine-for-fentanyl) and the [ibogaine for addiction overview](/ibogaine-for-addiction).
+
+## Screening: why opioid users need extra care
+
+Screening for anyone covers a baseline 12-lead ECG, electrolytes, labs, medication review and psychiatric history (see [safety and screening](/safety-and-screening)). For people using opioids, several extra issues come up:
+
+- **Polysubstance exposure.** The illicit supply is unpredictable and can contain other sedatives. Benzodiazepines, alcohol and stimulants all change risk. See [ibogaine and benzodiazepines](/blog/ibogaine-and-benzodiazepines).
+- **Methadone.** Methadone has a long half-life and can itself prolong QTc. Residual methadone combined with ibogaine is a serious cardiac concern. See [ibogaine vs methadone](/blog/ibogaine-vs-methadone).
+- **Other QTc-prolonging medicines.** Some antidepressants, antipsychotics, antibiotics and anti-nausea drugs add to QTc risk. See [ibogaine drug interactions](/blog/ibogaine-drug-interactions-qtc).
+- **Withdrawal stress.** Vomiting, diarrhea and poor intake can drop potassium and magnesium, which matters for heart rhythm.
+- **Honest use history.** Under-reporting use is dangerous here. Screening teams need accurate timing and amounts.
+
+## The transition phase
+
+Programs that work with opioid-dependent patients commonly discuss a **physician-managed transition** before any ibogaine dosing. The aim is to arrive with a stable, known opioid picture rather than residual long-acting opioids or an unpredictable mix.
+
+What that means in practice depends entirely on your situation and must be decided by physicians:
+
+- Someone on methadone may need a longer, supervised transition, coordinated with their prescriber.
+- Someone using illicit fentanyl may need a period of stabilization so the team knows what is in their system.
+- Someone on buprenorphine needs an individual plan as well.
+
+**Never stop or cut methadone, buprenorphine or any prescribed medicine on your own to prepare.** Abrupt changes raise overdose and withdrawal risk. Our [methadone taper literature summary](/blog/ibogaine-methadone-taper-literature) explains why this step is complex.
+
+## During the infusion: why IV is used
+
+On this site, IV ibogaine infusion means the psychoactive dose itself is intravenous, delivered in small increments under continuous ECG monitoring with a physician present. The infusion can be slowed or stopped. With an oral dose, once swallowed, it cannot be reduced. The [IV vs oral comparison](/iv-vs-oral) and [what IV ibogaine infusion is](/what-is-ibogaine-infusion) explain the route.
+
+That control is practical, not proven superiority. There are no controlled trials showing IV ibogaine eases opioid withdrawal more or causes fewer cardiac problems than oral ibogaine. For a session walkthrough, see [what to expect from an IV ibogaine session](/blog/what-to-expect-iv-ibogaine-session).
+
+## Risks to understand before you apply
+
+| Risk | Why it matters for opioid users |
+|------|---------------------------------|
+| QTc prolongation and arrhythmia | Can be fatal; risk adds up with methadone and other QT-prolonging drugs |
+| Return of withdrawal symptoms | Withdrawal relief reported in oral studies is not guaranteed and may not hold |
+| Ataxia and falls | Unsteadiness can last for hours after dosing |
+| Psychological intensity | The experience can be long and distressing |
+| **Overdose after treatment** | Tolerance can fall quickly. Using a previous dose afterwards can be fatal |
+
+The last row is the one people underestimate. Lost tolerance after any detox, with or without ibogaine, is a well-known overdose danger, and fentanyl leaves little margin for error.
+
+## Aftercare: where recovery actually happens
+
+Opioid use disorder is chronic and relapsing. Being "detoxed" is a starting point, not an endpoint. A responsible plan before treatment includes:
+
+- **Naloxone** in hand, and people around you who know how to use it
+- Ongoing counseling, peer support or residential care
+- Treatment for co-occurring depression, PTSD or pain
+- An honest conversation about evidence-based medication options, such as methadone, buprenorphine or extended-release naltrexone, if they fit your situation
+
+Some people decide during screening that staying on or returning to medication treatment is the safer path. That is a legitimate outcome. See [ibogaine vs Suboxone](/blog/ibogaine-vs-suboxone), [ibogaine withdrawal vs detox](/blog/ibogaine-withdrawal-vs-detox) and [aftercare and integration](/blog/ibogaine-aftercare-integration).
+
+## FAQ
+
+### Is there evidence for IV ibogaine for fentanyl detox?
+Not from controlled trials. The withdrawal findings people cite come from observational studies of oral ibogaine, mostly in people using opioids generally. There are no controlled trials of psychoactive IV ibogaine for opioid or fentanyl use disorder.
+
+### Do I have to stop opioids before IV ibogaine?
+Programs commonly discuss a physician-managed transition before dosing, especially from methadone. A physician must plan it. Never stop or reduce methadone, buprenorphine or other prescribed medicine on your own.
+
+### Why is methadone a particular concern?
+Methadone stays in the body a long time and can itself prolong QTc. Combined with ibogaine, which also prolongs QTc, that adds to cardiac risk, so screening and transition planning are especially careful.
+
+### What is the biggest risk after treatment?
+Overdose. Tolerance can drop quickly, and using a previous amount of opioids afterwards can be fatal. Carry naloxone and have an aftercare plan in place before treatment.
+
+## Medical disclaimer
+
+This is educational content, not medical or legal advice and not a promise of any outcome. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including torsades de pointes and death. Most published research used oral ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine is Schedule I in the United States and is not approved for any indication. Our IV ibogaine programs at our Mexico and Gabon intake locations are not approved U.S. clinics. If you are in withdrawal or at risk of overdose now, contact emergency services.
+
+## Next step
+
+Read [safety and screening](/safety-and-screening) for the ECG, medication and transition questions, then [apply confidentially](/apply) so a physician can review your history.
+`,
+  },
+  {
+    slug: "iv-ibogaine-mexico-gabon-intake",
+    title: "IV Ibogaine in Mexico and Gabon: How Waitlist Intake Works",
+    description:
+      "How waitlist intake works for IV ibogaine in Mexico and Gabon: apply, confidential consult, cardiac screening, physician decision, small cohorts and travel planning.",
+    date: "2026-10-24",
+    readTime: "6 min",
+    content: `
+## Definition
+
+**Definition:** **IV ibogaine waitlist intake in Mexico and Gabon** is the process Ibogaine Infusion, a clinic dedicated exclusively to IV ibogaine therapy, uses to move people from initial inquiry to a physician-screened treatment date at one of its two intake locations, Mexico or Gabon. Joining the waitlist is not admission. Every place depends on medical screening and a physician's go or no-go decision. **Evidence gap:** Most published ibogaine research used **oral** ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine can prolong the QTc interval. It is Schedule I in the United States and is not approved for any indication. Our programs abroad are not approved U.S. clinics.
+
+## Short answer
+
+You join the waitlist with your name, email and WhatsApp, or complete the full confidential application and choose Mexico or Gabon as your preferred location. Intake opens in small, physician-screened cohorts because every infusion has one-to-one cardiac monitoring. Screening, including ECG and medication review, comes before any date is confirmed, and some applicants are declined for safety reasons.
+
+## Why treatment happens outside the United States
+
+Ibogaine is Schedule I under U.S. federal law and is not approved for any indication, so it is not available as a U.S. clinic treatment. Research interest in the United States, including state-funded research proposals, is about future trials, not walk-in access. See [is ibogaine legal in the US](/blog/is-ibogaine-legal-us) and [Texas ibogaine clinical trials](/blog/texas-ibogaine-clinical-trials).
+
+Our IV ibogaine infusions take place at our intake locations in **Mexico** and **Gabon**. Treatment abroad is not the same as regulatory approval, and rules differ by country. Nothing on this page is legal advice. If you have questions about travel, controlled substances or your own legal situation, speak to a lawyer in your jurisdiction.
+
+## Two locations, one medical standard
+
+Mexico and Gabon are very different places to travel to, but the medical model is meant to be the same at both:
+
+- The psychoactive ibogaine dose is delivered **intravenously**, not by mouth. See [what IV ibogaine infusion is](/what-is-ibogaine-infusion) and the [IV vs oral comparison](/iv-vs-oral).
+- A physician owns the go or no-go decision and supervises the infusion.
+- Continuous cardiac telemetry runs during the infusion and recovery.
+- Emergency equipment, trained staff and a written transfer plan are in place.
+- Integration and aftercare planning start before you travel.
+
+Gabon has a long traditional and ceremonial history with *Tabernanthe iboga*, the plant ibogaine is historically associated with. Our program there is a medical IV infusion model, not a ceremony or retreat. The difference matters, and our guide to [medical ibogaine programs vs tourism](/blog/medical-ibogaine-programs-vs-tourism) explains why.
+
+Which location suits you is something to discuss during intake. Practical factors include travel time, flights, your companion's availability and how you will get home safely afterward.
+
+## How waitlist intake works, step by step
+
+1. **Join the waitlist or apply.** The short form asks for your name, email and WhatsApp. The [full application](/apply) collects more detail and lets you choose a preferred location. You do not need an ECG file to submit; reports can be collected later.
+2. **Confidential consult.** A conversation about substance use, psychiatric and cardiac history, current medicines, goals and logistics. No outcome is promised.
+3. **Medical and cardiac screening.** A baseline 12-lead ECG with QTc, electrolytes, labs as indicated, a full medication and supplement review and a psychiatric assessment. See [safety and screening](/safety-and-screening) and [preparing for ibogaine screening](/blog/preparing-for-ibogaine-screening).
+4. **Physician decision.** A physician, not a sales coordinator, decides whether treatment is medically appropriate. Some people are declined, and that protects them.
+5. **Cohort placement.** If cleared, you are offered a place in an upcoming cohort at your chosen location. Cohorts are small because each infusion has one-to-one cardiac monitoring.
+6. **Preparation.** Medication transitions planned by physicians, travel planning and an aftercare plan for when you return.
+7. **Treatment and recovery observation** at the intake location, followed by integration support.
+
+Waitlist position does not override screening. No cohort place is offered before medical clearance.
+
+## What waitlist intake is not
+
+- **Not admission.** Submitting a form starts screening; it does not reserve treatment.
+- **Not a promise of a date.** Cohort timing depends on screening and capacity.
+- **Not a promise of results.** We make no outcome guarantees for addiction, depression or PTSD.
+- **Not an approved U.S. clinic pathway,** and not a guarantee of legality or travel clearance.
+
+## Planning travel around treatment
+
+Treatment is not a single day. Plan for screening steps at home, travel to Mexico or Gabon, the stay itself and the journey home. Some practical points:
+
+- Bring a complete, accurate list of every medicine and supplement you take.
+- Do not change prescribed medicines on your own to prepare. Methadone and other opioids need physician-planned transitions. See [IV ibogaine for opioid and fentanyl detox](/blog/iv-ibogaine-opioid-fentanyl-detox).
+- Arrange a companion if advised, and plan rest after you get home.
+- Read [flying home after ibogaine](/blog/flying-home-after-ibogaine) and the [family guide to ibogaine treatment](/blog/family-guide-ibogaine-treatment).
+
+For a breakdown of time, see [how long ibogaine treatment takes](/blog/ibogaine-program-duration). For cost drivers, see [IV vs oral ibogaine cost](/blog/iv-vs-oral-ibogaine-cost).
+
+## FAQ
+
+### Where does Ibogaine Infusion provide IV ibogaine?
+At two waitlist intake locations, Mexico and Gabon. Ibogaine is Schedule I in the United States and is not approved for any indication, and our programs abroad are not approved U.S. clinics.
+
+### Does joining the waitlist guarantee treatment?
+No. Joining starts confidential intake and screening. A place in a cohort is offered after a physician reviews your ECG, labs, medicines and history and decides treatment is medically appropriate.
+
+### Can I choose between Mexico and Gabon?
+Yes. You choose a preferred location when you apply. The medical model, including IV delivery and continuous cardiac monitoring, is designed to be the same at both.
+
+### Do I need an ECG before I apply?
+No. You can submit the application without an ECG file. Expect ECG and lab screening before any infusion is cleared.
+
+## Medical disclaimer
+
+This is educational content, not medical, legal or travel advice and not a promise of any outcome. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including torsades de pointes and death. Most published research used oral ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine is Schedule I in the United States and is not approved for any indication. Our IV ibogaine programs at our Mexico and Gabon intake locations are not approved U.S. clinics.
+
+## Next step
+
+Read [safety and screening](/safety-and-screening) to see what the medical work-up involves, then [apply confidentially](/apply) and choose your preferred location.
+`,
+  },
 ];
 
 export function getPost(slug: string): BlogPost | undefined {
