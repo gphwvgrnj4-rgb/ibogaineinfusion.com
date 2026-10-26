@@ -1028,7 +1028,11 @@ Educational comparison only—not medical, legal, or travel advice. Both domains
       "Ibogaine oral vs IV explained: most published studies use oral HCl (± IV magnesium support). Learn how that differs from psychoactive IV ibogaine infusion.",
     date: "2026-05-25",
     readTime: "12 min",
-    content: `## Definition
+    content: `## Quick answer
+
+**IV vs oral ibogaine is about how the psychoactive dose enters the body.** Oral ibogaine is swallowed as capsules, so once taken it cannot be withdrawn. IV ibogaine is given through a vein as an infusion that clinicians can slow or stop while watching the ECG. Most published research used oral ibogaine, and there are no controlled trials of IV ibogaine, so neither route is proven safer or more effective. Both carry QTc risk and need screening and continuous monitoring. Ibogaine is Schedule I in the United States and not approved for any indication.
+
+## Definition
 
 **Definition:** **Ibogaine oral vs IV** compares two different things people often conflate: (1) **oral ibogaine HCl**, the route used in most published clinical observational literature (sometimes with **IV magnesium** or other **support IV**), and (2) **IV ibogaine infusion**—**psychoactive intravenous delivery of ibogaine** under physician supervision in a medical infusion setting (consult → cardiac screening → monitored infusion → integration). Ibogaine can prolong the QTc interval, so continuous cardiac monitoring matters for either exposure pathway. **Evidence gap:** Landmark papers such as Cherian et al., *Nature Medicine* 2024 (oral ibogaine + IV magnesium) and Knuijver et al., *Addiction* 2021 (oral HCl) do **not** prove safety or efficacy of psychoactive IV ibogaine. Controlled IV-psychoactive evidence remains sparse. Ibogaine is U.S. Schedule I and not approved for any indication.
 
@@ -1057,6 +1061,29 @@ On this site, IV ibogaine infusion means **true psychoactive IV ibogaine infusio
 | Consent language required | Oral dose, expected duration, monitoring plan | Separate list of support meds | Explicit **IV psychoactive** consent + support meds listed separately |
 
 **Takeaway:** Oral literature informs **interest and risk signals**. It does not automatically validate marketing that says “our IV is clinically proven.”
+
+## IV vs oral ibogaine: what actually differs for a patient
+
+| Question | Oral ibogaine | IV ibogaine infusion |
+| --- | --- | --- |
+| How the dose is given | Capsules by mouth, sometimes a test dose before the main dose | Intravenous infusion through a cannula |
+| Can delivery be adjusted mid-session? | Not once swallowed | The infusion rate can be slowed or stopped |
+| How absorption works | Depends on the gut and first-pass liver metabolism | Bypasses gut absorption |
+| Evidence base | Most published observational studies | No controlled trials; limited data |
+| Cardiac monitoring | Needed | Needed |
+| Screening (ECG, labs, medications) | Needed | Needed |
+| Legal status in the U.S. | Schedule I, not approved | Schedule I, not approved |
+
+**What this means in practice:** the case for IV is control, not proof. Being able to adjust or stop delivery while the ECG is watched is a reasonable clinical rationale, but it has not been tested in controlled trials, and it does not remove the risk of QTc prolongation or arrhythmia. Our route page, [IV vs oral ibogaine compared](/iv-vs-oral), covers titration, absorption and monitoring in more detail.
+
+## What the route does not change
+
+- **Screening still decides.** A prolonged QTc, structural heart disease or interacting medications exclude people by either route. See [ibogaine contraindications](/blog/ibogaine-contraindications).
+- **Evidence still comes mostly from oral studies.** Citing them as proof for IV outcomes is a red flag.
+- **No outcome is guaranteed.** Neither route is a cure.
+- **Cost reflects infrastructure.** IV programs need pumps, IV supplies and more nursing time; see [what you're paying for in IV vs oral programs](/blog/iv-vs-oral-ibogaine-cost) for the line items to ask about.
+
+**Considering IV ibogaine?** We are a clinic dedicated exclusively to IV ibogaine therapy, with waitlist intake for our Mexico and Gabon locations. Every applicant is screened by a physician before any intake date, and screening can say no. Read [what IV ibogaine infusion involves](/what-is-ibogaine-infusion), then [join the waitlist](/apply).
 
 ## What the cited literature actually used (route-honest)
 
@@ -1146,6 +1173,18 @@ That is what this site means: intravenous psychoactive ibogaine in a physician-s
 
 ### Where should I start if a clinic’s “IV” language is vague?
 Ask for written route clarity, then use /blog/how-to-choose-an-ibogaine-clinic and /faq.
+
+### What is the difference between IV and oral ibogaine?
+
+Oral ibogaine is swallowed, so the dose cannot be withdrawn once taken. IV ibogaine is infused into a vein, and clinicians can slow or stop the infusion while watching the ECG. Both carry QTc risk and need screening and continuous cardiac monitoring.
+
+### Are there controlled trials of IV ibogaine?
+
+No. Most published ibogaine research used oral dosing, mostly in observational or open-label studies. There are no controlled trials of psychoactive IV ibogaine, so IV should not be described as proven safer or more effective.
+
+### Does IV ibogaine cost more than oral?
+
+Usually it costs more to run, because IV programs need infusion pumps, IV supplies, more nursing time and a physician adjusting the infusion. A higher price does not buy a proven better outcome. Ask any program for an itemized quote; see /blog/iv-vs-oral-ibogaine-cost.
 
 ### Is ibogaine approved for medical use by either route?
 No. not approved for any indication; U.S. Schedule I.
@@ -2603,7 +2642,11 @@ Educational comparison only—not medical, legal, or treatment advice. Do not ch
       "Ibogaine contraindications and who should not receive IV ibogaine: cardiac QTc risk, screening exclusions, oral-evidence gap, and why medical clearance is non-negotiable.",
     date: "2026-08-10",
     readTime: "10 min",
-    content: `## Definition
+    content: `## Quick answer
+
+**The main ibogaine contraindications are heart-rhythm and medical-stability problems.** Programs commonly exclude or defer people with a prolonged QTc or long QT syndrome, structural or unstable heart disease, serious arrhythmias, uncorrected low potassium or magnesium, certain QT-prolonging or interacting medications, significant liver impairment, seizure disorders, active psychosis, and pregnancy. This is a general screening guide, not a personal clearance. Ibogaine is Schedule I in the United States and not approved for any indication, and only a physician reviewing your ECG, labs and medications can decide.
+
+## Definition
 
 **Definition:** **Ibogaine contraindications** are medical situations where **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under physician supervision—should not proceed, or should proceed only after specialist clearance that may still result in a **hard stop**. Because ibogaine can prolong the QTc interval, cardiac disease, long QT, unsafe electrolytes, and interacting medications are central exclusion themes. **Evidence gap:** Most published clinical safety signals (including Knuijver et al., *Addiction*, 2021) come from **oral** ibogaine HCl cohorts; they inform risk education but are not IV-psychoactive RCTs. Support IV (fluids, magnesium) ≠ psychoactive IV. Ibogaine is U.S. Schedule I and not approved for any indication. This page is educational screening literacy—not a personal clearance checklist.
 
@@ -2644,6 +2687,40 @@ These categories commonly appear in serious screening frameworks. They are **not
 - Inability to consent / lack of capacity  
 
 A clinic that cannot explain how it handles these themes is not ready for **IV psychoactive** care. Vetting: /blog/how-to-choose-an-ibogaine-clinic · Red flags: /blog/cheap-ibogaine-clinic-red-flags.
+
+## Ibogaine contraindications list (at a glance)
+
+The list below gathers the exclusion themes that come up most often in published safety discussions and careful screening protocols. It is hedged on purpose: thresholds and exceptions are clinical judgments, and a program may add criteria of its own.
+
+| Area | Commonly reviewed or excluded | Why it matters |
+| --- | --- | --- |
+| Heart rhythm | Prolonged QTc on a 12-lead ECG, congenital long QT syndrome, history of torsades or serious arrhythmia | Ibogaine can prolong QTc; arrhythmia is the central safety concern |
+| Heart structure | Recent heart attack, heart failure, significant valve or structural heart disease | A heart that is already strained has less margin |
+| Family history | Sudden unexplained death or long QT in close relatives, unexplained fainting | May point to an inherited rhythm problem needing cardiology review |
+| Electrolytes | Low potassium or magnesium that has not been corrected | Low levels add to QTc risk |
+| Medications | QT-prolonging drugs and drugs that change how ibogaine is broken down | Interactions can raise exposure or add to QTc effects |
+| Liver | Significant liver impairment | Ibogaine is metabolized in the liver |
+| Neurological | Seizure disorders, certain neurological conditions | Need specialist judgment before any psychoactive session |
+| Psychiatric | Active psychosis, a history of psychotic or manic episodes, acute suicidal crisis | An intense, long psychoactive experience can be unsafe |
+| Substances | Recent heavy alcohol or benzodiazepine use, stimulant use, recent fentanyl or methadone exposure | Withdrawal and interaction risks need medical planning |
+| Other | Pregnancy or breastfeeding, inability to consent, inability to stay under continuous monitoring | Programs typically exclude these |
+
+**How to read this list:** one item does not automatically mean "never", and passing every row does not mean "safe". It means the screening physician needs your full records. If a program does not ask about most of these rows, treat that as a warning sign.
+
+## Medications that need review (never stop them on your own)
+
+Medication interactions are one of the most common reasons screening pauses. Two groups matter most:
+
+- **QT-prolonging medicines.** Examples of classes that can prolong QTc include some antiarrhythmics, some antipsychotics, some antidepressants, certain antibiotics (such as macrolides and fluoroquinolones), some antiemetics, and methadone. Whether a specific drug and dose matters is a question for the physician.
+- **Drugs that change ibogaine metabolism.** Ibogaine is broken down mainly by the liver enzyme CYP2D6 into noribogaine. Strong CYP2D6 inhibitors, which include some SSRIs and other common medicines, can raise ibogaine levels. See [CYP2D6 and ibogaine metabolism](/blog/ibogaine-cyp2d6-metabolism) and [SSRIs and psychiatric medications](/blog/ibogaine-ssri-psychiatric-meds).
+
+**Any change to a prescription, including a taper, should happen only under medical supervision**, planned with your prescriber and the screening physician. Stopping antidepressants, benzodiazepines, methadone or buprenorphine abruptly can be dangerous in its own right.
+
+## What to do if something on this list applies to you
+
+Write it down and bring it to screening rather than leaving it out. Many exclusions are permanent, some are timing issues (for example, electrolytes that can be corrected), and some need a cardiologist's opinion beforehand. If you are excluded, established treatments remain available, and that outcome protects you.
+
+**Join the waitlist for screening.** We are a clinic dedicated exclusively to IV ibogaine therapy, with waitlist intake for our Mexico and Gabon locations. Every applicant goes through physician screening, and screening is allowed to end in "no". Read [what IV ibogaine infusion involves](/what-is-ibogaine-infusion) and [how IV and oral routes differ](/iv-vs-oral), then [apply to the waitlist](/apply) with your medication list and any prior ECGs.
 
 ## Why oral literature still matters for IV contraindications
 
@@ -6448,6 +6525,10 @@ Educational interaction caution only—**not a taper plan, not medical advice, a
     date: "2026-09-06",
     readTime: "9 min",
     content: `
+## Quick answer
+
+**To prepare for ibogaine, start with medical screening, not travel plans.** Gather a complete medication and supplement list, any prior 12-lead ECGs and cardiology notes, recent labs (especially potassium, magnesium and liver tests), and an honest substance-use timeline. Do not stop or taper any medication except under medical supervision. Plan aftercare before you go. Screening can end in "not a candidate", and that is a safety outcome. Ibogaine is Schedule I in the United States and not approved for any indication.
+
 ## Definition
 
 **Definition:** **Preparing for ibogaine screening** means assembling medical history, medication lists, cardiac data, and substance-use timelines so a physician can decide whether **IV ibogaine infusion**—**intravenous psychoactive ibogaine** under continuous cardiac monitoring—is even appropriate. Screening exists because ibogaine can prolong the **QTc** interval and has been linked to serious cardiac events. **Support IV** (fluids/magnesium/antiemetics) is not the psychoactive dose. **Evidence gap:** Much published literature is **oral** observational (Cherian/MISTIC = **oral** ibogaine + **IV magnesium** only); controlled psychoactive-IV evidence is sparse. Ibogaine is U.S. Schedule I and not approved for any indication. **No cures. No DIY.** Our IV ibogaine programs in Mexico and Gabon are in waitlist intake.
@@ -6462,6 +6543,31 @@ Preparing for ibogaine screening means bringing a full medication list, cardiac 
 People who “sell themselves” into a program by minimizing heart history or hiding SSRIs are optimizing for acceptance—not survival. Ethical screening can delay or decline care. That is a feature.
 
 Start here: /safety-and-screening · Entity: /what-is-ibogaine-infusion · Process: /how-it-works · Apply when ready: /apply · FAQ: /faq.
+
+## How to prepare for ibogaine: a step-by-step checklist
+
+Use this as an order of operations. Each step depends on the one before it.
+
+1. **Start with a screening consult.** Do not book flights or pay nonrefundable deposits before a physician has reviewed your history. Start with [the waitlist application](/apply).
+2. **Get or locate a 12-lead ECG.** The QTc reading is central because ibogaine can prolong the QTc interval. The program may repeat it under its own physician; bring prior tracings if you have them.
+3. **Collect recent labs.** Electrolytes (potassium and magnesium in particular), kidney and liver function, and anything your own doctors already monitor. The program decides what to repeat or add.
+4. **Write a complete medication list.** Include prescriptions, doses, timing, over-the-counter drugs, supplements, herbal products and "detox" products. Leaving something out is one of the riskiest preparation mistakes.
+5. **Make medication changes only under medical supervision.** Some medicines interact with ibogaine, but stopping them suddenly can be dangerous. Any taper or switch must be planned by your prescriber together with the screening physician, never from a forum timeline.
+6. **Be exact about substance use.** Last use, amounts, fentanyl, methadone or buprenorphine, alcohol and benzodiazepines. These change both withdrawal planning and cardiac risk.
+7. **Summarize psychiatric history.** Diagnoses, hospitalizations, any psychotic or manic episodes, and current treatment.
+8. **Draft your aftercare plan.** Who supports you on return, which therapist or doctor follows up, and, if opioids are involved, naloxone at home because tolerance can drop.
+9. **Arrange a support person.** Someone who knows the plan, the emergency contacts and the treatment location.
+10. **Read the consent material before you arrive.** Including the cardiac risks and the written description of how the dose is given.
+
+## Medication tapering: only under medical supervision
+
+People often ask whether they should "get off everything" before ibogaine. The honest answer is that this decision is not yours to make alone, and it is not ours to make from a blog. Some medications are reviewed because they prolong QTc or change how ibogaine is metabolized; others are safer to continue. Any taper must happen only under medical supervision, with a timeline set by clinicians who know your full history. See [ibogaine contraindications](/blog/ibogaine-contraindications) for the medication groups screening teams look at.
+
+## Plan aftercare before treatment, not after
+
+Preparation includes what happens after you leave. Book a follow-up with your own doctor, line up therapy or peer support, and decide how you will handle the first weeks at home. Ibogaine is not a stand-alone treatment, and outcomes vary. See [aftercare and integration](/blog/ibogaine-aftercare-integration).
+
+**Ready to start?** We are a clinic dedicated exclusively to IV ibogaine therapy, with waitlist intake for our Mexico and Gabon locations. Most published ibogaine research used oral dosing and there are no controlled trials of IV ibogaine, so read [what IV ibogaine infusion means](/what-is-ibogaine-infusion) and [IV vs oral ibogaine](/iv-vs-oral) before applying. Then [join the waitlist](/apply) and have your medication list and any ECGs ready for the physician screening call.
 
 
 ## Document checklist (bring what you can)

@@ -113,6 +113,18 @@ export const blogEnhancements: Record<string, BlogEnhancement> = {
         q: "If I am excluded, does that mean I cannot get help?",
         a: "No. Established, evidence-based treatments remain available, and a clinician can help you find the safest option.",
       },
+      {
+        q: "Is there a full ibogaine contraindications list?",
+        a: "There is no official label because ibogaine is not an approved medicine. Screening programs commonly review QTc and heart rhythm, structural heart disease, electrolytes, interacting medications, liver function, seizure history, psychiatric history including psychosis, recent substance use, and pregnancy. The screening physician makes the final decision.",
+      },
+      {
+        q: "Do liver problems affect ibogaine screening?",
+        a: "They can. Ibogaine is metabolized in the liver, mainly by the CYP2D6 enzyme, so significant liver impairment is commonly reviewed and may lead to exclusion. Bring recent liver function tests if you have them.",
+      },
+      {
+        q: "Can I take ibogaine with a history of psychosis or bipolar disorder?",
+        a: "These histories need careful physician review and commonly lead to exclusion, because an intense, long psychoactive session can be unsafe. Do not change psychiatric medications to qualify; any change should happen only under medical supervision.",
+      },
     ],
     related: [
       { href: "/safety-and-screening", label: "Safety and screening overview" },
@@ -139,6 +151,18 @@ export const blogEnhancements: Record<string, BlogEnhancement> = {
       {
         q: "Does passing screening guarantee a good outcome?",
         a: "No. Screening lowers avoidable risk; it does not promise results.",
+      },
+      {
+        q: "How do I prepare for ibogaine?",
+        a: "Start with a screening consult. Gather a complete medication and supplement list, prior ECGs and cardiology notes, recent labs including electrolytes and liver tests, an honest substance-use timeline and your psychiatric history. Plan aftercare and a support person before any travel.",
+      },
+      {
+        q: "Should I stop my antidepressant or other medications before ibogaine?",
+        a: "Not on your own. Some medications interact with ibogaine, but stopping them suddenly can be dangerous. Any taper or change should happen only under medical supervision, planned with your prescriber and the screening physician.",
+      },
+      {
+        q: "What aftercare should I plan before ibogaine?",
+        a: "Arrange follow-up with your own doctor, therapy or peer support, a support person at home and, if opioids are involved, naloxone, because tolerance can drop. Ibogaine is not a stand-alone treatment.",
       },
     ],
     related: [
