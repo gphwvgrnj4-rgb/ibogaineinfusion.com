@@ -8,16 +8,20 @@ const TABLE_SEPARATOR_RE = /^\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)*\|?$/;
 export function Markdown({ content }: { content: string }) {
   const blocks = content.trim().split(/\n\n+/);
 
-  return (
-    <div className="prose-clinical">
-      {blocks.map((block, i) => {
+  return <div className="prose-clinical">{blocks.map((block, i) => renderBlock(block, i))}</div>;
+}
+
+/** Renders one blank-line-separated block. A heading applies only to its own line; any following lines render as their own block. */
+function renderBlock(block: string, i: number | string): React.ReactNode {
         const trimmed = block.trim();
 
-        if (trimmed.startsWith("## ")) {
-          return <h2 key={i}>{trimmed.slice(3)}</h2>;
-        }
-        if (trimmed.startsWith("### ")) {
-          return <h3 key={i}>{trimmed.slice(4)}</h3>;
+        if (trimmed.startsWith("## ") || trimmed.startsWith("### ")) {
+          const nl = trimmed.indexOf("\n");
+          const line = nl < 0 ? trimmed : trimmed.slice(0, nl).trim();
+          const rest = nl < 0 ? "" : trimmed.slice(nl + 1).trim();
+          const heading = line.startsWith("## ") ? <h2 key={`${i}-h`}>{line.slice(3)}</h2> : <h3 key={`${i}-h`}>{line.slice(4)}</h3>;
+          if (!rest) return heading;
+          return [heading, renderBlock(rest, `${i}-r`)];
         }
 
         const tableLines = trimmed.split("\n").filter(Boolean);
@@ -75,9 +79,6 @@ export function Markdown({ content }: { content: string }) {
             <RichText text={trimmed} />
           </p>
         );
-      })}
-    </div>
-  );
 }
 
 function RichText({ text }: { text: string }) {
