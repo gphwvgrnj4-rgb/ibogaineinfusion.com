@@ -5757,7 +5757,7 @@ Ibogaine O-demethylation to noribogaine is catalyzed primarily by **CYP2D6** (Ob
 CYP2D6 inhibitor examples often discussed in pharmacology teaching (educational themes only): some SSRIs (e.g., paroxetine, fluoxetine), some other inhibitors—**your clinician maps your list**.
 
 ### 4) CNS depressant / withdrawal complexity
-Benzodiazepines, alcohol, opioids, and other sedatives create separate withdrawal and monitoring problems (/blog/ibogaine-and-benzodiazepines · /blog/ibogaine-for-fentanyl).
+Benzodiazepines, alcohol, opioids, and other sedatives create separate withdrawal and monitoring problems (/blog/ibogaine-and-benzodiazepines · /blog/ibogaine-for-fentanyl). If you take several medicines for chronic pain, see [IV ibogaine and prescription opioids for chronic pain](/blog/iv-ibogaine-chronic-pain-prescription-opioids) for the screening questions that apply.
 
 
 ## Oral literature anchors (route-labeled)
@@ -16626,7 +16626,7 @@ Opioid use disorder is chronic and relapsing. Being "detoxed" is a starting poin
 
 - **Naloxone** in hand, and people around you who know how to use it
 - Ongoing counseling, peer support or residential care
-- Treatment for co-occurring depression, PTSD or pain
+- Treatment for co-occurring depression, PTSD or pain. If your opioids were prescribed for a painful condition, read [IV ibogaine and prescription opioids for chronic pain](/blog/iv-ibogaine-chronic-pain-prescription-opioids)
 - An honest conversation about evidence-based medication options, such as methadone, buprenorphine or extended-release naltrexone, if they fit your situation
 
 Some people decide during screening that staying on or returning to medication treatment is the safer path. That is a legitimate outcome. See [ibogaine vs Suboxone](/blog/ibogaine-vs-suboxone), [ibogaine withdrawal vs detox](/blog/ibogaine-withdrawal-vs-detox) and [aftercare and integration](/blog/ibogaine-aftercare-integration).
@@ -16741,6 +16741,92 @@ This is educational content, not medical, legal or travel advice and not a promi
 ## Next step
 
 Read [safety and screening](/safety-and-screening) to see what the medical work-up involves, then [apply confidentially](/apply) and choose your preferred location.
+`,
+  },
+  {
+    slug: "iv-ibogaine-chronic-pain-prescription-opioids",
+    title: "IV Ibogaine and Prescription Opioids for Chronic Pain: What to Know",
+    description:
+      "IV ibogaine for people on prescription opioids for chronic pain: physician-managed transition, QTc and pain-medicine screening, a pain plan and overdose risk. Not a pain treatment.",
+    date: "2026-10-27",
+    readTime: "6 min",
+    content: `
+## Quick answer
+
+IV ibogaine is not a pain treatment. If you take prescription opioids for chronic pain and are asking about IV ibogaine for opioid dependence, the questions that matter are how a physician would manage the transition off long-acting opioids, what will control your pain afterwards, which of your pain medicines affect the heart's QTc interval, and how you will stay safe if your opioid tolerance drops. Ibogaine has not been tested in controlled human trials as a treatment for chronic pain, and most ibogaine research used oral dosing.
+
+## Definition
+
+**Definition:** This guide is for people who were prescribed opioids for a painful condition, such as back pain, nerve pain or pain after surgery, and who now wonder whether **IV ibogaine infusion** could help them stop. Ibogaine Infusion is a clinic dedicated exclusively to IV ibogaine therapy, with waitlist intake in **Mexico** and **Gabon**. **Evidence gap:** Most published ibogaine research used **oral** ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine can prolong the QTc interval. It is Schedule I in the United States and is not approved for any indication.
+
+## Why chronic pain changes the conversation
+
+Most writing about ibogaine and opioids focuses on heroin, fentanyl and methadone maintenance. People who became dependent on prescribed opioids face a different set of problems:
+
+- **The pain is still there.** If an opioid is reduced or stopped, the condition that led to the prescription usually remains. Any plan that ignores what controls pain afterwards is incomplete.
+- **Dependence and addiction are not the same thing.** Physical dependence is an expected effect of long-term opioid use. Some people on long-term opioids also develop opioid use disorder. A physician needs to understand which applies to you, because that shapes the options worth discussing.
+- **Pain prescriptions often include several medicines.** Long-acting opioids, nerve-pain medicines, sleep aids, muscle relaxants and some antidepressants can all matter for cardiac and interaction screening.
+- **A prescriber is already involved.** Your pain doctor or primary care physician should be part of the plan, not someone you surprise afterwards.
+
+## What IV ibogaine is and what the evidence covers
+
+In an IV infusion, the psychoactive ibogaine dose is given into a vein under continuous cardiac monitoring rather than swallowed. See [what IV ibogaine infusion is](/what-is-ibogaine-infusion) and the [IV vs oral comparison](/iv-vs-oral) for how route changes the setup.
+
+Be clear about what the research does and does not show. Observational reports, mostly with oral ibogaine, have described changes in opioid withdrawal and use. Those studies were not designed to measure pain, and they do not show that ibogaine relieves chronic pain or lets someone safely stop pain medicine. There are no controlled trials of IV ibogaine for any condition. Anyone who tells you ibogaine will fix both the dependence and the pain is promising something the evidence does not support.
+
+## Questions a physician needs to answer before any infusion
+
+### 1. How will the opioid transition be managed?
+
+Long-acting and extended-release opioids, fentanyl patches and methadone prescribed for pain stay in the body for different lengths of time. Programs commonly discuss a physician-planned transition before any ibogaine dosing, and that can take time. Never stop, cut or switch an opioid on your own to prepare. Abrupt changes can cause severe withdrawal, uncontrolled pain and dangerous decisions. Our guide to [IV ibogaine for opioid and fentanyl detox](/blog/iv-ibogaine-opioid-fentanyl-detox) explains why this step belongs with physicians.
+
+### 2. Which pain medicines affect the heart or ibogaine metabolism?
+
+Ibogaine can prolong the QTc interval, so screening includes a 12-lead ECG and a full medication review. Methadone can prolong QTc on its own. Some antidepressants and other medicines used for pain can affect QTc or the CYP2D6 liver enzyme that helps break down ibogaine. Muscle relaxants, gabapentinoids, sleep medicines and benzodiazepines raise sedation and breathing questions. A physician decides what is reviewed, adjusted or tapered, and any change happens under medical supervision. See [ibogaine drug interactions and QTc](/blog/ibogaine-drug-interactions-qtc) and [safety and screening](/safety-and-screening).
+
+### 3. What will manage pain afterwards?
+
+This is the question people most often skip. Before treatment, you, your prescriber and the screening physician should agree on what happens if pain flares after an infusion. That might include non-opioid medicines, physical therapy, a pain specialist referral or, in some cases, a decision to keep a medically supervised opioid or buprenorphine plan. Staying on a prescribed medicine can be the safer choice, and it is not a failure.
+
+### 4. What happens to overdose risk?
+
+After any detox attempt, tolerance can fall quickly. If pain returns and someone takes their old dose, or uses illicit opioids that may contain fentanyl, the result can be fatal. Keep naloxone at home and make sure the people around you know how to use it. See [aftercare after IV ibogaine](/blog/ibogaine-aftercare-integration).
+
+## Who may not be a candidate
+
+Some people with chronic pain have conditions that make an IV ibogaine infusion unsafe, such as heart rhythm problems, structural heart disease, uncorrected electrolyte problems, significant liver disease or medicines that cannot be safely adjusted. Screening exists to find these issues, and some applicants are declined. Read [ibogaine contraindications](/blog/ibogaine-contraindications) before you apply so you know what a physician will be looking for.
+
+## How to prepare if you want to ask about IV ibogaine
+
+1. **Talk to your prescriber.** Tell them you are researching options for stopping opioids. You do not need their permission to ask questions, but your medicines should never be changed behind their back.
+2. **Write a full medication list.** Include every prescription, dose and timing, plus over-the-counter medicines and supplements.
+3. **Gather records.** Recent ECGs, labs, pain clinic notes and imaging reports help the screening physician.
+4. **Describe your pain honestly.** What helps, what does not, and how your function changes day to day.
+5. **Plan aftercare in advance.** Know who you will see when you get home and what the pain plan is.
+
+Our checklist for [preparing for ibogaine screening](/blog/preparing-for-ibogaine-screening) goes through each item. When you are ready, [apply confidentially to join the waitlist](/apply). A physician reviews your history before any treatment date is offered, and you choose Mexico or Gabon as your preferred location.
+
+## FAQ
+
+### Can IV ibogaine treat chronic pain?
+Ibogaine has not been shown to treat chronic pain, and there are no controlled trials of IV ibogaine for any condition. Questions about IV ibogaine for people on prescription opioids are about dependence, not pain relief, and a pain plan is still needed.
+
+### Should I stop my pain medication before applying?
+No. Do not stop, cut or switch any medicine on your own. Medication changes happen only under medical supervision, planned by your prescriber together with the screening physician.
+
+### Which pain medicines matter for IV ibogaine screening?
+Methadone and other QTc-prolonging medicines, some antidepressants that affect QTc or the CYP2D6 enzyme, and sedating medicines such as gabapentinoids, muscle relaxants and benzodiazepines all need physician review. Bring a complete list.
+
+### What if my pain comes back after treatment?
+Plan for this before treatment. Agree with your prescriber on a pain plan, keep naloxone at home because tolerance can drop, and do not return to a previous opioid dose on your own, since that can be fatal.
+
+## Medical disclaimer
+
+This is educational content, not medical or legal advice and not a promise of any outcome. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including torsades de pointes and death. Most published research used oral ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine is Schedule I in the United States and is not approved for any indication. Our IV ibogaine programs at our Mexico and Gabon intake locations are not approved U.S. clinics. Never change prescribed medicines without medical supervision.
+
+## Next step
+
+Read [safety and screening](/safety-and-screening) to see what the medical work-up involves, then [apply confidentially](/apply).
 `,
   },
 ];
