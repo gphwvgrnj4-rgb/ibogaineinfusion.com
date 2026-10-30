@@ -3799,7 +3799,7 @@ Cherian et al. (*Nature Medicine* 2024, MISTIC): on the order of **~30** special
 “Success” may mean short-term withdrawal relief, a self-report score change, or weeks without use—then get sold as lifelong cure. Addiction and depression are chronic, relapsing conditions for many people.
 
 ### 4) Lost-to-follow-up bias
-Clinic testimonials often track people who stay in touch and feel good—not everyone who relapsed and stopped answering.
+Clinic testimonials often track people who stay in touch and feel good—not everyone who relapsed and stopped answering. If you relapsed after a previous treatment, see [relapse after ibogaine and asking about a second IV treatment](/blog/iv-ibogaine-second-treatment-after-relapse).
 
 A worked example is the [Davis and Barsuglia 2017 survey of 88 ibogaine patients](/blog/davis-barsuglia-2017-ibogaine-survey), where 80% withdrawal relief sat alongside 70% reporting some relapse.
 
@@ -4712,7 +4712,7 @@ No. Viral success percentages are red flags. MISTIC is oral + IV Mg open-label�
 Follow the treating physicians’ monitoring plan; do not self-interpret forums. Seek urgent care for concerning cardiac symptoms.
 
 ### Can I take a DIY booster if I relapse?
-No. DIY dosing is dangerous.
+No. DIY dosing is dangerous. If you are considering another treatment, read [relapse after ibogaine and asking about a second IV treatment](/blog/iv-ibogaine-second-treatment-after-relapse).
 
 ### Do Ibogaine Infusion's Mexico and Gabon programs include aftercare automatically?
 Ask in writing. Our IV ibogaine programs in Mexico and Gabon are not approved U.S. clinics; flight-home gaps are common failure points.
@@ -16819,6 +16819,109 @@ Methadone and other QTc-prolonging medicines, some antidepressants that affect Q
 
 ### What if my pain comes back after treatment?
 Plan for this before treatment. Agree with your prescriber on a pain plan, keep naloxone at home because tolerance can drop, and do not return to a previous opioid dose on your own, since that can be fatal.
+
+## Medical disclaimer
+
+This is educational content, not medical or legal advice and not a promise of any outcome. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including torsades de pointes and death. Most published research used oral ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine is Schedule I in the United States and is not approved for any indication. Our IV ibogaine programs at our Mexico and Gabon intake locations are not approved U.S. clinics. Never change prescribed medicines without medical supervision.
+
+## Next step
+
+Read [safety and screening](/safety-and-screening) to see what the medical work-up involves, then [apply confidentially](/apply).
+`,
+  },
+  {
+    slug: "iv-ibogaine-second-treatment-after-relapse",
+    title: "Relapse After Ibogaine: Asking About a Second IV Ibogaine Treatment",
+    description:
+      "Relapse after ibogaine and asking about a second IV ibogaine treatment: why relapse happens, repeat cardiac screening, no DIY redosing, and what aftercare should change. Not approved.",
+    date: "2026-10-30",
+    readTime: "6 min",
+    content: `
+## Quick answer
+
+Relapse after ibogaine happens, and it does not mean you failed or that you are out of options. If you are thinking about a second IV ibogaine treatment, the first steps are getting safe now, talking to a clinician, and understanding that a repeat infusion means a new full screening, including a fresh ECG and medication review, not a quick top-up. Never redose on your own. Most ibogaine research used oral dosing, there are no controlled trials of IV ibogaine, and no study has established when, or whether, a second treatment helps.
+
+## Definition
+
+**Definition:** This guide is for people who had ibogaine treatment, oral or IV, and later returned to drinking or drug use, and who now wonder whether a second **IV ibogaine infusion** makes sense. Ibogaine Infusion is a clinic dedicated exclusively to IV ibogaine therapy, with waitlist intake in **Mexico** and **Gabon**. **Evidence gap:** Most published ibogaine research used **oral** ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine can prolong the QTc interval. It is Schedule I in the United States and is not approved for any indication.
+
+## First, if you are using again right now
+
+Before thinking about any future treatment, deal with today's risk:
+
+- **Tolerance may be lower than you think.** After a period of not using, the dose you used to take can cause an overdose. This is especially dangerous with opioids, and street supplies may contain fentanyl.
+- **Keep naloxone at hand** and make sure someone near you knows how to use it.
+- **Contact a clinician or a local treatment service.** Evidence-based options such as methadone, buprenorphine or naltrexone, counseling and peer support can be started now. Choosing one of them is a legitimate path, not a step backwards.
+- **If you are in crisis or thinking about harming yourself, contact emergency services** or a crisis line where you live.
+
+## Why relapse after ibogaine happens
+
+Addiction is a chronic, relapsing condition. Observational studies of ibogaine, almost all with oral dosing, have described changes in withdrawal and use, and they have also reported that many participants used again over the follow-up period. That is consistent with how other addiction treatments work: an intense episode of care can open a window, and what fills that window matters.
+
+Common reasons people describe include:
+
+- **Returning to the same environment** with the same people, stresses and triggers
+- **Thin or missing aftercare**, especially once the trip home is over
+- **Untreated co-occurring conditions**, such as depression, PTSD, anxiety or chronic pain
+- **Expecting a single session to do everything**, often because of marketing that promised more than the evidence supports
+
+None of these is a character flaw. They are signals about what a future plan needs to include. Our page on [ibogaine success rate claims](/blog/ibogaine-success-rate-claims) explains why guaranteed outcome percentages should be treated as a red flag.
+
+## Why a second treatment is not a top-up
+
+Some forums talk about "boosters" or redosing at home when a first treatment feels incomplete. Do not do this. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including deaths. Taking ibogaine outside a monitored medical setting, or after a recent return to drug use, adds risk that nobody is watching for.
+
+A physician-supervised second IV ibogaine infusion would be assessed as a new treatment. That usually means:
+
+1. **A new 12-lead ECG and labs.** Your heart, electrolytes and liver can change after a relapse, and screening from months ago does not count.
+2. **A full, current medication and substance review.** What you are using now, how much and how recently all matter. So do any new prescriptions. Fentanyl, methadone, stimulants, alcohol and benzodiazepines each raise their own screening questions, and some medicines affect QTc or how the body breaks down ibogaine.
+3. **A physician-planned transition, if needed.** If you have restarted opioids or another substance, a physician decides how and when any change happens. Do not stop or switch medicines on your own to qualify. Medication changes happen only under medical supervision.
+4. **Time between treatments.** There is no established safe interval between ibogaine treatments. A physician decides, based on your history, whether a second treatment is appropriate at all.
+
+Some applicants are told that a second ibogaine treatment is not a safe option for them. See [ibogaine contraindications](/blog/ibogaine-contraindications) and [safety and screening](/safety-and-screening) for what physicians look for.
+
+## Questions to ask before a second IV ibogaine infusion
+
+- What did the first treatment involve: route, dose setting, monitoring and how long I stayed afterwards?
+- What records do you need from that first program, such as ECGs, lab results and discharge notes?
+- What would be different this time, especially in aftercare?
+- How will my current medicines and recent substance use be handled before an infusion?
+- What happens if screening shows that a second treatment is not safe for me?
+- Who follows up with me once I get home?
+
+If a program skips these questions, offers a date without reviewing your history, or promises that a second session will "finish the job", treat that as a warning sign. Our guide on [how to choose an ibogaine clinic](/blog/how-to-choose-an-ibogaine-clinic) covers other red flags.
+
+## How IV differs from what you may have had before
+
+If your first treatment was oral, an IV infusion is a different setup. The psychoactive dose goes into a vein under continuous cardiac monitoring instead of being swallowed. Read [what IV ibogaine infusion is](/what-is-ibogaine-infusion) and the [IV vs oral comparison](/iv-vs-oral) to understand the differences. Be clear about the limits: a different route is not proof of a better result, and there are no controlled trials comparing IV and oral ibogaine.
+
+## What aftercare should change
+
+The most useful thing you can bring to a second conversation is an honest account of what happened after the first one. Write down when cravings came back, what was going on in your life, and what support you had. Then plan the gaps before any treatment date:
+
+- A named clinician or counselor you will see within days of getting home
+- Peer support or a recovery group that fits you
+- Treatment for depression, PTSD, anxiety or pain if they played a part
+- A plan for your living situation and the people around you
+- Naloxone at home, and a plan for what to do if you start using again
+
+See [aftercare and integration after IV ibogaine](/blog/ibogaine-aftercare-integration) and [preparing for ibogaine screening](/blog/preparing-for-ibogaine-screening).
+
+When you are ready, [apply confidentially to join the waitlist](/apply) and tell us about your previous treatment. A physician reviews your history before any treatment date is offered, and you choose Mexico or Gabon as your preferred location.
+
+## FAQ
+
+### Is relapse after ibogaine common?
+Observational studies, mostly of oral ibogaine, have reported that many participants used again during follow-up. There are no controlled trials of IV ibogaine, and no program can honestly guarantee that relapse will not happen.
+
+### Can I have a second IV ibogaine treatment?
+Possibly, but only after a new full screening, including a fresh ECG, labs and a current medication and substance review. A physician decides whether a second treatment is appropriate, and for some people it is not.
+
+### How long should I wait between ibogaine treatments?
+There is no established safe interval between ibogaine treatments. A physician decides based on your heart, your medicines, recent substance use and how the first treatment went.
+
+### Can I take a small dose at home if I relapse?
+No. Ibogaine can prolong the QTc interval and cause life-threatening heart rhythm problems. Never take ibogaine outside a monitored medical setting, and never change your medicines without medical supervision.
 
 ## Medical disclaimer
 
