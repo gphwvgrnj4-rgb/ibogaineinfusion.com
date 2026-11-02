@@ -59,6 +59,43 @@ function extractFaqs(content: string): { q: string; a: string }[] {
   return faqs.slice(0, 12);
 }
 
+function splitForMidCta(content: string): [string, string] {
+  const faqIdx = content.search(/\n## FAQ\b/);
+  const body = faqIdx >= 0 ? content.slice(0, faqIdx) : content;
+  const heads: number[] = [];
+  const re = /\n## /g;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(body))) heads.push(m.index);
+  if (heads.length < 3) return [content, ""];
+  const target = body.length * 0.4;
+  // first H2 (from the 3rd onward) at or past ~40% of the article body
+  const cut = heads.slice(2).find((i) => i >= target) ?? heads[heads.length - 1];
+  return [content.slice(0, cut), content.slice(cut)];
+}
+
+function MidArticleCta({ slug }: { slug: string }) {
+  return (
+    <aside
+      aria-label="Screening application"
+      data-cta="blog-mid"
+      className="my-12 border-y border-[var(--line)] py-8 text-center"
+    >
+      <div className="mx-auto h-px w-10 bg-accent/80" aria-hidden="true" />
+      <p className="mt-5 font-serif text-2xl tracking-tight text-forest">Considering IV ibogaine therapy?</p>
+      <p className="mx-auto mt-3 max-w-lg text-sm leading-relaxed text-muted">
+        We are a clinic dedicated exclusively to IV ibogaine therapy. Start with a confidential screening application. Our
+        medical team reviews every application before anything is scheduled.
+      </p>
+      <Link
+        href={`/apply?from=${slug}&cta=mid`}
+        className="mt-5 inline-flex min-h-11 items-center justify-center rounded-full bg-ink px-6 text-[0.7rem] font-medium uppercase tracking-[0.18em] text-cream hover:bg-forest"
+      >
+        Start your application
+      </Link>
+    </aside>
+  );
+}
+
 export async function generateStaticParams() {
   return blogPosts.map((post) => ({ slug: post.slug }));
 }
@@ -92,6 +129,7 @@ export default async function BlogPostPage({ params }: Props) {
   const quickAnswers = [...(enhancement?.faqs ?? []), ...(expansion?.faqs ?? [])];
   const faqs = enhancement || expansion ? [...(enhancement ? [] : extractFaqs(post.content)), ...quickAnswers] : extractFaqs(post.content);
   const up = canonicalUp[slug];
+  const [firstPart, restPart] = splitForMidCta(post.content);
   const related = enhancement?.related?.length
     ? enhancement.related.slice(0, 3)
     : relatedPosts(slug, 3).map((p) => ({ href: `/blog/${p.slug}`, label: p.title }));
@@ -161,8 +199,15 @@ export default async function BlogPostPage({ params }: Props) {
             </p>
           )}
           <div className="mt-12">
-            <Markdown content={post.content} />
+            <Markdown content={firstPart} />
+            {restPart ? (
+              <>
+                <MidArticleCta slug={post.slug} />
+                <Markdown content={restPart} />
+              </>
+            ) : null}
           </div>
+          {!restPart ? <MidArticleCta slug={post.slug} /> : null}
           {expansion ? (
             <div className="mt-10" data-expansion="oct16">
               <Markdown content={expansion.content} />
@@ -211,10 +256,21 @@ export default async function BlogPostPage({ params }: Props) {
             <div className="mx-auto h-px w-16 bg-accent/80" aria-hidden="true" />
             <p className="section-label mt-6 text-accent">Next step</p>
             <h2 id="post-apply" className="mt-4 font-serif text-3xl tracking-tight sm:text-4xl">
-              Considering IV ibogaine infusion?
+              Considering IV ibogaine therapy?
             </h2>
             <p className="mx-auto mt-4 max-w-lg leading-relaxed text-cream/70">
-              Join the waitlist with just your name, email and WhatsApp. Intake opens in small, physician-screened cohorts. We reply confidentially —
+              A clinic dedicated exclusively to IV ibogaine therapy. Start with a confidential screening application. Our medical team
+              reviews every application before anything is scheduled.
+            </p>
+            <Link
+              href={`/apply?from=${post.slug}&cta=end`}
+              data-cta="blog-end"
+              className="mt-7 inline-flex min-h-12 items-center rounded-full bg-cream px-7 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-ink hover:bg-white"
+            >
+              Start your application
+            </Link>
+            <p className="mx-auto mt-8 max-w-lg text-sm leading-relaxed text-cream/60">
+              Not ready yet? Join the waitlist with just your name, email and WhatsApp. Intake opens in small, physician-screened cohorts. We reply confidentially —
               screening first, no obligation, no outcome promises.{" "}
               <Link href="/iv-vs-oral" className="text-accent underline-offset-4 hover:underline">Why IV, not oral?</Link>
             </p>
@@ -222,11 +278,7 @@ export default async function BlogPostPage({ params }: Props) {
               <InterestForm source={`blog:${post.slug}`} />
             </div>
             <p className="mt-6 text-sm text-cream/60">
-              Prefer the full application?{" "}
-              <Link href={`/apply?from=${post.slug}`} className="text-accent underline-offset-4 hover:underline">
-                Apply now
-              </Link>{" "}
-              ·{" "}
+              Prefer to talk first?{" "}
               <Link href={`/apply?intent=call&from=${post.slug}`} className="text-accent underline-offset-4 hover:underline">
                 Free confidential call
               </Link>
