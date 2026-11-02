@@ -2022,6 +2022,21 @@ Entity definition to compare against: /what-is-ibogaine-infusion. Journey: /how-
 
 Public medical program chatter often sits roughly in a **$6k–$25k** band depending on intensity. Offers far below medical norms that still claim full MD + telemetry + multi-day observation deserve extreme scrutiny—not automatic rejection by number alone, but **documentation demands**. Conversely, high price without telemetry is still a red flag (luxury ≠ safety).
 
+## Ibogaine clinic safety: what to verify in writing
+
+Searches for ibogaine clinic safety often start with reviews and testimonials. Those cannot tell you whether the next patient's heart will be watched. A safer approach is to ask for the same small set of facts from every program and compare the answers in writing:
+
+1. **Route.** Is the psychoactive ibogaine dose given intravenously, or is it oral with IV fluids or magnesium alongside? Both exist; the program should say which. Most published research used oral ibogaine, and there are no controlled trials of psychoactive IV ibogaine, so neither route should be sold as proven.
+2. **Screening and exclusions.** Which tests are required before a date is offered, who reads the ECG, and what QTc reading or medical history leads to exclusion? A program that never turns anyone away is not screening. See [ibogaine contraindications](/blog/ibogaine-contraindications).
+3. **Medication plan.** How will your current medicines be handled? Medication changes happen only under medical supervision, never as a do-it-yourself step to qualify.
+4. **Monitoring.** How long does continuous telemetry run after dosing, and is a physician present during dosing?
+5. **Emergencies.** Is there a defibrillator on site, ACLS-trained staff and a written hospital transfer plan with travel time?
+6. **Aftercare.** Who follows up once you are home, and how is a relapse handled? See [relapse after ibogaine](/blog/iv-ibogaine-second-treatment-after-relapse).
+
+If the written answers are vague, the price does not matter. If the answers are clear, compare quotes line by line using [IV vs oral ibogaine cost](/blog/iv-vs-oral-ibogaine-cost) to see what each fee actually buys.
+
+**Waitlist:** Ibogaine Infusion is a clinic dedicated exclusively to IV ibogaine therapy, with waitlist intake in Mexico and Gabon. Screening comes before any date or payment conversation. [Join the waitlist and start confidential screening](/apply).
+
 ## After you spot a red flag: what “pause” looks like
 
 A pause is not rudeness—it is basic safety diligence:
@@ -2060,6 +2075,12 @@ Neither price point creates regulatory approval. U.S. Schedule I facts: /blog/is
 
 ### Where do I compare rehab alternatives without hype?
 /blog/ibogaine-vs-traditional-rehab.
+
+### How do I check ibogaine clinic safety before paying?
+Ask every program in writing about route, screening and exclusion criteria, telemetry duration, physician presence and the emergency transfer plan. Compare the written answers before comparing prices.
+
+### Is a second treatment at a cheaper clinic a safe way to save money after relapse?
+Not on its own terms. A repeat treatment needs a full new screening, including a fresh ECG and medication review. See /blog/iv-ibogaine-second-treatment-after-relapse.
 
 ### What’s the next safe step on this site?
 /faq → /safety-and-screening → /apply.
@@ -4574,9 +4595,9 @@ Educational policy landscape only—not legal, medical, or enrollment advice. Do
   },
   {
     slug: "ibogaine-aftercare-integration",
-    title: "Aftercare After IV Ibogaine Infusion: Relapse Risk & Integration",
+    title: "Ibogaine Aftercare: Integration & Relapse Planning After IV",
     description:
-      "Ibogaine aftercare and integration after IV ibogaine infusion: relapse risk honesty, no cure claims, cardiac follow-up questions, screening-first CTA.",
+      "Ibogaine aftercare after IV infusion: integration support, honest relapse risk, cardiac follow-up questions and a pre-departure plan. Not a cure.",
     date: "2026-09-06",
     readTime: "10 min",
     content: `## Definition
@@ -4615,6 +4636,8 @@ Not a one-size protocol—examples of domains serious programs discuss:
 This is education—not a prescription.
 
 Condition articles (no cures): /ibogaine-for-addiction · /ibogaine-for-depression · /ibogaine-for-ptsd · AUD limits: /blog/ibogaine-for-alcohol-use-disorder.
+
+**Waitlist:** Ibogaine Infusion is a clinic dedicated exclusively to IV ibogaine therapy, and aftercare planning starts at screening, before any treatment date, for our Mexico and Gabon waitlist intakes. [Join the waitlist and tell us about your support at home](/apply).
 
 ## Relapse risk: say the quiet part out loud
 
@@ -4695,7 +4718,7 @@ Ask whether “aftercare” means scheduled clinical check-ins, therapist referr
 
 ## Next steps
 
-Start with whether you are even a medical candidate—before romanticizing integration journals. Read /safety-and-screening, then request a **confidential screening consult** via /apply. FAQ: /faq.
+Start with whether you are even a medical candidate—before romanticizing integration journals. Read [safety and screening](/safety-and-screening) and [preparing for ibogaine screening](/blog/preparing-for-ibogaine-screening), then [join the waitlist for a **confidential screening consult**](/apply). If you have already relapsed after a past treatment, see [relapse after ibogaine](/blog/iv-ibogaine-second-treatment-after-relapse). FAQ: /faq.
 
 ## FAQ
 
@@ -9868,9 +9891,9 @@ Educational consent literacy only—not medical advice, legal advice, or a perso
   },
   {
     slug: "ibogaine-telemetry-acls-monitoring",
-    title: "Ibogaine Telemetry & ACLS Monitoring: What Ethical Programs Cannot Skip",
+    title: "Ibogaine Cardiac Monitoring: Telemetry, ECG & ACLS Basics",
     description:
-      "Ibogaine telemetry and ACLS monitoring: why continuous ECG, emergency readiness, and QTc screening are floors for IV psychoactive ibogaine—not spa upgrades.",
+      "Ibogaine cardiac monitoring explained: QTc screening, continuous ECG telemetry and ACLS readiness during IV ibogaine infusion, and what to ask a program.",
     date: "2026-09-06",
     readTime: "9 min",
     content: `
@@ -9903,6 +9926,8 @@ Pillar: /safety-and-screening · Mortality context: /blog/ibogaine-mortality-car
 
 A brochure saying “medical supervision” without telemetry duration is incomplete. For a plain-language walkthrough of what happens before, during and after dosing, see [how cardiac monitoring works during an IV ibogaine infusion](/blog/iv-ibogaine-safety-cardiac-monitoring).
 
+
+**Waitlist:** Ibogaine Infusion is a clinic dedicated exclusively to IV ibogaine therapy, with continuous cardiac telemetry for every infusion and waitlist intake in Mexico and Gabon. Cardiac screening comes before any treatment date. [Join the waitlist and start confidential screening](/apply).
 
 ## ACLS readiness: the minutes that matter
 
@@ -9977,7 +10002,7 @@ Also confirm who interprets live QTc changes: a physician competent in arrhythmi
 
 ## Next steps
 
-If a program cannot describe telemetry duration and ACLS/transfer plans clearly, pause. Read /safety-and-screening, then request a confidential screening consult via /apply. FAQ: /faq.
+If a program cannot describe telemetry duration and ACLS/transfer plans clearly, pause. Read [safety and screening](/safety-and-screening) and [ibogaine contraindications](/blog/ibogaine-contraindications), then [join the waitlist for a confidential screening consult](/apply). FAQ: /faq.
 
 
 ## FAQ
@@ -16491,7 +16516,7 @@ An IV infusion protocol needs things an oral protocol does not:
 | Monitoring | Continuous telemetry required | Continuous telemetry should also be required |
 | Support IV | Fluids, magnesium or anti-nausea medicine as needed, labeled separately | Often used too, which is why "IV" in a brochure needs checking |
 
-The [IV vs oral comparison](/iv-vs-oral) explains the clinical reasoning behind these differences. The short version: IV gives clinicians more control while they watch the heart. It has not been shown in controlled trials to produce better or safer outcomes than oral dosing.
+The [IV vs oral comparison](/iv-vs-oral) explains the clinical reasoning behind these differences. The short version: IV gives clinicians more control while they watch the heart. It has not been shown in controlled trials to produce better or safer outcomes than oral dosing. For what the published oral research does and does not tell us, see [ibogaine oral vs IV](/blog/ibogaine-oral-vs-iv).
 
 ## What you should not be paying extra for
 
@@ -16518,6 +16543,22 @@ Budget also for costs outside the program fee:
 - Extra nights if you need longer observation
 - Integration therapy and follow-up care after you return (see [flying home after ibogaine](/blog/flying-home-after-ibogaine))
 
+## Ibogaine treatment cost: what a responsible quote should show
+
+When people search for ibogaine treatment cost, they usually find a single headline number. That number is the least useful part of a quote. What matters is what it covers and whether the safety lines are written down.
+
+A responsible written quote should let you answer these questions without a follow-up call:
+
+- **Is screening before payment?** You should know whether you are a medical candidate before committing a large sum. A program that asks for full payment before reviewing your ECG, labs and medicines has its order wrong.
+- **What does the fee buy in monitoring?** The quote should state how many hours of continuous telemetry are included after dosing, who reads it, and whether a physician is present during the infusion.
+- **What happens if the plan changes?** Screening can rule people out. Infusions can be slowed or stopped. Observation can need extra nights. Ask how each of these affects the fee and the refund terms.
+- **What is outside the fee?** Travel, a companion, tests at home, medication transitions supervised by your own doctor and aftercare are often extra. Medication changes before treatment happen only under medical supervision, and their cost belongs in your budget, not in a shortcut.
+- **What does the program not promise?** A quote that includes outcome guarantees or "success rates" is a marketing document. No price changes the fact that ibogaine is Schedule I in the United States and not approved for any indication.
+
+Cost and safety are the same conversation. Our [cheap ibogaine clinic red flags guide](/blog/cheap-ibogaine-clinic-red-flags) shows what tends to disappear from low quotes. If you are pricing a second treatment after a relapse, read [relapse after ibogaine and a second IV treatment](/blog/iv-ibogaine-second-treatment-after-relapse) first, because a repeat infusion means a full new screening, not a discounted top-up.
+
+**Waitlist:** We do not publish a price on this page. Program details, including what is included, are shared after screening because eligibility and length of observation differ from person to person. [Join the waitlist and start confidential screening](/apply), choosing Mexico or Gabon as your preferred intake location.
+
 ## Questions to ask for an itemized quote
 
 1. Is the psychoactive dose delivered intravenously, or is IV used just for support alongside oral dosing?
@@ -16542,6 +16583,12 @@ Ask in writing whether the psychoactive ibogaine dose is delivered intravenously
 
 ### Does insurance cover IV or oral ibogaine?
 Generally no, for either route. Ibogaine is Schedule I in the United States and not approved for any indication. Some separate tests ordered by your own doctor may be billable.
+
+### Why don't you list a price for ibogaine treatment?
+Because what a program includes depends on screening results, length of observation and the support you need afterwards. We share program details after confidential screening rather than a headline number that may not apply to you.
+
+### Should I pay before I am medically screened?
+Be cautious about paying in full before screening. A responsible program reviews your ECG, labs and medicines first and tells you in writing what happens to fees if you are not medically eligible.
 
 ## Medical disclaimer
 
@@ -16606,7 +16653,7 @@ What that means in practice depends entirely on your situation and must be decid
 
 On this site, IV ibogaine infusion means the psychoactive dose itself is intravenous, delivered in small increments under continuous ECG monitoring with a physician present. The infusion can be slowed or stopped. With an oral dose, once swallowed, it cannot be reduced. The [IV vs oral comparison](/iv-vs-oral) and [what IV ibogaine infusion is](/what-is-ibogaine-infusion) explain the route.
 
-That control is practical, not proven superiority. There are no controlled trials showing IV ibogaine eases opioid withdrawal more or causes fewer cardiac problems than oral ibogaine. For a session walkthrough, see [what to expect from an IV ibogaine session](/blog/what-to-expect-iv-ibogaine-session).
+That control is practical, not proven superiority (see [ibogaine oral vs IV](/blog/ibogaine-oral-vs-iv) for what the oral research covered). There are no controlled trials showing IV ibogaine eases opioid withdrawal more or causes fewer cardiac problems than oral ibogaine. For a session walkthrough, see [what to expect from an IV ibogaine session](/blog/what-to-expect-iv-ibogaine-session).
 
 ## Risks to understand before you apply
 
@@ -16893,7 +16940,23 @@ If a program skips these questions, offers a date without reviewing your history
 
 ## How IV differs from what you may have had before
 
-If your first treatment was oral, an IV infusion is a different setup. The psychoactive dose goes into a vein under continuous cardiac monitoring instead of being swallowed. Read [what IV ibogaine infusion is](/what-is-ibogaine-infusion) and the [IV vs oral comparison](/iv-vs-oral) to understand the differences. Be clear about the limits: a different route is not proof of a better result, and there are no controlled trials comparing IV and oral ibogaine.
+If your first treatment was oral, an IV infusion is a different setup. The psychoactive dose goes into a vein under continuous cardiac monitoring instead of being swallowed. Read [what IV ibogaine infusion is](/what-is-ibogaine-infusion) and the [IV vs oral comparison](/iv-vs-oral) to understand the differences, and see [ibogaine oral vs IV](/blog/ibogaine-oral-vs-iv) for what the research covered. Be clear about the limits: a different route is not proof of a better result, and there are no controlled trials comparing IV and oral ibogaine.
+
+## Ibogaine after relapse: cost and clinic safety the second time
+
+People who relapse after ibogaine sometimes look for the quickest or cheapest way back to treatment. That is understandable, and it is where the risk tends to rise. A second ibogaine treatment should meet the same safety floor as the first, or a higher one, because your body, medicines and substance use may have changed since then.
+
+Before you compare programs, check that each one will:
+
+- **Ask for records from your first treatment**, including route, ECGs, lab results and discharge notes, rather than treating you as a returning customer
+- **Repeat cardiac screening in full**, with a new 12-lead ECG, electrolytes and a medication review, and say in writing what would exclude you
+- **Handle recent substance use under medical supervision.** If you have restarted opioids, alcohol, benzodiazepines or stimulants, a physician plans any transition. Do not stop or change medicines on your own to qualify.
+- **Provide continuous cardiac telemetry** during dosing and afterwards, with a physician present and a written emergency transfer plan
+- **Change the aftercare**, not just repeat the session
+
+Low quotes for "repeat" or "booster" sessions deserve extra care. Our [cheap ibogaine clinic red flags](/blog/cheap-ibogaine-clinic-red-flags) guide lists the patterns to watch for, and [IV vs oral ibogaine cost](/blog/iv-vs-oral-ibogaine-cost) explains what a quote should include and what you should not pay extra for. A second treatment is not a discount product, and no program can honestly promise that it will work where the first one did not.
+
+**Waitlist:** If you want to ask about a second IV ibogaine treatment, [join the waitlist](/apply) and include what happened after your first treatment. A physician reviews your history before anything is offered.
 
 ## What aftercare should change
 
@@ -16919,6 +16982,9 @@ Possibly, but only after a new full screening, including a fresh ECG, labs and a
 
 ### How long should I wait between ibogaine treatments?
 There is no established safe interval between ibogaine treatments. A physician decides based on your heart, your medicines, recent substance use and how the first treatment went.
+
+### Is a cheaper clinic fine for a second ibogaine treatment?
+Price alone does not tell you. A second treatment needs a full new screening, continuous cardiac telemetry, a physician present and a written emergency plan. Programs that skip these to lower the price add risk.
 
 ### Can I take a small dose at home if I relapse?
 No. Ibogaine can prolong the QTc interval and cause life-threatening heart rhythm problems. Never take ibogaine outside a monitored medical setting, and never change your medicines without medical supervision.
