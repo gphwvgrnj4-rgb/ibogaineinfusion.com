@@ -3145,7 +3145,7 @@ Support IV ≠ psychoactive IV. See /blog/electrolytes-support-iv-vs-psychoactiv
 
 Ketamine-related care still requires medical oversight and is not risk-free—but patients evaluating TRD options deserve an honest stack-rank of **evidence maturity**. Choosing ibogaine because a marketing page feels more “profound” than a ketamine clinic is not a clinical algorithm.
 
-If depression co-occurs with opioid use disorder or PTSD, read the matching hubs rather than collapsing everything into one miracle narrative: /ibogaine-for-addiction · /ibogaine-for-ptsd.
+If depression co-occurs with opioid use disorder or PTSD, read the matching hubs rather than collapsing everything into one miracle narrative: /ibogaine-for-addiction · /ibogaine-for-ptsd. For how screening treats mood history and addiction together, see [depression and addiction together: what IV ibogaine screening asks](/blog/iv-ibogaine-depression-and-addiction-together).
 
 ## What a physician-supervised IV journey would still require
 
@@ -6497,7 +6497,7 @@ If a concierge replies with only a stop-list PDF and a deposit link, that is not
 
 ## Next steps
 
-Bring your complete medication list to a medical screening conversation—not to a forum poll. Start at /safety-and-screening, then /apply for a confidential consult. FAQ: /faq.
+Bring your complete medication list to a medical screening conversation—not to a forum poll. If depression is part of your picture, read [depression and addiction together: what IV ibogaine screening asks](/blog/iv-ibogaine-depression-and-addiction-together). Start at /safety-and-screening, then /apply for a confidential consult. FAQ: /faq.
 
 
 ## FAQ
@@ -16988,6 +16988,92 @@ Price alone does not tell you. A second treatment needs a full new screening, co
 
 ### Can I take a small dose at home if I relapse?
 No. Ibogaine can prolong the QTc interval and cause life-threatening heart rhythm problems. Never take ibogaine outside a monitored medical setting, and never change your medicines without medical supervision.
+
+## Medical disclaimer
+
+This is educational content, not medical or legal advice and not a promise of any outcome. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including torsades de pointes and death. Most published research used oral ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine is Schedule I in the United States and is not approved for any indication. Our IV ibogaine programs at our Mexico and Gabon intake locations are not approved U.S. clinics. Never change prescribed medicines without medical supervision.
+
+## Next step
+
+Read [safety and screening](/safety-and-screening) to see what the medical work-up involves, then [apply confidentially](/apply).
+`,
+  },
+  {
+    slug: "iv-ibogaine-depression-and-addiction-together",
+    title: "Depression and Addiction Together: What IV Ibogaine Screening Asks About Your Mental Health",
+    description:
+      "Depression with opioid, alcohol or stimulant use and IV ibogaine: why mood history matters in screening, medication and safety questions, and the limits of the evidence. Not approved.",
+    date: "2026-11-03",
+    readTime: "6 min",
+    content: `
+## Quick answer
+
+If you live with depression and addiction at the same time, a physician-supervised IV ibogaine screening looks at both. Clinicians ask about your mood history, past suicidal thoughts, any history of mania or psychosis, and every medication you take, alongside a 12-lead ECG and labs. Depression does not rule you in or out by itself. Most ibogaine research used oral dosing, there are no controlled trials of IV ibogaine for depression, and ibogaine is not approved for any indication.
+
+## Definition
+
+**Definition:** This guide explains how depression that occurs together with opioid, alcohol or stimulant use is handled when someone asks about **IV ibogaine infusion**, meaning intravenous psychoactive ibogaine given under physician supervision with continuous cardiac monitoring. Ibogaine Infusion is a clinic dedicated exclusively to IV ibogaine therapy, with waitlist intake in **Mexico** and **Gabon**. **Evidence gap:** Most published ibogaine research used **oral** ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine can prolong the QTc interval. It is Schedule I in the United States and is not approved for any indication.
+
+## Why depression and addiction are screened together
+
+Depression and substance use often travel together. Low mood can drive drinking or drug use, and heavy use can deepen low mood, so it is hard to say which came first. When someone asks about ibogaine, a physician has to treat the two as one picture, because each changes the safety questions for the other.
+
+That is also why we avoid promising that ibogaine will lift depression. Published human reports on ibogaine come mostly from people treated for opioid dependence, and they describe changes in withdrawal, cravings and mood scores in small, uncontrolled groups. They do not show that an infusion treats depression, and no program can honestly guarantee a mood outcome. Our page on [ibogaine and treatment-resistant depression](/blog/ibogaine-treatment-resistant-depression) goes through the evidence limits in more detail.
+
+## What a physician will ask about your mood
+
+Expect direct questions. They are there to protect you, not to screen you out unfairly:
+
+- **How long you have had depression**, how severe it gets, and what has helped or not helped before
+- **Any past suicidal thoughts or attempts**, and whether they are present now
+- **History of mania, bipolar disorder or psychosis**, in you or close family, because an intense psychoactive experience can be destabilizing
+- **Current treatment**, including therapy, antidepressants and any other psychiatric medicines
+- **Alcohol and drug use right now**, including how much, how often and how recently
+
+Acute suicidality or unstable psychiatric illness usually means the right answer is stabilization first, not an infusion. If you are in crisis or thinking about harming yourself, contact emergency services or a crisis line where you live before anything else.
+
+## Why your medicines matter
+
+Many people with depression take an SSRI or another psychiatric medicine, and some of these affect heart rhythm or how the body processes ibogaine. A physician reviews every prescription, supplement and substance for QTc effects and interactions. We explain the cautions in [ibogaine and SSRIs or psychiatric medications](/blog/ibogaine-ssri-psychiatric-meds) and in [ibogaine, drug interactions and QTc](/blog/ibogaine-drug-interactions-qtc).
+
+One rule matters more than any other here: **do not stop or change an antidepressant to prepare.** Stopping can bring on withdrawal symptoms or a return of depression, and it can be risky on its own. Any medication change happens only under medical supervision, and a physician decides whether and how it is done.
+
+## Heart screening applies whatever the reason
+
+Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including deaths. This is true whether someone is motivated by opioids, alcohol or low mood. Screening includes a 12-lead ECG, electrolytes and a medication review, and treatment, if offered, would involve continuous telemetry. Read [safety and screening](/safety-and-screening) for the full medical work-up, and [preparing for ibogaine screening](/blog/preparing-for-ibogaine-screening) for what to gather beforehand.
+
+Substance use itself changes the picture. Alcohol, stimulants, methadone and benzodiazepines each raise their own questions, and the physician plans around them. Do not detox or adjust a prescription yourself to look like a better candidate.
+
+## How IV fits in, and what it does not prove
+
+Our programs focus on intravenous dosing, where the psychoactive dose goes into a vein under monitoring rather than being swallowed. You can read what that means on [what IV ibogaine infusion is](/what-is-ibogaine-infusion) and in the [IV vs oral comparison](/iv-vs-oral). A different route is not evidence of a better result. The research most people cite used oral ibogaine, and it does not tell us how IV ibogaine would work for depression.
+
+Magnesium given by IV in some studies is support for the heart, not psychoactive IV ibogaine, a distinction explained in [support IV vs psychoactive IV](/blog/electrolytes-support-iv-vs-psychoactive-iv).
+
+## What good care around one session looks like
+
+A single treatment day does not replace ongoing depression care. Before any date is offered, a sensible plan includes:
+
+- A named clinician for depression, whether a psychiatrist, therapist or primary care doctor, who knows what you are considering
+- A plan for follow-up in the early days and weeks after treatment, especially around mood
+- Support for substance use, such as counseling, a recovery group or a physician-prescribed medicine
+- People in your life who know what is happening and how to reach help
+
+[Aftercare and integration after IV ibogaine](/blog/ibogaine-aftercare-integration) covers this in more depth. If you would like to talk it through confidentially, you can [apply to join the waitlist](/apply). A physician reviews your history before any treatment is discussed, and you can choose Mexico or Gabon as your preferred intake location.
+
+## FAQ
+
+### Can IV ibogaine treat depression?
+There is no controlled evidence showing that IV ibogaine treats depression. Most research used oral ibogaine in small observational groups, and ibogaine is not approved for any indication. Anyone promising a mood outcome is going beyond what the evidence shows.
+
+### Does having depression disqualify me from IV ibogaine?
+Not automatically. A physician reviews your mood history, current symptoms and medications together with your heart tests. Acute suicidality, bipolar disorder or psychosis history, and unstable psychiatric illness can lead to a no, or to stabilization first.
+
+### Should I stop my antidepressant before applying?
+No. Do not stop or change any prescribed medicine on your own. Medication changes happen only under medical supervision, and a physician decides what is appropriate for you.
+
+### What if I am having thoughts of suicide right now?
+Contact emergency services or a crisis line where you live, or reach a clinician today. Screening for an infusion is not an emergency service, and care for your safety comes before any treatment planning.
 
 ## Medical disclaimer
 
