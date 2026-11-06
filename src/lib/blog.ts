@@ -15858,7 +15858,7 @@ If a clinic quotes Davis 2023 while selling **psychoactive IV ibogaine infusion*
 
 ## Next steps
 
-Trauma hope is not a cardiac plan. Start: /safety-and-screening → /apply.
+Trauma hope is not a cardiac plan. For what a physician asks when PTSD is part of an IV ibogaine screening conversation, see [IV ibogaine and PTSD screening](/blog/iv-ibogaine-ptsd-screening). Start: /safety-and-screening → /apply.
 
 
 ## FAQ
@@ -17018,7 +17018,7 @@ If you live with depression and addiction at the same time, a physician-supervis
 
 Depression and substance use often travel together. Low mood can drive drinking or drug use, and heavy use can deepen low mood, so it is hard to say which came first. When someone asks about ibogaine, a physician has to treat the two as one picture, because each changes the safety questions for the other.
 
-That is also why we avoid promising that ibogaine will lift depression. Published human reports on ibogaine come mostly from people treated for opioid dependence, and they describe changes in withdrawal, cravings and mood scores in small, uncontrolled groups. They do not show that an infusion treats depression, and no program can honestly guarantee a mood outcome. Our page on [ibogaine and treatment-resistant depression](/blog/ibogaine-treatment-resistant-depression) goes through the evidence limits in more detail.
+That is also why we avoid promising that ibogaine will lift depression. Published human reports on ibogaine come mostly from people treated for opioid dependence, and they describe changes in withdrawal, cravings and mood scores in small, uncontrolled groups. They do not show that an infusion treats depression, and no program can honestly guarantee a mood outcome. Our page on [ibogaine and treatment-resistant depression](/blog/ibogaine-treatment-resistant-depression) goes through the evidence limits in more detail. When trauma and PTSD sit alongside depression or substance use, see [IV ibogaine and PTSD: what medical screening asks](/blog/iv-ibogaine-ptsd-screening).
 
 ## What a physician will ask about your mood
 
@@ -17074,6 +17074,98 @@ No. Do not stop or change any prescribed medicine on your own. Medication change
 
 ### What if I am having thoughts of suicide right now?
 Contact emergency services or a crisis line where you live, or reach a clinician today. Screening for an infusion is not an emergency service, and care for your safety comes before any treatment planning.
+
+## Medical disclaimer
+
+This is educational content, not medical or legal advice and not a promise of any outcome. Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including torsades de pointes and death. Most published research used oral ibogaine, and there are no controlled trials of psychoactive IV ibogaine. Ibogaine is Schedule I in the United States and is not approved for any indication. Our IV ibogaine programs at our Mexico and Gabon intake locations are not approved U.S. clinics. Never change prescribed medicines without medical supervision.
+
+## Next step
+
+Read [safety and screening](/safety-and-screening) to see what the medical work-up involves, then [apply confidentially](/apply).
+`,
+  },
+  {
+    slug: "iv-ibogaine-ptsd-screening",
+    title: "IV Ibogaine and PTSD: What Medical Screening Asks",
+    description:
+      "PTSD, trauma and IV ibogaine: what physicians ask in screening about trauma history, medications, substance use and heart safety, plus the limits of the evidence. Not approved.",
+    date: "2026-11-06",
+    readTime: "6 min",
+    content: `
+## Quick answer
+
+If you are asking about IV ibogaine because of PTSD or trauma—often with substance use in the same picture—a physician-supervised screening looks at trauma history, current symptoms, psychiatric medicines, substance use and cardiac safety together. PTSD does not rule you in or out by itself. Most published research used oral ibogaine, open-label veteran work used oral ibogaine with IV magnesium (not psychoactive IV ibogaine), there are no controlled trials of psychoactive IV ibogaine, and ibogaine is not approved for any indication.
+
+## Definition
+
+**Definition:** This guide explains how PTSD and trauma history are handled when someone asks about **IV ibogaine infusion**, meaning intravenous psychoactive ibogaine given under physician supervision with continuous cardiac monitoring. Ibogaine Infusion is a clinic dedicated exclusively to IV ibogaine therapy, with waitlist intake in **Mexico** and **Gabon**. **Evidence gap:** Most published ibogaine research used **oral** ibogaine. Open-label veteran studies often used oral ibogaine with IV magnesium as heart support—not psychoactive IV ibogaine. There are no controlled trials of psychoactive IV ibogaine. Ibogaine can prolong the QTc interval. It is Schedule I in the United States and is not approved for any indication.
+
+## Why PTSD changes the screening conversation
+
+PTSD shapes sleep, startle, avoidance, trust in clinicians, and how someone reacts to an intense psychoactive experience. Many people who ask about ibogaine for trauma also drink, use opioids or stimulants, or take psychiatric medicines, so screening has to hold trauma, mood and substance use as one picture.
+
+That is also why we do not promise that an infusion treats PTSD. Published human reports that mention trauma or PTSD scores come mostly from small, open-label groups given **oral** ibogaine—sometimes with other medicines or therapies in the same program. They do not show that psychoactive IV ibogaine treats PTSD, and no program can honestly guarantee a trauma outcome. Condition context: [ibogaine for PTSD](/ibogaine-for-ptsd). For depression and addiction together, see [depression and addiction screening](/blog/iv-ibogaine-depression-and-addiction-together).
+
+## What IV ibogaine is—and what the evidence does not show
+
+Our programs focus on intravenous dosing, where the psychoactive dose goes into a vein under monitoring rather than being swallowed. You can read what that means on [what IV ibogaine infusion is](/what-is-ibogaine-infusion) and in the [IV vs oral comparison](/iv-vs-oral). A different route is not evidence of a better PTSD result.
+
+Headlines about veteran cohorts often describe **oral** ibogaine with **IV magnesium** for heart support. Magnesium by IV in those protocols is not psychoactive IV ibogaine—see [support IV vs psychoactive IV](/blog/electrolytes-support-iv-vs-psychoactive-iv) and [PTSD open-label work beyond MISTIC](/blog/ibogaine-ptsd-open-label-beyond-mistic). Citing those papers as proof of an IV infusion for PTSD mixes up route and design.
+
+## Questions a physician asks about trauma and PTSD
+
+Expect direct questions. They protect you; they are not a sales filter:
+
+- **Trauma history:** what happened, when, and how it shows up now (nightmares, flashbacks, avoidance, hypervigilance, numbness)
+- **Current PTSD care:** therapy type, trauma-focused work, and whether you have a clinician who will follow you after
+- **Psychiatric history beyond PTSD:** depression, mania or bipolar history, psychosis, hospitalizations, and any past suicidal thoughts or attempts
+- **Medications and supplements:** every prescription (including SSRIs and other psychiatric medicines), over-the-counter products and herbs
+- **Substance use:** alcohol, opioids, stimulants, benzodiazepines—how much, how often and how recently
+- **Heart and medical history:** prior ECGs, fainting, family sudden death, electrolyte problems and other cardiac risk factors
+
+Acute crisis, active suicidal planning, untreated psychosis or mania, or a picture that needs stabilization first usually means care now—not an infusion date. If you are in crisis, contact emergency services or a crisis line where you live before anything else.
+
+## Why medications and substance use matter in a PTSD screen
+
+Many people with PTSD take an SSRI, sleep medicine, prazosin, or another psychiatric drug. Some of these affect heart rhythm or how the body processes ibogaine. A physician reviews every item for QTc effects and interactions. We explain the cautions in [ibogaine and SSRIs or psychiatric medications](/blog/ibogaine-ssri-psychiatric-meds) and in [ibogaine, drug interactions and QTc](/blog/ibogaine-drug-interactions-qtc).
+
+**Do not stop or change a psychiatric medicine to prepare.** Stopping can bring on withdrawal, rebound anxiety or a return of trauma symptoms, and it can be risky on its own. Any medication change happens only under medical supervision, and a physician decides whether and how it is done.
+
+Substance use changes the plan too. Alcohol, opioids, stimulants, methadone and benzodiazepines each raise withdrawal and cardiac questions. Do not detox or adjust a prescription yourself to look like a better candidate.
+
+## Heart screening is not optional because the goal is PTSD
+
+Ibogaine can prolong the QTc interval and has been associated with serious cardiac events, including deaths. Motivation by trauma does not remove that risk. Screening includes a 12-lead ECG, electrolytes and a medication review; treatment, if offered, would involve continuous telemetry. Read [safety and screening](/safety-and-screening) for the medical work-up, and [preparing for ibogaine screening](/blog/preparing-for-ibogaine-screening) for what to gather beforehand.
+
+## Who may not be a candidate right now
+
+Screening can end in "not a candidate," and that is a safety outcome. Common reasons include unstable psychiatric illness, acute suicidality, significant QTc prolongation or other cardiac findings, medication combinations that cannot be safely managed, or missing aftercare. Past PTSD treatment that did not help does not by itself make someone a candidate.
+
+## How to prepare, and how to apply
+
+Before any date is discussed, a sensible plan includes:
+
+- A complete medication and supplement list, plus any prior ECGs and cardiology notes
+- An honest trauma and substance-use timeline
+- A named clinician for PTSD or mental health follow-up after you return
+- People who know what is happening and how to reach help
+- Realistic expectations: one session is not a replacement for trauma therapy or ongoing care
+
+[Aftercare and integration after IV ibogaine](/blog/ibogaine-aftercare-integration) covers the weeks after. When you are ready, [apply to join the waitlist](/apply). A physician reviews your history before any treatment is discussed, and you can choose Mexico or Gabon as your preferred intake location.
+
+## FAQ
+
+### Can IV ibogaine treat PTSD?
+There is no controlled evidence showing that IV ibogaine treats PTSD. Most research used oral ibogaine in small open-label groups, and some veteran work used oral ibogaine with IV magnesium—not psychoactive IV ibogaine. Ibogaine is not approved for any indication. Anyone promising a trauma outcome is going beyond what the evidence shows.
+
+### Does having PTSD disqualify me from IV ibogaine?
+Not automatically. A physician reviews your trauma history, current symptoms, medications, substance use and heart tests together. Acute crisis, unstable psychiatric illness, or cardiac findings that raise QTc risk can lead to a no, or to stabilization first.
+
+### Should I stop my SSRI or PTSD medicine before applying?
+No. Do not stop or change any prescribed medicine on your own. Medication changes happen only under medical supervision, and a physician decides what is appropriate for you.
+
+### Is veteran open-label research the same as IV ibogaine for PTSD?
+No. Widely discussed open-label veteran studies used oral ibogaine, often with IV magnesium as support. That is not the same as psychoactive IV ibogaine infusion, and open-label data are not controlled trials.
 
 ## Medical disclaimer
 
