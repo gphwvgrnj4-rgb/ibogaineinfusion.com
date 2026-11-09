@@ -157,7 +157,7 @@ export default function PtsdPage() {
           </p>
         </Container>
       </section>
-      <CTASection title="Confidential PTSD-related application" />
+      <CTASection title="Join the waiting list" body="Clinic not open yet. Leave your email for notice when screening opens. No outcome promises." source="ptsd-cta" />
     </>
   );
 }

@@ -159,7 +159,7 @@ export default function AddictionPage() {
           </p>
         </Container>
       </section>
-      <CTASection title="Apply for addiction-focused screening" />
+      <CTASection title="Join the waiting list" body="Clinic not open yet. Leave your email for notice when screening opens. No outcome promises." source="addiction-cta" />
     </>
   );
 }

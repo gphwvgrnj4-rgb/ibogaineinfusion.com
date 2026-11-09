@@ -1,5 +1,10 @@
 "use client";
 
+/**
+ * ARCHIVED (recoverable): quick apply + optional detailed ApplicationForm step.
+ * Not mounted while the clinic is not open — live /apply uses WaitlistForm.
+ */
+
 import { FormEvent, useEffect, useState } from "react";
 import { ApplicationForm, type ApplicationPrefill } from "./ApplicationForm";
 

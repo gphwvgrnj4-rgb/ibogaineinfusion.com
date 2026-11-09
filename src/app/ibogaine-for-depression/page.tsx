@@ -274,7 +274,7 @@ export default function DepressionPage() {
           </p>
         </Container>
       </section>
-      <CTASection title="Ask about mood-related screening questions" />
+      <CTASection title="Join the waiting list" body="Clinic not open yet. Leave your email for notice when screening opens. No outcome promises." source="depression-cta" />
     </>
   );
 }

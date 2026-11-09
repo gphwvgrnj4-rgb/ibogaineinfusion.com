@@ -9,7 +9,7 @@ import { Markdown } from "@/components/Markdown";
 import { blogPosts, getPost, relatedPosts } from "@/lib/blog";
 import { getEnhancement } from "@/lib/blog-enhancements";
 import { blogExpansions } from "@/lib/blog-expansions";
-import { InterestForm } from "@/components/InterestForm";
+import { WaitlistForm } from "@/components/WaitlistForm";
 import { breadcrumbList, faqPage } from "@/lib/schema";
 import { siteConfig } from "@/lib/site";
 
@@ -76,22 +76,26 @@ function splitForMidCta(content: string): [string, string] {
 function MidArticleCta({ slug }: { slug: string }) {
   return (
     <aside
-      aria-label="Screening application"
+      aria-label="Join the waiting list"
       data-cta="blog-mid"
       className="my-12 border-y border-[var(--line)] py-8 text-center"
     >
       <div className="mx-auto h-px w-10 bg-accent/80" aria-hidden="true" />
       <p className="mt-5 font-serif text-2xl tracking-tight text-forest">Considering IV ibogaine therapy?</p>
       <p className="mx-auto mt-3 max-w-lg text-sm leading-relaxed text-muted">
-        We are a clinic dedicated exclusively to IV ibogaine therapy. Start with a confidential screening application. Our
-        medical team reviews every application before anything is scheduled.
+        The clinic is not open yet. Leave your email and we&apos;ll notify you when physician-screened IV
+        ibogaine intake opens. Joining is not admission.
       </p>
-      <Link
-        href={`/apply?from=${slug}&cta=mid`}
-        className="mt-5 inline-flex min-h-11 items-center justify-center rounded-full bg-ink px-6 text-[0.7rem] font-medium uppercase tracking-[0.18em] text-cream hover:bg-forest"
-      >
-        Start your application
-      </Link>
+      <div className="mx-auto mt-6 max-w-xl text-left">
+        <WaitlistForm source={`blog-mid:${slug}`} variant="light" idSuffix={`mid-${slug}`} />
+      </div>
+      <p className="mx-auto mt-4 max-w-lg text-xs text-muted">
+        Read{" "}
+        <Link href="/safety-and-screening" className="font-medium text-forest-mid underline underline-offset-2">
+          safety &amp; screening
+        </Link>{" "}
+        while you wait.
+      </p>
     </aside>
   );
 }
@@ -184,7 +188,7 @@ export default async function BlogPostPage({ params }: Props) {
               </Link>
               {" · "}
               <Link href="/apply" className="font-medium text-forest-mid hover:underline">
-                Apply
+                Waiting list
               </Link>
             </p>
           ) : (
@@ -194,7 +198,7 @@ export default async function BlogPostPage({ params }: Props) {
               </Link>
               {" · "}
               <Link href="/apply" className="font-medium text-forest-mid hover:underline">
-                Apply
+                Waiting list
               </Link>
             </p>
           )}
@@ -251,37 +255,30 @@ export default async function BlogPostPage({ params }: Props) {
           ) : null}
           <aside
             aria-labelledby="post-apply"
+            data-cta="blog-end"
             className="relative mt-12 overflow-hidden rounded-2xl bg-forest-deep px-6 py-10 text-center text-cream sm:px-10"
           >
             <div className="mx-auto h-px w-16 bg-accent/80" aria-hidden="true" />
-            <p className="section-label mt-6 text-accent">Next step</p>
+            <p className="section-label mt-6 text-accent">Waiting list</p>
             <h2 id="post-apply" className="mt-4 font-serif text-3xl tracking-tight sm:text-4xl">
-              Considering IV ibogaine therapy?
+              Get notified when we open
             </h2>
             <p className="mx-auto mt-4 max-w-lg leading-relaxed text-cream/70">
-              A clinic dedicated exclusively to IV ibogaine therapy. Start with a confidential screening application. Our medical team
-              reviews every application before anything is scheduled.
-            </p>
-            <Link
-              href={`/apply?from=${post.slug}&cta=end`}
-              data-cta="blog-end"
-              className="mt-7 inline-flex min-h-12 items-center rounded-full bg-cream px-7 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-ink hover:bg-white"
-            >
-              Start your application
-            </Link>
-            <p className="mx-auto mt-8 max-w-lg text-sm leading-relaxed text-cream/60">
-              Not ready yet? Join the waitlist with just your name, email and WhatsApp. Intake opens in small, physician-screened cohorts. We reply confidentially —
-              screening first, no obligation, no outcome promises.{" "}
-              <Link href="/iv-vs-oral" className="text-accent underline-offset-4 hover:underline">Why IV, not oral?</Link>
+              The clinic is not open yet. Leave your email and we&apos;ll notify you when physician-screened
+              IV ibogaine intake opens. Joining is not admission and not a promise of outcome.{" "}
+              <Link href="/iv-vs-oral" className="text-accent underline-offset-4 hover:underline">
+                Why IV, not oral?
+              </Link>
             </p>
             <div className="mx-auto mt-8 max-w-xl text-left">
-              <InterestForm source={`blog:${post.slug}`} />
+              <WaitlistForm source={`blog-end:${post.slug}`} variant="dark" idSuffix={`end-${post.slug}`} />
             </div>
             <p className="mt-6 text-sm text-cream/60">
-              Prefer to talk first?{" "}
-              <Link href={`/apply?intent=call&from=${post.slug}`} className="text-accent underline-offset-4 hover:underline">
-                Free confidential call
+              Meanwhile, read{" "}
+              <Link href="/safety-and-screening" className="text-accent underline-offset-4 hover:underline">
+                safety &amp; screening
               </Link>
+              .
             </p>
           </aside>
         </Container>

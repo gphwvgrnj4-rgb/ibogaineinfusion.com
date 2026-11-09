@@ -3,7 +3,7 @@ import type { FaqItem } from "@/lib/schema";
 /**
  * Structured on-page additions for the highest-intent blog posts:
  * a short visible FAQ (also emitted as FAQPage JSON-LD), related internal
- * links, and a screening-first /apply CTA. Rendered by app/blog/[slug]/page.tsx.
+ * links, plus sitewide waiting-list CTAs on the blog template. Rendered by app/blog/[slug]/page.tsx.
  *
  * Copy rules: factual and cautious; no outcome guarantees; no regulatory-status
  * claims beyond the sitewide disclaimers; no images.
@@ -14,6 +14,33 @@ export type BlogEnhancement = {
 };
 
 export const blogEnhancements: Record<string, BlogEnhancement> = {
+  "ibogaine-ecg-checklist": {
+    faqs: [
+      {
+        q: "Why is an ECG required before ibogaine?",
+        a: "Ibogaine can prolong the QTc interval. A baseline ECG lets a physician see heart-rhythm risk before any dosing conversation.",
+      },
+      {
+        q: "Is a single ECG enough?",
+        a: "It is a starting point. Programs may repeat ECGs, check electrolytes, and keep continuous telemetry during observation.",
+      },
+      {
+        q: "What else belongs with cardiac screening?",
+        a: "A full medication and supplement list, personal and family cardiac history, and labs such as potassium and magnesium when indicated.",
+      },
+      {
+        q: "Does a normal ECG guarantee safety?",
+        a: "No. Screening lowers avoidable risk; it does not eliminate cardiac risk or promise outcomes.",
+      },
+    ],
+    related: [
+      { href: "/safety-and-screening", label: "Safety and screening overview" },
+      { href: "/blog/preparing-for-ibogaine-screening", label: "Preparing for screening" },
+      { href: "/blog/how-to-choose-an-ibogaine-clinic", label: "How to choose an ibogaine clinic" },
+      { href: "/blog/ibogaine-program-duration", label: "How long a program lasts" },
+      { href: "/blog/is-ibogaine-safe-screening-cardiac-risk", label: "Cardiac screening and safety" },
+    ],
+  },
   "cost-of-ibogaine-treatment": {
     faqs: [
       {
@@ -168,9 +195,9 @@ export const blogEnhancements: Record<string, BlogEnhancement> = {
     related: [
       { href: "/safety-and-screening", label: "Safety and screening overview" },
       { href: "/blog/ibogaine-ecg-checklist", label: "Pre-infusion ECG checklist" },
+      { href: "/blog/how-to-choose-an-ibogaine-clinic", label: "How to choose an ibogaine clinic" },
+      { href: "/blog/ibogaine-program-duration", label: "How long a program lasts" },
       { href: "/blog/ibogaine-informed-consent-questions", label: "Questions to ask before you consent" },
-      { href: "/blog/what-to-expect-iv-ibogaine-session", label: "What to expect from a session" },
-      { href: "/faq", label: "Frequently asked questions" },
     ],
   },
   "how-to-choose-an-ibogaine-clinic": {
@@ -193,11 +220,11 @@ export const blogEnhancements: Record<string, BlogEnhancement> = {
       },
     ],
     related: [
-      { href: "/blog/ibogaine-informed-consent-questions", label: "Questions to ask before you consent" },
-      { href: "/blog/how-to-read-ibogaine-clinic-website", label: "How to read a clinic website" },
-      { href: "/blog/cheap-ibogaine-clinic-red-flags", label: "Cheap clinic red flags" },
-      { href: "/blog/ibogaine-success-rate-claims", label: "Why success-rate claims mislead" },
       { href: "/safety-and-screening", label: "Safety and screening overview" },
+      { href: "/blog/preparing-for-ibogaine-screening", label: "Preparing for screening" },
+      { href: "/blog/ibogaine-ecg-checklist", label: "Pre-infusion ECG checklist" },
+      { href: "/blog/ibogaine-program-duration", label: "How long a program lasts" },
+      { href: "/blog/cheap-ibogaine-clinic-red-flags", label: "Cheap clinic red flags" },
     ],
   },
   "ibogaine-vs-ketamine-for-addiction": {
@@ -301,11 +328,11 @@ export const blogEnhancements: Record<string, BlogEnhancement> = {
       },
     ],
     related: [
-      { href: "/how-it-works", label: "How the journey works" },
+      { href: "/safety-and-screening", label: "Safety and screening overview" },
+      { href: "/blog/how-to-choose-an-ibogaine-clinic", label: "How to choose an ibogaine clinic" },
+      { href: "/blog/preparing-for-ibogaine-screening", label: "Preparing for screening" },
+      { href: "/blog/ibogaine-ecg-checklist", label: "Pre-infusion ECG checklist" },
       { href: "/blog/what-to-expect-iv-ibogaine-session", label: "What to expect from a session" },
-      { href: "/blog/ibogaine-integration-therapy-explained", label: "Integration therapy explained" },
-      { href: "/blog/flying-home-after-ibogaine", label: "Travelling home after treatment" },
-      { href: "/blog/cost-of-ibogaine-treatment", label: "IV ibogaine infusion cost" },
     ],
   },
 };

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "/privacy" },
   title: "Privacy Policy",
   description:
-    "Privacy policy for Ibogaine Infusion: application form data (contact and health/substance answers), screening purpose, retention, clinical teams and contracted providers, and international transfer.",
+    "Privacy policy for Ibogaine Infusion: waiting-list email capture, optional archived application fields, screening purpose, retention, clinical teams and contracted providers, and international transfer.",
 };
 
 export default function PrivacyPage() {
@@ -15,20 +15,31 @@ export default function PrivacyPage() {
       <Container className="prose-clinical max-w-3xl">
         <h1 className="font-serif text-4xl font-medium text-forest">Privacy Policy</h1>
         <p className="text-sm text-ink/60">
-          Last updated: September 6, 2026 · Interim policy — counsel review recommended
+          Last updated: November 9, 2026 · Interim policy — counsel review recommended
         </p>
 
         <h2>1. Overview</h2>
         <p>
           This Privacy Policy describes how ibogaineinfusion.com (the “Site”) handles information
-          when you browse the Site or submit a confidential waitlist form / multi-step application. The
+          when you browse the Site or submit the waiting-list email form (or, if restored later, a multi-step application). The
           Site is the website of a clinic dedicated exclusively to IV ibogaine therapy; its content is educational. <strong>It does not provide medical advice</strong>,
           diagnosis, or treatment, and submitting a form does not create a physician–patient
           relationship or guarantee eligibility.
         </p>
 
-        <h2>2. Data we collect on the application form</h2>
-        <p>When you use the confidential application, we may collect:</p>
+        <h2>2. Data we collect on forms</h2>
+        <p>
+          <strong>Waiting list (current live form):</strong> we collect your{" "}
+          <strong>email address</strong>, a submission tag identifying the request as a waitlist
+          signup, optional attribution/source fields (for example which page or campaign you came
+          from), and technical data such as IP address, user-agent, and basic server logs for
+          security and operations. We use the email to notify you when intake opens and for related
+          confidential follow-up.
+        </p>
+        <p>
+          <strong>Archived multi-step application (not currently mounted):</strong> if that form is
+          restored later, it may collect:
+        </p>
         <ul>
           <li>
             <strong>Contact details</strong> — name, email, phone, preferred contact method, timezone
@@ -57,11 +68,6 @@ export default function PrivacyPage() {
             accuracy attestation, and acknowledgment of screening requirements and cardiac-risk framing
           </li>
         </ul>
-        <p>
-          A thinner legacy inquiry (if used) may collect name, email, phone, message, and consent
-          only. Technical data such as IP address, user-agent, and basic server logs may be
-          processed for security and operations.
-        </p>
 
         <h2>3. Purpose of processing</h2>
         <p>We use this information to:</p>

@@ -1,5 +1,11 @@
 "use client";
 
+/**
+ * ARCHIVED (recoverable): full multi-step confidential application.
+ * Not mounted while the clinic is not open — live /apply uses WaitlistForm.
+ * Restored from git history / this file if intake opens and a full apply is needed again.
+ */
+
 import {
   FormEvent,
   useMemo,

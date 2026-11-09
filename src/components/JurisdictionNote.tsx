@@ -4,7 +4,7 @@ const blurbs = {
   home: (
     <>
       Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine
-      therapy, with waitlist intakes at two locations:{" "}
+      therapy, with planned waitlist intakes (clinic not open yet) at two locations:{" "}
       <strong className="font-semibold text-ink">Mexico and Gabon</strong>{" "}
       (not an approved U.S. clinic treatment). Ibogaine remains{" "}
       <strong className="font-semibold text-ink">Schedule I</strong> in the United States and is{" "}
@@ -16,7 +16,7 @@ const blurbs = {
   ),
   safety: (
     <>
-      Our physician-supervised IV ibogaine infusions take place at our{" "}
+      When open, physician-supervised IV ibogaine infusions are planned at our{" "}
       <strong className="font-semibold text-ink">Mexico and Gabon intake locations</strong>, and
       are not an approved U.S. treatment. Traveling for care does{" "}
       <strong className="font-semibold text-ink">not</strong> reduce QTc / arrhythmia risk and does{" "}
@@ -29,22 +29,22 @@ const blurbs = {
   ),
   apply: (
     <>
-      Submitting this form requests a{" "}
-      <strong className="font-semibold text-ink">confidential screening conversation</strong>{" "}
-      about physician-supervised IV ibogaine infusion at our clinic. Waitlist intakes are open for{" "}
-      <strong className="font-semibold text-ink">Mexico and Gabon</strong>. This is{" "}
+      This form adds your email to a{" "}
+      <strong className="font-semibold text-ink">waiting list</strong> for physician-supervised IV
+      ibogaine infusion. The clinic is <strong className="font-semibold text-ink">not open yet</strong>.
+      Planned intake locations are{" "}
+      <strong className="font-semibold text-ink">Mexico and Gabon</strong>. Joining is{" "}
       <strong className="font-semibold text-ink">not</strong> an approved U.S. clinic pathway,{" "}
       <strong className="font-semibold text-ink">not</strong> automatic admission, and{" "}
       <strong className="font-semibold text-ink">not</strong> a promise of legality, travel
       clearance, or outcome. Ibogaine is <strong className="font-semibold text-ink">Schedule I</strong>{" "}
-      in the United States. Screening and cardiac monitoring remain mandatory before any treatment
-      discussion.
+      in the United States. Screening and cardiac monitoring remain mandatory when intake opens.
     </>
   ),
   generic: (
     <>
       Ibogaine Infusion is a clinic dedicated exclusively to physician-supervised IV ibogaine
-      therapy, with intakes in{" "}
+      therapy, with planned intakes (not open yet) in{" "}
       <strong className="font-semibold text-ink">Mexico and Gabon</strong> — not
       an approved U.S. clinic treatment. Ibogaine is Schedule I in the U.S. and not approved for any
       indication. Availability abroad is not a guarantee of suitability, legality, or outcome.
@@ -97,7 +97,7 @@ export function JurisdictionNote({
             href="/apply"
             className="font-medium text-forest-mid underline-offset-4 hover:underline"
           >
-            Start confidential application
+            Join waiting list
           </Link>
         </p>
       </aside>
@@ -112,7 +112,7 @@ export function JurisdictionNote({
           href="/apply"
           className="shrink-0 text-[0.7rem] font-medium uppercase tracking-[0.16em] text-forest underline-offset-4 hover:underline"
         >
-          Apply →
+          Waiting list →
         </Link>
       </div>
     </div>

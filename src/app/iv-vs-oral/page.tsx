@@ -37,13 +37,13 @@ export default function IvVsOralPage() {
       <section className="bg-forest-deep py-24 text-cream" id="waitlist">
         <Container className="max-w-2xl">
           <div className="divider-gold" />
-          <p className="section-label mt-8 text-accent">Request early access</p>
-          <h2 className="mt-4 font-serif text-4xl">Join the waitlist</h2>
+          <p className="section-label mt-8 text-accent">Waiting list</p>
+          <h2 className="mt-4 font-serif text-4xl">Join the waiting list</h2>
           <p className="mt-4 text-cream/70">
-            Intake opens in small, physician-screened cohorts. Places are limited because every infusion has
-            one-to-one cardiac monitoring. Waitlist members get first access to screening and the intake date.
+            The clinic is not open yet. Leave your email and we will notify you when physician-screened
+            intake opens. Joining is not admission.
           </p>
-          <p className="mt-4 font-serif text-xl text-accent" data-locations>Now accepting waitlist intakes for two locations: Mexico and Gabon.</p>
+          <p className="mt-4 font-serif text-xl text-accent" data-locations>Planned locations: Mexico and Gabon.</p>
           <div className="mt-8"><InterestForm source="iv-vs-oral" /></div>
         </Container>
       </section>

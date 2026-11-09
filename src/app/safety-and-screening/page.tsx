@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Container } from "@/components/Container";
 import { CTASection } from "@/components/CTASection";
+import { WaitlistForm } from "@/components/WaitlistForm";
 import { Disclaimer } from "@/components/Disclaimer";
 import { JurisdictionNote } from "@/components/JurisdictionNote";
 import { JsonLd } from "@/components/JsonLd";
@@ -149,12 +150,41 @@ export default function SafetyPage() {
               <Link href="/blog/how-to-choose-an-ibogaine-clinic">How to choose an ibogaine clinic</Link>
             </li>
             <li>
-              <Link href="/faq">FAQ</Link> · <Link href="/apply">Apply / screening consult</Link>
+              <Link href="/blog/ibogaine-program-duration">How long a program lasts</Link>
+            </li>
+            <li>
+              <Link href="/blog/preparing-for-ibogaine-screening">Preparing for ibogaine screening</Link>
+            </li>
+            <li>
+              <Link href="/blog/ibogaine-ecg-checklist">Pre-infusion ECG checklist</Link>
+            </li>
+            <li>
+              <Link href="/faq">FAQ</Link> · <Link href="/apply">Waiting list</Link>
             </li>
           </ul>
+
+          <aside
+            aria-label="Join the waiting list"
+            className="mt-14 rounded-[1.5rem] border border-[var(--line)] bg-paper p-6 sm:p-8"
+            data-cta="safety-waitlist"
+          >
+            <p className="text-xs font-semibold uppercase tracking-widest text-accent">Waiting list</p>
+            <h2 className="mt-3 font-serif text-2xl text-forest">Clinic not open yet</h2>
+            <p className="mt-3 text-sm leading-relaxed text-muted">
+              Leave your email and we will notify you when physician-screened IV ibogaine intake opens.
+              Joining is not admission and not medical advice.
+            </p>
+            <div className="mt-5">
+              <WaitlistForm source="safety-and-screening" variant="light" />
+            </div>
+          </aside>
         </Container>
       </section>
-      <CTASection title="Request a physician screening conversation" />
+      <CTASection
+        title="Join the waiting list"
+        body="The clinic is not open yet. Leave your email for notice when screening and intake open."
+        source="safety-cta"
+      />
     </>
   );
 }

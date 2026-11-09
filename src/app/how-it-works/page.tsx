@@ -210,7 +210,7 @@ export default function HowItWorksPage() {
         </Container>
       </section>
 
-      <CTASection title="Request a private consultation" />
+      <CTASection title="Join the waiting list" body="Clinic not open yet. Leave your email for notice when intake opens." source="how-it-works-cta" />
     </>
   );
 }

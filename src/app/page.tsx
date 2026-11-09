@@ -44,7 +44,7 @@ const homeFaqs = [
   },
   {
     q: "How do I start?",
-    a: "Read safety and how-it-works education, then submit a confidential application at /apply.",
+    a: "Read safety and how-it-works education, then join the waiting list at /apply with your email. The clinic is not open yet; we will email you when intake opens.",
   },
 ];
 
@@ -78,8 +78,8 @@ const funnel = [
     href: "/what-is-ibogaine-infusion",
   },
   {
-    title: "Apply & align",
-    body: "Submit a confidential multi-step application. We review readiness signals and schedule a discovery conversation.",
+    title: "Join the waiting list",
+    body: "The clinic is not open yet. Leave your email and we will notify you when physician-screened intake opens.",
     href: "/apply",
   },
   {
@@ -145,14 +145,14 @@ export default function HomePage() {
               monitoring, structured integration afterward.
             </p>
             <div className="mt-10 max-w-2xl" id="register-interest">
-              <p className="mb-3 text-[0.72rem] font-medium uppercase tracking-[0.2em] text-accent">Join the waitlist · Early access</p>
-              <p className="mb-4 text-sm text-cream/80" data-locations>Now accepting waitlist intakes for two locations: Mexico and Gabon.</p>
+              <p className="mb-3 text-[0.72rem] font-medium uppercase tracking-[0.2em] text-accent">Join the waiting list</p>
+              <p className="mb-4 text-sm text-cream/80" data-locations>Clinic not open yet. Planned intakes: Mexico and Gabon — leave your email to be notified.</p>
               <InterestForm source="home-hero" />
               <p className="mt-4 text-sm text-cream/60">
-                Ready for more?{" "}
-                <Link href="/apply" className="text-accent underline-offset-4 hover:underline">Full application</Link>
+                Prefer more context?{" "}
+                <Link href="/safety-and-screening" className="text-accent underline-offset-4 hover:underline">Safety &amp; screening</Link>
                 {" · "}
-                <Link href="/apply?intent=call" className="text-accent underline-offset-4 hover:underline">Free confidential call</Link>
+                <Link href="/what-is-ibogaine-infusion" className="text-accent underline-offset-4 hover:underline">Approach</Link>
               </p>
             </div>
           </div>
@@ -169,14 +169,14 @@ export default function HomePage() {
         <Container className="grid gap-14 lg:grid-cols-[1fr_1.1fr] lg:items-start">
           <Reveal>
             <div className="divider-gold" />
-            <p className="section-label mt-8 text-accent">Request early access</p>
-            <h2 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl">Intake opens in small, physician-screened cohorts</h2>
-            <p className="mt-5 font-serif text-xl text-accent" data-locations>Now accepting waitlist intakes for two locations: Mexico and Gabon.</p>
+            <p className="section-label mt-8 text-accent">Waiting list</p>
+            <h2 className="mt-5 font-serif text-4xl tracking-tight sm:text-5xl">Get notified when intake opens</h2>
+            <p className="mt-5 font-serif text-xl text-accent" data-locations>Clinic not open yet. Planned locations: Mexico and Gabon.</p>
             <div className="mt-8 space-y-0 border-t border-accent/30">
               {[
                 ["Small cohorts", "Every infusion runs with one-to-one continuous cardiac monitoring, so places in each cohort are limited."],
                 ["Screening first", "A physician reviews your history and ECG before any place is offered. Joining is not admission."],
-                ["First access", "Waitlist members are contacted first for screening and the intake date, on WhatsApp."],
+                ["First notice", "Waiting-list emails are notified first when physician-screened intake opens."],
               ].map(([t, b]) => (
                 <div key={t} className="grid gap-2 border-b border-accent/30 py-5 sm:grid-cols-[10rem_1fr]">
                   <p className="font-serif text-xl text-accent">{t}</p>

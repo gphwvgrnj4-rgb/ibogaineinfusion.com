@@ -23,18 +23,18 @@ export function Footer() {
             Screening first. Conversation after.
           </h2>
           <p className="mx-auto mt-6 max-w-xl text-base leading-relaxed text-cream/60 sm:text-lg">
-            Begin with a confidential application. Waitlist intakes in Mexico and Gabon —
-            not an approved U.S. clinic pathway.
+            The clinic is not open yet. Leave your email to join the waiting list for planned
+            intakes in Mexico and Gabon — not an approved U.S. clinic pathway.
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">
             <Link
               href="/apply"
               className="inline-flex min-h-12 items-center rounded-full bg-cream px-7 text-[0.72rem] font-medium uppercase tracking-[0.18em] text-ink hover:bg-white"
             >
-              Apply now
+              Join waitlist
             </Link>
-            <Link href="/apply?intent=call" className="btn-ghost !min-h-12">
-              Free confidential call
+            <Link href="/safety-and-screening" className="btn-ghost !min-h-12">
+              Safety &amp; screening
             </Link>
           </div>
         </div>
@@ -90,7 +90,7 @@ export function Footer() {
               </li>
               <li>
                 <Link href="/apply" className="hover:text-cream">
-                  Apply Now
+                  Waiting list
                 </Link>
               </li>
             </ul>
@@ -124,7 +124,7 @@ export function Footer() {
       <div className="relative border-t border-cream/10">
         <Container className="flex flex-col gap-2 py-6 text-[0.68rem] uppercase tracking-[0.16em] text-cream/35 sm:flex-row sm:justify-between">
           <p>© {new Date().getFullYear()} Ibogaine Infusion</p>
-          <p data-locations>Now accepting waitlist intakes for two locations: Mexico and Gabon. Physician screening first.</p>
+          <p data-locations>Clinic not open yet. Planned waitlist intakes: Mexico and Gabon. Physician screening first when open.</p>
         </Container>
       </div>
     </footer>
